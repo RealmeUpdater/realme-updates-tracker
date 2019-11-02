@@ -1,6 +1,7 @@
 #!/usr/bin/env python3.7
 """Realme Updates Tracker"""
 from datetime import datetime
+from glob import glob
 from os import environ, system, rename
 
 import yaml
@@ -116,6 +117,20 @@ def merge_yaml():
         yaml.dump(yaml_data, output, allow_unicode=True)
 
 
+def merge_archive():
+    """
+    merge all archive yaml files into one file
+    """
+    yaml_files = [x for x in sorted(glob(f'archive/*.yml'))
+                  if not x.endswith('archive.yml')]
+    yaml_data = []
+    for file in yaml_files:
+        with open(file, "r") as yaml_file:
+            yaml_data.append(yaml.load(yaml_file, Loader=yaml.FullLoader))
+    with open('archive/archive.yml', "w") as output:
+        yaml.dump(yaml_data, output, allow_unicode=True)
+
+
 def diff_yaml(filename: str) -> list:
     """
     Compare old and new yaml files to get the new updates
@@ -197,6 +212,24 @@ def tg_post(message: str) -> int:
     return telegram_status
 
 
+def archive(update: dict):
+    """Append new update to the archive"""
+    link = update['download']
+    version = update['version']
+    codename = link.split('/')[-1].split('_')[0]
+    try:
+        with open(f'archive/{codename}.yml', 'r') as yaml_file:
+            data = yaml.load(yaml_file, Loader=yaml.FullLoader)
+            data[codename].update({version: link})
+            data.update({codename: data[codename]})
+            with open(f'archive/{codename}.yml', 'w') as output:
+                yaml.dump(data, output, allow_unicode=True)
+    except FileNotFoundError:
+        data = {codename: {version: link}}
+        with open(f'archive/{codename}.yml', 'w') as output:
+            yaml.dump(data, output, allow_unicode=True)
+
+
 def git_commit_push():
     """
     git add - git commit - git push
@@ -220,6 +253,9 @@ def main():
         downloads_html = get_downloads_html(url)
         updates = parse_html(downloads_html)
         write_yaml(updates, f"{region}/{region}.yml")
+    merge_yaml()
+    for url in URLS:
+        region = set_region(url)
         changes = diff_yaml(region)
         if changes:
             for update in changes:
@@ -230,9 +266,10 @@ def main():
                 status = tg_post(message)
                 if status == 200:
                     print(f"{update['device']}: Telegram Message sent successfully")
+                archive(update)
         else:
             print(f"{region}: No new updates.")
-    merge_yaml()
+    merge_archive()
     git_commit_push()
 
 

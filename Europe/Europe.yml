@@ -1,0 +1,27 @@
+- codename: RMX1993
+  date: 28/10/2019
+  device: realme X2
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0140_all_J6GIw7RXTvu6.ozip
+  md5: d9a48ecf378309c5945058f7a5ded763
+  region: Europe
+  size: 2.55GB
+  system: ColorOS 6.1
+  version: RMX1993EX_11.A.14
+- codename: RMX1911
+  date: 16/10/2019
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0150_all_jzKjYWTb3tvE.ozip
+  md5: E9FF1FD7815B6402D70F1733EF6F4871
+  region: Europe
+  size: 2.53G
+  system: ColorOS 6.0.1
+  version: RMX1911_11_A.15
+- codename: RMX1851
+  date: 31/10/2019
+  device: realme 3 Pro
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0200_all_32zXRdOSuPB1.ozip
+  md5: 92D5D6E8EBFE4651C01C16DA56EC5F0A
+  region: Europe
+  size: 2.74GB
+  system: ColorOS 6.0
+  version: RMX1851EX_11.A.20

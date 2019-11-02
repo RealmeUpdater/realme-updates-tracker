@@ -14,7 +14,8 @@ GIT_OAUTH_TOKEN = environ['GIT_TOKEN']
 
 # Tracked downloads pages
 URLS = ["https://www.realme.com/in/support/software-update",
-        "https://www.realme.com/cn/support/software-update"]
+        "https://www.realme.com/cn/support/software-update",
+        "https://www.realme.com/eu/support/software-update"]
 
 
 def get_downloads_html(url: str) -> list:
@@ -34,7 +35,7 @@ def parse_html(html: list) -> list:
     :param html: list of devices downloads HTML
     :return: a list of latest devices' updates
     """
-    info = []
+    updates = []
     for item in html:
         title_tag = item.select_one("h3.software-mobile-title")
         title = title_tag.text.strip()
@@ -57,7 +58,7 @@ def parse_html(html: list) -> list:
             md5 = "Unknown"
         download = item.select_one("div.software-download").select_one(
             "a.software-button")["data-href"]
-        info.append({
+        update = {
             "device": title,
             "codename": codename,
             "region": region,
@@ -67,8 +68,11 @@ def parse_html(html: list) -> list:
             "size": size,
             "md5": md5,
             "download": download
-        })
-    return info
+        }
+        if download:
+            write_yaml(update, f"{region}/{codename}.yml")
+        updates.append(update)
+    return updates
 
 
 def set_region(url: str) -> str:
@@ -79,19 +83,37 @@ def set_region(url: str) -> str:
     """
     if "in" in url:
         return "India"
+    elif "eu" in url:
+        return "Europe"
     else:
         return "China"
 
 
-def write_yaml(downloads, filename):
+def write_yaml(downloads, filename: str):
     """
     Write updates list to yaml file
     :param downloads: list of dictionaries of updates
     :param filename: output file name
     :return:
     """
-    with open(f"{filename}.yml", 'w') as out:
-        yaml.dump(downloads, out, allow_unicode=True, sort_keys=False)
+    with open(f"{filename}", 'w') as out:
+        yaml.dump(downloads, out, allow_unicode=True)
+
+
+def merge_yaml():
+    """
+    merge all regions yaml files into one file
+    """
+    yaml_files = [set_region(x) for x in URLS]
+    yaml_data = []
+    for file in yaml_files:
+        with open(f"{file}/{file}.yml", "r") as yaml_file:
+            updates = yaml.load(yaml_file, Loader=yaml.FullLoader)
+            for update in updates:
+                if update["md5"] not in str(yaml_data):
+                    yaml_data.append(update)
+    with open(f'latest.yml', "w") as output:
+        yaml.dump(yaml_data, output, allow_unicode=True)
 
 
 def diff_yaml(filename: str) -> list:
@@ -101,8 +123,8 @@ def diff_yaml(filename: str) -> list:
     :return: list of dictionaries of new updates
     """
     try:
-        with open(f'{filename}.yml', 'r') as new, \
-                open(f'old_{filename}.yml', 'r') as old_data:
+        with open(f'{filename}/{filename}.yml', 'r') as new, \
+                open(f'{filename}/old_{filename}', 'r') as old_data:
             latest = yaml.load(new, Loader=yaml.FullLoader)
             old = yaml.load(old_data, Loader=yaml.FullLoader)
             first_run = False
@@ -194,21 +216,23 @@ def main():
     """
     for url in URLS:
         region = set_region(url)
-        rename(f'{region}.yml', f'old_{region}.yml')
+        rename(f'{region}/{region}.yml', f'{region}/old_{region}')
         downloads_html = get_downloads_html(url)
         updates = parse_html(downloads_html)
-        write_yaml(updates, region)
+        write_yaml(updates, f"{region}/{region}.yml")
         changes = diff_yaml(region)
         if changes:
             for update in changes:
                 if not update["version"]:
                     continue
                 message = generate_message(update)
+                # print(message)
                 status = tg_post(message)
                 if status == 200:
                     print(f"{update['device']}: Telegram Message sent successfully")
         else:
             print(f"{region}: No new updates.")
+    merge_yaml()
     git_commit_push()
 
 

@@ -1,117 +1,117 @@
-- device: realme XT
-  codename: RMX1921
+- codename: RMX1921
+  date: 26/10/2019
+  device: realme XT
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0110_all_6uFXPVghD13u.ozip
+  md5: A4FD17D4106DF6D25754026B9ADB9F99
   region: India
+  size: 2.87GB
   system: Color OS 6.0.1
   version: RMX1921EX_11.A.11
-  date: 26/10/2019
-  size: 2.87GB
-  md5: A4FD17D4106DF6D25754026B9ADB9F99
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0110_all_6uFXPVghD13u.ozip
-- device: realme 5 Pro
-  codename: RMX1971
+- codename: RMX1971
+  date: 24/10/2019
+  device: realme 5 Pro
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0110_all_B1dsEUQ5j5IY.ozip
+  md5: 03D8DF5EA56B46EA15829B09127CBE08
   region: India
+  size: 2.81GB
   system: ColorOS 6.0
   version: RMX1971EX_11_A.11
-  date: 24/10/2019
-  size: 2.81GB
-  md5: 03D8DF5EA56B46EA15829B09127CBE08
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0110_all_B1dsEUQ5j5IY.ozip
-- device: realme 5
-  codename: RMX1911
+- codename: RMX1911
+  date: 16/10/2019
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0150_all_jzKjYWTb3tvE.ozip
+  md5: E9FF1FD7815B6402D70F1733EF6F4871
   region: India
+  size: 2.53GB
   system: ColorOS 6.0.1
   version: RMX1911EX_11_A.15
-  date: 16/10/2019
-  size: 2.53GB
-  md5: E9FF1FD7815B6402D70F1733EF6F4871
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0150_all_jzKjYWTb3tvE.ozip
-- device: realme X
-  codename: RMX1901
+- codename: RMX1901
+  date: 30/10/2019
+  device: realme X
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0090_all_f1WO6spNrKaO.ozip
+  md5: F57785FF45DE8009D978AF7BBE19F155
   region: India
+  size: 2.79G
   system: ColorOS 6.0
   version: RMX1901EX_11_A.09
-  date: 30/10/2019
-  size: 2.79G
-  md5: F57785FF45DE8009D978AF7BBE19F155
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0090_all_f1WO6spNrKaO.ozip
-- device: realme 3i
-  codename: RMX1821
+- codename: RMX1821
+  date: 23/9/2019
+  device: realme 3i
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0220_all_jGdLcUliKAOF.ozip
+  md5: 0e680f6ce2d7ab3c8f6bd0a7aea1c421
   region: India
+  size: 2.02GB
   system: ColorOS 6.0
   version: RMX1821EX_11.A.22
-  date: 23/9/2019
-  size: 2.02GB
-  md5: 0e680f6ce2d7ab3c8f6bd0a7aea1c421
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0220_all_jGdLcUliKAOF.ozip
-- device: realme 3 Pro
-  codename: RMX1851
+- codename: RMX1851
+  date: 31/10/2019
+  device: realme 3 Pro
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0200_all_32zXRdOSuPB1.ozip
+  md5: 92D5D6E8EBFE4651C01C16DA56EC5F0A
   region: India
+  size: 2.74GB
   system: ColorOS 6.0
   version: RMX1851EX_11.A.20
-  date: 31/10/2019
-  size: 2.74GB
-  md5: 92D5D6E8EBFE4651C01C16DA56EC5F0A
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0200_all_32zXRdOSuPB1.ozip
-- device: realme C2
-  codename: RMX1941
+- codename: RMX1941
+  date: 25/10/2019
+  device: realme C2
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0180_all_8J8Oxh6i4vvr.ozip
+  md5: 42aee1c9575ae2850738286cccc34efa
   region: India
+  size: 1.97GB
   system: ColorOS 6.0
   version: RMX1941EX_11.A.18
-  date: 25/10/2019
-  size: 1.97GB
-  md5: 42aee1c9575ae2850738286cccc34efa
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0180_all_8J8Oxh6i4vvr.ozip
-- device: realme 3
-  codename: RMX1821
+- codename: RMX1821
+  date: 23/9/2019
+  device: realme 3
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0220_all_jGdLcUliKAOF.ozip
+  md5: 0e680f6ce2d7ab3c8f6bd0a7aea1c421
   region: India
+  size: 2.02GB
   system: ColorOS 6.0
   version: RMX1821EX_11.A.22
-  date: 23/9/2019
-  size: 2.02GB
-  md5: 0e680f6ce2d7ab3c8f6bd0a7aea1c421
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0220_all_jGdLcUliKAOF.ozip
-- device: realme U1
-  codename: RMX1831
+- codename: RMX1831
+  date: 22/10/2019
+  device: realme U1
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0150_all_GXNXk3tGd3Zv.ozip
+  md5: 8BC10E70AE241495BC872E329756D3DE
   region: India
+  size: 2.05GB
   system: ColorOS 6.0
   version: RMX1831EX_11_C.15
-  date: 22/10/2019
-  size: 2.05GB
-  md5: 8BC10E70AE241495BC872E329756D3DE
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0150_all_GXNXk3tGd3Zv.ozip
-- device: realme C1
-  codename: RMX1805
+- codename: RMX1805
+  date: 10/10/2019
+  device: realme C1
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0610_all_UJ4uxjdEOvf2.ozip
+  md5: 2FD46799067BFBF91BF6BF4DE064DD29
   region: India
+  size: 2.05GB
   system: ColorOS 6.0
   version: RMX1805EX_11.A.61
-  date: 10/10/2019
-  size: 2.05GB
-  md5: 2FD46799067BFBF91BF6BF4DE064DD29
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0610_all_UJ4uxjdEOvf2.ozip
-- device: realme 2 Pro
-  codename: RMX1801
+- codename: RMX1801
+  date: 4/9/2019
+  device: realme 2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0240_all_HRfI3IQiI3cB.ozip
+  md5: CF85F3793299224BA0996597A98EEB4
   region: India
+  size: 2.68GB
   system: ColorOS 6.0
   version: RMX1801EX_11_C.24
-  date: 4/9/2019
-  size: 2.68GB
-  md5: CF85F3793299224BA0996597A98EEB4
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0240_all_HRfI3IQiI3cB.ozip
-- device: realme 2
-  codename: RMX1805
+- codename: RMX1805
+  date: 10/10/2019
+  device: realme 2
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0610_all_UJ4uxjdEOvf2.ozip
+  md5: 2FD46799067BFBF91BF6BF4DE064DD29
   region: India
+  size: 2.05GB
   system: ColorOS 6.0
   version: RMX1805EX_11.A.61
-  date: 10/10/2019
-  size: 2.05GB
-  md5: 2FD46799067BFBF91BF6BF4DE064DD29
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0610_all_UJ4uxjdEOvf2.ozip
-- device: realme 1
-  codename: CPH1861
+- codename: CPH1861
+  date: 22/10/2019
+  device: realme 1
+  download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0450_all_z2Uf9mzfYIaT.ozip
+  md5: 619BA2EAF663DD9C32B9E8586799C9E3
   region: India
+  size: 2.14GB
   system: ColorOS 6.0
   version: CPH1861EX_11_C.45
-  date: 22/10/2019
-  size: 2.14GB
-  md5: 619BA2EAF663DD9C32B9E8586799C9E3
-  download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0450_all_z2Uf9mzfYIaT.ozip

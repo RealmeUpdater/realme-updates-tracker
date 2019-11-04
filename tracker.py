@@ -18,6 +18,16 @@ URLS = ["https://www.realme.com/in/support/software-update",
         "https://www.realme.com/cn/support/software-update",
         "https://www.realme.com/eu/support/software-update"]
 
+DEVICES = {}
+
+
+def update_device(codename: str, device: str):
+    try:
+        if DEVICES[codename] and DEVICES[codename] != device:
+            DEVICES.update({codename: f"{DEVICES[codename]}/{device}"})
+    except KeyError:
+        DEVICES.update({codename: device})
+
 
 def get_downloads_html(url: str) -> list:
     """
@@ -73,6 +83,7 @@ def parse_html(html: list) -> list:
         if download:
             write_yaml(update, f"{region}/{codename}.yml")
         updates.append(update)
+        update_device(codename, title)
     return updates
 
 
@@ -270,6 +281,7 @@ def main():
         else:
             print(f"{region}: No new updates.")
     merge_archive()
+    write_yaml(DEVICES, "devices.yml")
     git_commit_push()
 
 

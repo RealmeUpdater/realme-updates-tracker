@@ -97,15 +97,15 @@
   size: 2.14GB
   system: ColorOS 6.0
   version: CPH1861EX_11_C.45
-- codename: ''
-  date: Unknown
+- codename: RMX1931
+  date: 2019/11/30
   device: realme X2 Pro
-  download: ''
-  md5: Unknown
+  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_0110_all_9ZZ7HAYLkrLP.ozip
+  md5: bd856f383e4abfd06e15cfadabf0a6c4
   region: China
-  size: ''
-  system: ''
-  version: ''
+  size: 2.45GB
+  system: ColorOS 6.1
+  version: RMX1931_11.A.11
 - codename: RMX1991
   date: 2019/10/30
   device: realme X2

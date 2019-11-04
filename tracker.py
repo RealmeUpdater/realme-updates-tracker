@@ -235,10 +235,10 @@ def git_commit_push():
     git add - git commit - git push
     """
     today = str(datetime.today()).split('.')[0]
-    system("git add *.yml && git -c \"user.name=RealmeCI\" -c "
-           "\"user.email=example@example.com\" "
+    system("git add *.yml */*.yml && git -c \"user.name=RealmeCI\" -c "
+           "\"user.email=RealmeCI@example.com\" "
            "commit -m \"sync: {}\" && "" \
-           ""git push -q https://{}@github.com/androidtracks/"
+           ""git push -q https://{}@github.com/androidtrackers/"
            "realme-updates-tracker.git HEAD:master"
            .format(today, GIT_OAUTH_TOKEN))
 

@@ -17,14 +17,14 @@
   system: ColorOS 6.0
   version: RMX1971EX_11_A.11
 - codename: RMX1911
-  date: 16/10/2019
+  date: 11/11/2019
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0150_all_jzKjYWTb3tvE.ozip
-  md5: E9FF1FD7815B6402D70F1733EF6F4871
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0180_all_tGiCF58o1Df9.ozip
+  md5: D64B014AAE94E9E760126B8A95F96AD9
   region: India
-  size: 2.53GB
+  size: 2.54GB
   system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.15
+  version: RMX1911EX_11_A.18
 - codename: RMX1901
   date: 30/10/2019
   device: realme X
@@ -89,14 +89,14 @@
   system: ColorOS 6.0
   version: RMX1805EX_11.A.61
 - codename: RMX1801
-  date: 4/9/2019
+  date: 12/11/2019
   device: realme 2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0240_all_HRfI3IQiI3cB.ozip
-  md5: CF85F3793299224BA0996597A98EEB4
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0250_all_oEarURc4KwNV.ozip
+  md5: 35E25FDE0166O1865BEDC4FA51B10F73
   region: India
-  size: 2.68GB
+  size: 2.72GB
   system: ColorOS 6.0
-  version: RMX1801EX_11_C.24
+  version: RMX1801EX_11_C.25
 - codename: RMX1805
   date: 10/10/2019
   device: realme 2

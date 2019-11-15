@@ -116,14 +116,14 @@
   system: ColorOS 6.1
   version: RMX1991_11_A.11
 - codename: RMX1971
-  date: 2019/10/21
+  date: 2019/11/13
   device: realme Q
-  download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_0090_all_1F4P3l5RtHc3.ozip
-  md5: D675904AD3DF12ACF7B8042195997FF0
+  download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_0100_all_CSvO3xokVQUP.ozip
+  md5: EC67E95C111CDF4BA28DA92D977CD6D4
   region: China
-  size: 2.40GB
+  size: 2.39GB
   system: ColorOS 6.0
-  version: RMX1971_11.A.09
+  version: RMX1971_11.A.10
 - codename: RMX1901
   date: 2019/10/29
   device: realme X

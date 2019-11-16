@@ -60,7 +60,7 @@ def parse_html(html: list) -> list:
         except IndexError:
             version = "Unknown"
         try:
-            date = item.select("div.software-field")[1].text.strip().split(": ")[1]
+            date = item.select("div.software-field")[1].text.strip().split(": ")[1].strip()
         except IndexError:
             date = "Unknown"
         size = item.select("div.software-field")[2].span.text.strip()
@@ -125,8 +125,7 @@ def merge_yaml():
         with open(f"{file}/{file}.yml", "r") as yaml_file:
             updates = yaml.load(yaml_file, Loader=yaml.FullLoader)
             for update in updates:
-                if update["md5"] not in str(yaml_data):
-                    yaml_data.append(update)
+                yaml_data.append(update)
     with open(f'latest.yml', "w") as output:
         yaml.dump(yaml_data, output, allow_unicode=True)
 

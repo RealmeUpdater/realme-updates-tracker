@@ -61,6 +61,15 @@
   size: 1.97GB
   system: ColorOS 6.0
   version: RMX1941EX_11.A.18
+- codename: RMX1821EX
+  date: 12/11/2019
+  device: realme 3
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0240_all_0xuPkDv32XPW.ozip
+  md5: 9cb400ab57bb1b545f0f784e8e9a7213
+  region: India
+  size: 2.04GB
+  system: ColorOS 6.0
+  version: RMX1821EX_11.A.24
 - codename: RMX1831EX
   date: 22/10/2019
   device: realme U1
@@ -88,6 +97,15 @@
   size: 2.72GB
   system: ColorOS 6.0
   version: RMX1801EX_11_C.25
+- codename: RMX1805EX
+  date: 10/10/2019
+  device: realme 2
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0610_all_UJ4uxjdEOvf2.ozip
+  md5: 2FD46799067BFBF91BF6BF4DE064DD29
+  region: India
+  size: 2.05GB
+  system: ColorOS 6.0
+  version: RMX1805EX_11.A.61
 - codename: CPH1861EX
   date: 22/10/2019
   device: realme 1
@@ -160,6 +178,15 @@
   size: 2.53G
   system: ColorOS 6.0.1
   version: RMX1911_11_A.15
+- codename: RMX1851EX
+  date: 31/10/2019
+  device: realme 3 Pro
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0200_all_32zXRdOSuPB1.ozip
+  md5: 92D5D6E8EBFE4651C01C16DA56EC5F0A
+  region: Europe
+  size: 2.74GB
+  system: ColorOS 6.0
+  version: RMX1851EX_11.A.20
 - codename: RMX1921EUEX
   date: 13/11/2019
   device: realme XT
@@ -169,6 +196,24 @@
   size: 2.94GB
   system: ColorOS 6.0
   version: RMX1921EUEX_11_A.05
+- codename: RMX1971EX
+  date: 24/10/2019
+  device: realme 5 Pro
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0110_all_B1dsEUQ5j5IY.ozip
+  md5: 03D8DF5EA56B46EA15829B09127CBE08
+  region: Russia
+  size: 2.81GB
+  system: ColorOS 6.0
+  version: RMX1971EX_11_A.11
+- codename: RMX1851EX
+  date: 31/10/2019
+  device: realme 3 Pro
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0200_all_32zXRdOSuPB1.ozip
+  md5: 92D5D6E8EBFE4651C01C16DA56EC5F0A
+  region: Russia
+  size: 2.74GB
+  system: ColorOS 6.0
+  version: RMX1851EX_11.A.20
 - codename: RMX1821EX
   date: 23/9/2019
   device: realme 3

@@ -16,14 +16,15 @@ GIT_OAUTH_TOKEN = environ['GIT_TOKEN']
 # Tracked downloads pages
 URLS = ["https://www.realme.com/in/support/software-update",
         "https://www.realme.com/cn/support/software-update",
-        "https://www.realme.com/eu/support/software-update"]
+        "https://www.realme.com/eu/support/software-update",
+        "https://www.realme.com/ru/support/software-update"]
 
 DEVICES = {}
 
 
 def update_device(codename: str, device: str):
     try:
-        if DEVICES[codename] and DEVICES[codename] != device:
+        if DEVICES[codename] and device not in DEVICES[codename].split('/'):
             DEVICES.update({codename: f"{DEVICES[codename]}/{device}"})
     except KeyError:
         DEVICES.update({codename: device})
@@ -97,6 +98,8 @@ def set_region(url: str) -> str:
         return "India"
     elif "eu" in url:
         return "Europe"
+    elif "ru" in url:
+        return "Russia"
     else:
         return "China"
 

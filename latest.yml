@@ -31,7 +31,7 @@
   download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0090_all_f1WO6spNrKaO.ozip
   md5: F57785FF45DE8009D978AF7BBE19F155
   region: India
-  size: 2.79G
+  size: 2.79GB
   system: ColorOS 6.0
   version: RMX1901EX_11_A.09
 - codename: RMX1821EX
@@ -175,7 +175,7 @@
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0150_all_jzKjYWTb3tvE.ozip
   md5: E9FF1FD7815B6402D70F1733EF6F4871
   region: Europe
-  size: 2.53G
+  size: 2.53GB
   system: ColorOS 6.0.1
   version: RMX1911_11_A.15
 - codename: RMX1851EX

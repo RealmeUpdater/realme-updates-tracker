@@ -65,7 +65,9 @@ def parse_html(html: list) -> list:
                 date = datetime.strptime(date, "%Y/%m/%d").strftime("%d/%m/%Y")
         except IndexError:
             date = "Unknown"
-        size = item.select("div.software-field")[2].span.text.strip()
+        size = item.select("div.software-field")[2].span.text.strip().replace(' ', '')
+        if size.endswith('G'):
+            size = size.replace('G', 'GB')
         try:
             md5 = item.select("div.software-field")[3].text.strip().split(": ")[1]
         except IndexError:

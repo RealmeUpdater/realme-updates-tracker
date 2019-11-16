@@ -61,6 +61,8 @@ def parse_html(html: list) -> list:
             version = "Unknown"
         try:
             date = item.select("div.software-field")[1].text.strip().split(": ")[1].strip()
+            if len(date.split('/')[0]) == 4:
+                date = datetime.strptime(date, "%Y/%m/%d").strftime("%d/%m/%Y")
         except IndexError:
             date = "Unknown"
         size = item.select("div.software-field")[2].span.text.strip()

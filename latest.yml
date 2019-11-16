@@ -1,4 +1,4 @@
-- codename: RMX1921
+- codename: RMX1921EX
   date: 13/11/2019
   device: realme XT
   download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0120_all_r6LPfUXbD0xP.ozip
@@ -7,7 +7,7 @@
   size: 2.84GB
   system: Color OS 6.0.1
   version: RMX1921EX_11.A.12
-- codename: RMX1971
+- codename: RMX1971EX
   date: 24/10/2019
   device: realme 5 Pro
   download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0110_all_B1dsEUQ5j5IY.ozip
@@ -16,7 +16,7 @@
   size: 2.81GB
   system: ColorOS 6.0
   version: RMX1971EX_11_A.11
-- codename: RMX1911
+- codename: RMX1911EX
   date: 11/11/2019
   device: realme 5
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0180_all_tGiCF58o1Df9.ozip
@@ -25,7 +25,7 @@
   size: 2.54GB
   system: ColorOS 6.0.1
   version: RMX1911EX_11_A.18
-- codename: RMX1901
+- codename: RMX1901EX
   date: 30/10/2019
   device: realme X
   download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0090_all_f1WO6spNrKaO.ozip
@@ -34,7 +34,7 @@
   size: 2.79G
   system: ColorOS 6.0
   version: RMX1901EX_11_A.09
-- codename: RMX1821
+- codename: RMX1821EX
   date: 12/11/2019
   device: realme 3i
   download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0240_all_0xuPkDv32XPW.ozip
@@ -43,7 +43,7 @@
   size: 2.04GB
   system: ColorOS 6.0
   version: RMX1821EX_11.A.24
-- codename: RMX1851
+- codename: RMX1851EX
   date: 31/10/2019
   device: realme 3 Pro
   download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0200_all_32zXRdOSuPB1.ozip
@@ -52,7 +52,7 @@
   size: 2.74GB
   system: ColorOS 6.0
   version: RMX1851EX_11.A.20
-- codename: RMX1941
+- codename: RMX1941EX
   date: 25/10/2019
   device: realme C2
   download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0180_all_8J8Oxh6i4vvr.ozip
@@ -61,7 +61,7 @@
   size: 1.97GB
   system: ColorOS 6.0
   version: RMX1941EX_11.A.18
-- codename: RMX1831
+- codename: RMX1831EX
   date: 22/10/2019
   device: realme U1
   download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0150_all_GXNXk3tGd3Zv.ozip
@@ -70,7 +70,7 @@
   size: 2.05GB
   system: ColorOS 6.0
   version: RMX1831EX_11_C.15
-- codename: RMX1805
+- codename: RMX1805EX
   date: 10/10/2019
   device: realme C1
   download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0610_all_UJ4uxjdEOvf2.ozip
@@ -79,7 +79,7 @@
   size: 2.05GB
   system: ColorOS 6.0
   version: RMX1805EX_11.A.61
-- codename: RMX1801
+- codename: RMX1801EX
   date: 12/11/2019
   device: realme 2 Pro
   download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0250_all_oEarURc4KwNV.ozip
@@ -88,7 +88,7 @@
   size: 2.72GB
   system: ColorOS 6.0
   version: RMX1801EX_11_C.25
-- codename: CPH1861
+- codename: CPH1861EX
   date: 22/10/2019
   device: realme 1
   download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0450_all_z2Uf9mzfYIaT.ozip
@@ -142,7 +142,7 @@
   size: 2.36GB
   system: ColorOS 6.0
   version: RMX1851_11.A.09
-- codename: RMX1993
+- codename: RMX1993EX
   date: 14/11/2019
   device: realme X2
   download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0150_all_BEtWFa2mvn83.ozip
@@ -160,7 +160,7 @@
   size: 2.53G
   system: ColorOS 6.0.1
   version: RMX1911_11_A.15
-- codename: RMX1921EU
+- codename: RMX1921EUEX
   date: 13/11/2019
   device: realme XT
   download: https://download.c.realme.com/osupdate/RMX1921EUEX_11_OTA_0050_all_k5cNBWSJbVtM.ozip
@@ -169,7 +169,7 @@
   size: 2.94GB
   system: ColorOS 6.0
   version: RMX1921EUEX_11_A.05
-- codename: RMX1821
+- codename: RMX1821EX
   date: 23/9/2019
   device: realme 3
   download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0220_all_jGdLcUliKAOF.ozip
@@ -178,7 +178,7 @@
   size: 2.02GB
   system: ColorOS 6.0
   version: RMX1821EX_11.A.22
-- codename: RMX1941
+- codename: RMX1941EX
   date: ' 29/9/2019'
   device: realme C2
   download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0170_all_IHsI3GXkx62z.ozip
@@ -187,7 +187,7 @@
   size: 1.96GB
   system: ColorOS 6.0
   version: RMX1941EX_11.A.17
-- codename: RMX1927
+- codename: RMX1927EX
   date: 11/11/2019
   device: realme 5
   download: https://download.c.realme.com/osupdate/RMX1927EX_11_OTA_0100_all_zXQpn7jk2gNl.ozip

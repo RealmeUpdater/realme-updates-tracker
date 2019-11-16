@@ -1,4 +1,4 @@
-- codename: RMX1921EU
+- codename: RMX1921EUEX
   date: 13/11/2019
   device: realme XT
   download: https://download.c.realme.com/osupdate/RMX1921EUEX_11_OTA_0050_all_k5cNBWSJbVtM.ozip
@@ -7,7 +7,7 @@
   size: 2.94GB
   system: ColorOS 6.0
   version: RMX1921EUEX_11_A.05
-- codename: RMX1971
+- codename: RMX1971EX
   date: 24/10/2019
   device: realme 5 Pro
   download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0110_all_B1dsEUQ5j5IY.ozip
@@ -16,7 +16,7 @@
   size: 2.81GB
   system: ColorOS 6.0
   version: RMX1971EX_11_A.11
-- codename: RMX1851
+- codename: RMX1851EX
   date: 31/10/2019
   device: realme 3 Pro
   download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0200_all_32zXRdOSuPB1.ozip
@@ -25,7 +25,7 @@
   size: 2.74GB
   system: ColorOS 6.0
   version: RMX1851EX_11.A.20
-- codename: RMX1821
+- codename: RMX1821EX
   date: 23/9/2019
   device: realme 3
   download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0220_all_jGdLcUliKAOF.ozip
@@ -34,7 +34,7 @@
   size: 2.02GB
   system: ColorOS 6.0
   version: RMX1821EX_11.A.22
-- codename: RMX1941
+- codename: RMX1941EX
   date: ' 29/9/2019'
   device: realme C2
   download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0170_all_IHsI3GXkx62z.ozip
@@ -43,7 +43,7 @@
   size: 1.96GB
   system: ColorOS 6.0
   version: RMX1941EX_11.A.17
-- codename: RMX1927
+- codename: RMX1927EX
   date: 11/11/2019
   device: realme 5
   download: https://download.c.realme.com/osupdate/RMX1927EX_11_OTA_0100_all_zXQpn7jk2gNl.ozip

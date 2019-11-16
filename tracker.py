@@ -56,7 +56,7 @@ def parse_html(html: list) -> list:
         codename = ""
         try:
             version = item.select("div.software-field")[0].text.strip().split(" ")[1]
-            codename = version.split('_')[0].replace("EX", '')
+            codename = version.split('_')[0]
         except IndexError:
             version = "Unknown"
         try:

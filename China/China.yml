@@ -1,5 +1,5 @@
 - codename: RMX1931
-  date: 2019/10/30
+  date: 30/10/2019
   device: realme X2 Pro
   download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_0110_all_9ZZ7HAYLkrLP.ozip
   md5: bd856f383e4abfd06e15cfadabf0a6c4
@@ -8,7 +8,7 @@
   system: ColorOS 6.1
   version: RMX1931_11.A.11
 - codename: RMX1991
-  date: 2019/10/30
+  date: 30/10/2019
   device: realme X2
   download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_0110_all_Jmpz4uPphKnX.ozip
   md5: 15cfb3ef9cfae553111d2a5eec90047e
@@ -17,7 +17,7 @@
   system: ColorOS 6.1
   version: RMX1991_11_A.11
 - codename: RMX1971
-  date: 2019/11/13
+  date: 13/11/2019
   device: realme Q
   download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_0100_all_CSvO3xokVQUP.ozip
   md5: EC67E95C111CDF4BA28DA92D977CD6D4
@@ -26,7 +26,7 @@
   system: ColorOS 6.0
   version: RMX1971_11.A.10
 - codename: RMX1901
-  date: 2019/10/29
+  date: 29/10/2019
   device: realme X
   download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_0190_all_fSt4F56aQlqf.ozip
   md5: 7E74B3482B9734F640727DFE2DE6ACFB
@@ -35,7 +35,7 @@
   system: ColorOS 6.0
   version: RMX1901_11.A.19
 - codename: RMX1851
-  date: 2019/10/21
+  date: 21/10/2019
   device: realme X青春版
   download: https://download.c.realme.com/osupdate/RMX1851_11_OTA_0090_all_fP347OTiwlci.ozip
   md5: EFDECBAB479C698564B1838D2328EA0D

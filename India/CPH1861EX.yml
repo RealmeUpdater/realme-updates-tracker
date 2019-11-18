@@ -1,3 +1,17 @@
+changelog: |
+  **Security**:
+  ● Android security patch: October, 2019
+  **System**:
+  ● Added Dark Mode
+  ● Added realme laboratory
+  ● Added data switch in notification pannel
+  ● App cloner support more third-party applications
+  ● Added manual lock function by long press the power button
+  ● Added Google Digital Wellbeing
+  **User Interface**:
+  ● Optimized some of system interface
+  ● Redesigned the notification center style
+  * Android version: Android 9.0
 codename: CPH1861EX
 date: 22/10/2019
 device: realme 1

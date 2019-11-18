@@ -1,3 +1,16 @@
+changelog: |
+  **Security**:
+  ● Android security patch: November, 2019
+  **System**:
+  ● Added Dark Mode
+  ● Added realme laboratory
+  ● Added data switch in notification pannel
+  ● App cloner support more third-party applications
+  ● Added a switch of notification dot for updates
+  ● Swipe left or right to remove the message prompt after receiving the message
+  **User Interface**:
+  ● Redesigned the notification center style
+  * Android version: Android 9.0
 codename: RMX1801EX
 date: 12/11/2019
 device: realme 2 Pro

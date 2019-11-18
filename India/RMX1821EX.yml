@@ -1,3 +1,29 @@
+changelog: |
+  **Security**:
+  ● Android security patch: November, 2019
+  **System**:
+  ● Added the manual lock feature by long press the power button
+  ● Customizable data consumed reminder
+  ● Updated charging animation
+  **Settings**:
+  ● Added realme Laboratory
+  ● Added Dark Mode
+  ● Added Google Digital Wellbeing
+  ● Updated battery interface display the screen on time
+  ● Added a switch of notification dot for updates
+  ● Clone Apps support more third-party applications (PayTM, PhonePe, Amazon, Flipkart)
+  **Launcher**:
+  ● Optimized lock screen clock widget design
+  ● Added date and weather widget
+  ● Optimized Smart Assistant interface
+  **Notification Center and Status Bar**:
+  ● Redesigned the notification center style
+  ● Swipe left or right to remove the message prompt after receiving the message
+  ● Added fast switch toggles between SIM in notification center
+  ● Removed the reminder after the hotspot enabled
+  ● Added a switch of swipe down on home screen for global search or notification center
+  ● Removed the prompt while rooted
+  * Android version: Android 9.0
 codename: RMX1821EX
 date: 12/11/2019
 device: realme 3

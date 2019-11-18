@@ -1,3 +1,24 @@
+changelog: |
+  **Security**:
+  ● Android security patch: October, 2019
+  **System**:
+  ● Updated charging animation
+  ● Updated Theme store added Font feature
+  **Settings**:
+  ● Added realme Laboratory
+  ● Added Dark Mode
+  ● Added a switch of notification dot for updates
+  ● Quickly enter the hidden application list with fingerprints
+  **Notification Center and Status Bar**:
+  ● Added a switch of swipe down on home screen for global search or notification center
+  ● Added fast switch toggles between SIM in notification center
+  ● Removed the reminder after the hotspot enabled
+  ● Removed the prompt while rooted
+  **Touch**:
+  ●Improved game touch experience
+  **Known issues fixed**:
+  ● Fixed partial application with probabilistic crashes
+  * Android version: Android 9.0
 codename: RMX1901EX
 date: 30/10/2019
 device: realme X

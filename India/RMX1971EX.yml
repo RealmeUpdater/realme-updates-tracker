@@ -1,3 +1,19 @@
+changelog: |
+  **Security**:
+  ● Android security patch: October 5, 2019
+  **System**:
+  ● Added Dark Mode
+  **Camera**:
+  ● Added wide-angle video shooting feature
+  **Touch**:
+  ● Updated firmware version to optimize game touch experience
+  **Power optimization**:
+  ● Optimized power consumption while 4K and 1080P@60FPS video mode
+  **Known issue fixed**:
+  ● Fixed after-sales feedback HDR photo spot issue
+  ● Fixed repeatedly focus issue
+  ● Fixed 1080p@60fps preview with green stripes while switch time-lapse photography and 1080p@60fps mode
+  ● Optimized clarity indoor and low light environments
 codename: RMX1971EX
 date: 24/10/2019
 device: realme 5 Pro

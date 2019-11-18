@@ -1,3 +1,22 @@
+changelog: |
+  **Security**:
+  ● Android security patch: November, 2019
+  **System**:
+  ● Updated charging animation
+  ● Updated font change supporting in Theme Store
+  **Settings**:
+  ● Added realme Laboratory
+  ● Added Dark Mode
+  ● Added a switch of notification dot for updates
+  **Notification Center and Status Bar**:
+  ● Added a switch of swipe down on home screen for global search or notification center
+  ● Added fast switch toggles between SIM in notification center
+  ● Removed the reminder after the hotspot enabled
+  ● Removed the prompt while rooted
+  ● Swipe left or right to remove the message prompt after receiving the message
+  **Known issue fixed**:
+  ● Fixed probabilistic crashes of partial applications
+  * Android version: Android 9.0
 codename: RMX1805EX
 date: 18/11/2019
 device: realme 2

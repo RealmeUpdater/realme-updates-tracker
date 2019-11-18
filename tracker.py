@@ -74,6 +74,13 @@ def parse_html(html: list) -> list:
             md5 = "Unknown"
         download = item.select_one("div.software-download").select_one(
             "a.software-button")["data-href"]
+        changelog = item.select_one("div.software-log").get_text("\n", strip=True)
+        changelog_text = ""
+        for line in changelog.splitlines():
+            if line.startswith('●') or line.startswith('*'):
+                changelog_text += f"{line}\n"
+            else:
+                changelog_text += f"**{line}**:\n"
         update = {
             "device": title,
             "codename": codename,
@@ -83,7 +90,8 @@ def parse_html(html: list) -> list:
             "date": date,
             "size": size,
             "md5": md5,
-            "download": download
+            "download": download,
+            "changelog": changelog_text
         }
         if download:
             write_yaml(update, f"{region}/{codename}.yml")
@@ -115,6 +123,13 @@ def write_yaml(downloads, filename: str):
     :param filename: output file name
     :return:
     """
+    def str_presenter(dumper, data):
+        # https://stackoverflow.com/a/33300001
+        if len(data.splitlines()) > 1:
+            return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
+        return dumper.represent_scalar('tag:yaml.org,2002:str', data)
+    yaml.add_representer(str, str_presenter)
+
     with open(f"{filename}", 'w') as out:
         yaml.dump(downloads, out, allow_unicode=True)
 
@@ -189,6 +204,7 @@ def generate_message(update: dict) -> str:
     size = update["size"]
     md5 = update["md5"]
     download = update["download"]
+    changelog = update["changelog"]
     message = f"New update available!\n"
     message += f"*Device:* {device} \n" \
                f"*Codename:* #{codename} \n" \
@@ -198,7 +214,8 @@ def generate_message(update: dict) -> str:
                f"*Release Date:* {date} \n" \
                f"*Size*: {size} \n" \
                f"*MD5*: `{md5}`\n" \
-               f"*Download*: [Here]({download})\n\n" \
+               f"*Download*: [Here]({download})\n" \
+               f"*Changelog*: ```\n{changelog}\n```\n\n" \
                "@RealmeUpdatesTracker"
     return message
 

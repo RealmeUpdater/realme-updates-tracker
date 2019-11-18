@@ -1,3 +1,18 @@
+changelog: |
+  **Security**:
+  ● Android security patch: October, 2019
+  **System**:
+  ● Added Dark Mode
+  ● Updated charging animation
+  **Settings**:
+  ● Added realme Laboratory
+  ● Added a switch of Notification Dot for updates
+  **Notification Center and Status Bar**:
+  ● Added fast switch toggles between SIM in notification center
+  ● Removed the reminder after the hotspot enabled
+  ● Added a switch of swipe down on home screen for global search or notification center
+  ● Removed the prompt while rooted
+  * Android version: Android 9.0
 codename: RMX1941EX
 date: 25/10/2019
 device: realme C2

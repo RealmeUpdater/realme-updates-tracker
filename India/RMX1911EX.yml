@@ -1,3 +1,25 @@
+changelog: |
+  **Security**:
+  ● Android security patch: October, 2019
+  **Camera**:
+  ● Added wide-angle video shooting feature
+  ● Improved the brightness of rear main camera
+  ● Optimized low light scene shooting of rear portrait mode
+  ● Improved preview clarity of rear camera
+  ● Optimized the issue of noise on the face with front and rear camera
+  **Application**:
+  ● Updated font change supporting in Theme Store
+  **Settings**:
+  ● Added realme Laboratory
+  ● Added Dark Mode
+  ● Added a switch of notification dot for updates
+  **Notification Center and Status Bar**:
+  ● Removed the reminder after the hotspot enabled
+  ● Added fast switch toggles between SIM in notification center
+  ● Swipe left or right to remove the message prompt while receiving
+  ● Added a switch of swipe down on home screen for global serch or notification center
+  **Known issue fixed**:
+  ● Fixed low probability issue of battery cannot be fully charged
 codename: RMX1911EX
 date: 11/11/2019
 device: realme 5

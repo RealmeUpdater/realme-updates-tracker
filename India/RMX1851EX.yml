@@ -1,3 +1,20 @@
+changelog: |
+  **Security**:
+  ● Android security patch: October, 2019
+  **System**:
+  ● Added Dark Mode
+  ● Updated charging animation
+  ● Added fast switch toggles between SIM in notification center
+  **Notification Center and Status Bar**:
+  ● Removed the reminder after the hotspot enabled
+  ● Removed the prompt while rooted
+  ● Added a switch of swipe down on home screen for global search or notification center
+  **Setting**:
+  ● Added realme Laboratory
+  ● Added a switch of notification dot for updates
+  **Touch**:
+  ● Updated firmware version to optimize game experience
+  * Android version: Android 9.0
 codename: RMX1851EX
 date: 31/10/2019
 device: realme 3 Pro

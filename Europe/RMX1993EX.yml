@@ -1,3 +1,17 @@
+changelog: |
+  **Security**:
+  ● Android security patch: October, 2019
+  **Settings**:
+  ● Added Dark Mode
+  ● Added realme Laboratory
+  ● Added a switch of swipe down on home screen for global search or notification center
+  ● Added a switch of Notification Dot for updates
+  ● Removed the reminder after the hotspot enabled
+  ● Removed the prompt while rooted
+  ● Updated charging animation, showing more details
+  **Camera**:
+  ● Added nightscape of front Camera
+  ● Optimized partial AF out of focus
 codename: RMX1993EX
 date: 14/11/2019
 device: realme X2

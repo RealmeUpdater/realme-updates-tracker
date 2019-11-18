@@ -1,4 +1,22 @@
-- codename: RMX1931
+- changelog: |
+    **触控**:
+    ● 优化上划不跟手的问题
+    ● 优化部分游戏场景不跟手的问题
+    ● 优化部分游戏场景断触的问题
+    **相机**:
+    ● 优化部分场景相机效果
+    ● 优化视频防抖效果
+    ● 优化部分远景对焦问题
+    **功耗**:
+    ● 部分场景耗电优化
+    **修复已知问题**:
+    ● 修复王牌战士开启陀螺仪后卡顿的问题
+    ● 修复部分场景光感偏差导致屏幕亮度不对的问题
+    ● 优化部分三方应用的90Hz体验
+    ● 修复部分场景暗色模式显示问题
+    ● 优化AirPods连接后默认音量过低的问题
+    ● 优化部分场景60Hz下背光瞬间过低的问题
+  codename: RMX1931
   date: 30/10/2019
   device: realme X2 Pro
   download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_0110_all_9ZZ7HAYLkrLP.ozip
@@ -7,16 +25,42 @@
   size: 2.45GB
   system: ColorOS 6.1
   version: RMX1931_11.A.11
-- codename: RMX1991
-  date: 30/10/2019
+- changelog: |
+    **安全**:
+    ● 合入11月份安全补丁
+    **相机**:
+    ● 优化前置超级夜景效果
+    **音频**:
+    ● 优化部分三方应用录音效果
+    **修复**:
+    ● 优化AirPods连接后默认音量过低的问题
+    ● 优化距离比较远，Breeno语音助手概率性无法响应语音指令问题
+    ● 解决从近期任务启动王者荣耀，和平精英闪一下的问题
+    ● 解决连接部分路由器，连接速度显示不正确问题
+  codename: RMX1991
+  date: 15/11/2019
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_0110_all_Jmpz4uPphKnX.ozip
-  md5: 15cfb3ef9cfae553111d2a5eec90047e
+  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_0120_all_LXDfO9ZnkCQQ.ozip
+  md5: 0fa446cd6ae3d2ab5513eafe83dc9270
   region: China
   size: 2.34GB
   system: ColorOS 6.1
-  version: RMX1991_11_A.11
-- codename: RMX1971
+  version: RMX1991_11.A.12
+- changelog: |
+    **安全**:
+    ● 合入11月谷歌安全补丁
+    **相机**:
+    ● 增加前置超级夜景功能
+    ● 优化成像偏红问题
+    ● 优化连拍噪点较多的问题
+    **游戏**:
+    ● 优化王者荣耀概率性丢帧的问题
+    **功耗**:
+    ● 部分视频场景耗电优化
+    **修复已知问题**:
+    ● 修复西瓜视频横屏播放splash卡住的问题
+    ● 修复插入type-C数字耳机后来电，没有外放铃声的问题
+  codename: RMX1971
   date: 13/11/2019
   device: realme Q
   download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_0100_all_CSvO3xokVQUP.ozip
@@ -25,7 +69,39 @@
   size: 2.39GB
   system: ColorOS 6.0
   version: RMX1971_11.A.10
-- codename: RMX1901
+- changelog: |
+    **安全**:
+    ● 更新Android安全补丁：2019年9月5日
+    **状态栏**:
+    ● 通知横幅窗口，左右滑动可删除该消息
+    ● 打开开发者模式后，不发送系统通知
+    **安全**:
+    ● 更新10月份安全补丁
+    **桌面**:
+    ● 重新设计日期、天气插件
+    ● 优化锁屏时钟插件设计
+    ● 优化负一屏设计
+    **系统**:
+    ● 调整充电样式
+    ● 更新主题商店增加字体功能
+    **设置**:
+    ● 可设置在桌面下拉可打开通知栏
+    ● 可设置app更新后图标左侧不显示小圆点
+    ● 设置项新增实验室功能
+    ● 增加暗色模式
+    **通知中心与状态栏**:
+    ● 提供快捷开关，切换流量卡
+    ● 开热点后状态栏不要显示蓝条
+    ● 去掉root后的红条提示
+    ● 重新设计通知中心样式
+    **触屏**:
+    ● 提升游戏触控体验
+    **修复的已知问题**:
+    ● 修复部分应用概率性崩溃问题
+    ● 修复售后反馈超高清拍照花斑问题
+    ● 修复部分场景下背光调节不平滑问题
+    * Android 版本：Android 9.0
+  codename: RMX1901
   date: 29/10/2019
   device: realme X
   download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_0190_all_fSt4F56aQlqf.ozip
@@ -34,7 +110,22 @@
   size: 2.42GB
   system: ColorOS 6.0
   version: RMX1901_11.A.19
-- codename: RMX1851
+- changelog: |
+    **安全**:
+    ● 更新10月份安全补丁
+    **桌面**:
+    ● 重新设计日期、天气插件
+    ● 优化锁屏时钟插件设计
+    ● 优化负一屏设计
+    **系统**:
+    ● 新增暗色模式
+    ● 调整充电样式
+    **设置**:
+    ● 提供快捷开关，切换流量卡
+    **触屏**:
+    ● 更新固件版本优化游戏体验
+    * Android 版本：Android 9.0
+  codename: RMX1851
   date: 21/10/2019
   device: realme X青春版
   download: https://download.c.realme.com/osupdate/RMX1851_11_OTA_0090_all_fP347OTiwlci.ozip

@@ -1,28 +1,27 @@
 - changelog: |
     **Security**:
-    ● Android security patch: October 5, 2019
-    **System**:
-    ● Added Dark Mode
+    ● Android security patch: November, 2019
     **Camera**:
-    ● Added wide-angle video shooting feature
-    **Touch**:
-    ● Updated firmware version to optimize game touch experience
-    **Power optimization**:
-    ● Optimized power consumption while 4K and 1080P@60FPS video mode
+    ● Added nightscape of front camera
+    ● Optimize the noise in dark environments
+    ● Optimized camera quality reddish issue
+    ● Optimized camera clarity
+    **Game**:
+    ● Optimized frame dropping of Arena of Valor
+    **Power consumption**:
+    ● Optimized the power consumption of partial video scenes
     **Known issue fixed**:
-    ● Fixed after-sales feedback HDR photo spot issue
-    ● Fixed repeatedly focus issue
-    ● Fixed 1080p@60fps preview with green stripes while switch time-lapse photography and 1080p@60fps mode
-    ● Optimized clarity indoor and low light environments
+    ● Fixed carrier network issues in partial areas
+    ● Fixed the full-screen display notch area shows the prompt information error issue
   codename: RMX1971EX
-  date: 24/10/2019
+  date: 19/11/2019
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0110_all_B1dsEUQ5j5IY.ozip
-  md5: 03D8DF5EA56B46EA15829B09127CBE08
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0130_all_eKIFcPdqX9wL.ozip
+  md5: 101955B1BC2D5E5123D6E4E8CF10FCED
   region: India
   size: 2.81GB
   system: ColorOS 6.0
-  version: RMX1971EX_11_A.11
+  version: RMX1971EX_11_A.13
 - changelog: |
     **Security**:
     ● Android security patch: October, 2019

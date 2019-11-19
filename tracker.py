@@ -50,7 +50,7 @@ def parse_html(html: list) -> list:
     updates = []
     for item in html:
         title_tag = item.select_one("h3.software-mobile-title")
-        title = title_tag.text.strip()
+        title = title_tag.text.strip().replace('  ', ' ')
         region = set_region(title_tag.a["href"])
         _system = item.select_one("div.software-system").text.strip()
         codename = ""

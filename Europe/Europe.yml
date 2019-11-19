@@ -47,3 +47,17 @@
   size: 2.74GB
   system: ColorOS 6.0
   version: RMX1851EX_11.A.20
+- changelog: |
+    **Security**:
+    **•Android security patch: November, 2019**:
+    **System**:
+    **•Fixed some known issues and improved system stability**:
+  codename: RMX1931EX
+  date: 14/11/2019
+  device: realme  X2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0060_all_iomsumMA73CO.ozip
+  md5: 14e2ea74751fd499394263c441f97400
+  region: Europe
+  size: 3.06GB
+  system: ColorOS 6.1
+  version: RMX1931EX_11.A.06

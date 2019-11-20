@@ -21,6 +21,8 @@ URLS = ["https://www.realme.com/in/support/software-update",
 
 DEVICES = {}
 REGIONS = []
+SITE = "https://realmeupdater.github.io"
+
 
 def update_device(codename: str, device: str):
     try:
@@ -208,7 +210,7 @@ def generate_message(update: dict) -> str:
     message = f"New update available!\n"
     message += f"*Device:* {device} \n" \
                f"*Codename:* #{codename} \n" \
-               f"*Region:* {region} \n" \
+               f"*Region:* [{region}]({SITE}/downloads/latest/{region}/)\n" \
                f"*System:* {_system} \n" \
                f"*Version:* `{version}` \n" \
                f"*Release Date:* {date} \n" \
@@ -216,6 +218,8 @@ def generate_message(update: dict) -> str:
                f"*MD5*: `{md5}`\n" \
                f"*Download*: [Here]({download})\n" \
                f"*Changelog*: ```\n{changelog}\n```\n" \
+               f"[Latest Updates]({SITE}/downloads/latest/{codename}/) - " \
+               f"[All Updates]({SITE}/downloads/archive/{codename}/)\n" \
                "@RealmeUpdatesTracker"
     return message
 
@@ -272,7 +276,7 @@ def git_commit_push():
     system("git add *.yml */*.yml && git -c \"user.name=RealmeCI\" -c "
            "\"user.email=RealmeCI@example.com\" "
            "commit -m \"sync: {}\" && "" \
-           ""git push -q https://{}@github.com/androidtrackers/"
+           ""git push -q https://{}@github.com/RealmeUpdater/"
            "realme-updates-tracker.git HEAD:master"
            .format(today, GIT_OAUTH_TOKEN))
 

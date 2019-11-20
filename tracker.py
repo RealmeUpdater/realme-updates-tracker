@@ -20,7 +20,7 @@ URLS = ["https://www.realme.com/in/support/software-update",
         "https://www.realme.com/ru/support/software-update"]
 
 DEVICES = {}
-
+REGIONS = []
 
 def update_device(codename: str, device: str):
     try:
@@ -215,7 +215,7 @@ def generate_message(update: dict) -> str:
                f"*Size*: {size} \n" \
                f"*MD5*: `{md5}`\n" \
                f"*Download*: [Here]({download})\n" \
-               f"*Changelog*: ```\n{changelog}\n```\n\n" \
+               f"*Changelog*: ```\n{changelog}\n```\n" \
                "@RealmeUpdatesTracker"
     return message
 
@@ -283,13 +283,13 @@ def main():
     """
     for url in URLS:
         region = set_region(url)
+        REGIONS.append(region)
         rename(f'{region}/{region}.yml', f'{region}/old_{region}')
         downloads_html = get_downloads_html(url)
         updates = parse_html(downloads_html)
         write_yaml(updates, f"{region}/{region}.yml")
     merge_yaml()
-    for url in URLS:
-        region = set_region(url)
+    for region in REGIONS:
         changes = diff_yaml(region)
         if changes:
             for update in changes:
@@ -305,6 +305,7 @@ def main():
             print(f"{region}: No new updates.")
     merge_archive()
     write_yaml(DEVICES, "devices.yml")
+    write_yaml(REGIONS, "regions.yml")
     git_commit_push()
 
 

@@ -1,63 +1,24 @@
 - changelog: |
     **Security**:
-    ● Android security patch: October, 2019
-    **Settings**:
-    ● Added Dark Mode
-    ● Added realme Laboratory
-    ● Added a switch of swipe down on home screen for global search or notification center
-    ● Added a switch of Notification Dot for updates
-    ● Removed the reminder after the hotspot enabled
-    ● Removed the prompt while rooted
-    ● Updated charging animation, showing more details
+    ● Android security patch: November, 2019
     **Camera**:
-    ● Added nightscape of front Camera
-    ● Optimized partial AF out of focus
-  codename: RMX1993EX
-  date: 14/11/2019
-  device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0150_all_BEtWFa2mvn83.ozip
-  md5: 7300ec49c17bec700f33cc6b041281ca
+    ● Added nightscape of front camera
+    ● Optimize the noise in dark environments
+    ● Optimized camera quality reddish issue
+    ● Optimized camera clarity
+    **Game**:
+    ● Optimized frame dropping of Arena of Valor
+    **Power consumption**:
+    ● Optimized the power consumption of partial video scenes
+    **Known issue fixed**:
+    ● Fixed carrier network issues in partial areas
+    ● Fixed the full-screen display notch area shows the prompt information error issue
+  codename: RMX1971EX
+  date: 26/11/2019
+  device: realme 5 Pro
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0130_all_eKIFcPdqX9wL.ozip
+  md5: 101955B1BC2D5E5123D6E4E8CF10FCED
   region: Europe
-  size: 2.55GB
-  system: ColorOS 6.1
-  version: RMX1993EX_11.A.15
-- changelog: |
-    **Security**:
-    ● Android security patch: October, 2019
-    **System**:
-    ● Added Dark Mode
-    ● Updated charging animation
-    ● Added fast switch toggles between SIM in notification center
-    **Notification Center and Status Bar**:
-    ● Removed the reminder after the hotspot enabled
-    ● Removed the prompt while rooted
-    ● Added a switch of swipe down on home screen for global search or notification center
-    **Setting**:
-    ● Added realme Laboratory
-    ● Added a switch of notification dot for updates
-    **Touch**:
-    ● Updated firmware version to optimize game experience
-    * Android version: Android 9.0
-  codename: RMX1851EX
-  date: 31/10/2019
-  device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0200_all_32zXRdOSuPB1.ozip
-  md5: 92D5D6E8EBFE4651C01C16DA56EC5F0A
-  region: Europe
-  size: 2.74GB
+  size: 2.81GB
   system: ColorOS 6.0
-  version: RMX1851EX_11.A.20
-- changelog: |
-    **Security**:
-    **•Android security patch: November, 2019**:
-    **System**:
-    **•Fixed some known issues and improved system stability**:
-  codename: RMX1931EX
-  date: 14/11/2019
-  device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0060_all_iomsumMA73CO.ozip
-  md5: 14e2ea74751fd499394263c441f97400
-  region: Europe
-  size: 3.06GB
-  system: ColorOS 6.1
-  version: RMX1931EX_11.A.06
+  version: RMX1971EX_11_A.13

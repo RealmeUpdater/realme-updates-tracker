@@ -1,3 +1,9 @@
+changelog: |
+  **System**:
+  ● Fixed the issue that the low probability compass cannot be calibrated
+  ● Improved system stability
+  **Camera**:
+  ● Improved the video call quality of operators
 codename: RMX1911
 date: 16/10/2019
 device: realme 5

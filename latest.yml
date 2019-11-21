@@ -529,16 +529,70 @@
   size: 3.06GB
   system: ColorOS 6.1
   version: RMX1931EX_11.A.06
-- changelog: ''
-  codename: ''
-  date: Unknown
-  device: ''
-  download: ''
-  md5: Unknown
-  region: China
-  size: ''
-  system: ''
-  version: ''
+- changelog: |
+    **Security**:
+    ● Android security patch: October, 2019
+    **Settings**:
+    ● Added Dark Mode
+    ● Added realme Laboratory
+    ● Added a switch of swipe down on home screen for global search or notification center
+    ● Added a switch of Notification Dot for updates
+    ● Removed the reminder after the hotspot enabled
+    ● Removed the prompt while rooted
+    ● Updated charging animation, showing more details
+    **Camera**:
+    ● Added nightscape of front Camera
+    ● Optimized partial AF out of focus
+  codename: RMX1993EX
+  date: 14/11/2019
+  device: realme X2
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0150_all_BEtWFa2mvn83.ozip
+  md5: 7300ec49c17bec700f33cc6b041281ca
+  region: Europe
+  size: 2.55GB
+  system: ColorOS 6.1
+  version: RMX1993EX_11.A.15
+- changelog: |
+    **System**:
+    ● Fixed the issue that the low probability compass cannot be calibrated
+    ● Improved system stability
+    **Camera**:
+    ● Improved the video call quality of operators
+  codename: RMX1911
+  date: 16/10/2019
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0150_all_jzKjYWTb3tvE.ozip
+  md5: E9FF1FD7815B6402D70F1733EF6F4871
+  region: Europe
+  size: 2.53GB
+  system: ColorOS 6.0.1
+  version: RMX1911_11_A.15
+- changelog: |
+    **Security**:
+    ● Android security patch: October, 2019
+    **System**:
+    ● Added Dark Mode
+    ● Updated charging animation
+    ● Added fast switch toggles between SIM in notification center
+    **Notification Center and Status Bar**:
+    ● Removed the reminder after the hotspot enabled
+    ● Removed the prompt while rooted
+    ● Added a switch of swipe down on home screen for global search or notification center
+    **Setting**:
+    ● Added realme Laboratory
+    ● Added a switch of notification dot for updates
+    **Touch**:
+    ● Updated firmware version to optimize game experience
+    * Android version: Android 9.0
+  codename: RMX1851EX
+  date: 31/10/2019
+  device: realme 3 Pro
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0200_all_32zXRdOSuPB1.ozip
+  md5: 92D5D6E8EBFE4651C01C16DA56EC5F0A
+  region: Europe
+  size: 2.74GB
+  system: ColorOS 6.0
+  version: RMX1851EX_11.A.20
 - changelog: |
     **Безопасность**:
     ● Обновлены патчи безопасности Android за октябрь 2019;
@@ -563,29 +617,28 @@
   version: RMX1921EUEX_11_A.05
 - changelog: |
     **Безопасность**:
-    ● добавлены патчи безопасности Android за октябрь 2019;
-    **Система**:
-    ● Добавлена Тёмная тема;
+    ● Обновлены патчи безопасности Android за ноябрь 2019;
     **Камера**:
-    ● Добавлена возможность съёмки широкоугольного видео;
-    **Тачскрин**:
-    ● улучшен тачскрин для получения новых впечатлений от игр;
+    ● Добавлен режим ночной съёмки для фронтальной камеры;
+    ● Оптимизированы шумы при съёмке в условиях недостаточной освещённости;
+    ● Оптимизирована световая температура снимков;
+    ● Улучшена чёткость камеры;
+    **Игры**:
+    ● Улучшена FPS игры Arena of Valor;
     **Энергопотребление**:
-    ● Опимизировано энергопотребление во время съёмки видео в режиме 4K и 1080P 60FPS;
-    **Другие исправленные проблемы**:
-    ● Исправлена проблема с пятнами на HDR фотографиях;
-    ● Устранена проблема повторяющейся фокусировки;
-    ● Устранена проблема с зелёными полосами на превью в режиме 1080p 60fps во время переключения между режимом time-lapse и 1080p@60fps;
-    ● Улучшена чёткость объектов в помещении и при плохом освещении.
+    ● Оптимизировано энергопотребление в некоторых режимах видео;
+    **Исправлены другие проблемы**:
+    ● Устранены проблемы со связью у некоторых операторов в некоторых регионах;
+    ● Устранена проблема при которой в полноэкранном режиме в зоне выреза-капли появлялось сообщение об ошибке.
   codename: RMX1971EX
-  date: 24/10/2019
+  date: 19/11/2019
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0110_all_B1dsEUQ5j5IY.ozip
-  md5: 03D8DF5EA56B46EA15829B09127CBE08
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0130_all_eKIFcPdqX9wL.ozip
+  md5: 101955B1BC2D5E5123D6E4E8CF10FCED
   region: Russia
   size: 2.81GB
   system: ColorOS 6.0
-  version: RMX1971EX_11_A.11
+  version: RMX1971EX_11_A.13
 - changelog: |
     **Безопасность**:
     ● Добавлены патчи безопасности Android за октябрь 2019;

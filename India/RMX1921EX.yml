@@ -14,12 +14,13 @@ changelog: |
   **Known issue Fixed**:
   ● Fixed the issue that could not registered VoWiFi to partial carrier
   ● Fixed partial display issue
+  ● Fixed partial applications (such as Google Suite)crash issue
 codename: RMX1921EX
-date: 13/11/2019
+date: 20/11/2019
 device: realme XT
-download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0120_all_r6LPfUXbD0xP.ozip
-md5: A8E5FF83B4715A5BCCCCD8758170F7F9
+download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0130_all_FjPhN3YP2XVI.ozip
+md5: 3BF142FAC8640F5FABD4C861336A6165
 region: India
-size: 2.84GB
+size: 2.85GB
 system: Color OS 6.0.1
-version: RMX1921EX_11.A.12
+version: RMX1921EX_11.A.13

@@ -350,3 +350,20 @@
   size: 2.14GB
   system: ColorOS 6.0
   version: CPH1861EX_11_C.45
+- changelog: |
+    **Camera**:
+    ● Optimized nightscape quality of rear camera
+    ● Optimized camera quality of HDR
+    **Display**:
+    ● Optimized 90Hz display logic
+    **System**:
+    ●Fixed partial known issues, improved system stability
+  codename: RMX1931EX
+  date: 29/11/2019
+  device: realme X2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0070_all_pPnzkNE5pNia.ozip
+  md5: 6ac336bdcdd23eb4410fe32654b762b0
+  region: India
+  size: 3.06GB
+  system: ColorOS 6.1
+  version: RMX1931EX_11_A.07

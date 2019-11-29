@@ -351,32 +351,46 @@
   system: ColorOS 6.0
   version: CPH1861EX_11_C.45
 - changelog: |
-    **触控**:
-    ● 优化上划不跟手的问题
-    ● 优化部分游戏场景不跟手的问题
-    ● 优化部分游戏场景断触的问题
-    **相机**:
-    ● 优化部分场景相机效果
-    ● 优化视频防抖效果
-    ● 优化部分远景对焦问题
-    **功耗**:
-    ● 部分场景耗电优化
-    **修复已知问题**:
-    ● 修复王牌战士开启陀螺仪后卡顿的问题
-    ● 修复部分场景光感偏差导致屏幕亮度不对的问题
-    ● 优化部分三方应用的90Hz体验
-    ● 修复部分场景暗色模式显示问题
-    ● 优化AirPods连接后默认音量过低的问题
-    ● 优化部分场景60Hz下背光瞬间过低的问题
-  codename: RMX1931
-  date: 30/10/2019
+    **Camera**:
+    ● Optimized nightscape quality of rear camera
+    ● Optimized camera quality of HDR
+    **Display**:
+    ● Optimized 90Hz display logic
+    **System**:
+    ●Fixed partial known issues, improved system stability
+  codename: RMX1931EX
+  date: 29/11/2019
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_0110_all_9ZZ7HAYLkrLP.ozip
-  md5: bd856f383e4abfd06e15cfadabf0a6c4
-  region: China
-  size: 2.45GB
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0070_all_pPnzkNE5pNia.ozip
+  md5: 6ac336bdcdd23eb4410fe32654b762b0
+  region: India
+  size: 3.06GB
   system: ColorOS 6.1
-  version: RMX1931_11.A.11
+  version: RMX1931EX_11_A.07
+- changelog: |
+    **安全**:
+    ● 更新11月份谷歌安全补丁
+    **相机**:
+    ● 修复前置超级夜景概率性噪点异常的问题
+    ● 优化前置超级夜景效果
+    ● 优化夜景效果
+    ● 优化HDR拍照效果
+    ● 优化闪光灯偏红的问题
+    **显示**:
+    ● 修复自动息屏概率性会闪屏的问题
+    **系统**:
+    ● 优化90Hz显示逻辑
+    ● 优化内存管理
+    ● 优化游戏时三指截屏体验
+  codename: RMX1931
+  date: 25/11/2019
+  device: realme X2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_0120_all_TiGsJLyPfh9j.ozip
+  md5: 3a2b14dffe644c89be3ed841efae72df
+  region: China
+  size: 2.50GB
+  system: ColorOS 6.1
+  version: RMX1931_11_A.12
 - changelog: |
     **安全**:
     ● 合入11月份安全补丁

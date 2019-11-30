@@ -21,7 +21,7 @@ URLS = ["https://www.realme.com/in/support/software-update",
 
 DEVICES = {}
 REGIONS = []
-SITE = "https://realmeupdater.github.io"
+SITE = "https://realmeupdater.com"
 
 
 def update_device(codename: str, device: str):

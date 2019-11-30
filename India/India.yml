@@ -3,6 +3,32 @@
     ● Android security patch: November, 2019
     **Camera**:
     ● Added nightscape of front camera
+    ● Optimized photo clarity while using WhatsApp
+    ● Optimized wide-angle video quality of rear camera
+    ● Optimized the noise in dark environments
+    ● Optimized the clarity of the ULTRA 64 MP mode
+    ● Fixed the crash issue while switching to ULTRA 64 MP mode
+    ● Optimized camera quality reddish issue
+    **Fingerprint**:
+    ● Improved fingerprints recognition probability
+    **Known issue Fixed**:
+    ● Fixed the issue that could not registered VoWiFi to partial carrier
+    ● Fixed partial display issue
+    ● Fixed partial applications (such as Google Suite)crash issue
+  codename: RMX1921EX
+  date: 20/11/2019
+  device: realme XT
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0130_all_FjPhN3YP2XVI.ozip
+  md5: 3BF142FAC8640F5FABD4C861336A6165
+  region: India
+  size: 2.85GB
+  system: Color OS 6.0.1
+  version: RMX1921EX_11.A.13
+- changelog: |
+    **Security**:
+    ● Android security patch: November, 2019
+    **Camera**:
+    ● Added nightscape of front camera
     ● Optimize the noise in dark environments
     ● Optimized camera quality reddish issue
     ● Optimized camera clarity
@@ -55,34 +81,29 @@
   version: RMX1911EX_11_A.18
 - changelog: |
     **Security**:
-    ● Android security patch: October, 2019
-    **System**:
-    ● Updated charging animation
-    ● Updated Theme store added Font feature
-    **Settings**:
-    ● Added realme Laboratory
-    ● Added Dark Mode
-    ● Added a switch of notification dot for updates
-    ● Quickly enter the hidden application list with fingerprints
+    ● Android security patch: November, 2019
+    **Launcher**:
+    ● Added click the blank area to back to the launcher on recent task interface
     **Notification Center and Status Bar**:
-    ● Added a switch of swipe down on home screen for global search or notification center
-    ● Added fast switch toggles between SIM in notification center
-    ● Removed the reminder after the hotspot enabled
-    ● Removed the prompt while rooted
-    **Touch**:
-    ●Improved game touch experience
+    ● Added dark mode fast switch toggles in notification center
+    **Settings**:
+    ● Added flash on call feature
     **Known issues fixed**:
-    ● Fixed partial application with probabilistic crashes
+    ● Fixed the contents is not clear of the dialog of the WhatsApp while enabled the dark mode
+    ● Fixed the WeChat process been shut after dark mode enabled
+    ● Fixed volume lower when playing music after the power saving mode turned off the Dolby
+    ● Fixed touch not responding issue after the exit game
+    ● Fixed issue of download the sticker shows the network connection failed with data via VPN tools
     * Android version: Android 9.0
   codename: RMX1901EX
-  date: 30/10/2019
+  date: 26/11/2019
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0090_all_f1WO6spNrKaO.ozip
-  md5: F57785FF45DE8009D978AF7BBE19F155
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0100_all_S3IpHN2fYjiN.ozip
+  md5: C71798919DEB9DE9F6522C45423F4F52
   region: India
   size: 2.79GB
   system: ColorOS 6.0
-  version: RMX1901EX_11_A.09
+  version: RMX1901EX_11_A.10
 - changelog: |
     **Security**:
     ● Android security patch: November, 2019
@@ -329,3 +350,20 @@
   size: 2.14GB
   system: ColorOS 6.0
   version: CPH1861EX_11_C.45
+- changelog: |
+    **Camera**:
+    ● Optimized nightscape quality of rear camera
+    ● Optimized camera quality of HDR
+    **Display**:
+    ● Optimized 90Hz display logic
+    **System**:
+    ●Fixed partial known issues, improved system stability
+  codename: RMX1931EX
+  date: 29/11/2019
+  device: realme X2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0070_all_pPnzkNE5pNia.ozip
+  md5: 6ac336bdcdd23eb4410fe32654b762b0
+  region: India
+  size: 3.06GB
+  system: ColorOS 6.1
+  version: RMX1931EX_11_A.07

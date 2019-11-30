@@ -1,5 +1,43 @@
 - changelog: |
     **Security**:
+    ● Android security patch: November, 2019
+    **Camera**:
+    ● Added nightscape of front camera
+    ● Optimize the noise in dark environments
+    ● Optimized camera quality reddish issue
+    ● Optimized camera clarity
+    **Game**:
+    ● Optimized frame dropping of Arena of Valor
+    **Power consumption**:
+    ● Optimized the power consumption of partial video scenes
+    **Known issue fixed**:
+    ● Fixed carrier network issues in partial areas
+    ● Fixed the full-screen display notch area shows the prompt information error issue
+  codename: RMX1971EX
+  date: 19/11/2019
+  device: realme 5 Pro
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0130_all_eKIFcPdqX9wL.ozip
+  md5: 101955B1BC2D5E5123D6E4E8CF10FCED
+  region: Europe
+  size: 2.81GB
+  system: ColorOS 6.0
+  version: RMX1971EX_11_A.13
+- changelog: |
+    **Security**:
+    **•Android security patch: November, 2019**:
+    **System**:
+    **•Fixed some known issues and improved system stability**:
+  codename: RMX1931EX
+  date: 14/11/2019
+  device: realme X2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0060_all_iomsumMA73CO.ozip
+  md5: 14e2ea74751fd499394263c441f97400
+  region: Europe
+  size: 3.06GB
+  system: ColorOS 6.1
+  version: RMX1931EX_11.A.06
+- changelog: |
+    **Security**:
     ● Android security patch: October, 2019
     **Settings**:
     ● Added Dark Mode
@@ -21,6 +59,21 @@
   size: 2.55GB
   system: ColorOS 6.1
   version: RMX1993EX_11.A.15
+- changelog: |
+    **System**:
+    ● Fixed the issue that the low probability compass cannot be calibrated
+    ● Improved system stability
+    **Camera**:
+    ● Improved the video call quality of operators
+  codename: RMX1911
+  date: 16/10/2019
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0150_all_jzKjYWTb3tvE.ozip
+  md5: E9FF1FD7815B6402D70F1733EF6F4871
+  region: Europe
+  size: 2.53GB
+  system: ColorOS 6.0.1
+  version: RMX1911_11_A.15
 - changelog: |
     **Security**:
     ● Android security patch: October, 2019
@@ -47,17 +100,3 @@
   size: 2.74GB
   system: ColorOS 6.0
   version: RMX1851EX_11.A.20
-- changelog: |
-    **Security**:
-    **•Android security patch: November, 2019**:
-    **System**:
-    **•Fixed some known issues and improved system stability**:
-  codename: RMX1931EX
-  date: 14/11/2019
-  device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0060_all_iomsumMA73CO.ozip
-  md5: 14e2ea74751fd499394263c441f97400
-  region: Europe
-  size: 3.06GB
-  system: ColorOS 6.1
-  version: RMX1931EX_11.A.06

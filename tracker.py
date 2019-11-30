@@ -210,7 +210,7 @@ def generate_message(update: dict) -> str:
     message = f"New update available!\n"
     message += f"*Device:* {device} \n" \
                f"*Codename:* #{codename} \n" \
-               f"*Region:* [{region}]({SITE}/downloads/latest/{region}/)\n" \
+               f"*Region:* [{region}]({SITE}/downloads/latest/{region})\n" \
                f"*System:* {_system} \n" \
                f"*Version:* `{version}` \n" \
                f"*Release Date:* {date} \n" \

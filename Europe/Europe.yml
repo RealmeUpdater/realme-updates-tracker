@@ -1,29 +1,5 @@
 - changelog: |
     **Security**:
-    ● Android security patch: November, 2019
-    **Camera**:
-    ● Added nightscape of front camera
-    ● Optimize the noise in dark environments
-    ● Optimized camera quality reddish issue
-    ● Optimized camera clarity
-    **Game**:
-    ● Optimized frame dropping of Arena of Valor
-    **Power consumption**:
-    ● Optimized the power consumption of partial video scenes
-    **Known issue fixed**:
-    ● Fixed carrier network issues in partial areas
-    ● Fixed the full-screen display notch area shows the prompt information error issue
-  codename: RMX1971EX
-  date: 19/11/2019
-  device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0130_all_eKIFcPdqX9wL.ozip
-  md5: 101955B1BC2D5E5123D6E4E8CF10FCED
-  region: Europe
-  size: 2.81GB
-  system: ColorOS 6.0
-  version: RMX1971EX_11_A.13
-- changelog: |
-    **Security**:
     **•Android security patch: November, 2019**:
     **System**:
     **•Fixed some known issues and improved system stability**:
@@ -59,6 +35,30 @@
   size: 2.55GB
   system: ColorOS 6.1
   version: RMX1993EX_11.A.15
+- changelog: |
+    **Security**:
+    ● Android security patch: November, 2019
+    **Camera**:
+    ● Added nightscape of front camera
+    ● Optimize the noise in dark environments
+    ● Optimized camera quality reddish issue
+    ● Optimized camera clarity
+    **Game**:
+    ● Optimized frame dropping of Arena of Valor
+    **Power consumption**:
+    ● Optimized the power consumption of partial video scenes
+    **Known issue fixed**:
+    ● Fixed carrier network issues in partial areas
+    ● Fixed the full-screen display notch area shows the prompt information error issue
+  codename: RMX1971EX
+  date: 19/11/2019
+  device: realme 5 Pro
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0130_all_eKIFcPdqX9wL.ozip
+  md5: 101955B1BC2D5E5123D6E4E8CF10FCED
+  region: Europe
+  size: 2.81GB
+  system: ColorOS 6.0
+  version: RMX1971EX_11_A.13
 - changelog: |
     **System**:
     ● Fixed the issue that the low probability compass cannot be calibrated

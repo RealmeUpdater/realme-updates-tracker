@@ -67,35 +67,44 @@
   version: RMX1971EX_11_A.13
 - changelog: |
     **Security**:
-    ● Android security patch: October, 2019
-    **Camera**:
-    ● Added wide-angle video shooting feature
-    ● Improved the brightness of rear main camera
-    ● Optimized low light scene shooting of rear portrait mode
-    ● Improved preview clarity of rear camera
-    ● Optimized the issue of noise on the face with front and rear camera
-    **Application**:
-    ● Updated font change supporting in Theme Store
-    **Settings**:
-    ● Added realme Laboratory
-    ● Added Dark Mode
-    ● Added a switch of notification dot for updates
-    **Notification Center and Status Bar**:
-    ● Removed the reminder after the hotspot enabled
-    ● Added fast switch toggles between SIM in notification center
-    ● Swipe left or right to remove the message prompt while receiving
-    ● Added a switch of swipe down on home screen for global serch or notification center
+    ● Android security patch: November, 2019
+    **Camera (realme 5s only)**:
+    ● Optimized AF focus and improved the rate of success
+    ● Optimized the reddish in portrait mode
+    **Notification bar**:
+    ● Added fast switch toggles of dark mode in notification center
     **Known issue fixed**:
-    ● Fixed low probability issue of battery cannot be fully charged
+    ● Fixed low Probability issue of touch not respond when inserting headphones
+    ● Fixed the auto reboot issue with low probability
   codename: RMX1911EX
-  date: 11/11/2019
-  device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0180_all_tGiCF58o1Df9.ozip
-  md5: D64B014AAE94E9E760126B8A95F96AD9
+  date: 2/12/2019
+  device: realme 5s
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0200_all_jMIjTV5gLY1O.ozip
+  md5: BFB53D1A4ECFB046F41286C58EA90297
   region: India
-  size: 2.54GB
+  size: 2.55GB
   system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.18
+  version: RMX1911EX_11_A.20
+- changelog: |
+    **Security**:
+    ● Android security patch: November, 2019
+    **Camera (realme 5s only)**:
+    ● Optimized AF focus and improved the rate of success
+    ● Optimized the reddish in portrait mode
+    **Notification bar**:
+    ● Added fast switch toggles of dark mode in notification center
+    **Known issue fixed**:
+    ● Fixed low Probability issue of touch not respond when inserting headphones
+    ● Fixed the auto reboot issue with low probability
+  codename: RMX1911EX
+  date: 2/12/2019
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0200_all_jMIjTV5gLY1O.ozip
+  md5: BFB53D1A4ECFB046F41286C58EA90297
+  region: India
+  size: 2.55GB
+  system: ColorOS 6.0.1
+  version: RMX1911EX_11_A.20
 - changelog: |
     **Security**:
     ● Android security patch: November, 2019
@@ -477,30 +486,6 @@
   version: RMX1851_11.A.09
 - changelog: |
     **Security**:
-    ● Android security patch: November, 2019
-    **Camera**:
-    ● Added nightscape of front camera
-    ● Optimize the noise in dark environments
-    ● Optimized camera quality reddish issue
-    ● Optimized camera clarity
-    **Game**:
-    ● Optimized frame dropping of Arena of Valor
-    **Power consumption**:
-    ● Optimized the power consumption of partial video scenes
-    **Known issue fixed**:
-    ● Fixed carrier network issues in partial areas
-    ● Fixed the full-screen display notch area shows the prompt information error issue
-  codename: RMX1971EX
-  date: 19/11/2019
-  device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0130_all_eKIFcPdqX9wL.ozip
-  md5: 101955B1BC2D5E5123D6E4E8CF10FCED
-  region: Europe
-  size: 2.81GB
-  system: ColorOS 6.0
-  version: RMX1971EX_11_A.13
-- changelog: |
-    **Security**:
     **•Android security patch: November, 2019**:
     **System**:
     **•Fixed some known issues and improved system stability**:
@@ -536,6 +521,30 @@
   size: 2.55GB
   system: ColorOS 6.1
   version: RMX1993EX_11.A.15
+- changelog: |
+    **Security**:
+    ● Android security patch: November, 2019
+    **Camera**:
+    ● Added nightscape of front camera
+    ● Optimize the noise in dark environments
+    ● Optimized camera quality reddish issue
+    ● Optimized camera clarity
+    **Game**:
+    ● Optimized frame dropping of Arena of Valor
+    **Power consumption**:
+    ● Optimized the power consumption of partial video scenes
+    **Known issue fixed**:
+    ● Fixed carrier network issues in partial areas
+    ● Fixed the full-screen display notch area shows the prompt information error issue
+  codename: RMX1971EX
+  date: 19/11/2019
+  device: realme 5 Pro
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0130_all_eKIFcPdqX9wL.ozip
+  md5: 101955B1BC2D5E5123D6E4E8CF10FCED
+  region: Europe
+  size: 2.81GB
+  system: ColorOS 6.0
+  version: RMX1971EX_11_A.13
 - changelog: |
     **System**:
     ● Fixed the issue that the low probability compass cannot be calibrated

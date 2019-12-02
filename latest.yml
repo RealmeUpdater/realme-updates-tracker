@@ -1,4 +1,21 @@
 - changelog: |
+    **Camera**:
+    ● Optimized nightscape quality of rear camera
+    ● Optimized camera quality of HDR
+    **Display**:
+    ● Optimized 90Hz display logic
+    **System**:
+    ●Fixed partial known issues, improved system stability
+  codename: RMX1931EX
+  date: 29/11/2019
+  device: realme X2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0070_all_pPnzkNE5pNia.ozip
+  md5: 6ac336bdcdd23eb4410fe32654b762b0
+  region: India
+  size: 3.06GB
+  system: ColorOS 6.1
+  version: RMX1931EX_11_A.07
+- changelog: |
     **Security**:
     ● Android security patch: November, 2019
     **Camera**:
@@ -167,28 +184,19 @@
   version: RMX1851EX_11.A.20
 - changelog: |
     **Security**:
-    ● Android security patch: October, 2019
-    **System**:
-    ● Added Dark Mode
-    ● Updated charging animation
-    **Settings**:
-    ● Added realme Laboratory
-    ● Added a switch of Notification Dot for updates
-    **Notification Center and Status Bar**:
-    ● Added fast switch toggles between SIM in notification center
-    ● Removed the reminder after the hotspot enabled
-    ● Added a switch of swipe down on home screen for global search or notification center
-    ● Removed the prompt while rooted
+    ● Android security patch: November, 2019
+    **Touch**:
+    ● Fixed touch not respond issue
     * Android version: Android 9.0
   codename: RMX1941EX
-  date: 25/10/2019
+  date: 2/12/2019
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0180_all_8J8Oxh6i4vvr.ozip
-  md5: 42aee1c9575ae2850738286cccc34efa
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0200_all_LdSv1orwTJAU.ozip
+  md5: 21351144a17ec2dc5a98d5a00794cfb6
   region: India
-  size: 1.97GB
+  size: 1.98GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.18
+  version: RMX1941EX_11.A.20
 - changelog: |
     **Security**:
     ● Android security patch: November, 2019
@@ -350,23 +358,6 @@
   size: 2.14GB
   system: ColorOS 6.0
   version: CPH1861EX_11_C.45
-- changelog: |
-    **Camera**:
-    ● Optimized nightscape quality of rear camera
-    ● Optimized camera quality of HDR
-    **Display**:
-    ● Optimized 90Hz display logic
-    **System**:
-    ●Fixed partial known issues, improved system stability
-  codename: RMX1931EX
-  date: 29/11/2019
-  device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0070_all_pPnzkNE5pNia.ozip
-  md5: 6ac336bdcdd23eb4410fe32654b762b0
-  region: India
-  size: 3.06GB
-  system: ColorOS 6.1
-  version: RMX1931EX_11_A.07
 - changelog: |
     **安全**:
     ● 更新11月份谷歌安全补丁

@@ -14,27 +14,20 @@
   version: RMX1931EX_11.A.06
 - changelog: |
     **Security**:
-    ● Android security patch: October, 2019
-    **Settings**:
-    ● Added Dark Mode
-    ● Added realme Laboratory
-    ● Added a switch of swipe down on home screen for global search or notification center
-    ● Added a switch of Notification Dot for updates
-    ● Removed the reminder after the hotspot enabled
-    ● Removed the prompt while rooted
-    ● Updated charging animation, showing more details
+    ● Android security patch: November, 2019
     **Camera**:
-    ● Added nightscape of front Camera
-    ● Optimized partial AF out of focus
+    ● Optimized nightscape quality of front camera
+    **Known issue fixed**:
+    ● Fixed the issue that the background of the WhatsApp dialog interface is not clear with dark mode
   codename: RMX1993EX
-  date: 14/11/2019
+  date: 2/12/2019
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0150_all_BEtWFa2mvn83.ozip
-  md5: 7300ec49c17bec700f33cc6b041281ca
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0160_all_bEdlmdxqYETs.ozip
+  md5: 6257c1182e5f62eff0bdd372655d44b3
   region: Europe
   size: 2.55GB
   system: ColorOS 6.1
-  version: RMX1993EX_11.A.15
+  version: RMX1993EX_11.A.16
 - changelog: |
     **Security**:
     ● Android security patch: November, 2019

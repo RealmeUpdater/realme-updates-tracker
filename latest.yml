@@ -243,29 +243,26 @@
   version: RMX1821EX_11.A.24
 - changelog: |
     **Security**:
-    ● Android security patch: October, 2019
-    **System**:
-    ● Added Dark Mode
-    ● Added realme laboratory
-    ● Added data switch in notification pannel
-    ● App cloner support more third-party applications
-    ● Added manual lock function by long press the power button
-    ● Added Google Digital Wellbeing
-    **User Interface**:
-    ● Optimized some of system interface
-    ● Redesigned the notification center style
-    **Camera**:
-    ● Partial scene camera effect optimization
+    ● Android security patch: December, 2019
+    **Notification Center and Status Bar**:
+    ● Added fast switch toggles of dark mode in notification center
+    **Settings**:
+    ● Added flash on call feature
+    **Launcher**:
+    ● Added click the blank area to back to the launcher on recent task interface
+    **Known issue fixed**:
+    ● Fixed the issue of the volume bar blocked by the camera while horizontal status
+    ● Fixed the issue that the background of the WhatsApp dialog interface is not clear with dark mode
     * Android version: Android 9.0
   codename: RMX1831EX
-  date: 22/10/2019
+  date: 10/12/2019
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0150_all_GXNXk3tGd3Zv.ozip
-  md5: 8BC10E70AE241495BC872E329756D3DE
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0160_all_awTNNeGS5nwf.ozip
+  md5: 58FC72386E4E845A136667A1DEDFD
   region: India
-  size: 2.05GB
+  size: 2.06GB
   system: ColorOS 6.0
-  version: RMX1831EX_11_C.15
+  version: RMX1831EX_11_C.16
 - changelog: |
     **Security**:
     ● Android security patch: November, 2019
@@ -346,27 +343,23 @@
   version: RMX1805EX_11_A.62
 - changelog: |
     **Security**:
-    ● Android security patch: October, 2019
-    **System**:
-    ● Added Dark Mode
-    ● Added realme laboratory
-    ● Added data switch in notification pannel
-    ● App cloner support more third-party applications
-    ● Added manual lock function by long press the power button
-    ● Added Google Digital Wellbeing
-    **User Interface**:
-    ● Optimized some of system interface
-    ● Redesigned the notification center style
+    ● Android security patch: December, 2019
+    **Notification Center and Status Bar**:
+    ● Added fast switch toggles of dark mode in notification center
+    **Settings**:
+    ● Added flash on call feature
+    **Launcher**:
+    ● Added click the blank area to back to the launcher on recent task interface
     * Android version: Android 9.0
   codename: CPH1861EX
-  date: 22/10/2019
+  date: 11/12/2019
   device: realme 1
-  download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0450_all_z2Uf9mzfYIaT.ozip
-  md5: 619BA2EAF663DD9C32B9E8586799C9E3
+  download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0460_all_Kk9QYZhhbPlJ.ozip
+  md5: 1E8764570F1EF5AD73880006A215DAF6
   region: India
-  size: 2.14GB
+  size: 2.15GB
   system: ColorOS 6.0
-  version: CPH1861EX_11_C.45
+  version: CPH1861EX_11_C.46
 - changelog: |
     **安全**:
     ● 更新11月份谷歌安全补丁

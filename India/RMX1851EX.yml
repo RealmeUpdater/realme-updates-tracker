@@ -1,26 +1,21 @@
 changelog: |
   **Security**:
-  ● Android security patch: October, 2019
-  **System**:
-  ● Added Dark Mode
-  ● Updated charging animation
-  ● Added fast switch toggles between SIM in notification center
+  ● Android security patch: December，2019
+  **Launcher**:
+  ● Added click the blank area to back to the launcher on recent task interface
   **Notification Center and Status Bar**:
-  ● Removed the reminder after the hotspot enabled
-  ● Removed the prompt while rooted
-  ● Added a switch of swipe down on home screen for global search or notification center
-  **Setting**:
-  ● Added realme Laboratory
-  ● Added a switch of notification dot for updates
-  **Touch**:
-  ● Updated firmware version to optimize game experience
+  ● Added fast switch toggles of dark mode in notification cente
+  **Settings**:
+  ● Added flash on call feature
+  **Known issue fixed**:
+  ● Fixed the issue of the volume bar blocked by the camera while horizontal status
   * Android version: Android 9.0
 codename: RMX1851EX
-date: 31/10/2019
+date: 13/12/2019
 device: realme 3 Pro
-download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0200_all_32zXRdOSuPB1.ozip
-md5: 92D5D6E8EBFE4651C01C16DA56EC5F0A
+download: https://download.c.realme.com/osupdate/RMX1851EX_11_A.21_OTA_0210_all_201912092010.ozip
+md5: EA4F2E126F7D123FF07737469CBC2DF7
 region: India
 size: 2.74GB
 system: ColorOS 6.0
-version: RMX1851EX_11.A.20
+version: RMX1851EX_11.A.21

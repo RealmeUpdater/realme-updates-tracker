@@ -17,30 +17,24 @@
   version: RMX1931EX_11_A.07
 - changelog: |
     **Security**:
-    ● Android security patch: November, 2019
+    ● Android security patch: December, 2019
+    **Notification Center and Status Bar**:
+    ● Added fast switch toggles of dark mode in notification center
     **Camera**:
-    ● Added nightscape of front camera
-    ● Optimized photo clarity while using WhatsApp
-    ● Optimized wide-angle video quality of rear camera
-    ● Optimized the noise in dark environments
-    ● Optimized the clarity of the ULTRA 64 MP mode
-    ● Fixed the crash issue while switching to ULTRA 64 MP mode
-    ● Optimized camera quality reddish issue
-    **Fingerprint**:
-    ● Improved fingerprints recognition probability
-    **Known issue Fixed**:
-    ● Fixed the issue that could not registered VoWiFi to partial carrier
-    ● Fixed partial display issue
-    ● Fixed partial applications (such as Google Suite)crash issue
+    ● Updated nightscape algorithm of font camera, fixed the probabilistic black spot issue
+    **Theme Store**:
+    ● Updated font change supporting in Theme Store
+    **Known issue fixed**:
+    ● Fixed the issue of app startup animation splash screen when white wallpaper
   codename: RMX1921EX
-  date: 20/11/2019
+  date: 18/12/2019
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0130_all_FjPhN3YP2XVI.ozip
-  md5: 3BF142FAC8640F5FABD4C861336A6165
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0140_all_E3AXU57FyHZr.ozip
+  md5: F932CE7759B0B2275F3AFCFFE520868E
   region: India
-  size: 2.85GB
+  size: 2.84GB
   system: Color OS 6.0.1
-  version: RMX1921EX_11.A.13
+  version: RMX1921EX_11.A.14
 - changelog: |
     **Security**:
     ● Android security patch: November, 2019

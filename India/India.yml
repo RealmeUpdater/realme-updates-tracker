@@ -21,7 +21,7 @@
     **Notification Center and Status Bar**:
     ● Added fast switch toggles of dark mode in notification center
     **Camera**:
-    ● Updated nightscape algorithm of font camera, fixed the probabilistic black spot issue
+    ● Updated nightscape algorithm of front camera, fixed the probabilistic black spot issue
     **Theme Store**:
     ● Updated font change supporting in Theme Store
     **Known issue fixed**:

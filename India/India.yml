@@ -182,19 +182,25 @@
   version: RMX1851EX_11.A.21
 - changelog: |
     **Security**:
-    ● Android security patch: November, 2019
-    **Touch**:
-    ● Fixed touch not respond issue
+    ● Android security patch: December，2019
+    **Launcher**:
+    ● Added click the blank area to back to the launcher on recent task interface
+    **Notification Center and Status Bar**:
+    ● Added fast switch toggles of dark mode in notification center
+    **Settings**:
+    ● Added flash on call feature
+    **Known issue fixed**:
+    ● Fixed the issue of the volume bar blocked by the camera while horizontal status
     * Android version: Android 9.0
   codename: RMX1941EX
-  date: 2/12/2019
+  date: 19/12/2019
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0200_all_LdSv1orwTJAU.ozip
-  md5: 21351144a17ec2dc5a98d5a00794cfb6
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0210_all_WBbnkGFmFuPz_local.ozip
+  md5: 6afcf0dffe4b2a878cda9fc5fb90cd06
   region: India
   size: 1.98GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.20
+  version: RMX1941EX_11.A.21
 - changelog: |
     **Security**:
     ● Android security patch: November, 2019

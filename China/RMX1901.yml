@@ -1,25 +1,15 @@
 changelog: |
   **安全**:
-  ● 更新11月份安全补丁
+  ● 更新12月份安全补丁
   **桌面**:
-  ● 近期任务界面点击空白区域返回桌面
-  **通知中心与状态栏**:
-  ● 新增暗色模式快速切换开关
-  **设置**:
-  ● 来电闪光灯功能
-  **修复的已知问题**:
-  ● 暗色模式下，WhatsApp应用的对话背景看不清的问题
-  ● 修复暗色模式切换后杀掉微信进程的问题
-  ● 修复了省电模式关闭杜比音效播放音乐时声音较小的问题
-  ● 修复游戏退出后，上滑手势进入多任务界面，使用一键清理，多次点击有报点无响应
-  ● 修复手机数据使用VPN工具下载贴纸，提示网络连接失败
+  ● 增加realme社区应用
   * Android 版本：Android 9.0
 codename: RMX1901
-date: 22/11/2019
+date: 20/12/2019
 device: realme X
-download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_0210_all_GBJrVUBbVbdA.ozip
-md5: AEEFF52A2CAEDD643DBBFC32593E12A5
+download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_0220_all_JjApoV8ryJBl.ozip
+md5: 2A6A0413EF175289445D27E051A0FDEF
 region: China
 size: 2.42GB
 system: ColorOS 6.0
-version: RMX1901_11_A.21
+version: RMX1901_11_A.22

@@ -1,23 +1,23 @@
 changelog: |
   **安全**:
-  ● 合入11月谷歌安全补丁
+  ● 合入12月谷歌安全补丁
   **相机**:
-  ● 增加前置超级夜景功能
-  ● 优化成像偏红问题
-  ● 优化连拍噪点较多的问题
-  **游戏**:
-  ● 优化王者荣耀概率性丢帧的问题
+  ● 更新前置超级夜景算法库，修复概率性黑块问题
+  **通知中心和状态栏**:
+  ● 增加暗色模式快捷开关
   **功耗**:
-  ● 部分视频场景耗电优化
+  ● 优化部分游戏场景功耗，如王者荣耀、和平精英
+  **桌面和设置**:
+  ● 近期任务界面点击空白区域返回桌面
+  ● 增加来电闪光灯功能
   **修复已知问题**:
-  ● 修复西瓜视频横屏播放splash卡住的问题
-  ● 修复插入type-C数字耳机后来电，没有外放铃声的问题
+  ● 修复QCY T5耳机无法重连问题
 codename: RMX1971
-date: 13/11/2019
+date: 21/12/2019
 device: realme Q
-download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_0100_all_CSvO3xokVQUP.ozip
-md5: EC67E95C111CDF4BA28DA92D977CD6D4
+download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_0110_all_i2i6Op4QWSY5.ozip
+md5: 974F53738EC8AD59F93F334032DE312D
 region: China
-size: 2.39GB
+size: 2.41GB
 system: ColorOS 6.0
-version: RMX1971_11.A.10
+version: RMX1971_11_A.11

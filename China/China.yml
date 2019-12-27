@@ -1,27 +1,27 @@
 - changelog: |
     **安全**:
-    ● 更新11月份谷歌安全补丁
+    ● 更新12月份谷歌安全补丁
+    **桌面**:
+    ● 近期任务界面点击空白区域返回桌面
+    **通知中心与状态栏**:
+    ● 新增暗色模式快速切换开关
+    **设置**:
+    ● 来电闪光灯功能
     **相机**:
-    ● 修复前置超级夜景概率性噪点异常的问题
-    ● 优化前置超级夜景效果
-    ● 优化夜景效果
-    ● 优化HDR拍照效果
-    ● 优化闪光灯偏红的问题
-    **显示**:
-    ● 修复自动息屏概率性会闪屏的问题
-    **系统**:
-    ● 优化90Hz显示逻辑
-    ● 优化内存管理
-    ● 优化游戏时三指截屏体验
+    ● 新增视频HDR功能
+    **修复**:
+    ● 修复在耗电详情页面QQ耗电量异常问题
+    ● 修复闪光灯状态下拍照过曝问题
+    ● 优化微信通话画质
   codename: RMX1931
-  date: 25/11/2019
+  date: 24/12/2019
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_0120_all_TiGsJLyPfh9j.ozip
-  md5: 3a2b14dffe644c89be3ed841efae72df
+  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_0130_all_3jeZN7pIEWts_local.ozip
+  md5: 1ce985ed08a44e5b333e8a515bb85316
   region: China
   size: 2.50GB
   system: ColorOS 6.1
-  version: RMX1931_11_A.12
+  version: RMX1931_11.A.13
 - changelog: |
     **安全**:
     ● 合入11月份安全补丁

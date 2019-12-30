@@ -1,25 +1,15 @@
 changelog: |
   **Security**:
-  ● Android security patch: November, 2019
-  **Launcher**:
-  ● Added click the blank area to back to the launcher on recent task interface
-  **Notification Center and Status Bar**:
-  ● Added dark mode fast switch toggles in notification center
-  **Settings**:
-  ● Added flash on call feature
-  **Known issues fixed**:
-  ● Fixed the contents is not clear of the dialog of the WhatsApp while enabled the dark mode
-  ● Fixed the WeChat process been shut after dark mode enabled
-  ● Fixed volume lower when playing music after the power saving mode turned off the Dolby
-  ● Fixed touch not responding issue after the exit game
-  ● Fixed issue of download the sticker shows the network connection failed with data via VPN tools
+  ● Android security patch: December, 2019
+  **Known issue fixed**:
+  ● Fixed partial known issue, improved system stability.
   * Android version: Android 9.0
 codename: RMX1901EX
-date: 26/11/2019
+date: 30/12/2019
 device: realme X
-download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0100_all_S3IpHN2fYjiN.ozip
-md5: C71798919DEB9DE9F6522C45423F4F52
+download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0110_all_ahSrsX4WkOsX.ozip
+md5: 943DC60BFCF245B9BE569021D723091F
 region: India
 size: 2.79GB
 system: ColorOS 6.0
-version: RMX1901EX_11_A.10
+version: RMX1901EX_11_A.11

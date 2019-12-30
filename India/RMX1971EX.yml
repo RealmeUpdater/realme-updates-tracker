@@ -1,24 +1,26 @@
 changelog: |
   **Security**:
-  ● Android security patch: November, 2019
+  ● Android security patch: December, 2019
+  **System**:
+  ● Added click the blank area to back to the launcher on recent task interface
+  ● Clone Apps support more third-party applications（Twitter、Freecharge、Zomato、Swiggy、Snapchat）
+  ● Added flash on call feature
+  **Notification Center and Status Bar**:
+  ● Added fast switch toggles of dark mode in notification center
+  **Theme Store**:
+  ● Updated font change supporting in Theme Store
   **Camera**:
-  ● Added nightscape of front camera
-  ● Optimize the noise in dark environments
-  ● Optimized camera quality reddish issue
-  ● Optimized camera clarity
-  **Game**:
-  ● Optimized frame dropping of Arena of Valor
-  **Power consumption**:
-  ● Optimized the power consumption of partial video scenes
+  ● Updated nightscape algorithm of front camera, fixed the probabilistic black spot issue
   **Known issue fixed**:
-  ● Fixed carrier network issues in partial areas
-  ● Fixed the full-screen display notch area shows the prompt information error issue
+  ● Fixed the issue of low probability of crashing when long press on desktop icon to clear storage usage
+  ● Fixed a low probability of phone manager crashing when the screen is automatically landscaped
+  ● Fixed the issue that English is selected in the time zone interface in Hindi
 codename: RMX1971EX
-date: 19/11/2019
+date: 30/12/2019
 device: realme 5 Pro
-download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0130_all_eKIFcPdqX9wL.ozip
-md5: 101955B1BC2D5E5123D6E4E8CF10FCED
+download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0150_all_6iKB9nLjVZau.ozip
+md5: 840B06E857C649ECA07424FA513CF3A0
 region: India
-size: 2.81GB
+size: 2.82GB
 system: ColorOS 6.0
-version: RMX1971EX_11_A.13
+version: RMX1971EX_11_A.15

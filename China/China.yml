@@ -24,25 +24,26 @@
   version: RMX1931_11.A.13
 - changelog: |
     **安全**:
-    ● 合入11月份安全补丁
-    **相机**:
-    ● 优化前置超级夜景效果
-    **音频**:
-    ● 优化部分三方应用录音效果
+    ● 合入12月份安全补丁
+    **功耗**:
+    ● 优化部分场景下的待机功耗
+    **通知中心与状态栏**:
+    ● 新增暗色模式快速切换开关
+    ● 新增个人热点消耗流量显示
     **修复**:
-    ● 优化AirPods连接后默认音量过低的问题
-    ● 优化距离比较远，Breeno语音助手概率性无法响应语音指令问题
-    ● 解决从近期任务启动王者荣耀，和平精英闪一下的问题
-    ● 解决连接部分路由器，连接速度显示不正确问题
+    ● 解决千牛应用后台收不到消息问题
+    ● 解决与部分智能摄像头连接，远程控制无声音问题
+    ● 解决连接Airpods2代蓝牙耳机，声音偏小问题
+    ● 修复游戏空间无法使用VPN和不显示网络延迟问题
   codename: RMX1991
-  date: 15/11/2019
+  date: 27/12/2019
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_0120_all_LXDfO9ZnkCQQ.ozip
-  md5: 0fa446cd6ae3d2ab5513eafe83dc9270
+  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_0140_all_RfH5a5t2Kegi.ozip
+  md5: ef41f2f2c430bbe00320494a019fd345
   region: China
-  size: 2.34GB
+  size: 2.33GB
   system: ColorOS 6.1
-  version: RMX1991_11.A.12
+  version: RMX1991_11_A.14
 - changelog: |
     **安全**:
     ● 合入12月谷歌安全补丁

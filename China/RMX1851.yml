@@ -1,24 +1,22 @@
 changelog: |
   **安全**:
-  ● 更新10月份安全补丁
+  ● 更新12月份安全补丁
   **桌面**:
-  ● 重新设计日期、天气插件
-  ● 优化锁屏时钟插件设计
-  ● 优化负一屏设计
-  **系统**:
-  ● 新增暗色模式
-  ● 调整充电样式
+  ● 增加realme社区应用APP
+  ● 近期任务界面点击空白区域返回桌面
+  **通知中心与状态栏**:
+  ● 新增暗色模式快速切换开关
   **设置**:
-  ● 提供快捷开关，切换流量卡
-  **触屏**:
-  ● 更新固件版本优化游戏体验
+  ● 来电闪光灯功能
+  **修复已知问题**:
+  ● 横屏下显示音量条被摄像头遮挡
   * Android 版本：Android 9.0
 codename: RMX1851
-date: 21/10/2019
+date: 30/12/2019
 device: realme X青春版
-download: https://download.c.realme.com/osupdate/RMX1851_11_OTA_0090_all_fP347OTiwlci.ozip
-md5: EFDECBAB479C698564B1838D2328EA0D
+download: https://download.c.realme.com/osupdate/RMX1851_11_OTA_0100_all_5nakuisjSnpf.ozip
+md5: B8839336558A1008CEFE6979FDF029EE
 region: China
 size: 2.36GB
 system: ColorOS 6.0
-version: RMX1851_11.A.09
+version: RMX1851_11.A.10

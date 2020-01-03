@@ -1,0 +1,27 @@
+changelog: |
+  **Security**:
+  ● Android security patch: December, 2019
+  **Audio**:
+  ● Optimized the voice call quality of the third-party application
+  **Camera**:
+  ● Optimized nightscape quality of front camera
+  **Theme store**:
+  ● Updated font change supporting in Theme Store
+  **Notification Center and Status Bar**:
+  ● Added dark mode fast switch toggles in notification center
+  ● Added personal hotspot data consumption display
+  **Power consumption**:
+  ● Optimized standby power consumption in partial scenarios
+  **Known issue fixed**:
+  ● Fixed the issue of low sound when connected to AirPods2 headset
+  ● Fixed the problem that the background of the WhatsApp application dialog is not clear in dark mode
+  ● Fixed the issue of camera overexposure in some scenes
+codename: RMX1992EX
+date: 03/01/2020
+device: realme X2
+download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_0170_all_cejQEPD5hd0c.ozip
+md5: 3e64a473eae2eb3055ebc0095a7641f3
+region: India
+size: 2.55GB
+system: ColorOS 6.1
+version: RMX1992EX_11.A.17

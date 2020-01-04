@@ -26,22 +26,27 @@
   system: ColorOS 6.1
   version: RMX1992EX_11.A.17
 - changelog: |
+    **Security**:
+    ● Android security patch: December, 2019
+    **Launcher**:
+    **Added click the blank area to back to the launcher on recent task interface**:
+    **Notification Center and Status Bar**:
+    ● Added fast switch toggles of dark mode in notification center
+    **Settings**:
+    ● Added flash on call feature
     **Camera**:
-    ● Optimized nightscape quality of rear camera
-    ● Optimized camera quality of HDR
-    **Display**:
-    ● Optimized 90Hz display logic
-    **System**:
-    ●Fixed partial known issues, improved system stability
+    ● Added HDR feature of video mode
+    **Known issue fixed**:
+    ● Fixed partial issues to improve stability
   codename: RMX1931EX
-  date: 29/11/2019
+  date: 4/1/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0070_all_pPnzkNE5pNia.ozip
-  md5: 6ac336bdcdd23eb4410fe32654b762b0
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0080_all_ZPSMKJmsn9jM.ozip
+  md5: de061ab27277b0cf5ba734892c6107f5
   region: India
-  size: 3.06GB
+  size: 3.07GB
   system: ColorOS 6.1
-  version: RMX1931EX_11_A.07
+  version: RMX1931EX_11_A.08
 - changelog: |
     **Security**:
     ● Android security patch: December, 2019

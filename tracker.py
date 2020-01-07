@@ -53,6 +53,8 @@ def parse_html(html: list) -> list:
     for item in html:
         title_tag = item.select_one("h3.software-mobile-title")
         title = title_tag.text.strip().replace('  ', ' ')
+        if "真我" in title:
+            title = title.replace("真我", "realme ")
         region = set_region(title_tag.a["href"])
         _system = item.select_one("div.software-system").text.strip()
         codename = ""

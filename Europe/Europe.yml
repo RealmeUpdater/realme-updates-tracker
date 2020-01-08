@@ -14,20 +14,23 @@
   version: RMX1931EX_11.A.06
 - changelog: |
     **Security**:
-    ● Android security patch: November, 2019
-    **Camera**:
-    ● Optimized nightscape quality of front camera
+    ● Android security patch: December, 2019
+    **Power consumption**:
+    ● Optimized standby power consumption in partial scenarios
+    **Notification Center and Status Bar**:
+    ● Added dark mode fast switch toggles in notification center
+    ● Added personal hotspot data consumption display
     **Known issue fixed**:
-    ● Fixed the issue that the background of the WhatsApp dialog interface is not clear with dark mode
+    ● Fixed the issue of low sound when connected to AirPods2 headset
   codename: RMX1993EX
-  date: 2/12/2019
+  date: 7/1/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0160_all_bEdlmdxqYETs.ozip
-  md5: 6257c1182e5f62eff0bdd372655d44b3
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0170_all_Op1ux9LsrKXh.ozip
+  md5: 4ae086063e53cd21fa770aa1071932e7
   region: Europe
   size: 2.55GB
   system: ColorOS 6.1
-  version: RMX1993EX_11.A.16
+  version: RMX1993EX_11.A.17
 - changelog: |
     **Security**:
     ● Android security patch: November, 2019

@@ -1,0 +1,17 @@
+changelog: |
+  **Security**:
+  ● Android security patch: November, 2019
+  **Notification bar**:
+  ● Added fast switch toggles of dark mode in notification center
+  **Known issue fixed**:
+  ● Fixed low Probability issue of touch not respond when inserting headphones
+  ● Fixed the auto reboot issue with low probability
+codename: RMX1911EX
+date: 2/12/2019
+device: realme 5
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0200_all_jMIjTV5gLY1O.ozip
+md5: BFB53D1A4ECFB046F41286C58EA90297
+region: Europe
+size: 2.53GB
+system: ColorOS 6.0.1
+version: RMX1911EX_11_A.20

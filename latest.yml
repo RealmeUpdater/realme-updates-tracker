@@ -364,21 +364,17 @@
   system: ColorOS 6.0
   version: CPH1861EX_11_C.46
 - changelog: |
-    **系统**:
-    ● 优化系统性能和系统稳定性，使用更流畅
-    **相机**:
-    ● 优化相机参数，提升拍照效果
     **通信**:
     ● 优化网络兼容性，提升通话体验
   codename: RMX2051
-  date: 06/01/2020
+  date: 08/01/2020
   device: realme X50
-  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0050_all_dJTNmEnBfBRq.ozip
-  md5: 097634FB7FFACBC9F1C368D14B507FFF
+  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0060_all_od4sFX24eeB5.ozip
+  md5: B00B08C2896E5EBBB6B833188F99A2E3
   region: China
   size: 3.46GB
   system: realme UI V1.0
-  version: RMX2051_11.A.05
+  version: RMX2051_11.A.06
 - changelog: |
     **安全**:
     ● 更新12月份谷歌安全补丁

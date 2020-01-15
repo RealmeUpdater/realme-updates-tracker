@@ -1,6 +1,23 @@
 - changelog: |
     **Security**:
     ● Android security patch: December, 2019
+    **Camera**:
+    ● Optimized the issue of redness in front camera
+    ● Improved clarity of wide-angle
+    **Known issue fixed**:
+    ● Fixed Low probability silent issue of gaming when plug in headphones after unplug headphones
+  codename: RMX2030EX
+  date: 14/1/2020
+  device: realme 5i
+  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0140_all_z9lv8xlx1jQ6.ozip
+  md5: 5CFB5A10D8DAD6143ED56AB905E7AE8F
+  region: India
+  size: 2.59GB
+  system: ColorOS 6.0.1
+  version: RMX2030EX_11_A.14
+- changelog: |
+    **Security**:
+    ● Android security patch: December, 2019
     **Audio**:
     ● Optimized the voice call quality of the third-party application
     **Camera**:

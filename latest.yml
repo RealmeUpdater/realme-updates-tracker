@@ -155,39 +155,22 @@
   version: RMX1901EX_11_A.11
 - changelog: |
     **Security**:
-    ● Android security patch: November, 2019
+    ● Android security patch: January, 2020
     **System**:
-    ● Added the manual lock feature by long press the power button
-    ● Customizable data consumed reminder
-    ● Updated charging animation
-    **Settings**:
-    ● Added realme Laboratory
-    ● Added Dark Mode
-    ● Added Google Digital Wellbeing
-    ● Updated battery interface display the screen on time
-    ● Added a switch of notification dot for updates
-    ● Clone Apps support more third-party applications (PayTM, PhonePe, Amazon, Flipkart)
-    **Launcher**:
-    ● Optimized lock screen clock widget design
-    ● Added date and weather widget
-    ● Optimized Smart Assistant interface
+    ● Added flash on call feature
+    ● Added click the blank area to back to the launcher on recent task interface
     **Notification Center and Status Bar**:
-    ● Redesigned the notification center style
-    ● Swipe left or right to remove the message prompt after receiving the message
-    ● Added fast switch toggles between SIM in notification center
-    ● Removed the reminder after the hotspot enabled
-    ● Added a switch of swipe down on home screen for global search or notification center
-    ● Removed the prompt while rooted
+    ● Added fast switch toggles of dark mode in notification center
     * Android version: Android 9.0
   codename: RMX1821EX
-  date: 12/11/2019
+  date: 16/1/2020
   device: realme 3i
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0240_all_0xuPkDv32XPW.ozip
-  md5: 9cb400ab57bb1b545f0f784e8e9a7213
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0250_all_SfTosS1hFjiC.ozip
+  md5: 0FDD5278BC5283D4B4AF407798A26F87
   region: India
   size: 2.04GB
   system: ColorOS 6.0
-  version: RMX1821EX_11.A.24
+  version: RMX1821EX_11.A.25
 - changelog: |
     **Security**:
     ● Android security patch: December，2019
@@ -232,39 +215,22 @@
   version: RMX1941EX_11.A.21
 - changelog: |
     **Security**:
-    ● Android security patch: November, 2019
+    ● Android security patch: January, 2020
     **System**:
-    ● Added the manual lock feature by long press the power button
-    ● Customizable data consumed reminder
-    ● Updated charging animation
-    **Settings**:
-    ● Added realme Laboratory
-    ● Added Dark Mode
-    ● Added Google Digital Wellbeing
-    ● Updated battery interface display the screen on time
-    ● Added a switch of notification dot for updates
-    ● Clone Apps support more third-party applications (PayTM, PhonePe, Amazon, Flipkart)
-    **Launcher**:
-    ● Optimized lock screen clock widget design
-    ● Added date and weather widget
-    ● Optimized Smart Assistant interface
+    ● Added flash on call feature
+    ● Added click the blank area to back to the launcher on recent task interface
     **Notification Center and Status Bar**:
-    ● Redesigned the notification center style
-    ● Swipe left or right to remove the message prompt after receiving the message
-    ● Added fast switch toggles between SIM in notification center
-    ● Removed the reminder after the hotspot enabled
-    ● Added a switch of swipe down on home screen for global search or notification center
-    ● Removed the prompt while rooted
+    ● Added fast switch toggles of dark mode in notification center
     * Android version: Android 9.0
   codename: RMX1821EX
-  date: 12/11/2019
+  date: 16/1/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0240_all_0xuPkDv32XPW.ozip
-  md5: 9cb400ab57bb1b545f0f784e8e9a7213
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0250_all_SfTosS1hFjiC.ozip
+  md5: 0FDD5278BC5283D4B4AF407798A26F87
   region: India
   size: 2.04GB
   system: ColorOS 6.0
-  version: RMX1821EX_11.A.24
+  version: RMX1821EX_11.A.25
 - changelog: |
     **Security**:
     ● Android security patch: December, 2019
@@ -289,32 +255,19 @@
   version: RMX1831EX_11_C.16
 - changelog: |
     **Security**:
-    ● Android security patch: November, 2019
+    ● Android security patch: January，2020
     **System**:
-    ● Updated charging animation
-    ● Updated font change supporting in Theme Store
-    **Settings**:
-    ● Added realme Laboratory
-    ● Added Dark Mode
-    ● Added a switch of notification dot for updates
-    **Notification Center and Status Bar**:
-    ● Added a switch of swipe down on home screen for global search or notification center
-    ● Added fast switch toggles between SIM in notification center
-    ● Removed the reminder after the hotspot enabled
-    ● Removed the prompt while rooted
-    ● Swipe left or right to remove the message prompt after receiving the message
-    **Known issue fixed**:
-    ● Fixed probabilistic crashes of partial applications
+    ● Fixed some known bugs and improved system stability
     * Android version: Android 9.0
   codename: RMX1805EX
-  date: 18/11/2019
+  date: 16/1/2020
   device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0620_all_5LzJBzpmMdR3.ozip
-  md5: 7437AED1C3CF23DAD5FAB08F2E9C9F72
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0630_all_j1XMqwvdqBSi.ozip
+  md5: E80C17D93C687B3B2BE8829898CCE913
   region: India
-  size: 2.07GB
+  size: 2.06GB
   system: ColorOS 6.0
-  version: RMX1805EX_11_A.62
+  version: RMX1805EX_11_A.63
 - changelog: |
     **Security**:
     ● Android security patch: January, 2020
@@ -335,32 +288,19 @@
   version: RMX1801EX_11_C.26
 - changelog: |
     **Security**:
-    ● Android security patch: November, 2019
+    ● Android security patch: January，2020
     **System**:
-    ● Updated charging animation
-    ● Updated font change supporting in Theme Store
-    **Settings**:
-    ● Added realme Laboratory
-    ● Added Dark Mode
-    ● Added a switch of notification dot for updates
-    **Notification Center and Status Bar**:
-    ● Added a switch of swipe down on home screen for global search or notification center
-    ● Added fast switch toggles between SIM in notification center
-    ● Removed the reminder after the hotspot enabled
-    ● Removed the prompt while rooted
-    ● Swipe left or right to remove the message prompt after receiving the message
-    **Known issue fixed**:
-    ● Fixed probabilistic crashes of partial applications
+    ● Fixed some known bugs and improved system stability
     * Android version: Android 9.0
   codename: RMX1805EX
-  date: 18/11/2019
+  date: 16/1/2020
   device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0620_all_5LzJBzpmMdR3.ozip
-  md5: 7437AED1C3CF23DAD5FAB08F2E9C9F72
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0630_all_j1XMqwvdqBSi.ozip
+  md5: E80C17D93C687B3B2BE8829898CCE913
   region: India
   size: 2.07GB
   system: ColorOS 6.0
-  version: RMX1805EX_11_A.62
+  version: RMX1805EX_11_A.63
 - changelog: |
     **Security**:
     ● Android security patch: December, 2019
@@ -381,17 +321,30 @@
   system: ColorOS 6.0
   version: CPH1861EX_11_C.46
 - changelog: |
+    **安全**:
+    ● 更新谷歌安全补丁到1月份
     **通信**:
-    ● 优化网络兼容性，提升通话体验
+    ● 修复部分场景掉网和低概率重启问题，提升网络稳定性
+    **相机效果**:
+    ● 优化后置相机清晰度和噪点
+    ● 优化超级夜景模式概率拍出的照片偏暗问题
+    ● 优化超级防抖亮度和清晰度
+    ● 修复前置人像拍照后，点击界面插件概率无响应问题
+    **修复**:
+    ● 修复待机唤醒时小概率黑屏卡死问题
+    ● 修复开启云同步后朋友圈无法刷出图片问题
+    ● 修复部分场景下指纹解锁失效问题
+    ● 修复人脸解锁时概率性闪现锁屏界面的问题
+    ● 修复搬家过程中概率断开连接的问题
   codename: RMX2051
-  date: 08/01/2020
+  date: 16/01/2020
   device: realme X50
-  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0060_all_od4sFX24eeB5.ozip
-  md5: B00B08C2896E5EBBB6B833188F99A2E3
+  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0070_all_0YzfJZI54Y9I.ozip
+  md5: 1080AD7D3A7181C533EB69F6E553A793
   region: China
-  size: 3.46GB
+  size: 3.47GB
   system: realme UI V1.0
-  version: RMX2051_11.A.06
+  version: RMX2051_11.A.07
 - changelog: |
     **安全**:
     ● 更新12月份谷歌安全补丁

@@ -1,12 +1,25 @@
 changelog: |
+  **安全**:
+  ● 更新谷歌安全补丁到1月份
   **通信**:
-  ● 优化网络兼容性，提升通话体验
+  ● 修复部分场景掉网和低概率重启问题，提升网络稳定性
+  **相机效果**:
+  ● 优化后置相机清晰度和噪点
+  ● 优化超级夜景模式概率拍出的照片偏暗问题
+  ● 优化超级防抖亮度和清晰度
+  ● 修复前置人像拍照后，点击界面插件概率无响应问题
+  **修复**:
+  ● 修复待机唤醒时小概率黑屏卡死问题
+  ● 修复开启云同步后朋友圈无法刷出图片问题
+  ● 修复部分场景下指纹解锁失效问题
+  ● 修复人脸解锁时概率性闪现锁屏界面的问题
+  ● 修复搬家过程中概率断开连接的问题
 codename: RMX2051
-date: 08/01/2020
+date: 16/01/2020
 device: realme X50
-download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0060_all_od4sFX24eeB5.ozip
-md5: B00B08C2896E5EBBB6B833188F99A2E3
+download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0070_all_0YzfJZI54Y9I.ozip
+md5: 1080AD7D3A7181C533EB69F6E553A793
 region: China
-size: 3.46GB
+size: 3.47GB
 system: realme UI V1.0
-version: RMX2051_11.A.06
+version: RMX2051_11.A.07

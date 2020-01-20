@@ -70,7 +70,7 @@
     **Known issues fixed**:
     ● Fixed VoLTE call drop of Reliance JIO operator
   codename: RMX1921EX
-  date: 21/1/2020
+  date: 20/1/2020
   device: realme XT
   download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0160_all_CcmkxwAnmByA.ozip
   md5: 01A130420A343B9B1E8E22229D78E3EC
@@ -80,30 +80,19 @@
   version: RMX1921EX_11_A.16
 - changelog: |
     **Security**:
-    ● Android security patch: December, 2019
-    **System**:
-    ● Added click the blank area to back to the launcher on recent task interface
-    ● Clone Apps support more third-party applications（Twitter、Freecharge、Zomato、Swiggy、Snapchat）
-    ● Added flash on call feature
-    **Notification Center and Status Bar**:
-    ● Added fast switch toggles of dark mode in notification center
-    **Theme Store**:
-    ● Updated font change supporting in Theme Store
-    **Camera**:
-    ● Updated nightscape algorithm of front camera, fixed the probabilistic black spot issue
-    **Known issue fixed**:
-    ● Fixed the issue of low probability of crashing when long press on desktop icon to clear storage usage
-    ● Fixed a low probability of phone manager crashing when the screen is automatically landscaped
-    ● Fixed the issue that English is selected in the time zone interface in Hindi
+    ● Google Android security patch: January, 2020
+    **Known issues fixed**:
+    ● Fixed VoLTE call drop of Reliance JIO operator
+    ● Fixed the third-party sport app automatically cleaned up while it is locked in the background
   codename: RMX1971EX
-  date: 30/12/2019
+  date: 20/1/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0150_all_6iKB9nLjVZau.ozip
-  md5: 840B06E857C649ECA07424FA513CF3A0
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0160_all_gOztiTWijElq.ozip
+  md5: 96E6BD9CA7F5262F7054887641881EF1
   region: India
   size: 2.82GB
   system: ColorOS 6.0
-  version: RMX1971EX_11_A.15
+  version: RMX1971EX_11_A.16
 - changelog: |
     **Security**:
     ● Android security patch: December，2019

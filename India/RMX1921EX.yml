@@ -1,20 +1,14 @@
 changelog: |
   **Security**:
-  ● Android security patch: December, 2019
-  **Notification Center and Status Bar**:
-  ● Added fast switch toggles of dark mode in notification center
-  **Camera**:
-  ● Updated nightscape algorithm of front camera, fixed the probabilistic black spot issue
-  **Theme Store**:
-  ● Updated font change supporting in Theme Store
-  **Known issue fixed**:
-  ● Fixed the issue of app startup animation splash screen when white wallpaper
+  ● Google Android security patch: January, 2020
+  **Known issues fixed**:
+  ● Fixed VoLTE call drop of Reliance JIO operator
 codename: RMX1921EX
-date: 18/12/2019
+date: 21/1/2020
 device: realme XT
-download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0140_all_E3AXU57FyHZr.ozip
-md5: F932CE7759B0B2275F3AFCFFE520868E
+download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0160_all_CcmkxwAnmByA.ozip
+md5: 01A130420A343B9B1E8E22229D78E3EC
 region: India
-size: 2.84GB
+size: 2.85GB
 system: Color OS 6.0.1
-version: RMX1921EX_11.A.14
+version: RMX1921EX_11_A.16

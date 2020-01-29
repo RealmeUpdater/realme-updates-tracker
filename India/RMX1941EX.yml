@@ -1,21 +1,14 @@
 changelog: |
   **Security**:
-  ● Android security patch: December，2019
-  **Launcher**:
-  ● Added click the blank area to back to the launcher on recent task interface
-  **Notification Center and Status Bar**:
-  ● Added fast switch toggles of dark mode in notification center
-  **Settings**:
-  ● Added flash on call feature
-  **Known issue fixed**:
-  ● Fixed the issue of the volume bar blocked by the camera while horizontal status
-  * Android version: Android 9.0
+  ● Android security patch: January, 2020
+  **Whats app**:
+  ● Fixed video call restart issue of WhatsApp
 codename: RMX1941EX
-date: 19/12/2019
+date: 28/1/2020
 device: realme C2
-download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0210_all_WBbnkGFmFuPz_local.ozip
-md5: 6afcf0dffe4b2a878cda9fc5fb90cd06
+download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0230_all_PpMXej9hu6jv.ozip
+md5: 0a8681e31795decdf8fac652422865bb
 region: India
-size: 1.98GB
+size: 1.97GB
 system: ColorOS 6.0
-version: RMX1941EX_11.A.21
+version: RMX1941EX_11.A.23

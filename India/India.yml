@@ -35,26 +35,22 @@
   version: RMX1992EX_11.A.18
 - changelog: |
     **Security**:
-    ● Android security patch: December, 2019
-    **Launcher**:
-    **Added click the blank area to back to the launcher on recent task interface**:
-    **Notification Center and Status Bar**:
-    ● Added fast switch toggles of dark mode in notification center
-    **Settings**:
-    ● Added flash on call feature
-    **Camera**:
-    ● Added HDR feature of video mode
-    **Known issue fixed**:
-    ● Fixed partial issues to improve stability
+    ● Android security patch: January, 2020
+    **Network**:
+    ● Added Airtel and JIO VoWIFI
+    **System**:
+    ● Fixed partial known issues, and improved system stability
+    **Fixed**:
+    ● Fixed Instagram upload video failure
   codename: RMX1931EX
-  date: 4/1/2020
+  date: 28/1/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0080_all_ZPSMKJmsn9jM.ozip
-  md5: de061ab27277b0cf5ba734892c6107f5
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0090_all_ebXZK7dFVD1P.ozip
+  md5: 12a4561f05aa06fe7112c31217be47ca
   region: India
-  size: 3.07GB
+  size: 3.08GB
   system: ColorOS 6.1
-  version: RMX1931EX_11_A.08
+  version: RMX1931EX_11.A.09
 - changelog: |
     **Security**:
     ● Google Android security patch: January, 2020
@@ -168,25 +164,18 @@
   version: RMX1851EX_11.A.21
 - changelog: |
     **Security**:
-    ● Android security patch: December，2019
-    **Launcher**:
-    ● Added click the blank area to back to the launcher on recent task interface
-    **Notification Center and Status Bar**:
-    ● Added fast switch toggles of dark mode in notification center
-    **Settings**:
-    ● Added flash on call feature
-    **Known issue fixed**:
-    ● Fixed the issue of the volume bar blocked by the camera while horizontal status
-    * Android version: Android 9.0
+    ● Android security patch: January, 2020
+    **Whats app**:
+    ● Fixed video call restart issue of WhatsApp
   codename: RMX1941EX
-  date: 19/12/2019
+  date: 28/1/2020
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0210_all_WBbnkGFmFuPz_local.ozip
-  md5: 6afcf0dffe4b2a878cda9fc5fb90cd06
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0230_all_PpMXej9hu6jv.ozip
+  md5: 0a8681e31795decdf8fac652422865bb
   region: India
-  size: 1.98GB
+  size: 1.97GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.21
+  version: RMX1941EX_11.A.23
 - changelog: |
     **Security**:
     ● Android security patch: January, 2020

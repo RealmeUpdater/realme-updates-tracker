@@ -1,14 +1,70 @@
 changelog: |
-  **Security**:
-  ● Google Android security patch: January, 2020
-  **Known issues fixed**:
-  ● Fixed VoLTE call drop of Reliance JIO operator
+  **[Visuals]**:
+  **• Updated UI to realme UI**:
+  **• Brand new Real Design makes visuals more attractive and operation more efficient.**:
+  **[Smart Sidebar]**:
+  **• Optimized user interface and improved one-handed operation.**:
+  **• Optimized Smart Sidebar: Replaced File Console with File Manager; removed OSIE Visual Effect and No Notification Alerts.**:
+  **• Drag an app out of Smart Sidebar to open it in Split-screen Mode.**:
+  **• Added two new features: “Assistive Ball Opacity” and “Hide Assistive Ball on Fullscreen App”.**:
+  **• Optimized the Floating Window feature for more apps.**:
+  **• Added Bubbles: A bubble is displayed when you open an app in a floating window from the Smart Sidebar. Tap the bubble to collapse or open the app.**:
+  **[Screenshot]**:
+  **• Optimized 3-Finger Screenshot Gesture: Use 3 fingers to touch and hold the screen, and swipe to take a screenshot of the selected part of the screen (partial screen capture). Use 3 fingers to touch and hold the screen, and swipe your fingers outwards to capture a long screenshot.**:
+  **• Added screenshot settings: You can adjust the position of the screenshot preview floating window and set the screenshot sound.**:
+  **• Optimized screenshot preview floating window: After taking a screenshot, drag it up and release to share it, or drag it down and release to take a long screenshot.**:
+  **[Navigation Gestures 3.0]**:
+  **• Optimized ：New Android 10 navigation gestures**:
+  **• Optimized gestures: All gestures are supported in landscape mode.**:
+  **[System]**:
+  **• Added Focus Mode: Minimizes outside distractions when you are learning or working.**:
+  **• Added whole new charging animation.**:
+  **• Optimized the Quick Settings user interface for easier one-handed operation.**:
+  **• Added pause feature for screen recording.**:
+  **• Added a floating window and settings for screen recording.**:
+  **• New sounds added for file deletion, calculator key touches, and compass pointer.**:
+  **• Optimized system built-in ringtones.**:
+  **• Added TalkBack floating prompts for Accessibility.**:
+  **• New management feature for recent tasks: You can view memory of recent tasks and locked apps.**:
+  **[Games]**:
+  **• Optimized visual interaction for Game Space.**:
+  **• Optimized loading animation for Game Space.**:
+  **[Homescreen]**:
+  **• Added new live wallpapers.**:
+  **• Added artistic wallpapers.**:
+  **• Added option to open Global Search or the notification panel when swiping down on homescreen.**:
+  **• Added option to customize the size, shape, and style of app icons on homescreen.**:
+  **• Optimized the graphic design of password unlock to facilitate one-handed operation.**:
+  **• Support for animated wallpapers on the lockscreen.**:
+  **• Added a Simple Mode for homescreen, featuring larger fonts, icons and a clearer layout.**:
+  **[Security]**:
+  **• Random MAC address Generator: When your phone is connected to Wi-Fi network system generates a random MAC address to avoid targeted ads and protect your privacy.**:
+  **[Tools]**:
+  **• In Quick Settings or Smart Sidebar, you can open Calculator in a floating window.**:
+  **• Added the trim feature in Recordings.**:
+  **• Added the Weather (dynamic) ringtone, which automatically adapts to the current weather.**:
+  **• Added weather-adaptive animations in Weather.**:
+  **• Added audio source selection for screen recording**:
+  **[Camera]**:
+  **• Optimized the Camera UI for better user experience.**:
+  **• Optimized the Timer UI and sound.**:
+  **[Photos]**:
+  **• Optimized the Album UI for a clearer structure and photo thumbnails.**:
+  **• Added Album Recommendations that recognize more than 80 different scenes.**:
+  **[Communications]**:
+  **realme Share now supports sharing files with OPPO, Vivo and Xiaomi devices.**:
+  **• Optimized the Contacts UI for a more efficient experience.**:
+  **[Settings]**:
+  **• Search Settings now supports fuzzy match and contains a search history.**:
+  **[Music]**:
+  **Added Dual Mode Music Share in realme Lab**:
+  * Android version: Android 10
 codename: RMX1921EX
-date: 20/1/2020
+date: 30/1/2020
 device: realme XT
-download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_0160_all_CcmkxwAnmByA.ozip
-md5: 01A130420A343B9B1E8E22229D78E3EC
+download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1010_all_yuEH87qmmZhw.ozip
+md5: 24013414ADBBFC44A241842D2F5081F5
 region: India
-size: 2.85GB
-system: Color OS 6.0.1
-version: RMX1921EX_11_A.16
+size: 3.52GB
+system: realme UI V1.0
+version: RMX1921EX_11_C.01

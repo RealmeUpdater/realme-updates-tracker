@@ -1,14 +1,18 @@
 changelog: |
   **Security**:
-  **•Android security patch: November, 2019**:
+  ● Android security patch: January, 2020
+  **Network**:
+  ● Added Airtel and JIO VoWIFI
   **System**:
-  **•Fixed some known issues and improved system stability**:
+  ● Fixed partial known issues, and improved system stability
+  **Fixed**:
+  ● Fixed Instagram upload video failure
 codename: RMX1931EX
-date: 14/11/2019
+date: 28/1/2020
 device: realme X2 Pro
-download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0060_all_iomsumMA73CO.ozip
-md5: 14e2ea74751fd499394263c441f97400
+download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0090_all_ebXZK7dFVD1P.ozip'
+md5: 12a4561f05aa06fe7112c31217be47ca
 region: Europe
-size: 3.06GB
+size: 3.08GB
 system: ColorOS 6.1
-version: RMX1931EX_11.A.06
+version: RMX1931EX_11.A.09

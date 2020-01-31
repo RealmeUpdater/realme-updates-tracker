@@ -509,37 +509,40 @@
   version: RMX1851_11.A.10
 - changelog: |
     **Security**:
-    **•Android security patch: November, 2019**:
+    ● Android security patch: January, 2020
+    **Network**:
+    ● Added Airtel and JIO VoWIFI
     **System**:
-    **•Fixed some known issues and improved system stability**:
+    ● Fixed partial known issues, and improved system stability
+    **Fixed**:
+    ● Fixed Instagram upload video failure
   codename: RMX1931EX
-  date: 14/11/2019
+  date: 28/1/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0060_all_iomsumMA73CO.ozip
-  md5: 14e2ea74751fd499394263c441f97400
+  download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0090_all_ebXZK7dFVD1P.ozip'
+  md5: 12a4561f05aa06fe7112c31217be47ca
   region: Europe
-  size: 3.06GB
+  size: 3.08GB
   system: ColorOS 6.1
-  version: RMX1931EX_11.A.06
+  version: RMX1931EX_11.A.09
 - changelog: |
     **Security**:
-    ● Android security patch: December, 2019
-    **Power consumption**:
-    ● Optimized standby power consumption in partial scenarios
-    **Notification Center and Status Bar**:
-    ● Added dark mode fast switch toggles in notification center
-    ● Added personal hotspot data consumption display
-    **Known issue fixed**:
-    ● Fixed the issue of low sound when connected to AirPods2 headset
+    ● Android Security patch: January, 2020
+    **Lock Screen**:
+    ● Modified the charging animation display where the decimal point will not be shown after charging for twenty seconds
+    **Fixed**:
+    ● Fixed error prompt issue while video call using WhatsApp
+    ● Fixed the issue that album cache data can not be deleted
+    ● Optimized navigation menu display in settings
   codename: RMX1993EX
-  date: 7/1/2020
+  date: 28/1/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0170_all_Op1ux9LsrKXh.ozip
-  md5: 4ae086063e53cd21fa770aa1071932e7
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0180_all_4k7uNMjsiKHk.ozip
+  md5: fc3b9f0cf715301e9f6abff502385474
   region: Europe
-  size: 2.55GB
+  size: 2.56GB
   system: ColorOS 6.1
-  version: RMX1993EX_11.A.17
+  version: RMX1993EX_11.A.18
 - changelog: |
     **Security**:
     ● Google Android security patch: January, 2020

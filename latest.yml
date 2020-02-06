@@ -129,6 +129,8 @@
     **Known issues fixed**:
     ● Fixed VoLTE call drop of Reliance JIO operator
     ● Fixed the third-party sport app automatically cleaned up while it is locked in the background
+    **System**:
+    ● Remove FM application（for EU/TR only）
   codename: RMX1971EX
   date: 20/1/2020
   device: realme 5 Pro

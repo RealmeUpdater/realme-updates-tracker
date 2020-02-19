@@ -170,19 +170,22 @@
   version: RMX1911EX_11_A.23
 - changelog: |
     **Security**:
-    ● Android security patch: December, 2019
-    **Known issue fixed**:
-    ● Fixed partial known issue, improved system stability.
+    ● Android security patch: February, 2020
+    **System**:
+    ● Updated some third-party applications to the latest version
+    ● Fixed some known bugs, and improved system stability
+    **Network**:
+    ● Added Airtel and Jio VoWiFi feature
     * Android version: Android 9.0
   codename: RMX1901EX
-  date: 30/12/2019
+  date: 19/2/2020
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0110_all_ahSrsX4WkOsX.ozip
-  md5: 943DC60BFCF245B9BE569021D723091F
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0120_all_imBWNUMqwtBz.ozip
+  md5: F384165513CD96531A8C0D5036CFE653
   region: India
   size: 2.79GB
   system: ColorOS 6.0
-  version: RMX1901EX_11_A.11
+  version: RMX1901EX_11_A.12
 - changelog: |
     **Security**:
     ● Android security patch: January, 2020

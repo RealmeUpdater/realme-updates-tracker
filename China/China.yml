@@ -17,28 +17,26 @@
   version: RMX2051_11.A.08
 - changelog: |
     **安全**:
-    ● 更新12月份谷歌安全补丁
-    **桌面**:
-    ● 近期任务界面点击空白区域返回桌面
-    **通知中心与状态栏**:
-    ● 新增暗色模式快速切换开关
-    **设置**:
-    ● 来电闪光灯功能
-    **相机**:
-    ● 新增视频HDR功能
+    ● 更新2月份谷歌安全补丁
+    **暗色模式**:
+    ● 新增日落到日出启用、设定时间
+    **游戏空间**:
+    ● 修复在某些情况下概率出现没有超现实增强画质功能
+    **相册**:
+    ● 修复相册占用数据异常问题
     **修复**:
-    ● 修复在耗电详情页面QQ耗电量异常问题
-    ● 修复闪光灯状态下拍照过曝问题
-    ● 优化微信通话画质
+    ● 修复低电关机后无法退出儿童模式
+    ● 修复分身应用登陆快应用失败问题
+    ● 优化杜比游戏音效延时问题
   codename: RMX1931
-  date: 24/12/2019
+  date: 20/02/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_0130_all_3jeZN7pIEWts_local.ozip
-  md5: 1ce985ed08a44e5b333e8a515bb85316
+  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_0150_all_oDfL8HoMZ5HW.ozip
+  md5: 53fecffba0bfcb6715f0cefee2cb387a
   region: China
   size: 2.50GB
   system: ColorOS 6.1
-  version: RMX1931_11.A.13
+  version: RMX1931_11.A.15
 - changelog: |
     **安全**:
     ● 合入12月份安全补丁

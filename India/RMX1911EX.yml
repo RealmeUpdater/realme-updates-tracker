@@ -1,14 +1,16 @@
 changelog: |
   **Security**:
-  ● Android security patch: December，2019
+  ● Android security patch: February, 2020
   **System**:
-  ● Fixed some known bugs and improved system stability
+  ● Fixed camera crash issue in some scenes, and improved system stability
+  **Network**:
+  ● Added Airtel and Jio VoWiFi feature
 codename: RMX1911EX
-date: 1/1/2020
+date: 25/2/2020
 device: realme 5
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0230_all_qr4gYIwbZ10t.ozip
-md5: 47A73113B85FB557F1F2349D95273FBA
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0250_all_mHmHi8m1sQhp.ozip
+md5: 0ABD5EDA7E3C6D04C5F59DD35ABC189D
 region: India
-size: 2.55GB
+size: 2.57GB
 system: ColorOS 6.0.1
-version: RMX1911EX_11_A.23
+version: RMX1911EX_11_A.25

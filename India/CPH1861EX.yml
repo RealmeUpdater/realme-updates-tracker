@@ -1,19 +1,18 @@
 changelog: |
   **Security**:
-  ● Android security patch: December, 2019
-  **Notification Center and Status Bar**:
-  ● Added fast switch toggles of dark mode in notification center
+  ● Android security patch: February, 2020
+  **Network**:
+  ● Added Airtel and Jio VoWiFi feature
   **Settings**:
-  ● Added flash on call feature
-  **Launcher**:
-  ● Added click the blank area to back to the launcher on recent task interface
+  ● Added swipe gestures from both sides
+  ● Added hotspot speed limit
   * Android version: Android 9.0
 codename: CPH1861EX
-date: 11/12/2019
+date: 24/2/2020
 device: realme 1
-download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0460_all_Kk9QYZhhbPlJ.ozip
-md5: 1E8764570F1EF5AD73880006A215DAF6
+download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0470_all_4m2f5YxlONSN.ozip
+md5: 44EB831F4AF7A1D31604253C2C70FC28
 region: India
 size: 2.15GB
 system: ColorOS 6.0
-version: CPH1861EX_11_C.46
+version: CPH1861EX_11_C.47

@@ -1,22 +1,18 @@
 changelog: |
   **Security**:
-  ● Android security patch: December, 2019
-  **Notification Center and Status Bar**:
-  ● Added fast switch toggles of dark mode in notification center
+  ● Android security patch: February, 2020
+  **Network**:
+  ● Added Airtel and Jio VoWiFi feature
   **Settings**:
-  ● Added flash on call feature
-  **Launcher**:
-  ● Added click the blank area to back to the launcher on recent task interface
-  **Known issue fixed**:
-  ● Fixed the issue of the volume bar blocked by the camera while horizontal status
-  ● Fixed the issue that the background of the WhatsApp dialog interface is not clear with dark mode
+  ● Added swipe gestures from both sides
+  ● Added hotspot speed limit
   * Android version: Android 9.0
 codename: RMX1831EX
-date: 11/12/2019
+date: 24/2/2020
 device: realme U1
-download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0160_all_awTNNeGS5nwf.ozip
-md5: 58FC72386E4E845A136667A1DEDFD
+download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0170_all_2cz3RnS6iZ4e.ozip
+md5: 46DC7EB34531CEAB0AC08E62F34B6D4E
 region: India
 size: 2.06GB
 system: ColorOS 6.0
-version: RMX1831EX_11_C.16
+version: RMX1831EX_11_C.17

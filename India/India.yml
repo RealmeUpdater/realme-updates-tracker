@@ -1,36 +1,40 @@
 - changelog: |
     **Security**:
-    ● Android security patch: December, 2019
+    ● Android security patch: February, 2020
+    **Network**:
+    ● Added Airtel and Jio VoWiFi feature
     **Camera**:
-    ● Optimized the issue of redness in front camera
-    ● Improved clarity of wide-angle
-    **Known issue fixed**:
-    ● Fixed Low probability silent issue of gaming when plug in headphones after unplug headphones
+    ● Optimized rear wide-angle color and clarity
+    ● Optimized front clarity
+    ● Optimize the color of the front flash
+    ● Optimized macro clarity
   codename: RMX2030EX
-  date: 14/1/2020
+  date: 25/2/2020
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0140_all_z9lv8xlx1jQ6.ozip
-  md5: 5CFB5A10D8DAD6143ED56AB905E7AE8F
+  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0160_all_z8nGVfavmkmS.ozip
+  md5: 8C5673FC7F4FD0DFFD132245FCCA5116
   region: India
   size: 2.59GB
   system: ColorOS 6.0.1
-  version: RMX2030EX_11_A.14
+  version: RMX2030EX_11_A.16
 - changelog: |
     **Security**:
-    ● Android security patch: February, 2020
-    **Dark Mode**:
-    ● Added from sunset to sunrise and schedule time feature
-    **Network**:
-    ● Added Airtel and Jio vowifi feature
+    ● Android Security patch: January, 2020
+    **Lock Screen**:
+    ● Modified the charging animation display where the decimal point will not be shown after charging for twenty seconds
+    **Fixed**:
+    ● Fixed error prompt issue while video call using WhatsApp
+    ● Fixed the issue that album cache data can not be deleted
+    ● Optimized navigation menu display in settings
   codename: RMX1992EX
-  date: 25/2/2020
+  date: 22/1/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_0190_all_HSsfHckUqYqq.ozip
-  md5: f85369112b280865b25b7983271973b3
+  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_0180_all_9jUtCwfNEfDr.ozip
+  md5: 531bcc0b582f4a22ebcf8a21c32c441c
   region: India
   size: 2.56GB
   system: ColorOS 6.1
-  version: RMX1992EX_11.A.19
+  version: RMX1992EX_11.A.18
 - changelog: |
     **Security**:
     ● Android security patch: January, 2020

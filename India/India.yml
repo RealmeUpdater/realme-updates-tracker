@@ -19,22 +19,20 @@
   version: RMX2030EX_11_A.16
 - changelog: |
     **Security**:
-    ● Android Security patch: January, 2020
-    **Lock Screen**:
-    ● Modified the charging animation display where the decimal point will not be shown after charging for twenty seconds
-    **Fixed**:
-    ● Fixed error prompt issue while video call using WhatsApp
-    ● Fixed the issue that album cache data can not be deleted
-    ● Optimized navigation menu display in settings
+    ● Android security patch: February, 2020
+    **Dark Mode**:
+    ● Added from sunset to sunrise and schedule time feature
+    **Network**:
+    ● Added Airtel and Jio vowifi feature
   codename: RMX1992EX
-  date: 22/1/2020
+  date: 25/2/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_0180_all_9jUtCwfNEfDr.ozip
-  md5: 531bcc0b582f4a22ebcf8a21c32c441c
+  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_0190_all_HSsfHckUqYqq.ozip
+  md5: f85369112b280865b25b7983271973b3
   region: India
   size: 2.56GB
   system: ColorOS 6.1
-  version: RMX1992EX_11.A.18
+  version: RMX1992EX_11.A.19
 - changelog: |
     **Security**:
     ● Android security patch: January, 2020

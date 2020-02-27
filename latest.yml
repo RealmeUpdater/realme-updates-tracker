@@ -459,27 +459,25 @@
   version: RMX1991_11_A.14
 - changelog: |
     **安全**:
-    ● 合入12月谷歌安全补丁
-    **相机**:
-    ● 更新前置超级夜景算法库，修复概率性黑块问题
-    **通知中心和状态栏**:
-    ● 增加暗色模式快捷开关
-    **功耗**:
-    ● 优化部分游戏场景功耗，如王者荣耀、和平精英
-    **桌面和设置**:
-    ● 近期任务界面点击空白区域返回桌面
-    ● 增加来电闪光灯功能
-    **修复已知问题**:
-    ● 修复QCY T5耳机无法重连问题
+    ● 更新2月安全补丁
+    **相册**:
+    ● 修复相机占用内存过多导致存储异常的问题
+    ● 修复相册加载慢或图片置灰显示的问题
+    ● 优化相册图片详情中时间显示
+    **手势**:
+    ● 优化横屏下三指截屏策略，防止多指游戏时误触发截屏
+    **修复**:
+    ● 修复三方运动应用锁定在后台，使用一段时间后会自动被清理掉的问题
+    ● 解决状态栏WiFi信号格数不更新的问题
   codename: RMX1971
-  date: 21/12/2019
+  date: 25/02/2020
   device: realme Q
-  download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_0110_all_i2i6Op4QWSY5.ozip
-  md5: 974F53738EC8AD59F93F334032DE312D
+  download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_0120_all_zdWec6tHr0qS.ozip
+  md5: F1BAF7BAA1781A2469596AD59FB894CA
   region: China
   size: 2.41GB
   system: ColorOS 6.0
-  version: RMX1971_11_A.11
+  version: RMX1971_11_A.12
 - changelog: |
     **安全**:
     ● 更新12月份安全补丁

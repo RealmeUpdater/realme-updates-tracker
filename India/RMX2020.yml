@@ -1,0 +1,20 @@
+changelog: |
+  **Security**:
+  ● Android security patch: February, 2020
+  **Camera**:
+  ● Optimized the camera framing quality of third-party applications
+  ● Optimized rear portrait imaging quality
+  ● Optimized front portrait preview quality
+  ● Optimized photo quality in panorama mode
+  **Fixed**:
+  ● Fixed CDP port identification failure
+  ● Fixed the issue that the boot logo failed to display
+codename: RMX2020
+date: 27/2/2020
+device: realme C3
+download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0100_all_z6jrx6L7VTg9.ozip
+md5: 03D0A52E4CC3691C9D521A844A75EE13
+region: India
+size: 2.87GB
+system: realme UI V1.0
+version: RMX2020_11_A.03

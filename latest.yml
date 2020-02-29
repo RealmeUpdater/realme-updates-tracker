@@ -55,22 +55,22 @@
   version: RMX1992EX_11.A.19
 - changelog: |
     **Security**:
-    ● Android security patch: January, 2020
-    **Network**:
-    ● Added Airtel and JIO VoWIFI
-    **System**:
-    ● Fixed partial known issues, and improved system stability
+    ● Android security patch: February, 2020
+    **Dark Mode**:
+    ● Added from sunset to sunrise and schedule time feature
     **Fixed**:
-    ● Fixed Instagram upload video failure
+    ● Fixed exiting child mode failure after low power off
+    ● Fixed the issue that cloning applications failed to login the fast application
+    ● Optimized Dolby game sound delay
   codename: RMX1931EX
-  date: 28/1/2020
+  date: 29/2/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0090_all_ebXZK7dFVD1P.ozip
-  md5: 12a4561f05aa06fe7112c31217be47ca
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0100_all_X2KmrxzKYeI8.ozip
+  md5: 4a5476b1b546d1e12b8b90ca5a9ee230
   region: India
-  size: 3.08GB
+  size: 3.07GB
   system: ColorOS 6.1
-  version: RMX1931EX_11.A.09
+  version: RMX1931EX_11.A.10
 - changelog: |
     **[Upgrade Prompt]**:
     **• Please click "Reboot" after entering successful installation interface. Don't click "OK" which will damage system files. Please pay attention!**:
@@ -583,22 +583,22 @@
   version: RMX1851_11.A.01
 - changelog: |
     **Security**:
-    ● Android security patch: January, 2020
-    **Network**:
-    ● Added Airtel and JIO VoWIFI
-    **System**:
-    ● Fixed partial known issues, and improved system stability
+    ● Android security patch: February, 2020
+    **Dark Mode**:
+    ● Added from sunset to sunrise and schedule time feature
     **Fixed**:
-    ● Fixed Instagram upload video failure
+    ● Fixed exiting child mode failure after low power off
+    ● Fixed the issue that cloning applications failed to login the fast application
+    ● Optimized Dolby game sound delay
   codename: RMX1931EX
-  date: 28/1/2020
+  date: 29/2/2020
   device: realme X2 Pro
-  download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0090_all_ebXZK7dFVD1P.ozip'
-  md5: 12a4561f05aa06fe7112c31217be47ca
+  download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0100_all_X2KmrxzKYeI8.ozip'
+  md5: 4a5476b1b546d1e12b8b90ca5a9ee230
   region: Europe
-  size: 3.08GB
+  size: 3.07GB
   system: ColorOS 6.1
-  version: RMX1931EX_11.A.09
+  version: RMX1931EX_11.A.10
 - changelog: |
     **Security**:
     ● Android Security patch: January, 2020

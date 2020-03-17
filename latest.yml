@@ -367,19 +367,23 @@
   version: RMX1831EX_11_C.17
 - changelog: |
     **Security**:
-    ● Android security patch: January，2020
+    ● Android security patch: March, 2020
     **System**:
-    ● Fixed some known bugs and improved system stability
+    ● Fixed some known bugs, and improved system stability
+    **Settings**:
+    ● Added swipe gestures from both sides
+    **Network**:
+    ● Enabled VoWIFI and ViWIFI for Airtel and JIO operator (India)
     * Android version: Android 9.0
   codename: RMX1805EX
-  date: 16/1/2020
+  date: 17/3/2020
   device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0630_all_j1XMqwvdqBSi.ozip
-  md5: E80C17D93C687B3B2BE8829898CCE913
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0640_all_xbabfvaTmIiN_local.ozip
+  md5: 3F14573C65D9BA1353B90657A6223018
   region: India
-  size: 2.06GB
+  size: 2.15GB
   system: ColorOS 6.0
-  version: RMX1805EX_11_A.63
+  version: RMX1805EX_11_A.64
 - changelog: |
     **Security**:
     ● Android security patch: January, 2020
@@ -400,19 +404,23 @@
   version: RMX1801EX_11_C.26
 - changelog: |
     **Security**:
-    ● Android security patch: January，2020
+    ● Android security patch: March, 2020
     **System**:
-    ● Fixed some known bugs and improved system stability
+    ● Fixed some known bugs, and improved system stability
+    **Settings**:
+    ● Added swipe gestures from both sides
+    **Network**:
+    ● Enabled VoWIFI and ViWIFI for Airtel and JIO operator (India)
     * Android version: Android 9.0
   codename: RMX1805EX
-  date: 16/1/2020
+  date: 17/3/2020
   device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0630_all_j1XMqwvdqBSi.ozip
-  md5: E80C17D93C687B3B2BE8829898CCE913
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0640_all_xbabfvaTmIiN_local.ozip
+  md5: 3F14573C65D9BA1353B90657A6223018
   region: India
-  size: 2.07GB
+  size: 2.15GB
   system: ColorOS 6.0
-  version: RMX1805EX_11_A.63
+  version: RMX1805EX_11_A.64
 - changelog: |
     **Security**:
     ● Android security patch: February, 2020

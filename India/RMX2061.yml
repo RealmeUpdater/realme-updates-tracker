@@ -1,0 +1,22 @@
+changelog: |
+  **Security**:
+  **• Android security patch: March, 2020**:
+  **System**:
+  **• Added mail**:
+  **• Fixed the issue that the recording with third-party applications cannot be saved in the case of the first boot without enabling the camera**:
+  **• Fixed the issue that the call interface appeared occasionally while the opposite end hangs up first and the local end turns off and restarts.**:
+  **• Fixed the issue that third-party applications do not support HD mode**:
+  **• Fixed the probability issue of splash screen at the lowest brightness**:
+  **Camera**:
+  **• Fixed the blurred screen issue while zooming to the maximum magnification in video mode**:
+  **Audio**:
+  **• Fixed the issue of unilateral silence in headset while playing voice**:
+codename: RMX2061
+date: 17/3/2020
+device: realme 6Pro
+download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0110_all_gJfej4qyJpZN.ozip
+md5: C84BC8DE38371680D83656783DEC1800
+region: India
+size: 3.43GB
+system: realme UI 1.0
+version: RMX2061_11_A.11

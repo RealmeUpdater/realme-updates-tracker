@@ -3,6 +3,7 @@
     **• Android security patch: March, 2020**:
     **System**:
     **• Added mail**:
+    **• Added Soloop( IN only)**:
     **• Fixed the issue that the recording with third-party applications cannot be saved in the case of the first boot without enabling the camera**:
     **• Fixed the issue that the call interface appeared occasionally while the opposite end hangs up first and the local end turns off and restarts.**:
     **• Fixed the issue that third-party applications do not support HD mode**:
@@ -386,22 +387,21 @@
   version: RMX1805EX_11_A.64
 - changelog: |
     **Security**:
-    ● Android security patch: January, 2020
-    **System**:
-    ● Added flash on call feature
-    ● Added click the blank area to back to the launcher on recent task interface
-    **Notification Center and Status Bar**:
-    ● Added fast switch toggles of dark mode in notification center
+    ● Android security patch: March, 2020
+    **Network**:
+    ● Added Airtel and Jio VoWiFi feature（IN Only）
+    **Settings**:
+    ● Added swipe gestures from both sides
     * Android version: Android 9.0
   codename: RMX1801EX
-  date: 7/1/2020
+  date: 17/3/2020
   device: realme 2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0260_all_mnxKIJM5sz0H.ozip
-  md5: 96236EC218E1BB90FD1589743D75A93D
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0270_all_KvuheffUBmQD.ozip
+  md5: F70A01FC4EE2C164FAE6FFCA4B4ED02
   region: India
-  size: 2.71GB
+  size: 2.72GB
   system: ColorOS 6.0
-  version: RMX1801EX_11_C.26
+  version: RMX1801EX_11_C.27
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020

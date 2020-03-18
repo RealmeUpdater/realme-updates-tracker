@@ -3,6 +3,7 @@ changelog: |
   **• Android security patch: March, 2020**:
   **System**:
   **• Added mail**:
+  **• Added Soloop( IN only)**:
   **• Fixed the issue that the recording with third-party applications cannot be saved in the case of the first boot without enabling the camera**:
   **• Fixed the issue that the call interface appeared occasionally while the opposite end hangs up first and the local end turns off and restarts.**:
   **• Fixed the issue that third-party applications do not support HD mode**:

@@ -389,23 +389,6 @@
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020
-    **Network**:
-    ● Added Airtel and Jio VoWiFi feature（IN Only）
-    **Settings**:
-    ● Added swipe gestures from both sides
-    * Android version: Android 9.0
-  codename: RMX1801EX
-  date: 17/3/2020
-  device: realme 2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0270_all_KvuheffUBmQD.ozip
-  md5: F70A01FC4EE2C164FAE6FFCA4B4ED02
-  region: India
-  size: 2.72GB
-  system: ColorOS 6.0
-  version: RMX1801EX_11_C.27
-- changelog: |
-    **Security**:
-    ● Android security patch: March, 2020
     **System**:
     ● Fixed some known bugs, and improved system stability
     **Settings**:

@@ -168,22 +168,24 @@
   version: RMX1971EX_11_C.01
 - changelog: |
     **Security**:
-    ● Android security patch: February, 2020
-    **Network**:
-    ● Added Airtel and Jio VoWiFi feature（India）
+    ● Android security patch: March, 2020
     **Fixed**:
-    ● Fixed the issue that the task lock up limitation prompt in the recent interface
-    ● Fixed the issue that the countdown pop-up window was still dark while switching off the dark mode during the power off countdown.
+    ● Optimized system power consumption
+    ● Optimized the effect of game audio
+    ● Fixed the probability error of boot animation display
+    ● Fixed the low probabilistic stucking issue while using third-party applications
+    ● Fixed low probability stucking issue due to the memory leak of system
+    ● Fixed the probability issue that photos or screenshots are not displayed after upgrading
     * Android version: Android 10
   codename: RMX1921EX
-  date: 29/2/2020
+  date: 23/3/2020
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1020_all_5toeOp4ljsxR.ozip
-  md5: FDEB9FFC6FD3CE1E2A67CA684BCC830E
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1030_all_yhA6M50GDlsj.ozip
+  md5: 3768C32B5D37674E8AC9B6B2C6A7C9EB
   region: India
-  size: 3.5GB
+  size: 3.49GB
   system: realme UI V1.0
-  version: RMX1921EX_11_C.02
+  version: RMX1921EX_11_C.03
 - changelog: |
     **Security**:
     ● Android security patch: February, 2020
@@ -322,18 +324,20 @@
   version: RMX1851EX_11.C.04
 - changelog: |
     **Security**:
-    ● Android security patch: January, 2020
-    **Whats app**:
-    ● Fixed video call restart issue of WhatsApp
+    ● Android security patch: March, 2020
+    **Settings**:
+    ● Added swipe gestures from both sides
+    **Network**:
+    ● Added Airtel and Jio VoWiFi features( IN only)
   codename: RMX1941EX
-  date: 28/1/2020
+  date: 25/3/2020
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0230_all_PpMXej9hu6jv.ozip
-  md5: 0a8681e31795decdf8fac652422865bb
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0240_all_kH44EOzj6gd1.ozip
+  md5: 0e7d7c92f308c8046165110406170b92
   region: India
-  size: 1.97GB
+  size: 1.98GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.23
+  version: RMX1941EX_11.A.24
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020
@@ -388,6 +392,19 @@
   size: 2.15GB
   system: ColorOS 6.0
   version: RMX1805EX_11_A.64
+- changelog: |
+    **Settings**:
+    ● Fixed the issue that the notification sound always exists after other devices are connected to personal hotspot
+    * Android version: Android 9.0
+  codename: RMX1801EX
+  date: 25/3/2020
+  device: realme 2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0280_all_EFbeOIwE6CQr.ozip
+  md5: 70ADF003A1D08EF2C3DCE06F53FCCD96
+  region: India
+  size: 2.72GB
+  system: ColorOS 6.0
+  version: RMX1801EX_11_C.28
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020

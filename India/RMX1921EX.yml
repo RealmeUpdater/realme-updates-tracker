@@ -1,18 +1,20 @@
 changelog: |
   **Security**:
-  ● Android security patch: February, 2020
-  **Network**:
-  ● Added Airtel and Jio VoWiFi feature（India）
+  ● Android security patch: March, 2020
   **Fixed**:
-  ● Fixed the issue that the task lock up limitation prompt in the recent interface
-  ● Fixed the issue that the countdown pop-up window was still dark while switching off the dark mode during the power off countdown.
+  ● Optimized system power consumption
+  ● Optimized the effect of game audio
+  ● Fixed the probability error of boot animation display
+  ● Fixed the low probabilistic stucking issue while using third-party applications
+  ● Fixed low probability stucking issue due to the memory leak of system
+  ● Fixed the probability issue that photos or screenshots are not displayed after upgrading
   * Android version: Android 10
 codename: RMX1921EX
-date: 29/2/2020
+date: 23/3/2020
 device: realme XT
-download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1020_all_5toeOp4ljsxR.ozip
-md5: FDEB9FFC6FD3CE1E2A67CA684BCC830E
+download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1030_all_yhA6M50GDlsj.ozip
+md5: 3768C32B5D37674E8AC9B6B2C6A7C9EB
 region: India
-size: 3.5GB
+size: 3.49GB
 system: realme UI V1.0
-version: RMX1921EX_11_C.02
+version: RMX1921EX_11_C.03

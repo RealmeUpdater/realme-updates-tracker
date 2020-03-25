@@ -1,14 +1,16 @@
 changelog: |
   **Security**:
-  ● Android security patch: January, 2020
-  **Whats app**:
-  ● Fixed video call restart issue of WhatsApp
+  ● Android security patch: March, 2020
+  **Settings**:
+  ● Added swipe gestures from both sides
+  **Network**:
+  ● Added Airtel and Jio VoWiFi features( IN only)
 codename: RMX1941EX
-date: 28/1/2020
+date: 25/3/2020
 device: realme C2
-download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0230_all_PpMXej9hu6jv.ozip
-md5: 0a8681e31795decdf8fac652422865bb
+download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0240_all_kH44EOzj6gd1.ozip
+md5: 0e7d7c92f308c8046165110406170b92
 region: India
-size: 1.97GB
+size: 1.98GB
 system: ColorOS 6.0
-version: RMX1941EX_11.A.23
+version: RMX1941EX_11.A.24

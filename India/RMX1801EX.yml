@@ -1,17 +1,13 @@
 changelog: |
-  **Security**:
-  ● Android security patch: March, 2020
-  **Network**:
-  ● Added Airtel and Jio VoWiFi feature（IN Only）
   **Settings**:
-  ● Added swipe gestures from both sides
+  ● Fixed the issue that the notification sound always exists after other devices are connected to personal hotspot
   * Android version: Android 9.0
 codename: RMX1801EX
-date: 17/3/2020
+date: 25/3/2020
 device: realme 2 Pro
-download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0270_all_KvuheffUBmQD.ozip
-md5: F70A01FC4EE2C164FAE6FFCA4B4ED02
+download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0280_all_EFbeOIwE6CQr.ozip
+md5: 70ADF003A1D08EF2C3DCE06F53FCCD96
 region: India
 size: 2.72GB
 system: ColorOS 6.0
-version: RMX1801EX_11_C.27
+version: RMX1801EX_11_C.28

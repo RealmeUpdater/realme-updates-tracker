@@ -35,17 +35,24 @@
   system: ColorOS 6.1
   version: RMX1993EX_11.A.18
 - changelog: |
+    **Security**:
+    ● Android security patch: March, 2020
     **Fixed**:
-    ● Fixed upgrade related issues to ensure upgrade to Android Q successfully
+    ● Optimized system power consumption
+    ● Optimized the effect of game audio
+    ● Fixed the probability error of boot animation display
+    ● Fixed the low probabilistic stucking issue while using third-party applications
+    ● Fixed low probability stucking issue due to the memory leak of system
+    ● Fixed the probability issue that photos or screenshots are not displayed after upgrading
   codename: RMX1971EX
-  date: 26/2/2020
+  date: 25/3/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_0170_all_7NddZb1EdnWd.ozip
-  md5: 5EA460C86F80C43208DC12905383181B
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1020_all_Eb0n5IF4TTT3.ozip
+  md5: 2B8368905806D15F650D11575E49BBB2
   region: Europe
-  size: 2.82GB
-  system: ColorOS 6.0
-  version: RMX1971EX_11_A.17
+  size: 3.49GB
+  system: realme UI 1.0
+  version: RMX1971EX_11_C.02
 - changelog: |
     **Security**:
     ● Android security patch: December，2019

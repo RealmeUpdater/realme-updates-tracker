@@ -3,11 +3,11 @@ changelog: |
   ● Fixed the issue that the notification sound always exists after other devices are connected to personal hotspot
   * Android version: Android 9.0
 codename: RMX1801EX
-date: 25/3/2020
+date: 27/3/2020
 device: realme 2 Pro
-download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0280_all_EFbeOIwE6CQr.ozip
-md5: 70ADF003A1D08EF2C3DCE06F53FCCD96
+download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0290_all_zUR6IjegP6k4.ozip
+md5: 25DE2E47246ED21E7866E7B7C09A6B1B
 region: India
 size: 2.72GB
 system: ColorOS 6.0
-version: RMX1801EX_11_C.28
+version: RMX1801EX_11_C.29

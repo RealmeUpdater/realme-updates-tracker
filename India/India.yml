@@ -207,7 +207,7 @@
   codename: RMX1901EX
   date: 27/2/2020
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1010_all_8KaWrap9LXiN.ozip
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1020_all_7Mq2hKW2L2CY.ozip
   md5: ADAACB3CCAB4410738BFEF01176F75B7
   region: India
   size: 3.51GB
@@ -320,19 +320,6 @@
   size: 2.15GB
   system: ColorOS 6.0
   version: RMX1805EX_11_A.64
-- changelog: |
-    **Settings**:
-    ● Fixed the issue that the notification sound always exists after other devices are connected to personal hotspot
-    * Android version: Android 9.0
-  codename: RMX1801EX
-  date: 27/3/2020
-  device: realme 2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0290_all_zUR6IjegP6k4.ozip
-  md5: 25DE2E47246ED21E7866E7B7C09A6B1B
-  region: India
-  size: 2.72GB
-  system: ColorOS 6.0
-  version: RMX1801EX_11_C.29
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020

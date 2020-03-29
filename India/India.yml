@@ -14,7 +14,7 @@
     **• Fixed the issue of unilateral silence in headset while playing voice**:
   codename: RMX2061
   date: 17/3/2020
-  device: realme 6Pro
+  device: realme 6 Pro
   download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0110_all_gJfej4qyJpZN.ozip
   md5: C84BC8DE38371680D83656783DEC1800
   region: India
@@ -46,23 +46,24 @@
   version: RMX2020_11_A.15
 - changelog: |
     **Security**:
-    ● Android security patch: February, 2020
-    **Network**:
-    ● Added Airtel and Jio VoWiFi feature
+    ● Android security patch: March, 2020
     **Camera**:
-    ● Optimized rear wide-angle color and clarity
-    ● Optimized front clarity
-    ● Optimize the color of the front flash
-    ● Optimized macro clarity
+    ● Optimized rear color of Chroma Boost
+    ● Improved brightness of front video call while using third-party applications
+    ● Optimized color performance of front camera while using third-party
+    **applications**:
+    ● Optimized clarity of front camera while night environment
+    **Fixed**:
+    ● Fixed the low probability issue of inaccurate automatic brightness adjustment under the sunlight
   codename: RMX2030EX
-  date: 25/2/2020
+  date: 29/3/2020
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0160_all_z8nGVfavmkmS.ozip
-  md5: 8C5673FC7F4FD0DFFD132245FCCA5116
+  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0180_all_81DARpRNAwgZ.ozip
+  md5: C4B2CFF897A48E318E8127CADABB2287
   region: India
   size: 2.59GB
   system: ColorOS 6.0.1
-  version: RMX2030EX_11_A.16
+  version: RMX2030EX_11_A.18
 - changelog: |
     **Security**:
     ● Android security patch: February, 2020

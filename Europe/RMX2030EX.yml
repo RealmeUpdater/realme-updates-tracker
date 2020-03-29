@@ -12,9 +12,9 @@ changelog: |
 codename: RMX2030EX
 date: 29/3/2020
 device: realme 5i
-download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0180_all_81DARpRNAwgZ.ozip
+download: ' https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0180_all_81DARpRNAwgZ.ozip'
 md5: C4B2CFF897A48E318E8127CADABB2287
-region: India
+region: Europe
 size: 2.59GB
 system: ColorOS 6.0.1
 version: RMX2030EX_11_A.18

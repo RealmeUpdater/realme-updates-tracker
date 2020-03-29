@@ -219,69 +219,28 @@
   system: ColorOS 6.0.1
   version: RMX1911EX_11_A.25
 - changelog: |
-    **[Smart Sidebar]**:
-    **• Optimized user interface and improved one-handed operation.**:
-    **• Optimized Smart Sidebar: Replaced File Console with File Manager; removed OSIE Visual Effect and No Notification Alerts.**:
-    **• Drag an app out of Smart Sidebar to open it in Split-screen Mode.**:
-    **• Added two new features: “Assistive Ball Opacity” and “Hide Assistive Ball on Fullscreen App”.**:
-    **• Optimized the Floating Window feature for more apps.**:
-    **• Added Bubbles: A bubble is displayed when you open an app in a floating window from the Smart Sidebar. Tap the bubble to collapse or open the app.**:
-    **[Screenshot]**:
-    **• Optimized 3-Finger Screenshot Gesture: Use 3 fingers to touch and hold the screen, and swipe to take a screenshot of the selected part of the screen (partial screen capture). Use 3 fingers to touch and hold the screen, and swipe your fingers outwards to capture a long screenshot.**:
-    **• Added screenshot settings: You can adjust the position of the screenshot preview floating window and set the screenshot sound.**:
-    **• Optimized screenshot preview floating window: After taking a screenshot, drag it up and release to share it, or drag it down and release to take a long screenshot.**:
-    **[Navigation Gestures 3.0]**:
-    **• Optimized gestures: All gestures are supported in landscape mode.**:
-    **[System]**:
-    **• Added Focus Mode: Minimizes outside distractions when you are learning or working.**:
-    **• Added whole new charging animation.**:
-    **• Optimized the Quick Settings user interface for easier one-handed operation.**:
-    **• Added pause feature for screen recording.**:
-    **• Added a floating window and settings for screen recording.**:
-    **• New sounds added for file deletion, calculator key touches, and compass pointer.**:
-    **• Optimized system built-in ringtones.**:
-    **• Added TalkBack floating prompts for Accessibility.**:
-    **• New management feature for recent tasks: You can view memory of recent tasks and locked apps.**:
-    **[Games]**:
-    **• Optimized visual interaction for Game Space.**:
-    **• Optimized loading animation for Game Space.**:
-    **[Homescreen]**:
-    **• Added new live wallpapers.**:
-    **• Added artistic wallpapers.**:
-    **• Added option to open Global Search or the notification panel when swiping down on homescreen.**:
-    **• Added option to customize the size, shape, and style of app icons on homescreen.**:
-    **• Optimized the graphic design of password unlock to facilitate one-handed operation.**:
-    **• Support for animated wallpapers on the lockscreen.**:
-    **• Added a Simple Mode for homescreen, featuring larger fonts, icons and a clearer layout.**:
-    **[Security]**:
-    **• Random MAC address Generator: When your phone is connected to Wi-Fi network system generates a random MAC address to avoid targeted ads and protect your privacy.**:
-    **[Tools]**:
-    **• In Quick Settings or Smart Sidebar, you can open Calculator in a floating window.**:
-    **• Added the trim feature in Recordings.**:
-    **• Added the Weather (dynamic) ringtone, which automatically adapts to the current weather.**:
-    **• Added weather-adaptive animations in Weather.**:
-    **[Camera]**:
-    **• Optimized the Camera UI for better user experience.**:
-    **• Optimized the Timer UI and sound.**:
-    **[Photos]**:
-    **• Optimized the Album UI for a clearer structure and photo thumbnails.**:
-    **• Added Album Recommendations that recognize more than 80 different scenes.**:
-    **[Communications]**:
-    **• realme Share now supports sharing files with OPPO, Vivo and Xiaomi devices.**:
-    **• Optimized the Contacts UI for a more efficient experience.**:
-    **[Settings]**:
-    **• Search Settings now supports fuzzy match and contains a search history.**:
-    **[Music]**:
-    **• Added Dual Mode Music Share in realme Lab**:
+    **Security**:
+    ● Android security patch: March, 2020
+    **Settings**:
+    ● Added screen light effects
+    **Fixed**:
+    ● Fixed the probabilistic issue of stucking after upgrade
+    ● Optimized the effect of game audio
+    ● Fixed the probability error of boot animation display
+    ● Fixed the low probabilistic stucking issue while using third-party applications
+    ● Optimized system power consumption
+    ● Fixed low probability stucking issue due to the memory leak of system
+    ● Fixed the probabilistic issue of fingerprint recognition failure
+    ● Fixed the probability issue that photos or screenshots are not displayed after upgrading
   codename: RMX1901EX
-  date: 27/2/2020
+  date: 26/3/2020
   device: realme X
   download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1020_all_7Mq2hKW2L2CY.ozip
-  md5: ADAACB3CCAB4410738BFEF01176F75B7
+  md5: FD6ED2FC1C5FB2226B878D604364D463
   region: India
-  size: 3.51GB
+  size: 3.5GB
   system: realme UI V1.0
-  version: RMX1901EX_11.C.01
+  version: RMX1901EX_11.C.02
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020
@@ -391,6 +350,24 @@
   version: RMX1805EX_11_A.64
 - changelog: |
     **Security**:
+    ● Android security patch: January, 2020
+    **System**:
+    ● Added flash on call feature
+    ● Added click the blank area to back to the launcher on recent task interface
+    **Notification Center and Status Bar**:
+    ● Added fast switch toggles of dark mode in notification center
+    * Android version: Android 9.0
+  codename: RMX1801EX
+  date: 7/1/2020
+  device: realme 2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0260_all_mnxKIJM5sz0H.ozip
+  md5: 96236EC218E1BB90FD1589743D75A93D
+  region: India
+  size: 2.71GB
+  system: ColorOS 6.0
+  version: RMX1801EX_11_C.26
+- changelog: |
+    **Security**:
     ● Android security patch: March, 2020
     **System**:
     ● Fixed some known bugs, and improved system stability
@@ -426,6 +403,30 @@
   size: 2.15GB
   system: ColorOS 6.0
   version: CPH1861EX_11_C.47
+- changelog: |
+    **安全**:
+    ● 更新2020年3月份安全补丁
+    **系统**:
+    ● 提升系统稳定性
+    ● 提升后台应用保活能力
+    **应用**:
+    ● 手机管家应用更新到7.1.4版本
+    **网络**:
+    ● 增强Wi-Fi信号
+    ● 提升网络稳定性
+    **修复**:
+    ● 优化拍照效果及相机应用稳定性
+    ● 优化通话和音频播放效果
+    ● 修复进入视频拍摄界面小概率会卡屏的问题
+  codename: RMX2071
+  date: 22/03/2020
+  device: realme X50 Pro 5G
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0110_all_Pm9WXB5UzI69.ozip
+  md5: B37FD60B63A12D58633750FCE5C720F1
+  region: China
+  size: 3.03GB
+  system: realme UI V1.0
+  version: RMX2071_11_A.11
 - changelog: |
     **安全**:
     ● 更新3月份谷歌安全补丁

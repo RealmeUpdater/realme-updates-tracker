@@ -718,22 +718,16 @@
   version: RMX1931EX_11.A.10
 - changelog: |
     **Security**:
-    ● Android Security patch: January, 2020
-    **Lock Screen**:
-    ● Modified the charging animation display where the decimal point will not be shown after charging for twenty seconds
-    **Fixed**:
-    ● Fixed error prompt issue while video call using WhatsApp
-    ● Fixed the issue that album cache data can not be deleted
-    ● Optimized navigation menu display in settings
+    ● Android security patch: February, 2020
   codename: RMX1993EX
-  date: 28/1/2020
+  date: 25/2/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0180_all_4k7uNMjsiKHk.ozip
-  md5: fc3b9f0cf715301e9f6abff502385474
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0190_all_xxtd0o1Yc1kR.ozip
+  md5: 54afbc89fea34dd5afd9b2898059267f
   region: Europe
   size: 2.56GB
   system: ColorOS 6.1
-  version: RMX1993EX_11.A.18
+  version: RMX1993EX_11.A.19
 - changelog: |
     **[Visuals]**:
     **• Updated UI to realme UI**:

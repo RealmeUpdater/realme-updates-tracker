@@ -59,12 +59,12 @@ changelog: |
   **[Battery]**:
   **• Updated decimals display during charging**:
   **To deepen user's perception of fast charging, it will always be displayed when your phone is charging and the screen is bright.**:
-codename: RMX1992EX
+codename: RMX1992AEX
 date: 31/3/2020
 device: realme X2
-download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1050_all_ExeuzrTLLJh5.ozip
-md5: 3b0f1f0ec7864895f61e15e716cee98c
+download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1050_all_dgEaNNRO2U9L.ozip
+md5: 253076a07ef9cb826d2bbd3a03fdc92e
 region: India
 size: 3.3GB
 system: realme UI 1.0
-version: RMX1992EX_11.C.05
+version: RMX1992AEX_11.C.05

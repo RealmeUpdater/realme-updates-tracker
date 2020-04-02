@@ -23,27 +23,25 @@
   version: RMX2061_11_A.11
 - changelog: |
     **Camera**:
-    ● Improved front camera preview clarity
-    ● Improved the accuracy of front camera portrait mode
-    ● Improved the brightness of the three-party apk front camera under the backlight
-    ● Improved the clarity of rear camera portrait mode in darkness
-    ● Improved the clarity of rear camera zoom2x/4x mode
-    ● Improved rear camera preview clarity
-    ● Optimized the noise of rear camera in darkness
-    ● Optimized the noise of rear camera video
-    ● Optimized the quality of SLO-MO preview and video
+    ● Optimized the clarity of the front preview
+    ● Improved the photography quality of front camera indoors
+    ● Reduced the face noise of rear camera in low light
+    ● Improved the image quality of rear video
+    ● Optimized the color and clarity of the rear zoom mode
     **Fixed**:
-    ● Optimized the issue that some menu pages are slightly stuck while swiping left or right
-    ● Optimized gyroscope sensitivity in games
+    ● Fixed the issue that the camera flash was invalid while using third-party applications in the dark
+    ● Fixed the probability failure of the distance sensor
+    ● Fixed the issue that the custom ringtone would not be displayed in the list immediately after setting it
+    ● Fixed the issue that the screencast fail to enable
   codename: RMX2020
-  date: 17/3/2020
+  date: 2/4/2020
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0150_all_aWwPIL22XA3V.ozip
-  md5: E25285BE3FE2582A9470C9E05E907F5E
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0190_all_0MQqLSADMZTB.ozip
+  md5: 572F3C9B812C8E7743973411867D2F35
   region: India
-  size: 2.87GB
+  size: 2.84GB
   system: realme UI V1.0
-  version: RMX2020_11_A.15
+  version: RMX2020_11_A.19
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020
@@ -881,6 +879,26 @@
   size: 3.49GB
   system: realme UI V1.0
   version: RMX1851EX_11.C.04
+- changelog: |
+    **Камера**:
+    ● Улучшена четкость предварительного просмотра через фронтальную камеру
+    ● Улучшено качество фотографирования фронтальной камерой в помещении
+    ● Уменьшен цветовой шум при фотографировании лица задней камерой при слабой освещенности
+    ● Улучшено качество съемки видео задней камерой
+    ● Оптимизированы цветопередача и четкость задней камеры в режиме зума
+    **Исправлено**:
+    ● Устранена проблема неправильного срабатывания вспышки в темноте при использовании сторонних приложений
+    ● Устранена задержка при внесении пользовательской мелодии в отображаемый список мелодий звонка
+    ● Устранена проблема, связанная с невозможностью включить запись с экрана
+  codename: RMX2020
+  date: 2/4/2020
+  device: realme C3
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0190_all_0MQqLSADMZTB.ozip
+  md5: 572F3C9B812C8E7743973411867D2F35
+  region: Russia
+  size: 2.84GB
+  system: realme UI V1.0
+  version: RMX2020_11_A.19
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности ОС Android: Декабрь, 2019 г.

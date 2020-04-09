@@ -481,22 +481,18 @@
   version: RMX1821EX_11.A.26
 - changelog: |
     **Security**:
-    ● Android security patch: February, 2020
+    ● Android security patch: March, 2020
     **Network**:
-    ● Added Airtel and Jio VoWiFi feature
-    **Settings**:
-    ● Added swipe gestures from both sides
-    ● Added hotspot speed limit
-    * Android version: Android 9.0
+    ● Fixed the issue that VoWiFi unable to registered in 2G / 3G network (IN only)
   codename: RMX1831EX
-  date: 24/2/2020
+  date: 31/3/2020
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0170_all_2cz3RnS6iZ4e.ozip
-  md5: 46DC7EB34531CEAB0AC08E62F34B6D4E
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0180_all_nc5nfqfAYf4T.ozip
+  md5: 843F3289E4B8EC5D98F6A0B02C2F6CE9
   region: India
-  size: 2.06GB
+  size: 2.07GB
   system: ColorOS 6.0
-  version: RMX1831EX_11_C.17
+  version: RMX1831EX_11_C.18
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020
@@ -555,22 +551,19 @@
   version: RMX1805EX_11_A.64
 - changelog: |
     **Security**:
-    ● Android security patch: February, 2020
+    ● Android security patch: March, 2020
     **Network**:
-    ● Added Airtel and Jio VoWiFi feature
-    **Settings**:
-    ● Added swipe gestures from both sides
-    ● Added hotspot speed limit
+    ● Fixed the issue that VoWiFi unable to registered in 2G / 3G network (IN only)
     * Android version: Android 9.0
   codename: CPH1861EX
-  date: 24/2/2020
+  date: 31/3/2020
   device: realme 1
-  download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0470_all_4m2f5YxlONSN.ozip
-  md5: 44EB831F4AF7A1D31604253C2C70FC28
+  download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0480_all_FWChDBv8KHOn.ozip
+  md5: AB456A5248B0C93000D2FA8B75992DE5
   region: India
-  size: 2.15GB
+  size: 2.16GB
   system: ColorOS 6.0
-  version: CPH1861EX_11_C.47
+  version: CPH1861EX_11_C.48
 - changelog: |
     **安全**:
     ● 更新2020年3月份安全补丁

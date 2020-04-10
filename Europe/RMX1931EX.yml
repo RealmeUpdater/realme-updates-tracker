@@ -1,18 +1,67 @@
 changelog: |
-  **Security**:
-  ● Android security patch: February, 2020
-  **Dark Mode**:
-  ● Added from sunset to sunrise and schedule time feature
-  **Fixed**:
-  ● Fixed exiting child mode failure after low power off
-  ● Fixed the issue that cloning applications failed to login the fast application
-  ● Optimized Dolby game sound delay
+  **[Visual]**:
+  **• Aggiornamento all'interfaccia utente realme**:
+  **• Il nuovissimo Real Design rende più attraenti i visual e più efficiente la gestione.**:
+  **[Barra laterale intelligente]**:
+  **• Ottimizzata l'interfaccia utente e migliorata la gestione a una mano.**:
+  **• Ottimizzata la Barra laterale intelligente: Consolle file sostituita da Gestione file; rimossi Effetto visivo OSIE e Nessun alert di notifica.**:
+  **• Trascina un'app fuori dalla Barra laterale intelligente per aprirla in modalità Schermo diviso.**:
+  **• Aggiunte due nuove funzioni: ""Opacità Sfera assistiva"" e ""Nascondi Sfera assistiva per app a schermo intero"".**:
+  **• Ottimizzata la funzione Finestra fluttuante per più app.**:
+  **• Aggiunte bolle: viene visualizzata una bolla quando apri un'app in una finestra fluttuante dalla Barra laterale intelligente. Tocca la bolla per comprimere o aprire l'app.**:
+  **[Screenshot]**:
+  **• Ottimizzato il gesto screenshot a 3 dita: tieni premute 3 dita sullo schermo e scorri per acquisire lo screenshot della porzione selezionata dello schermo (cattura parziale schermo). Tieni premute 3 dita sullo schermo e scorri verso l'esterno per acquisire uno screenshot lungo.**:
+  **• Aggiunte impostazioni per lo screenshot: puoi regolare la posizione della finestra fluttuante di anteprima screenshot e impostare il suono dello screenshot.**:
+  **• Ottimizzata la finestra fluttuante di anteprima screenshot: dopo aver acquisito uno screenshot, trascinalo in su e rilascia per condividerlo, o trascinalo in giù e rilascia per acquisire uno screenshot lungo.**:
+  **[Gesti di navigazione 3.0]**:
+  **• Gesti ottimizzati: tutti i gesti sono supportati in modalità orizzontale.**:
+  **[Sistema]**:
+  **• Aggiunta modalità Concentrazione: riduci al minimo le distrazioni esterne quando studi o lavori.**:
+  **• Aggiunta animazione di ricarica del tutto nuova.**:
+  **• Ottimizzata l'interfaccia utente di Impostazioni rapide per semplificare la gestione a una mano.**:
+  **• Aggiunta la funzione di messa in pausa per la registrazione schermo.**:
+  **• Aggiunta una finestra fluttuante e impostazioni per la registrazione schermo.**:
+  **• Nuovi suoni aggiunti per eliminazione file, tocchi tasti calcolatrice e puntatore bussola.**:
+  **• Ottimizzate le suonerie integrate del sistema.**:
+  **• Aggiunti prompt fluttuanti di TalkBack per migliorare l'accessibilità.**:
+  **• Nuova funzione di gestione per le operazioni recenti: puoi visualizzare la cronologia di operazioni recenti e di app bloccate.**:
+  **[Giochi]**:
+  **• Ottimizzata l'interazione visiva per Spazio giochi.**:
+  **• Ottimizzata l'animazione di caricamento per Spazio giochi.**:
+  **[Schermata Home]**:
+  **• Aggiunti nuovi sfondi animati.**:
+  **• Aggiunti sfondi artistici.**:
+  **• Aggiunta l'opzione per aprire Ricerca globale o il pannello notifiche scorrendo in giù sulla schermata Home.**:
+  **• Aggiunta l'opzione per personalizzare dimensione, forma e stile delle icone app sulla schermata Home.**:
+  **• Ottimizzata la grafica dello sblocco con password per semplificare la gestione a una mano.**:
+  **• Supporto per sfondi animati sulla schermata di blocco.**:
+  **• Aggiunta una modalità Semplificata per la schermata Home contenente font e icone più grandi e layout più chiaro.**:
+  **[Sicurezza]**:
+  **• Generatore indirizzo MAC casuale: quando il tuo telefono è connesso alla rete Wi-Fi, il sistema genera un indirizzo MAC causale per evitare pubblicità mirata e proteggere la tua privacy.**:
+  **[Strumenti]**:
+  **• Nelle Impostazioni rapide o nella Barra laterale intelligente, puoi aprire la Calcolatrice in una finestra fluttuante.**:
+  **• Aggiunta la funzione di taglio in Registrazioni.**:
+  **• Aggiunta la suoneria Meteo (dinamica) che si adatta in automatico alle condizioni meteo correnti.**:
+  **• Aggiunte animazioni meteo-adattive in Meteo.**:
+  **[Fotocamera]**:
+  **• Ottimizzata l'interfaccia utente di Fotocamera per migliorare l'esperienza d'uso.**:
+  **• Ottimizzata l'interfaccia utente e l'audio del Timer.**:
+  **[Foto]**:
+  **• Ottimizzata l'interfaccia utente di Album per una struttura delle miniature foto più chiara.**:
+  **• Aggiunte raccomandazioni album che riconoscono più di 80 scenari diversi.**:
+  **[Comunicazioni]**:
+  **Ora realme Share supporta la condivisione file con dispositivi OPPO, Vivo e Xiaomi.**:
+  **• Ottimizzata l'interfaccia utente di Contatti per un'esperienza di gestione più efficiente.**:
+  **[Impostazioni]**:
+  **• Ora le Impostazioni di ricerca supportano la corrispondenza parziale e contengono una cronologia di ricerca.**:
+  **[Musica]**:
+  **• Aggiunta Condivisione musica dual-mode in realme Lab**:
 codename: RMX1931EX
-date: 29/2/2020
+date: 9/4/2020
 device: realme X2 Pro
-download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0100_all_X2KmrxzKYeI8.ozip'
-md5: 4a5476b1b546d1e12b8b90ca5a9ee230
+download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1240_all_4G7UJeNkbSVl.ozip'
+md5: d0dcc615c584d5b3e7dd4d214a7be95f
 region: Europe
-size: 3.07GB
-system: ColorOS 6.1
-version: RMX1931EX_11.A.10
+size: 2.96GB
+system: realme UI 1.0
+version: RMX1931EX_11.C.24

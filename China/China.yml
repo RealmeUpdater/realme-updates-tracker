@@ -1,27 +1,20 @@
 - changelog: |
-    **安全**:
-    ● 更新2020年3月份安全补丁
-    **系统**:
-    ● 提升系统稳定性
-    ● 提升后台应用保活能力
-    **应用**:
-    ● 手机管家应用更新到7.1.4版本
-    **网络**:
-    ● 增强Wi-Fi信号
-    ● 提升网络稳定性
-    **修复**:
-    ● 优化拍照效果及相机应用稳定性
-    ● 优化通话和音频播放效果
-    ● 修复进入视频拍摄界面小概率会卡屏的问题
+    **设置**:
+    ● 增加OTG开关
+    **显示优化**:
+    ● 优化部分界面的显示效果
+    **问题修复**:
+    ● 修复进入相册小概率闪退的问题
+    ● 修复在某些特定亮度下屏幕亮度会明暗变化的问题
   codename: RMX2071
-  date: 22/03/2020
+  date: 05/04/2020
   device: realme X50 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0110_all_Pm9WXB5UzI69.ozip
-  md5: B37FD60B63A12D58633750FCE5C720F1
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0130_all_QaTDYlmz5iAg.ozip
+  md5: 37902050E6560C2BC0C51FFCDD5879E7
   region: China
-  size: 3.03GB
+  size: 3.02GB
   system: realme UI V1.0
-  version: RMX2071_11_A.11
+  version: RMX2071_11_A.13
 - changelog: |
     **安全**:
     ● 更新3月份谷歌安全补丁

@@ -1,17 +1,15 @@
 changelog: |
   **Security**:
-  ● Android security patch: March, 2020
+  ● Android security patch: April, 2020
   **System**:
-  ● Fixed some known bugs, and improved system stability
-  **Network**:
-  ● Added Airtel and Jio VoWiFi features( IN only)
+  ● Fixed some known issues and improved system stability.
   * Android version: Android 9.0
 codename: RMX1821EX
-date: 22/3/2020
+date: 18/4/2020
 device: realme 3
-download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0260_all_zEzvvlcPPtMB.ozip
-md5: 13f60c3869cbe35d03d84481c8f3e2ec
+download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0280_all_3V2ARw7ZSbCv.ozip
+md5: 0f14aa504c4da3f5b1e66926b87b4fb9
 region: India
 size: 2.04GB
 system: ColorOS 6.0
-version: RMX1821EX_11.A.26
+version: RMX1821EX_11.A.28

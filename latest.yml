@@ -22,26 +22,30 @@
   system: realme UI 1.0
   version: RMX2061_11_A.11
 - changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
     **Camera**:
-    ● Optimized the clarity of the front preview
-    ● Improved the photography quality of front camera indoors
-    ● Reduced the face noise of rear camera in low light
-    ● Improved the image quality of rear video
-    ● Optimized the color and clarity of the rear zoom mode
-    **Fixed**:
-    ● Fixed the issue that the camera flash was invalid while using third-party applications in the dark
-    ● Fixed the probability failure of the distance sensor
-    ● Fixed the issue that the custom ringtone would not be displayed in the list immediately after setting it
-    ● Fixed the issue that the screencast fail to enable
+    ● Optimized the low ISO noise performance of the front camera and improved the ISO clarity
+    ● Optimized the front camera issue of indoor AWB redness
+    ● Improved selfie experience and closer to nature
+    ● Optimized the contrast of selfies and reduced eye shadows
+    ● Optimized blurring of photos caused by front camera shaking
+    ● Optimized the image quality of the rear camera at low ISO clarity
+    ● Optimized the AWB of the rear camera to improve the greenish problem in some outdoor scenes
+    **Known issue fixed**:
+    ● Optimized the fluency of entering and exiting Whatsapp
+    ● Solved the issue of sliding stuck on Facebook
+    ● Solved the stuck issue in some scenes during the PUBG
+    ● Optimized the screen touch experience and solved the touch delay issue in some scenes
   codename: RMX2020
-  date: 2/4/2020
+  date: 20/4/2020
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0190_all_0MQqLSADMZTB.ozip
-  md5: 572F3C9B812C8E7743973411867D2F35
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0210_all_EzfIVATAg4cH.ozip
+  md5: C8345B8067447197DD210D4029D4E2A5
   region: India
-  size: 2.84GB
+  size: 2.82GB
   system: realme UI V1.0
-  version: RMX2020_11_A.19
+  version: RMX2020_11.A.21
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020

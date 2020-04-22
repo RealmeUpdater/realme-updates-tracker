@@ -1,6 +1,27 @@
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
+    **System**:
+    ● Fixed the status bar updates slowly after unlocking
+    ● Fixed the Bluetooth headset delay in playing PUBG and other games
+    **Camera**:
+    ● Added the ultra dark mode of the rear camera
+    ● Optimized the clarity of 64M and wide-angle camera
+    ● Solved the issue that without ultra-wide mode prompt when the time-lapse mode is switched to the ultra-wide angle mode
+    ● Solved the issue that the camera cannot adjust the beauty mode when the system language is Arabic
+    ● Fixed front camera overexposure under the backlight environment
+  codename: RMX2061
+  date: 21/4/2020
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0150_all_KruzpPuALFCV.ozip
+  md5: 1e5a1ba0034d77392a36a64a156d7003
+  region: India
+  size: 3.37GB
+  system: realme UI 1.0
+  version: RMX2061_11_A.15
+- changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
     **Camera**:
     ● Optimized the low ISO noise performance of the front camera and improved the ISO clarity
     ● Optimized the front camera issue of indoor AWB redness

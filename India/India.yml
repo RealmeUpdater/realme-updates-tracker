@@ -46,24 +46,20 @@
   version: RMX2020_11.A.21
 - changelog: |
     **Security**:
-    ● Android security patch: March, 2020
+    ● Android security patch: April, 2020
     **Camera**:
-    ● Optimized rear color of Chroma Boost
-    ● Improved brightness of front video call while using third-party applications
     ● Optimized color performance of front camera while using third-party
     **applications**:
     ● Optimized clarity of front camera while night environment
-    **Fixed**:
-    ● Fixed the low probability issue of inaccurate automatic brightness adjustment under the sunlight
   codename: RMX2030EX
-  date: 29/3/2020
+  date: 24/4/2020
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0180_all_81DARpRNAwgZ.ozip
-  md5: C4B2CFF897A48E318E8127CADABB2287
+  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0190_all_nrdKBLRr60zb.ozip
+  md5: 757954ADC548EBCE5B5A017F1EFE364D
   region: India
-  size: 2.59GB
+  size: 2.6GB
   system: ColorOS 6.0.1
-  version: RMX2030EX_11_A.18
+  version: RMX2030EX_11_A.19
 - changelog: |
     **[Visuals]**:
     **• Updated UI to realme UI**:

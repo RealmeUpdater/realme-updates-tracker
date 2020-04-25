@@ -201,68 +201,27 @@
   system: realme UI 1.0
   version: RMX1992AEX_11.C.05
 - changelog: |
-    **[Visuals]**:
-    **• Updated UI to realme UI**:
-    **• Brand new Real Design makes visuals more attractive and operation more efficient.**:
-    **[Smart Sidebar]**:
-    **• Optimized user interface and improved one-handed operation.**:
-    **• Optimized Smart Sidebar: Replaced File Console with File Manager; removed OSIE Visual Effect and No Notification Alerts.**:
-    **• Drag an app out of Smart Sidebar to open it in Split-screen Mode.**:
-    **• Added two new features: “Assistive Ball Opacity” and “Hide Assistive Ball on Fullscreen App”.**:
-    **• Optimized the Floating Window feature for more apps.**:
-    **• Added Bubbles: A bubble is displayed when you open an app in a floating window from the Smart Sidebar. Tap the bubble to collapse or open the app.**:
-    **[Screenshot]**:
-    **• Optimized 3-Finger Screenshot Gesture: Use 3 fingers to touch and hold the screen, and swipe to take a screenshot of the selected part of the screen (partial screen capture). Use 3 fingers to touch and hold the screen, and swipe your fingers outwards to capture a long screenshot.**:
-    **• Added screenshot settings: You can adjust the position of the screenshot preview floating window and set the screenshot sound.**:
-    **• Optimized screenshot preview floating window: After taking a screenshot, drag it up and release to share it, or drag it down and release to take a long screenshot.**:
-    **[Navigation Gestures 3.0]**:
-    **• Optimized gestures: All gestures are supported in landscape mode.**:
-    **[System]**:
-    **• Added Focus Mode: Minimizes outside distractions when you are learning or working.**:
-    **• Added whole new charging animation.**:
-    **• Optimized the Quick Settings user interface for easier one-handed operation.**:
-    **• Added pause feature for screen recording.**:
-    **• Added a floating window and settings for screen recording.**:
-    **• New sounds added for file deletion, calculator key touches, and compass pointer.**:
-    **• Optimized system built-in ringtones.**:
-    **• Added TalkBack floating prompts for Accessibility.**:
-    **• New management feature for recent tasks: You can view memory of recent tasks and locked apps.**:
-    **[Games]**:
-    **• Optimized visual interaction for Game Space.**:
-    **• Optimized loading animation for Game Space.**:
-    **[Homescreen]**:
-    **• Added new live wallpapers.**:
-    **• Added artistic wallpapers.**:
-    **• Added option to open Global Search or the notification panel when swiping down on homescreen.**:
-    **• Added option to customize the size, shape, and style of app icons on homescreen.**:
-    **• Optimized the graphic design of password unlock to facilitate one-handed operation.**:
-    **• Support for animated wallpapers on the lockscreen.**:
-    **• Added a Simple Mode for homescreen, featuring larger fonts, icons and a clearer layout.**:
-    **[Security]**:
-    **• Random MAC address Generator: When your phone is connected to Wi-Fi network system generates a random MAC address to avoid targeted ads and protect your privacy.**:
-    **[Tools]**:
-    **• In Quick Settings or Smart Sidebar, you can open Calculator in a floating window.**:
-    **• Added the trim feature in Recordings.**:
-    **• Added the Weather (dynamic) ringtone, which automatically adapts to the current weather.**:
-    **• Added weather-adaptive animations in Weather.**:
-    **[Camera]**:
-    **• Optimized the Camera UI for better user experience.**:
-    **• Optimized the Timer UI and sound.**:
-    **[Photos]**:
-    **• Optimized the Album UI for a clearer structure and photo thumbnails.**:
-    **• Added Album Recommendations that recognize more than 80 different scenes.**:
-    **[Communications]**:
-    **• realme Share now supports sharing files with OPPO, Vivo and Xiaomi devices.**:
-    **• Optimized the Contacts UI for a more efficient experience.**:
+    **Security**:
+    ● Android security patch: April, 2020
+    **System**:
+    ● Updated charging animation
+    **Camera**:
+    ● Fixed occational black face when HDR shooting
+    **Known issue fixed**:
+    ● Optimized the Bluetooth headset delay while playing PUBG
+    ● Fixed occasional Splashing Screen when Rebooting Phone
+    ● Fixed occasional app crash issue
+    ● Fixed occasionally unable to evoke the voice assistant
+    ● Fixed the microphone icon displays on the status bar after the third-party apps exit
   codename: RMX1931EX
-  date: 30/3/2020
+  date: 24/4/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1230_all_u4DJcrigsE54.ozip
-  md5: 047a542061cfb4fc047b9e5f050e0348
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1250_all_2vaZAn5KwhPi.ozip
+  md5: d7f1cce25ff9d68de1e72ae53deef01c
   region: India
-  size: 3.25GB
+  size: 2.92GB
   system: realme UI 1.0
-  version: RMX1931EX_11_C.23
+  version: RMX1931EX_11.C.25
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020
@@ -757,72 +716,27 @@
   system: ColorOS 6.0.1
   version: RMX2030EX_11_A.19
 - changelog: |
-    **[Visual]**:
-    **• Aggiornamento all'interfaccia utente realme**:
-    **• Il nuovissimo Real Design rende più attraenti i visual e più efficiente la gestione.**:
-    **[Barra laterale intelligente]**:
-    **• Ottimizzata l'interfaccia utente e migliorata la gestione a una mano.**:
-    **• Ottimizzata la Barra laterale intelligente: Consolle file sostituita da Gestione file; rimossi Effetto visivo OSIE e Nessun alert di notifica.**:
-    **• Trascina un'app fuori dalla Barra laterale intelligente per aprirla in modalità Schermo diviso.**:
-    **• Aggiunte due nuove funzioni: ""Opacità Sfera assistiva"" e ""Nascondi Sfera assistiva per app a schermo intero"".**:
-    **• Ottimizzata la funzione Finestra fluttuante per più app.**:
-    **• Aggiunte bolle: viene visualizzata una bolla quando apri un'app in una finestra fluttuante dalla Barra laterale intelligente. Tocca la bolla per comprimere o aprire l'app.**:
-    **[Screenshot]**:
-    **• Ottimizzato il gesto screenshot a 3 dita: tieni premute 3 dita sullo schermo e scorri per acquisire lo screenshot della porzione selezionata dello schermo (cattura parziale schermo). Tieni premute 3 dita sullo schermo e scorri verso l'esterno per acquisire uno screenshot lungo.**:
-    **• Aggiunte impostazioni per lo screenshot: puoi regolare la posizione della finestra fluttuante di anteprima screenshot e impostare il suono dello screenshot.**:
-    **• Ottimizzata la finestra fluttuante di anteprima screenshot: dopo aver acquisito uno screenshot, trascinalo in su e rilascia per condividerlo, o trascinalo in giù e rilascia per acquisire uno screenshot lungo.**:
-    **[Gesti di navigazione 3.0]**:
-    **• Gesti ottimizzati: tutti i gesti sono supportati in modalità orizzontale.**:
-    **[Sistema]**:
-    **• Aggiunta modalità Concentrazione: riduci al minimo le distrazioni esterne quando studi o lavori.**:
-    **• Aggiunta animazione di ricarica del tutto nuova.**:
-    **• Ottimizzata l'interfaccia utente di Impostazioni rapide per semplificare la gestione a una mano.**:
-    **• Aggiunta la funzione di messa in pausa per la registrazione schermo.**:
-    **• Aggiunta una finestra fluttuante e impostazioni per la registrazione schermo.**:
-    **• Nuovi suoni aggiunti per eliminazione file, tocchi tasti calcolatrice e puntatore bussola.**:
-    **• Ottimizzate le suonerie integrate del sistema.**:
-    **• Aggiunti prompt fluttuanti di TalkBack per migliorare l'accessibilità.**:
-    **• Nuova funzione di gestione per le operazioni recenti: puoi visualizzare la cronologia di operazioni recenti e di app bloccate.**:
-    **[Giochi]**:
-    **• Ottimizzata l'interazione visiva per Spazio giochi.**:
-    **• Ottimizzata l'animazione di caricamento per Spazio giochi.**:
-    **[Schermata Home]**:
-    **• Aggiunti nuovi sfondi animati.**:
-    **• Aggiunti sfondi artistici.**:
-    **• Aggiunta l'opzione per aprire Ricerca globale o il pannello notifiche scorrendo in giù sulla schermata Home.**:
-    **• Aggiunta l'opzione per personalizzare dimensione, forma e stile delle icone app sulla schermata Home.**:
-    **• Ottimizzata la grafica dello sblocco con password per semplificare la gestione a una mano.**:
-    **• Supporto per sfondi animati sulla schermata di blocco.**:
-    **• Aggiunta una modalità Semplificata per la schermata Home contenente font e icone più grandi e layout più chiaro.**:
-    **[Sicurezza]**:
-    **• Generatore indirizzo MAC casuale: quando il tuo telefono è connesso alla rete Wi-Fi, il sistema genera un indirizzo MAC causale per evitare pubblicità mirata e proteggere la tua privacy.**:
-    **[Strumenti]**:
-    **• Nelle Impostazioni rapide o nella Barra laterale intelligente, puoi aprire la Calcolatrice in una finestra fluttuante.**:
-    **• Aggiunta la funzione di taglio in Registrazioni.**:
-    **• Aggiunta la suoneria Meteo (dinamica) che si adatta in automatico alle condizioni meteo correnti.**:
-    **• Aggiunte animazioni meteo-adattive in Meteo.**:
-    **[Fotocamera]**:
-    **• Ottimizzata l'interfaccia utente di Fotocamera per migliorare l'esperienza d'uso.**:
-    **• Ottimizzata l'interfaccia utente e l'audio del Timer.**:
-    **[Foto]**:
-    **• Ottimizzata l'interfaccia utente di Album per una struttura delle miniature foto più chiara.**:
-    **• Aggiunte raccomandazioni album che riconoscono più di 80 scenari diversi.**:
-    **[Comunicazioni]**:
-    **Ora realme Share supporta la condivisione file con dispositivi OPPO, Vivo e Xiaomi.**:
-    **• Ottimizzata l'interfaccia utente di Contatti per un'esperienza di gestione più efficiente.**:
-    **[Impostazioni]**:
-    **• Ora le Impostazioni di ricerca supportano la corrispondenza parziale e contengono una cronologia di ricerca.**:
-    **[Musica]**:
-    **• Aggiunta Condivisione musica dual-mode in realme Lab**:
+    **Security**:
+    ● Android security patch: April, 2020
+    **System**:
+    ● Updated charging animation
+    **Camera**:
+    ● Fixed occational black face when HDR shooting
+    **Known issue fixed**:
+    ● Optimized the Bluetooth headset delay while playing PUBG
+    ● Fixed occasional Splashing Screen when Rebooting Phone
+    ● Fixed occasional app crash issue
+    ● Fixed occasionally unable to evoke the voice assistant
+    ● Fixed the microphone icon displays on the status bar after the third-party apps exit
   codename: RMX1931EX
-  date: 9/4/2020
+  date: 24/4/2020
   device: realme X2 Pro
-  download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1240_all_4G7UJeNkbSVl.ozip'
-  md5: d0dcc615c584d5b3e7dd4d214a7be95f
+  download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1250_all_2vaZAn5KwhPi.ozip'
+  md5: d7f1cce25ff9d68de1e72ae53deef01c
   region: Europe
-  size: 2.96GB
+  size: 2.92GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.24
+  version: RMX1931EX_11.C.25
 - changelog: |
     **[Visuals]**:
     **• Updated UI to realme UI**:

@@ -1,14 +1,25 @@
 changelog: |
   **安全**:
-  ● 更新3月份安全补丁
-  **暗色模式**:
-  ● 新增日落到日出启用、设定时间
+  ● 合入四月份安全补丁
+  **修复**:
+  ● 修复蓝牙传输的apk文件打开错误问题
+  ● 修复游戏场景概率性呼出游戏助手失败问题
+  ● 修复日历和时钟不动态更新问题
+  ● 修复备份与恢复中无恢复选项问题
+  ● 修复日历日程无提醒问题
+  ● 修复和平精英耳机模式游戏场景出现的概率性无声问题
+  ● 优化暗光环境下人脸解锁补光亮度
+  ● 修复相机前置拍照概率性出现白条问题
+  ● 修复相册图集删除照片后自动恢复问题
+  ● 修复部分应用图标概率性显示白边问题
+  ● 修复微信使用分身提示存储空间不足问题
+  ● 修复人脸概率性无法删除问题
 codename: RMX1991
-date: 21/03/2020
+date: 22/04/2020
 device: realme X2
-download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_0170_all_lqztkqOQRoa1.ozip
-md5: 1b15e110a65064b1b02ff8cd5032c8d9
+download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1130_all_CRcy5qV4XdhW.ozip
+md5: 093633a76050bf4709c22f70353cb56b
 region: China
-size: 2.33GB
-system: ColorOS 6.1
-version: RMX1991_11.A.17
+size: 2.79GB
+system: realme UI 1.0
+version: RMX1991_11.C.13

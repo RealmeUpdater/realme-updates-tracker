@@ -1,18 +1,13 @@
 changelog: |
-  **Security**:
-  ● Android security patch: January, 2020
-  **System**:
-  ● Added flash on call feature
-  ● Added click the blank area to back to the launcher on recent task interface
-  **Notification Center and Status Bar**:
-  ● Added fast switch toggles of dark mode in notification center
+  **Settings**:
+  ● Fixed the issue that the notification sound always exists after other devices are connected to personal hotspot
   * Android version: Android 9.0
 codename: RMX1801EX
-date: 7/1/2020
+date: 30/3/2020
 device: realme 2 Pro
-download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0260_all_mnxKIJM5sz0H.ozip
-md5: 96236EC218E1BB90FD1589743D75A93D
+download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0300_all_am1UXCOpGXGU.ozip
+md5: A8B351D383ACF3191FEB607C8FCFFD3F
 region: India
-size: 2.71GB
+size: 2.72GB
 system: ColorOS 6.0
-version: RMX1801EX_11_C.26
+version: RMX1801EX_11_C.30

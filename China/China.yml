@@ -1,20 +1,25 @@
 - changelog: |
+    **安全**:
+    ● 更新4月份谷歌安全补丁
     **设置**:
-    ● 增加OTG开关
-    **显示优化**:
-    ● 优化部分界面的显示效果
+    ● 屏幕色彩模式增加鲜艳模式
+    **相机**:
+    ● 新增60帧4K视频的录制功能
+    ● 优化相机拍摄效果
+    **优化**:
+    ● 优化部分场景屏幕低亮时偏红问题
+    ● 优化数据网偶尔存在断连的问题
     **问题修复**:
-    ● 修复进入相册小概率闪退的问题
-    ● 修复在某些特定亮度下屏幕亮度会明暗变化的问题
+    ● 修复屏幕圆角效果会低概率显示在屏幕中间的问题
   codename: RMX2071
-  date: 05/04/2020
+  date: 23/04/2020
   device: realme X50 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0130_all_QaTDYlmz5iAg.ozip
-  md5: 37902050E6560C2BC0C51FFCDD5879E7
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0140_all_v7HHZLn47CCD.ozip
+  md5: A095500A926D48932D9EFE6ABFB982FB
   region: China
-  size: 3.02GB
+  size: 3GB
   system: realme UI V1.0
-  version: RMX2071_11_A.13
+  version: RMX2071_11_A.14
 - changelog: |
     **安全**:
     ● 更新3月份谷歌安全补丁

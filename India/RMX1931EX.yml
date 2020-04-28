@@ -12,11 +12,11 @@ changelog: |
   ● Fixed occasionally unable to evoke the voice assistant
   ● Fixed the microphone icon displays on the status bar after the third-party apps exit
 codename: RMX1931EX
-date: 24/4/2020
+date: 27/4/2020
 device: realme X2 Pro
-download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1250_all_2vaZAn5KwhPi.ozip
-md5: d7f1cce25ff9d68de1e72ae53deef01c
+download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1260_all_H0yONabfaaoA.ozip
+md5: 1980115417f78e9eb3ebe391f6903ab7
 region: India
-size: 2.92GB
+size: 2.91GB
 system: realme UI 1.0
-version: RMX1931EX_11.C.25
+version: RMX1931EX_11.C.26

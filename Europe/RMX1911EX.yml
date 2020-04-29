@@ -1,15 +1,14 @@
 changelog: |
   **Security**:
-  ● Android security patch: December，2019
+  ● Android security patch: April, 2020
   **System**:
-  ● Fixed some known bugs and improved system stability
-  ● Remove FM application
+  ● Fixed some known bugs, and improved system stability
 codename: RMX1911EX
-date: 1/1/2020
+date: 28/4/2020
 device: realme 5
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0230_all_qr4gYIwbZ10t.ozip
-md5: 47A73113B85FB557F1F2349D95273FBA
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
+md5: ' bd04a3c26d23606dde4bdc43c1a0454c'
 region: Europe
-size: 2.55GB
+size: 2.58GB
 system: ColorOS 6.0.1
-version: RMX1911EX_11_A.23
+version: RMX1911EX_11_A.28

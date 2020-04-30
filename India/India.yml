@@ -1,6 +1,30 @@
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
+    **Desktop**:
+    ● Changed the charging icon
+    **Settings**:
+    ● Added Vivid Mode to Screen Color Mode
+    **Camera**:
+    ● Added function of recording 60FPS 4K videos
+    ● Optimized the quality of photos
+    **Optimization**:
+    ● Optimized the screen redness at the low brightness in some scenes
+    ● Optimized network stability
+    **Known issue fixed**:
+    ● Fixed screen rounded corner problem
+  codename: RMX2076PU
+  date: 30/4/2020
+  device: realme X50 Pro
+  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0190_all_GtaIbbl9KMW6.ozip
+  md5: D9897814A4947440749B63346F9D8A6F
+  region: India
+  size: 3.37GB
+  system: realmeUI V1.0
+  version: RMX2076PU_11_A.19
+- changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
     **System**:
     ● Fixed the status bar updates slowly after unlocking
     ● Fixed the Bluetooth headset delay in playing PUBG and other games
@@ -35,7 +59,7 @@
     ● Solved the issue of sliding stuck on Facebook
     ● Solved the stuck issue in some scenes during the PUBG
     ● Optimized the screen touch experience and solved the touch delay issue in some scenes
-  codename: RMX2020
+  codename: RMX2027
   date: 20/4/2020
   device: realme C3
   download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0210_all_EzfIVATAg4cH.ozip
@@ -43,7 +67,7 @@
   region: India
   size: 2.82GB
   system: realme UI V1.0
-  version: RMX2020_11.A.21
+  version: RMX2027_11.A.21
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020

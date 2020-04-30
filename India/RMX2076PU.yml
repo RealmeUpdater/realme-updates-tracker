@@ -1,0 +1,24 @@
+changelog: |
+  **Security**:
+  ● Android security patch: April, 2020
+  **Desktop**:
+  ● Changed the charging icon
+  **Settings**:
+  ● Added Vivid Mode to Screen Color Mode
+  **Camera**:
+  ● Added function of recording 60FPS 4K videos
+  ● Optimized the quality of photos
+  **Optimization**:
+  ● Optimized the screen redness at the low brightness in some scenes
+  ● Optimized network stability
+  **Known issue fixed**:
+  ● Fixed screen rounded corner problem
+codename: RMX2076PU
+date: 30/4/2020
+device: realme X50 Pro
+download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0190_all_GtaIbbl9KMW6.ozip
+md5: D9897814A4947440749B63346F9D8A6F
+region: India
+size: 3.37GB
+system: realmeUI V1.0
+version: RMX2076PU_11_A.19

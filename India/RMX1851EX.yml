@@ -1,20 +1,20 @@
 changelog: |
   **Security**:
-  ● Android security patch: March, 2020
-  **Fixed**:
-  ● Optimized the effect of game audio
-  ● Fixed the probability error of boot animation display
-  ● Fixed the low probabilistic stucking issue while using third-party applications
-  ● Optimized system power consumption
-  ● Fixed low probability stucking issue due to the memory leak of system
-  ● Fixed the probability issue that photos or screenshots are not displayed after upgrading
+  ● Android security patch: April, 2020
+  **Application**:
+  ● Added DocVault ID feature(India)
+  **Known issue fixed**:
+  ● Optimized audio quality for third-party apps
+  ● Added arrow to the right of the list of recent location information requests in dark mode
+  ● Fixed the issue that the prompt tone appears every time when the client plays music
+  ● Fixed the issue that the alarm is automatically turned off after being cleared by the background task
   * Android version: Android 10
 codename: RMX1851EX
-date: 24/3/2020
+date: 30/4/2020
 device: realme 3 Pro
-download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1040_all_aq8syIfCvByN.ozip
-md5: BFF53DD7D2DC4E8A3317B4B953E90EF0
+download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1050_all_mrfWfUMXI172.ozip
+md5: 518C7D1398A8EACE46F61022333F076E
 region: India
-size: 3.49GB
+size: 3.16GB
 system: realme UI V1.0
-version: RMX1851EX_11.C.04
+version: RMX1851EX_11.C.05

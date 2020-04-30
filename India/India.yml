@@ -291,27 +291,25 @@
   version: ''
 - changelog: |
     **Security**:
-    ● Android security patch: March, 2020
-    **Settings**:
-    ● Added screen light effects
-    **Fixed**:
-    ● Fixed the probabilistic issue of stucking after upgrade
-    ● Optimized the effect of game audio
-    ● Fixed the probability error of boot animation display
-    ● Fixed the low probabilistic stucking issue while using third-party applications
-    ● Optimized system power consumption
-    ● Fixed low probability stucking issue due to the memory leak of system
-    ● Fixed the probabilistic issue of fingerprint recognition failure
-    ● Fixed the probability issue that photos or screenshots are not displayed after upgrading
+    ● Android security patch: April, 2020
+    **Battery**:
+    ● Decimal point display added to charging animation
+    **Application**:
+    ● Added DocVault ID feature(India)
+    **Known issue fixed**:
+    ● Optimized audio quality for third-party apps
+    ● Added arrow to the right of the list of recent location information requests in dark mode
+    ● Fixed the issue that the prompt tone appears every time when the client plays music
+    ● Fixed the issue that the alarm is automatically turned off after being cleared by the background task
   codename: RMX1901EX
-  date: 26/3/2020
+  date: 29/4/2020
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1020_all_7Mq2hKW2L2CY.ozip
-  md5: FD6ED2FC1C5FB2226B878D604364D463
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1030_all_SNmD0OOmonAs.ozip
+  md5: AD969367DDE2018C6054F74C13C9D816
   region: India
-  size: 3.5GB
+  size: 3.17GB
   system: realme UI V1.0
-  version: RMX1901EX_11.C.02
+  version: RMX1901EX_11.C.03
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020

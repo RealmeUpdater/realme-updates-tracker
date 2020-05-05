@@ -630,38 +630,22 @@
     **【升级提示】**:
     **请升级到最新的版本：RMX1851_11.A.10，再进行拷包升级，否则会出现升级不上去**:
     **安全**:
-    ● 更新2020年3月份安全补丁
-    **系统**:
-    ● 上滑手势新增左右侧返回功能
+    ● 更新2020年4月份安全补丁
+    **设置**:
+    ● 设置中增加上滑手势指示条跟随屏幕旋转
     **修复**:
-    ● 优化游戏音频效果问题
-    ● 修复开机动画概率性显示错误
-    ● 修复抖音超清视效失效问题
-    ● 修复系统低概率出现内存泄漏导致卡顿问题
-    ● 优化暗色模式下通知管理显示效果
-    ● 优化截屏界面开启暗色模式显示效果
-    ● 优化兼容三方主题图标风格页面效果
-    ● 修复升级后拍照截图概率性不显示问题
-    ● 修复三方应用视频聊天低概率出现黑屏问题
+    ● 优化三方应用音频效果
+    ● 暗色模式下最近的位置信息请求列表右侧增加箭头显示
+    ● 修复客户端播放音乐每次都出现提示音问题
   codename: RMX1851
-  date: 23/03/2020
+  date: 30/04/2020
   device: realme X青春版
-  download: https://download.c.realme.com/osupdate/RMX1851_11_OTA_1020_all_AAWCZEQ854kb.ozip
-  md5: 2E8B2A205AB81DDE6A3C498396FB4DCB
+  download: https://download.c.realme.com/osupdate/RMX1851_11_OTA_1030_all_n4421kv8GbOE.ozip
+  md5: 703B755BED12530A8C1BD87E2B0EE365
   region: China
-  size: 3.05GB
+  size: 3.02GB
   system: realme UI 1.0
-  version: RMX1851_11.C.02
-- changelog: ''
-  codename: ''
-  date: Unknown
-  device: ''
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0150_all_KruzpPuALFCV.ozip
-  md5: Unknown
-  region: China
-  size: ''
-  system: ''
-  version: ''
+  version: RMX1851_11.C.03
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020

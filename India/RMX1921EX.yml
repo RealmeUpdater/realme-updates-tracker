@@ -1,20 +1,17 @@
 changelog: |
   **Security**:
-  ● Android security patch: March, 2020
-  **Fixed**:
-  ● Optimized system power consumption
-  ● Optimized the effect of game audio
-  ● Fixed the probability error of boot animation display
-  ● Fixed the low probabilistic stucking issue while using third-party applications
-  ● Fixed low probability stucking issue due to the memory leak of system
-  ● Fixed the probability issue that photos or screenshots are not displayed after upgrading
-  * Android version: Android 10
+  ● Android security patch: April, 2020
+  **Known issue fixed**:
+  ● Optimized audio quality for third-party apps
+  ● Added arrow to the right of the list of recent location information requests in dark mode
+  ● Fixed the issue that the prompt tone appears every time when the client plays music
+  ● Fixed the issue that the alarm is automatically turned off after being cleared by the background task
 codename: RMX1921EX
-date: 23/3/2020
+date: 30/4/2020
 device: realme XT
-download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1030_all_yhA6M50GDlsj.ozip
-md5: 3768C32B5D37674E8AC9B6B2C6A7C9EB
+download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1040_all_sJ20CP11Qx6E.ozip
+md5: 270CFF211C210EDCBFBC8B365B5F4994
 region: India
-size: 3.49GB
+size: 3.17GB
 system: realme UI V1.0
-version: RMX1921EX_11_C.03
+version: RMX1921EX_11_C.04

@@ -109,53 +109,45 @@
   version: RMX1991_11.C.13
 - changelog: |
     **安全**:
-    ● 更新2月安全补丁
-    **相册**:
-    ● 修复相机占用内存过多导致存储异常的问题
-    ● 修复相册加载慢或图片置灰显示的问题
-    ● 优化相册图片详情中时间显示
-    **手势**:
-    ● 优化横屏下三指截屏策略，防止多指游戏时误触发截屏
+    ● 更新2020年4月份安全补丁
     **修复**:
-    ● 修复三方运动应用锁定在后台，使用一段时间后会自动被清理掉的问题
-    ● 解决状态栏WiFi信号格数不更新的问题
+    ● 优化三方应用音频效果
+    ● 暗色模式下最近的位置信息请求列表右侧增加箭头显示
+    ● 修复客户端播放音乐每次都出现提示音问题
+    ● 修复闹钟被后台任务清除后自动关闭问题
   codename: RMX1971
-  date: 25/02/2020
+  date: 29/04/2020
   device: realme Q
-  download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_0120_all_zdWec6tHr0qS.ozip
-  md5: F1BAF7BAA1781A2469596AD59FB894CA
+  download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_1040_all_6mB9JqulzBcv.ozip
+  md5: 6434AB0F706E2F76DDEF7DFBF79B580E
   region: China
-  size: 2.41GB
-  system: ColorOS 6.0
-  version: RMX1971_11_A.12
+  size: 3.01GB
+  system: realme UI 1.0
+  version: RMX1971_11_C.04
 - changelog: |
     **【升级提示】**:
     **请升级到最新的版本：RMX1901_11.A.22，再进行拷包升级，否则会出现升级不上去**:
     **安全**:
-    ● 更新2020年3月份安全补丁
-    **系统**:
-    ● 上滑手势新增左右侧返回功能
+    ● 更新2020年4月份安全补丁
+    **电池**:
+    ● 充电动画增加小数点显示
+    **设置**:
+    ● 设置中增加上滑手势指示条跟随屏幕旋转
     **修复**:
-    ● 修复升级后概率性整机卡顿问题
-    ● 优化游戏音频效果问题
-    ● 修复开机动画概率性显示错误
-    ● 修复微信分身插入有线耳机声音为外放
-    ● 修复抖音超清视效失效问题
-    ● 修复系统低概率出现内存泄漏导致卡顿问题
-    ● 修复概率性指纹触摸失灵问题
-    ● 优化暗色模式下通知管理显示效果
-    ● 优化截屏界面开启暗色模式显示效果
-    ● 修复升级后拍照截图概率性不显示问题
-    ● 修复三方应用视频聊天低概率出现黑屏问题
+    ● 修复系统自带主题“简约至美”日历和时钟图标显示与实际不一致问题（升级后需要在主题商店里面，重新应用一次“简约至美”主题）即可
+    ● 优化三方应用音频效果
+    ● 暗色模式下最近的位置信息请求列表右侧增加箭头显示
+    ● 修复MPG格式视频在文件管理中略缩图显示黑白色
+    ● 修复客户端播放音乐每次都出现提示音问题
   codename: RMX1901
-  date: 22/03/2020
+  date: 26/04/2020
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_1070_all_PqDMR9uiTDZ3.ozip
-  md5: 5F9E1C6DCD2B2C87628FBEB14A73741C
+  download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_1080_all_e9AkZsak64Vj.ozip
+  md5: 1AD01D745D65FCB3D52165C87A1CF19C
   region: China
-  size: 3.04GB
+  size: 3.02GB
   system: realme UI 1.0
-  version: RMX1901_11.C.07
+  version: RMX1901_11.C.08
 - changelog: |
     **【升级提示】**:
     **请升级到最新的版本：RMX1851_11.A.10，再进行拷包升级，否则会出现升级不上去**:

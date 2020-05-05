@@ -1,21 +1,17 @@
 changelog: |
   **安全**:
-  ● 更新2月安全补丁
-  **相册**:
-  ● 修复相机占用内存过多导致存储异常的问题
-  ● 修复相册加载慢或图片置灰显示的问题
-  ● 优化相册图片详情中时间显示
-  **手势**:
-  ● 优化横屏下三指截屏策略，防止多指游戏时误触发截屏
+  ● 更新2020年4月份安全补丁
   **修复**:
-  ● 修复三方运动应用锁定在后台，使用一段时间后会自动被清理掉的问题
-  ● 解决状态栏WiFi信号格数不更新的问题
+  ● 优化三方应用音频效果
+  ● 暗色模式下最近的位置信息请求列表右侧增加箭头显示
+  ● 修复客户端播放音乐每次都出现提示音问题
+  ● 修复闹钟被后台任务清除后自动关闭问题
 codename: RMX1971
-date: 25/02/2020
+date: 29/04/2020
 device: realme Q
-download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_0120_all_zdWec6tHr0qS.ozip
-md5: F1BAF7BAA1781A2469596AD59FB894CA
+download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_1040_all_6mB9JqulzBcv.ozip
+md5: 6434AB0F706E2F76DDEF7DFBF79B580E
 region: China
-size: 2.41GB
-system: ColorOS 6.0
-version: RMX1971_11_A.12
+size: 3.01GB
+system: realme UI 1.0
+version: RMX1971_11_C.04

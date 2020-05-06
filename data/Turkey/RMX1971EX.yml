@@ -1,0 +1,69 @@
+changelog: |
+  **[Görseller]**:
+  **• Kullanıcı arayüzü, realme kullanıcı arayüzü olarak güncellendi**:
+  **• Yeni Real Design, görselleri daha çekici ve kullanımı daha etkili hale getiriyor.**:
+  **[Akıllı Kenar Çubuğu]**:
+  **• Kullanıcı arayüzü ve tek elle kullanım iyileştirildi.**:
+  **• Akıllı Kenar Çubuğu İyileştirildi: Dosya Konsolu, Dosya Yöneticisi ile değiştirildi; OSIE Görsel Efekti ve Bildirim Yok Uyarıları kaldırıldı.**:
+  **• Bir uygulamayı Akıllı Kenar Çubuğunun dışına sürükleyerek Bölünmüş Ekran Modunda açabilirsiniz.**:
+  **• İki yeni özellik eklendi: “Yardımcı Top Opaklığı” ve “Tam Ekran Uygulamada Yardımcı Topu Gizle”.**:
+  **• Kayan Pencere özelliği daha fazla uygulama için iyileştirildi.**:
+  **• Balonlar Eklendi: Akıllı Kenar Çubuğundan kayan pencerede bir uygulama açtığınızda bir balon görüntülenir. Uygulamayı daraltmak veya açmak için balona dokunun.**:
+  **[Ekran görüntüsü]**:
+  **• 3 Parmakla Ekran Görüntüsü Alma Hareketi İyileştirildi: 3 parmağınızı kullanarak ekrana basılı tutun ve ekranın seçili kısmının ekran görüntüsünü (kısmi ekran görüntüsü) almak için parmaklarınızı kaydırın. 3 parmağınızı kullanarak ekrana basılı tutun ve uzun bir ekran görüntüsü almak için parmaklarınızı dışarı doğru kaydırın.**:
+  **• Ekran görüntüsü ayarları eklendi: Ekran görüntüsü önizleme kayan penceresinin konumunu ve ekran görüntüsü alma sesini ayarlayabilirsiniz.**:
+  **• Ekran görüntüsü önizleme kayan penceresi iyileştirildi: Ekran görüntüsünü aldıktan sonra görüntüyü yukarı çekip serbest bırakarak paylaşabilir veya aşağı çekip serbest bırakarak uzun ekran görüntüsü alabilirsiniz.**:
+  **[Gezinme Hareketleri 3.0]**:
+  **• Hareketler iyileştirildi: Tüm hareketler yatay modda desteklenmektedir.**:
+  **[Sistem]**:
+  **• Odak Modu Eklendi: Bir eğitime katılırken veya çalışırken dikkat dağıtan şeyleri en aza indirir.**:
+  **• Tamamen yeni bir şarj animasyonu eklendi.**:
+  **• Daha kolay tek elle kullanım için Hızlı Ayarlar arayüzü iyileştirildi.**:
+  **• Ekran kaydı için duraklatma özelliği eklendi.**:
+  **• Ekran kaydı için kayan pencere ve ayarlar eklendi.**:
+  **• Dosya silme, hesap makinesi tuş dokunuşları ve pusula işaretçisi için yeni sesler eklendi.**:
+  **• Sistemde bulunan zil sesleri iyileştirildi.**:
+  **• Erişilebilirlik için TalkBack kayan istemleri eklendi.**:
+  **• Son kullanılan görevler için yeni yönetim özelliği: Son görevler ve kilitli uygulamalarla ilgili bellek bilgilerini görebilirsiniz.**:
+  **[Oyunlar]**:
+  **• Oyun Alanı için görsel etkileşim iyileştirildi.**:
+  **• Oyun alanı için yükleme animasyonu iyileştirildi.**:
+  **[Ana ekran]**:
+  **• Yeni canlı duvar kağıtları eklendi.**:
+  **• Artistik duvar kağıtları eklendi.**:
+  **• Ana ekranda aşağı kaydırırken Global Aramayı veya bildirim panelini açma seçeneği eklendi.**:
+  **• Ana ekrandaki uygulama simgelerinin boyutunu, şeklini ve stilini özelleştirme seçeneği eklendi.**:
+  **• Tek elle kullanımı kolaylaştırmak için kilit açma şifresinin grafik tasarımı iyileştirildi.**:
+  **• Kilit ekranında animasyonlu duvar kağıtları için destek sağlandı.**:
+  **• Daha büyük yazı tiplerine, simgelere ve daha sade bir düzene sahip ana ekran için Basit Mod eklendi.**:
+  **[Güvenlik]**:
+  **• Rastgele MAC Adresi Oluşturucu: Telefonunuz Wi-Fi ağına bağlandığında, hedefe odaklı reklamları önlemek ve gizliliğinizi korumak için sistem bir rastgele MAC adresi oluşturur.**:
+  **[Araçlar]**:
+  **• Hızlı Ayarlarda veya Akıllı Kenar Çubuğunda Hesap Makinesini kayan pencerede açabilirsiniz.**:
+  **• Kayıtlara kırpma özelliği eklendi.**:
+  **• Mevcut hava durumuna otomatik olarak uyum sağlayan Hava Durumu (dinamik) zil sesi eklendi.**:
+  **• Hava Durumu uygulamasına hava durumuna uyum sağlayan animasyonlar eklendi.**:
+  **[Kamera]**:
+  **• Daha iyi kullanıcı deneyimi için Kamera arayüzü iyileştirildi.**:
+  **• Zamanlayıcı arayüzü ve sesi iyileştirildi.**:
+  **[Fotoğraflar]**:
+  **• Daha sade bir yapı ve küçük resimler için Albüm arayüzü iyileştirildi.**:
+  **• 80'den fazla sahneyi tanıyabilen Albüm Önerileri eklendi.**:
+  **[İletişimler]**:
+  **realme Share artık OPPO, Vivo ve Xiaomi cihazlarla dosya paylaşımını desteklemektedir.**:
+  **• Daha etkin bir deneyim için Kişiler arayüzü iyileştirildi.**:
+  **[Ayarlar]**:
+  **• Arama Ayarları artık benzer eşleşmeleri desteklemekte ve bir arama geçmişi içermektedir.**:
+  **[Müzik]**:
+  ● realme Laboratuvara Çift Modlu Müzik Paylaşımı eklendi
+  **[FM]**:
+  ● Dahili FM işlevi eklendi
+codename: RMX1971EX
+date: 27/2/2020
+device: realme 5 Pro
+download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1010_all_EclovWQpIsEx.ozip
+md5: B5CFE2FFCED11686547FCFE02AF98F12
+region: Turkey
+size: 3.5GB
+system: realme UI 1.0
+version: RMX1971EX_11_C.01

@@ -1,0 +1,160 @@
+- changelog: |
+    **Güvenlik**:
+    ● Android güvenlik yaması: Nisan 2020
+    **Sistem**:
+    ● Kilit açıldıktan sonra yavaş yüklenen durum çubuğu düzeltildi
+    ● Bluetooth kulaklık, PUBG ve diğer oyunları oynamak için bağlandığında geç çıkan ses düzeltildi
+    **Kamera**:
+    ● Arka ana kameraya ultra gece görüşü eklendi
+    ● Optimize edilmiş 64M ve geniş açılı netlik
+    ● Zamanlayıcı ultra geniş açıya alındığında "ultra geniş modun" komutsuz sorunu çözüldü
+    ● Sistem dili Arapça olarak değiştirildikten sonra kameranın güzellik özelliğini ayarlayamadığına dair sorun çözüldü
+    ● Düzeltildi: Işığın arkadan geldiği ortamlarda ön kameranın aşırı pozlama sorunu
+  codename: RMX2061EU
+  date: 21/4/2020
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0140_all_y663ZUOyuEla.ozip
+  md5: b48a85eb5a53b1e370055ac849bbe381
+  region: Turkey
+  size: 3.22GB
+  system: realme UI 1.0
+  version: RMX2061EU_11.A.14
+- changelog: |
+    **Güvenlik**:
+    ● Android güvenlik yaması: Nisan 2020
+    **kamera**:
+    ● Arka kamerayla çekilmiş dikey resimleri önizleme netliği optimize edildi
+    ● Geniş açıda bulutlu havada çekilmiş fotoğraflarda mavi efekt sorunu optimize edildi
+    ● Geniş açıda gece sahnesindeki karlanma optimize edildi
+    ● Ana kamerada gece sahnesindeki karlanma optimize edildi, yakınlaştırma karlanmasında optimizasyon yapıldı
+    ● Arka ana kamerada sahne renk üstünlüğü optimize edildi.
+    ● Üçüncü taraf uygulamaları kullanırken flaşın karanlıkta düzgün şekilde çalışmaması sorunu düzeltildi
+    **Bilinen sorun düzeltildi**:
+    ● Özel zil sesi ayarlanmasından sonra listenin görüntülenmemesi sorunu düzeltildi
+    ● Mesafe sensöründe hataya neden olan olası sorun düzeltildi
+    ● Ekrana yansıtma hatası sorunu düzeltildi
+    ● Teman fontlarını başarıyla indirdikten ve ayarladıktan sonra ana sayfada etkinleşmemesi sorunu düzeltildi
+  codename: RMX2040
+  date: 16/04/2020
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0140_all_4GClBvEoPfXD.ozip
+  md5: BB37CC9C3C450C27EB9D48B72ACAEDEA
+  region: Turkey
+  size: 2.70GB
+  system: realme UI V1.0
+  version: RMX2040_11_A.14
+- changelog: |
+    **Güvenlik**:
+    ● Android güvenlik yaması: Nisan 2020
+    **Kamera**:
+    ● Üçüncü taraf uygulamaları kullanırken ön kameranın renk performansı iyileştirildi
+    ● Gece ortamında ön kameranın netliği iyileştirildi
+  codename: RMX2030EX
+  date: 24/4/2020
+  device: realme 5i
+  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0190_all_nrdKBLRr60zb.ozip
+  md5: 757954ADC548EBCE5B5A017F1EFE364D
+  region: Turkey
+  size: 2.6GB
+  system: ColorOS 6.0.1
+  version: RMX2030EX_11_A.19
+- changelog: |
+    **[Görseller]**:
+    **• Kullanıcı arayüzü, realme kullanıcı arayüzü olarak güncellendi**:
+    **• Yeni Real Design, görselleri daha çekici ve kullanımı daha etkili hale getiriyor.**:
+    **[Akıllı Kenar Çubuğu]**:
+    **• Kullanıcı arayüzü ve tek elle kullanım iyileştirildi.**:
+    **• Akıllı Kenar Çubuğu İyileştirildi: Dosya Konsolu, Dosya Yöneticisi ile değiştirildi; OSIE Görsel Efekti ve Bildirim Yok Uyarıları kaldırıldı.**:
+    **• Bir uygulamayı Akıllı Kenar Çubuğunun dışına sürükleyerek Bölünmüş Ekran Modunda açabilirsiniz.**:
+    **• İki yeni özellik eklendi: “Yardımcı Top Opaklığı” ve “Tam Ekran Uygulamada Yardımcı Topu Gizle”.**:
+    **• Kayan Pencere özelliği daha fazla uygulama için iyileştirildi.**:
+    **• Balonlar Eklendi: Akıllı Kenar Çubuğundan kayan pencerede bir uygulama açtığınızda bir balon görüntülenir. Uygulamayı daraltmak veya açmak için balona dokunun.**:
+    **[Ekran görüntüsü]**:
+    **• 3 Parmakla Ekran Görüntüsü Alma Hareketi İyileştirildi: 3 parmağınızı kullanarak ekrana basılı tutun ve ekranın seçili kısmının ekran görüntüsünü (kısmi ekran görüntüsü) almak için parmaklarınızı kaydırın. 3 parmağınızı kullanarak ekrana basılı tutun ve uzun bir ekran görüntüsü almak için parmaklarınızı dışarı doğru kaydırın.**:
+    **• Ekran görüntüsü ayarları eklendi: Ekran görüntüsü önizleme kayan penceresinin konumunu ve ekran görüntüsü alma sesini ayarlayabilirsiniz.**:
+    **• Ekran görüntüsü önizleme kayan penceresi iyileştirildi: Ekran görüntüsünü aldıktan sonra görüntüyü yukarı çekip serbest bırakarak paylaşabilir veya aşağı çekip serbest bırakarak uzun ekran görüntüsü alabilirsiniz.**:
+    **[Gezinme Hareketleri 3.0]**:
+    **• Hareketler iyileştirildi: Tüm hareketler yatay modda desteklenmektedir.**:
+    **[Sistem]**:
+    **• Odak Modu Eklendi: Bir eğitime katılırken veya çalışırken dikkat dağıtan şeyleri en aza indirir.**:
+    **• Tamamen yeni bir şarj animasyonu eklendi.**:
+    **• Daha kolay tek elle kullanım için Hızlı Ayarlar arayüzü iyileştirildi.**:
+    **• Ekran kaydı için duraklatma özelliği eklendi.**:
+    **• Ekran kaydı için kayan pencere ve ayarlar eklendi.**:
+    **• Dosya silme, hesap makinesi tuş dokunuşları ve pusula işaretçisi için yeni sesler eklendi.**:
+    **• Sistemde bulunan zil sesleri iyileştirildi.**:
+    **• Erişilebilirlik için TalkBack kayan istemleri eklendi.**:
+    **• Son kullanılan görevler için yeni yönetim özelliği: Son görevler ve kilitli uygulamalarla ilgili bellek bilgilerini görebilirsiniz.**:
+    **[Oyunlar]**:
+    **• Oyun Alanı için görsel etkileşim iyileştirildi.**:
+    **• Oyun alanı için yükleme animasyonu iyileştirildi.**:
+    **[Ana ekran]**:
+    **• Yeni canlı duvar kağıtları eklendi.**:
+    **• Artistik duvar kağıtları eklendi.**:
+    **• Ana ekranda aşağı kaydırırken Global Aramayı veya bildirim panelini açma seçeneği eklendi.**:
+    **• Ana ekrandaki uygulama simgelerinin boyutunu, şeklini ve stilini özelleştirme seçeneği eklendi.**:
+    **• Tek elle kullanımı kolaylaştırmak için kilit açma şifresinin grafik tasarımı iyileştirildi.**:
+    **• Kilit ekranında animasyonlu duvar kağıtları için destek sağlandı.**:
+    **• Daha büyük yazı tiplerine, simgelere ve daha sade bir düzene sahip ana ekran için Basit Mod eklendi.**:
+    **[Güvenlik]**:
+    **• Rastgele MAC Adresi Oluşturucu: Telefonunuz Wi-Fi ağına bağlandığında, hedefe odaklı reklamları önlemek ve gizliliğinizi korumak için sistem bir rastgele MAC adresi oluşturur.**:
+    **[Araçlar]**:
+    **• Hızlı Ayarlarda veya Akıllı Kenar Çubuğunda Hesap Makinesini kayan pencerede açabilirsiniz.**:
+    **• Kayıtlara kırpma özelliği eklendi.**:
+    **• Mevcut hava durumuna otomatik olarak uyum sağlayan Hava Durumu (dinamik) zil sesi eklendi.**:
+    **• Hava Durumu uygulamasına hava durumuna uyum sağlayan animasyonlar eklendi.**:
+    **[Kamera]**:
+    **• Daha iyi kullanıcı deneyimi için Kamera arayüzü iyileştirildi.**:
+    **• Zamanlayıcı arayüzü ve sesi iyileştirildi.**:
+    **[Fotoğraflar]**:
+    **• Daha sade bir yapı ve küçük resimler için Albüm arayüzü iyileştirildi.**:
+    **• 80'den fazla sahneyi tanıyabilen Albüm Önerileri eklendi.**:
+    **[İletişimler]**:
+    **realme Share artık OPPO, Vivo ve Xiaomi cihazlarla dosya paylaşımını desteklemektedir.**:
+    **• Daha etkin bir deneyim için Kişiler arayüzü iyileştirildi.**:
+    **[Ayarlar]**:
+    **• Arama Ayarları artık benzer eşleşmeleri desteklemekte ve bir arama geçmişi içermektedir.**:
+    **[Müzik]**:
+    ● realme Laboratuvara Çift Modlu Müzik Paylaşımı eklendi
+    **[FM]**:
+    ● Dahili FM işlevi eklendi
+  codename: RMX1971EX
+  date: 27/2/2020
+  device: realme 5 Pro
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1010_all_EclovWQpIsEx.ozip
+  md5: B5CFE2FFCED11686547FCFE02AF98F12
+  region: Turkey
+  size: 3.5GB
+  system: realme UI 1.0
+  version: RMX1971EX_11_C.01
+- changelog: |
+    **Güvenlik**:
+    ● Android güvenlik yaması: Nisan 2020
+    **Bilinen sorun düzeltildi**:
+    ● Üçüncü taraf uygulamaları için ses efektleri optimize edildi
+    ● Karanlık modda son konum bilgisi istekleri listesinin sağına ok eklendi
+    ● İstemci her müzik çaldığında komut istemi sesinin duyulması sorunu düzeltildi
+    ● Arka plan görevi tarafından temizlendikten sonra alarmın otomatik olarak kapatılması sorunu düzeltildi
+  codename: RMX1921EX
+  date: 30/4/2020
+  device: realme XT
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1040_all_sJ20CP11Qx6E.ozip
+  md5: 270CFF211C210EDCBFBC8B365B5F4994
+  region: Turkey
+  size: 3.17GB
+  system: realme UI 1.0
+  version: RMX1921EX_11_C.04
+- changelog: |
+    **Güvenlik**:
+    ● Android güvenlik yaması: Mart 2020
+    **Ayarlar**:
+    ● Her iki taraftan kaydırma hareketleri eklendi
+  codename: RMX1941EX
+  date: 25/3/2020
+  device: realme C2
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0240_all_kH44EOzj6gd1.ozip
+  md5: 0e7d7c92f308c8046165110406170b92
+  region: Turkey
+  size: 1.98GB
+  system: ColorOS 6.0
+  version: RMX1941EX_11.A.24

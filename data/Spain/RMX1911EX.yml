@@ -1,0 +1,14 @@
+changelog: |
+  **Seguridad**:
+  ● Parche de seguridad de Android: abril de 2020
+  **Sistema**:
+  ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
+codename: RMX1911EX
+date: 28/4/2020
+device: realme 5
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
+md5: ' bd04a3c26d23606dde4bdc43c1a0454c'
+region: Spain
+size: 2.58GB
+system: ColorOS 6.0.1
+version: RMX1911EX_11_A.28

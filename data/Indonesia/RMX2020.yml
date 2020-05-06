@@ -1,0 +1,25 @@
+changelog: |
+  **Keamanan**:
+  ● Patch keamanan Android: April 2020
+  **Kamera**:
+  ● Mengoptimalkan performa noise ISO rendah di kamera depan dan meningkatkan kejernihan ISO
+  ● Mengoptimalkan masalah kamera depan untuk AWB dalam ruangan yang kemerahan
+  ● Meningkatkan kualitas selfie dan lebih dekat dengan alam
+  ● Mengoptimalkan kontras selfie dan mengurangi bayangan mata
+  ● Mengoptimalkan foto blur karena kamera depan berguncang
+  ● Mengoptimalkan kualitas gambar kamera belakang dalam kejernihan ISO rendah
+  ● Mengoptimalkan AWB kamera belakang untuk meningkatkan masalah rona kehijauan di beberapa pemandangan luar ruangan.
+  **Memperbaiki masalah yang diketahui**:
+  ● Mengoptimalkan kelancaran keluar-masuk Whatsapp
+  ● Memecahkan masalah macet menggulir di Facebook
+  ● Memecahkan masalah hang di beberapa adegan saat bermain PUBG
+  ● Mengoptimalkan kualitas layar sentuh dan memecahkan masalah lag dalam beberapa adegan
+codename: RMX2020
+date: 20/4/2020
+device: realme C3
+download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0210_all_EzfIVATAg4cH.ozip
+md5: C8345B8067447197DD210D4029D4E2A5
+region: Indonesia
+size: 2.82GB
+system: realme UI V1.0
+version: RMX2020_11.A.21

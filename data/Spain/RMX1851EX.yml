@@ -1,0 +1,18 @@
+changelog: |
+  **Seguridad**:
+  ● Parche de seguridad de Android: abril de 2020
+  **Corrección de errores conocidos**:
+  ● Optimización de los efectos de sonido para aplicaciones de terceros
+  ● Adición de una flecha a la derecha de la lista de solicitudes de información de ubicaciones recientes en el modo oscuro
+  ● Corrección del error por el que el tono de aviso suena cada vez que el cliente reproduce música
+  ● Corrección del error por el que la alarma se apaga automáticamente cuando la tarea en segundo plano la borra
+  ● Adición de la función Barra lateral inteligente en la región de Europa
+codename: RMX1851EX
+date: 30/4/2020
+device: realme 3 Pro
+download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1050_all_mrfWfUMXI172.ozip
+md5: 518C7D1398A8EACE46F61022333F076E
+region: Spain
+size: 3.16GB
+system: realme UI V1.0
+version: RMX1851EX_11.C.05

@@ -1,0 +1,19 @@
+changelog: |
+  **Keamanan**:
+  ● Patch keamanan Android: April 2020
+  **Baterai**:
+  ● Tampilan titik desimal ditambahkan ke animasi mengisi daya
+  **Memperbaiki masalah yang diketahui**:
+  ● Mengoptimalkan efek audio untuk aplikasi pihak ketiga
+  ● Menambahkan panah kanan ke daftar permintaan informasi lokasi baru-baru ini dalam mode gelap
+  ● Memperbaiki masalah dimana nada pertanyaan muncul setiap kali klien memutar musik
+  ● Memperbaiki masalah dimana alarm mati otomatis setelah dihapus oleh tugas latar belakang
+codename: RMX1901EX
+date: 29/4/2020
+device: realme X
+download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1030_all_SNmD0OOmonAs.ozip
+md5: AD969367DDE2018C6054F74C13C9D816
+region: Indonesia
+size: 3.17GB
+system: realme UI V1.0
+version: RMX1901EX_11.C.03

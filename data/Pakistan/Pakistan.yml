@@ -1,0 +1,151 @@
+- changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
+    **Camera**:
+    ● Optimized the low ISO noise performance of the front camera and improved the ISO clarity
+    ● Optimized the front camera issue of indoor AWB redness
+    ● Improved selfie experience and closer to nature
+    ● Optimized the contrast of selfies and reduced eye shadows
+    ● Optimized blurring of photos caused by front camera shaking
+    ● Optimized the image quality of the rear camera at low ISO clarity
+    ● Optimized the AWB of the rear camera to improve the greenish problem in some outdoor scenes
+    **Known issue fixed**:
+    ● Optimized the fluency of entering and exiting Whatsapp
+    ● Solved the issue of sliding stuck on Facebook
+    ● Solved the stuck issue in some scenes during the PUBG
+    ● Optimized the screen touch experience and solved the touch delay issue in some scenes
+  codename: RMX2020
+  date: 20/4/2020
+  device: realme C3
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0210_all_EzfIVATAg4cH.ozip
+  md5: C8345B8067447197DD210D4029D4E2A5
+  region: Pakistan
+  size: 2.82GB
+  system: realme UI V1.0
+  version: RMX2020_11.A.21
+- changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
+    **Camera**:
+    ● Optimized color performance of front camera while using third-party
+    **applications**:
+    ● Optimized clarity of front camera while night environment
+  codename: RMX2030EX
+  date: 24/4/2020
+  device: realme 5i
+  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0190_all_nrdKBLRr60zb.ozip
+  md5: 757954ADC548EBCE5B5A017F1EFE364D
+  region: Pakistan
+  size: 2.6GB
+  system: ColorOS 6.0
+  version: RMX2030EX_11_A.19
+- changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
+    **Known issue fixed**:
+    ● Optimized audio quality for third-party apps
+    ● Added arrow to the right of the list of recent location information requests in dark mode
+    ● Fixed the issue that the prompt tone appears every time when the client plays music
+    ● Fixed the issue that the alarm is automatically turned off after being cleared by the background task
+  codename: RMX1921EX
+  date: 30/4/2020
+  device: realme XT
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1040_all_sJ20CP11Qx6E.ozip
+  md5: 270CFF211C210EDCBFBC8B365B5F4994
+  region: Pakistan
+  size: 3.17GB
+  system: realme UI V1.0
+  version: RMX1921EX_11_C.04
+- changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
+    **Known issue fixed**:
+    ● Optimized audio quality for third-party apps
+    ● Added arrow to the right of the list of recent location information requests in dark mode
+    ● Fixed the issue that the prompt tone appears every time when the client plays music
+    ● Fixed the issue that the alarm is automatically turned off after being cleared by the background task
+  codename: RMX1971EX
+  date: 30/4/2020
+  device: realme 5 Pro
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1030_all_d2wEgWvTFBDq.ozip
+  md5: 587C5D50CC9D1C4D5C25C3275CD42410
+  region: Pakistan
+  size: 3.16GB
+  system: realme UI 1.0
+  version: RMX1971EX_11_C.03
+- changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
+    **System**:
+    ● Fixed some known bugs, and improved system stability
+  codename: RMX1911EX
+  date: 28/4/2020
+  device: realme 5s
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
+  md5: bd04a3c26d23606dde4bdc43c1a0454c
+  region: Pakistan
+  size: 2.7GB
+  system: ColorOS 6.0.1
+  version: RMX1911EX_11_A.28
+- changelog: |
+    **Security**:
+    ● Android security patch: February, 2020
+    **System**:
+    ● Fixed camera crash issue in some scenes, and improved system stability
+  codename: RMX1911EX
+  date: 25/2/2020
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0250_all_mHmHi8m1sQhp.ozip
+  md5: 0ABD5EDA7E3C6D04C5F59DD35ABC189D
+  region: Pakistan
+  size: 2.57GB
+  system: ColorOS 6.0.1
+  version: RMX1911EX_11.A.25
+- changelog: |
+    **Security**:
+    ● Android security patch: March, 2020
+    **Fixed**:
+    ● Optimized the effect of game audio
+    ● Fixed the probability error of boot animation display
+    ● Fixed the low probabilistic stucking issue while using third-party applications
+    ● Optimized system power consumption
+    ● Fixed low probability stucking issue due to the memory leak of system
+    ● Fixed the probability issue that photos or screenshots are not displayed after upgrading
+  codename: RMX1851EX
+  date: 30/4/2020
+  device: realme 3 Pro
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1050_all_mrfWfUMXI172.ozip
+  md5: 518C7D1398A8EACE46F61022333F076E
+  region: Pakistan
+  size: 3.16GB
+  system: realme UI V1.0
+  version: RMX1851EX_11.C.05
+- changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
+    **System**:
+    ● Fixed some known issues and improved system stability.
+    * Android version: Android 9.0
+  codename: RMX1821EX
+  date: 18/4/2020
+  device: realme 3
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0280_all_3V2ARw7ZSbCv.ozip
+  md5: 0f14aa504c4da3f5b1e66926b87b4fb9
+  region: Pakistan
+  size: 2.04GB
+  system: ColorOS 6.0
+  version: RMX1821EX_11.A.28
+- changelog: |
+    **Security**:
+    ● Android security patch: March, 2020
+    **Settings**:
+    ● Added swipe gestures from both sides
+  codename: RMX1941EX
+  date: 25/3/2020
+  device: realme C2
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0240_all_kH44EOzj6gd1.ozip
+  md5: 0e7d7c92f308c8046165110406170b92
+  region: Pakistan
+  size: 1.98GB
+  system: ColorOS 6.0
+  version: RMX1941EX_11.A.24

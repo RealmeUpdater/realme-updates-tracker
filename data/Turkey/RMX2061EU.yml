@@ -1,0 +1,21 @@
+changelog: |
+  **Güvenlik**:
+  ● Android güvenlik yaması: Nisan 2020
+  **Sistem**:
+  ● Kilit açıldıktan sonra yavaş yüklenen durum çubuğu düzeltildi
+  ● Bluetooth kulaklık, PUBG ve diğer oyunları oynamak için bağlandığında geç çıkan ses düzeltildi
+  **Kamera**:
+  ● Arka ana kameraya ultra gece görüşü eklendi
+  ● Optimize edilmiş 64M ve geniş açılı netlik
+  ● Zamanlayıcı ultra geniş açıya alındığında "ultra geniş modun" komutsuz sorunu çözüldü
+  ● Sistem dili Arapça olarak değiştirildikten sonra kameranın güzellik özelliğini ayarlayamadığına dair sorun çözüldü
+  ● Düzeltildi: Işığın arkadan geldiği ortamlarda ön kameranın aşırı pozlama sorunu
+codename: RMX2061EU
+date: 21/4/2020
+device: realme 6 Pro
+download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0140_all_y663ZUOyuEla.ozip
+md5: b48a85eb5a53b1e370055ac849bbe381
+region: Turkey
+size: 3.22GB
+system: realme UI 1.0
+version: RMX2061EU_11.A.14

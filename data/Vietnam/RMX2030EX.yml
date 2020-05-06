@@ -1,0 +1,15 @@
+changelog: |
+  **Bảo mật**:
+  ● Bản vá bảo mật Android: Tháng 4, 2020
+  **Camera**:
+  ● Đã tối ưu hiệu suất màu của camera trước trong khi sử dụng các ứng dụng của bên thứ ba
+  ● Đã tối ưu độ rõ nét của camera trước trong môi trường ban đêm
+codename: RMX2030EX
+date: 24/4/2020
+device: realme 5i
+download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0190_all_nrdKBLRr60zb.ozip
+md5: 757954ADC548EBCE5B5A017F1EFE364D
+region: Vietnam
+size: 2.6GB
+system: ColorOS 6.0.1
+version: RMX2030EX_11_A.19

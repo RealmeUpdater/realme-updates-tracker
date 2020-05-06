@@ -1,0 +1,15 @@
+changelog: |
+  **Güvenlik**:
+  ● Android güvenlik yaması: Nisan 2020
+  **Kamera**:
+  ● Üçüncü taraf uygulamaları kullanırken ön kameranın renk performansı iyileştirildi
+  ● Gece ortamında ön kameranın netliği iyileştirildi
+codename: RMX2030EX
+date: 24/4/2020
+device: realme 5i
+download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0190_all_nrdKBLRr60zb.ozip
+md5: 757954ADC548EBCE5B5A017F1EFE364D
+region: Turkey
+size: 2.6GB
+system: ColorOS 6.0.1
+version: RMX2030EX_11_A.19

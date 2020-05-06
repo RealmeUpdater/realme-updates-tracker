@@ -1,0 +1,17 @@
+changelog: |
+  **Camera**:
+  ● New camera watermark.
+  **System**:
+  ● Added reboot function.
+  ● Supported the function for unlocking bootloader.
+  **Security**:
+  ● Android Security Patch Level: February 5, 2019.
+codename: CPH1861EX
+date: 26/2/2019
+device: realme 1
+download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0290_all_hKCRId6dsKkB.ozip
+md5: D20C338FD79859513EA39FA2C3F7D60A
+region: UAE
+size: 2.11GB
+system: ColorOS 5.2
+version: CPH1861EX_11.A.29

@@ -1,0 +1,17 @@
+changelog: |
+  **Keamanan**:
+  ● Patch keamanan Android: April 2020
+  **Memperbaiki masalah yang diketahui**:
+  ● Mengoptimalkan efek audio untuk aplikasi pihak ketiga
+  ● Menambahkan panah kanan ke daftar permintaan informasi lokasi baru-baru ini dalam mode gelap
+  ● Memperbaiki masalah dimana nada pertanyaan muncul setiap kali klien memutar musik
+  ● Memperbaiki masalah dimana alarm mati otomatis setelah dihapus oleh tugas latar belakang
+codename: RMX1851EX
+date: 30/4/2020
+device: realme 3 Pro
+download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1050_all_mrfWfUMXI172.ozip
+md5: 518C7D1398A8EACE46F61022333F076E
+region: Indonesia
+size: 3.16GB
+system: realme UI V1.0
+version: RMX1851EX_11.C.05

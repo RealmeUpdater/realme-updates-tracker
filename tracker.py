@@ -1,8 +1,9 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python3
 """Realme Updates Tracker"""
+import re
 from datetime import datetime
 from glob import glob
-from os import environ, system, rename
+from os import environ, system, rename, path
 
 import yaml
 from bs4 import BeautifulSoup
@@ -13,18 +14,19 @@ BOT_TOKEN = environ["realme_tg_bot_token"]
 CHAT = "@RealmeUpdatesTracker"
 GIT_OAUTH_TOKEN = environ['GIT_TOKEN']
 
-# Tracked downloads pages
-URLS = ["https://www.realme.com/in/support/software-update",
-        "https://www.realme.com/cn/support/software-update",
-        "https://www.realme.com/eu/support/software-update",
-        "https://www.realme.com/ru/support/software-update"]
+SITE = "https://realmeupdater.com"
+R_SITE = "https://realme.com"
+PAGE = "support/software-update"
 
 DEVICES = {}
-REGIONS = []
-SITE = "https://realmeupdater.com"
 
 
 def update_device(codename: str, device: str):
+    """
+    Add a new device to the list of devices
+    :param codename: device codename
+    :param device: device name
+    """
     try:
         if DEVICES[codename] and device not in DEVICES[codename].split('/'):
             DEVICES.update({codename: f"{DEVICES[codename]}/{device}"})
@@ -52,9 +54,10 @@ def clean_text(text: str) -> str:
     return text.strip().replace('  ', ' ')
 
 
-def parse_html(html: list) -> list:
+def parse_html(html: list, region: str) -> list:
     """
     Parse each device HTML into a list of dictionaries
+    :param region: downloads region
     :param html: list of devices downloads HTML
     :return: a list of latest devices' updates
     """
@@ -64,14 +67,14 @@ def parse_html(html: list) -> list:
         title = clean_text(title_tag.text)
         if "真我" in title:
             title = title.replace("真我", "realme ")
-        region = set_region(title_tag.a["href"])
         _system = clean_text(item.select_one("div.software-system").text)
-        codename = ""
         try:
-            version = clean_text(item.select("div.software-field")[0].text).strip().split(" ")[1]
+            version = re.search(r'([A-Z0-9+]+_[0-9]+(?:.|_)[A-Z]+(?:.|_)[0-9]+)',
+                                item.select("div.software-field")[0].text).group(1)
             codename = version.split('_')[0]
-        except IndexError:
+        except (IndexError, AttributeError):
             version = "Unknown"
+            codename = "Unknown"
         try:
             date = item.select("div.software-field")[1].text.strip().split(": ")[1].strip()
             if len(date.split('/')[0]) == 4:
@@ -107,26 +110,10 @@ def parse_html(html: list) -> list:
             "changelog": changelog_text
         }
         if download:
-            write_yaml(update, f"{region}/{codename}.yml")
+            write_yaml(update, f"data/{region}/{codename}.yml")
         updates.append(update)
         update_device(codename, title)
     return updates
-
-
-def set_region(url: str) -> str:
-    """
-    Set the region based on the url
-    :param url: realme website url
-    :return: region string
-    """
-    if "in" in url:
-        return "India"
-    elif "eu" in url:
-        return "Europe"
-    elif "ru" in url:
-        return "Russia"
-    else:
-        return "China"
 
 
 def write_yaml(downloads, filename: str):
@@ -149,18 +136,18 @@ def write_yaml(downloads, filename: str):
         yaml.dump(downloads, out, allow_unicode=True)
 
 
-def merge_yaml():
+def merge_yaml(regions: dict):
     """
     merge all regions yaml files into one file
     """
-    yaml_files = [set_region(x) for x in URLS]
+    yaml_files = [value for key, value in regions.items()]
     yaml_data = []
     for file in yaml_files:
-        with open(f"{file}/{file}.yml", "r") as yaml_file:
+        with open(f"data/{file}/{file}.yml", "r") as yaml_file:
             updates = yaml.load(yaml_file, Loader=yaml.FullLoader)
             for update in updates:
                 yaml_data.append(update)
-    with open(f'latest.yml', "w") as output:
+    with open('data/latest.yml', "w") as output:
         yaml.dump(yaml_data, output, allow_unicode=True)
 
 
@@ -168,13 +155,13 @@ def merge_archive():
     """
     merge all archive yaml files into one file
     """
-    yaml_files = [x for x in sorted(glob(f'archive/*.yml'))
+    yaml_files = [x for x in sorted(glob('data/archive/*.yml'))
                   if not x.endswith('archive.yml')]
     yaml_data = []
     for file in yaml_files:
         with open(file, "r") as yaml_file:
             yaml_data.append(yaml.load(yaml_file, Loader=yaml.FullLoader))
-    with open('archive/archive.yml', "w") as output:
+    with open('data/archive/archive.yml', "w") as output:
         yaml.dump(yaml_data, output, allow_unicode=True)
 
 
@@ -185,8 +172,8 @@ def diff_yaml(filename: str) -> list:
     :return: list of dictionaries of new updates
     """
     try:
-        with open(f'{filename}/{filename}.yml', 'r') as new, \
-                open(f'{filename}/old_{filename}', 'r') as old_data:
+        with open(f'data/{filename}/{filename}.yml', 'r') as new, \
+                open(f'data/{filename}/old_{filename}', 'r') as old_data:
             latest = yaml.load(new, Loader=yaml.FullLoader)
             old = yaml.load(old_data, Loader=yaml.FullLoader)
             first_run = False
@@ -220,7 +207,7 @@ def generate_message(update: dict) -> str:
     md5 = update["md5"]
     download = update["download"]
     changelog = update["changelog"]
-    message = f"New update available!\n"
+    message = "New update available!\n"
     message += f"*Device:* {device} \n" \
                f"*Codename:* #{codename} \n" \
                f"*Region:* [{region}]({SITE}/downloads/latest/{region})\n" \
@@ -269,15 +256,15 @@ def archive(update: dict):
     version = update['version']
     codename = link.split('/')[-1].split('_')[0]
     try:
-        with open(f'archive/{codename}.yml', 'r') as yaml_file:
+        with open(f'data/archive/{codename}.yml', 'r') as yaml_file:
             data = yaml.load(yaml_file, Loader=yaml.FullLoader)
             data[codename].update({version: link})
             data.update({codename: data[codename]})
-            with open(f'archive/{codename}.yml', 'w') as output:
+            with open(f'data/archive/{codename}.yml', 'w') as output:
                 yaml.dump(data, output, allow_unicode=True)
     except FileNotFoundError:
         data = {codename: {version: link}}
-        with open(f'archive/{codename}.yml', 'w') as output:
+        with open(f'data/archive/{codename}.yml', 'w') as output:
             yaml.dump(data, output, allow_unicode=True)
 
 
@@ -298,15 +285,16 @@ def main():
     """
     Realme updates scraper and tracker
     """
-    for url in URLS:
-        region = set_region(url)
-        REGIONS.append(region)
-        rename(f'{region}/{region}.yml', f'{region}/old_{region}')
-        downloads_html = get_downloads_html(url)
-        updates = parse_html(downloads_html)
-        write_yaml(updates, f"{region}/{region}.yml")
-    merge_yaml()
-    for region in REGIONS:
+    with open("data/regions.yml", "r") as yaml_file:
+        regions = yaml.load(yaml_file, Loader=yaml.FullLoader)
+    for region_code, region in regions.items():
+        if path.exists(f'{region}/{region}.yml'):
+            rename(f'{region}/{region}.yml', f'{region}/old_{region}')
+        downloads_html = get_downloads_html(f"{R_SITE}/{region_code}/{PAGE}")
+        updates = parse_html(downloads_html, region)
+        write_yaml(updates, f"data/{region}/{region}.yml")
+    merge_yaml(regions)
+    for region in list(regions.values()):
         changes = diff_yaml(region)
         if changes:
             for update in changes:
@@ -321,8 +309,7 @@ def main():
         else:
             print(f"{region}: No new updates.")
     merge_archive()
-    write_yaml(DEVICES, "devices.yml")
-    write_yaml(REGIONS, "regions.yml")
+    write_yaml(DEVICES, "data/devices.yml")
     git_commit_push()
 
 

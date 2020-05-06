@@ -1,0 +1,17 @@
+changelog: |
+  **Keamanan**:
+  ● Patch keamanan Android: April 2020
+  **Memperbaiki masalah yang diketahui**:
+  ● Mengoptimalkan efek audio untuk aplikasi pihak ketiga
+  ● Menambahkan panah kanan ke daftar permintaan informasi lokasi baru-baru ini dalam mode gelap
+  ● Memperbaiki masalah dimana nada pertanyaan muncul setiap kali klien memutar musik
+  ● Memperbaiki masalah dengan alarm dimatikan secara otomatis setelah dihapus oleh tugas latar belakang
+codename: RMX1971EX
+date: 30/4/2020
+device: realme 5 Pro
+download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1030_all_d2wEgWvTFBDq.ozip
+md5: 587C5D50CC9D1C4D5C25C3275CD42410
+region: Indonesia
+size: 3.16GB
+system: realme UI V1.0
+version: RMX1971EX_11_C.03

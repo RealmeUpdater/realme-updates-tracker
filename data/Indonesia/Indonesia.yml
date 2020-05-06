@@ -1,0 +1,289 @@
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Sistem**:
+    ● Memperbaiki bilah status lambat memperbarui saat membuka kunci
+    ● Memperbaiki delay suara saat menyambungkan headset Bluetooth untuk bermain PUBG dan game lainnya
+    **Kamera**:
+    ● Menambahkan pemandangan malam ultra untuk kamera belakang
+    ● Mengoptimalkan kejernihan foto 64M dan sudut lebar
+    ● Memecahkan masalah notifikasi tidak muncul untuk "mode ultra lebar" saat mode time-lapse diganti menjadi sudut ultra lebar
+    ● Memecahkan masalah dimana kamera gagal menyesuaikan kecantikan setelah bahasa sistem diganti menjadi bahasa Arab
+    ● Perbaikan: eksposur berlebih kamera depan dalam lingkungan paparan cahaya dari latar belakang
+  codename: RMX2061
+  date: 21/4/2020
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0150_all_KruzpPuALFCV.ozip
+  md5: 1e5a1ba0034d77392a36a64a156d7003
+  region: Indonesia
+  size: 3.37GB
+  system: realme UI 1.0
+  version: RMX2061_11.A.15
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Sistem**:
+    ● Memperbaiki masalah game space tidak efektif dalam beberapa skenario
+    ● Memperbarui animasi pengisian VOOC
+    **Kamera**:
+    ● Menambah fitur Ultra Stabil
+    ● Mengoptimalkan resolusi kamera depan dalam beberapa skenario
+    ● Mengoptimalkan resolusi panggilan video dalam beberapa skenario
+  codename: RMX2001
+  date: 6/5/2020
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0270_all_b8CreEkxuiBb.ozip
+  md5: 563469B9EE81A9E0FF0F5D8F070CFC41
+  region: Indonesia
+  size: 3.11GB
+  system: realme UI 1.0
+  version: RMX2001_11.B.27
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Kamera**:
+    ● Mengoptimalkan performa noise ISO rendah di kamera depan dan meningkatkan kejernihan ISO
+    ● Mengoptimalkan masalah kamera depan untuk AWB dalam ruangan yang kemerahan
+    ● Meningkatkan kualitas selfie dan lebih dekat dengan alam
+    ● Mengoptimalkan kontras selfie dan mengurangi bayangan mata
+    ● Mengoptimalkan foto blur karena kamera depan berguncang
+    ● Mengoptimalkan kualitas gambar kamera belakang dalam kejernihan ISO rendah
+    ● Mengoptimalkan AWB kamera belakang untuk meningkatkan masalah rona kehijauan di beberapa pemandangan luar ruangan.
+    **Memperbaiki masalah yang diketahui**:
+    ● Mengoptimalkan kelancaran keluar-masuk Whatsapp
+    ● Memecahkan masalah macet menggulir di Facebook
+    ● Memecahkan masalah hang di beberapa adegan saat bermain PUBG
+    ● Mengoptimalkan kualitas layar sentuh dan memecahkan masalah lag dalam beberapa adegan
+  codename: RMX2020
+  date: 20/4/2020
+  device: realme C3
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0210_all_EzfIVATAg4cH.ozip
+  md5: C8345B8067447197DD210D4029D4E2A5
+  region: Indonesia
+  size: 2.82GB
+  system: realme UI V1.0
+  version: RMX2020_11.A.21
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Kamera**:
+    ● Kinerja warna kamera depan yang ditingkatkan selagi menggunakan aplikasi pihak ketiga
+    ● Kejelasan kamera depan yang ditingkatkan selagi berada di lingkungan malam
+  codename: RMX2030EX
+  date: 24/4/2020
+  device: realme 5i
+  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0190_all_nrdKBLRr60zb.ozip
+  md5: 757954ADC548EBCE5B5A017F1EFE364D
+  region: Indonesia
+  size: 2.6GB
+  system: ColorOS 6.0.1
+  version: RMX2030EX_11_A.19
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Sistem**:
+    ● Memperbarui animasi pengisian daya
+    **Kamera**:
+    ● Memperbaiki wajah hitam sesekali pada pemotretan HDR
+    **Memperbaiki masalah yang diketahui**:
+    ● Mengoptimalkan kelambatan headset Bluetooth selagi memainkan PUBG
+    ● Memperbaiki Layar Pembuka sesekali saat menyalakan ulang ponsel
+    ● Memperbaiki masalah apli mogok sesekali
+    ● Memperbaiki ketidakmampuan sesekali untuk mengaktifkan asisten suara
+    ● Memperbaiki penampilan ikon mikrofon pada bilah status setelah keluar dari apli pihak ketiga
+  codename: RMX1931EX
+  date: 27/4/2020
+  device: realme X2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1260_all_H0yONabfaaoA.ozip
+  md5: 1980115417f78e9eb3ebe391f6903ab7
+  region: Indonesia
+  size: 2.91GB
+  system: realme UI 1.0
+  version: RMX1931EX_11.C.26
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Memperbaiki masalah yang diketahui**:
+    ● Mengoptimalkan efek audio untuk aplikasi pihak ketiga
+    ● Menambahkan panah kanan ke daftar permintaan informasi lokasi baru-baru ini dalam mode gelap
+    ● Memperbaiki masalah dimana nada pertanyaan muncul setiap kali klien memutar musik
+    ● Memperbaiki masalah dengan alarm dimatikan secara otomatis setelah dihapus oleh tugas latar belakang
+  codename: RMX1921EX
+  date: 30/4/2020
+  device: realme XT
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1040_all_sJ20CP11Qx6E.ozip
+  md5: 270CFF211C210EDCBFBC8B365B5F4994
+  region: Indonesia
+  size: 3.17GB
+  system: realme UI V1.0
+  version: RMX1921EX_11_C.04
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Memperbaiki masalah yang diketahui**:
+    ● Mengoptimalkan efek audio untuk aplikasi pihak ketiga
+    ● Menambahkan panah kanan ke daftar permintaan informasi lokasi baru-baru ini dalam mode gelap
+    ● Memperbaiki masalah dimana nada pertanyaan muncul setiap kali klien memutar musik
+    ● Memperbaiki masalah dengan alarm dimatikan secara otomatis setelah dihapus oleh tugas latar belakang
+  codename: RMX1971EX
+  date: 30/4/2020
+  device: realme 5 Pro
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1030_all_d2wEgWvTFBDq.ozip
+  md5: 587C5D50CC9D1C4D5C25C3275CD42410
+  region: Indonesia
+  size: 3.16GB
+  system: realme UI V1.0
+  version: RMX1971EX_11_C.03
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Sistem**:
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX1911EX
+  date: 28/4/2020
+  device: realme 5s
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
+  md5: ' bd04a3c26d23606dde4bdc43c1a0454c'
+  region: Indonesia
+  size: 2.58GB
+  system: ColorOS 6.0.1
+  version: RMX1911EX_11_A.28
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Sistem**:
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX1911EX
+  date: 28/4/2020
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
+  md5: ' bd04a3c26d23606dde4bdc43c1a0454c'
+  region: Indonesia
+  size: 2.58GB
+  system: ColorOS 6.0.1
+  version: RMX1911EX_11_A.28
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Baterai**:
+    ● Tampilan titik desimal ditambahkan ke animasi mengisi daya
+    **Memperbaiki masalah yang diketahui**:
+    ● Mengoptimalkan efek audio untuk aplikasi pihak ketiga
+    ● Menambahkan panah kanan ke daftar permintaan informasi lokasi baru-baru ini dalam mode gelap
+    ● Memperbaiki masalah dimana nada pertanyaan muncul setiap kali klien memutar musik
+    ● Memperbaiki masalah dimana alarm mati otomatis setelah dihapus oleh tugas latar belakang
+  codename: RMX1901EX
+  date: 29/4/2020
+  device: realme X
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1030_all_SNmD0OOmonAs.ozip
+  md5: AD969367DDE2018C6054F74C13C9D816
+  region: Indonesia
+  size: 3.17GB
+  system: realme UI V1.0
+  version: RMX1901EX_11.C.03
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Memperbaiki masalah yang diketahui**:
+    ● Mengoptimalkan efek audio untuk aplikasi pihak ketiga
+    ● Menambahkan panah kanan ke daftar permintaan informasi lokasi baru-baru ini dalam mode gelap
+    ● Memperbaiki masalah dimana nada pertanyaan muncul setiap kali klien memutar musik
+    ● Memperbaiki masalah dimana alarm mati otomatis setelah dihapus oleh tugas latar belakang
+  codename: RMX1851EX
+  date: 30/4/2020
+  device: realme 3 Pro
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1050_all_mrfWfUMXI172.ozip
+  md5: 518C7D1398A8EACE46F61022333F076E
+  region: Indonesia
+  size: 3.16GB
+  system: realme UI V1.0
+  version: RMX1851EX_11.C.05
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: April 2020
+    **Sistem**:
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    * Android version: Android 9.0
+  codename: RMX1821EX
+  date: 18/4/2020
+  device: realme 3
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0280_all_3V2ARw7ZSbCv.ozip
+  md5: 0f14aa504c4da3f5b1e66926b87b4fb9
+  region: Indonesia
+  size: 2.04GB
+  system: ColorOS 6.0
+  version: RMX1821EX_11.A.28
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: Maret, 2020
+    **Pengaturan**:
+    ● Penambahan gestur usap dari kedua sisi
+  codename: RMX1941EX
+  date: 25/3/2020
+  device: realme C2
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0240_all_kH44EOzj6gd1.ozip
+  md5: 0e7d7c92f308c8046165110406170b92
+  region: Indonesia
+  size: 1.98GB
+  system: ColorOS 6.0
+  version: RMX1941EX_11.A.24
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android: Maret, 2020
+    * Android version: Android 9.0
+  codename: RMX1831EX
+  date: 31/3/2020
+  device: realme U1
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0180_all_nc5nfqfAYf4T.ozip
+  md5: 843F3289E4B8EC5D98F6A0B02C2F6CE9
+  region: Indonesia
+  size: 2.07GB
+  system: ColorOS 6.0
+  version: RMX1831EX_11_C.18
+- changelog: |
+    **Keamanan**:
+    ● Tambalan keamanan Android: Maret 2020
+    **Sistem**:
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    **Pengaturan**:
+    ● Menambahkan gestur gesek dari kedua sisi
+    * Android version: Android 9.0
+  codename: RMX1805EX
+  date: 17/3/2020
+  device: realme C1
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0640_all_xbabfvaTmIiN_local.ozip
+  md5: 3F14573C65D9BA1353B90657A6223018
+  region: Indonesia
+  size: 2.15GB
+  system: ColorOS 6.0
+  version: RMX1805EX_11_A.64
+- changelog: |
+    **Pengaturan**:
+    ● Perbaikan masalah berupa suara notifikasi terus muncul setelah perangkat lain tersambung ke hotspot pribadi
+    * Android version: Android 9.0
+  codename: RMX1801EX
+  date: 30/3/2020
+  device: realme 2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0300_all_am1UXCOpGXGU.ozip
+  md5: A8B351D383ACF3191FEB607C8FCFFD3F
+  region: Indonesia
+  size: 2.72GB
+  system: ColorOS 6.0
+  version: RMX1801EX_11_C.30
+- changelog: |
+    **Keamanan**:
+    ● Tambalan keamanan Android: Maret 2020
+    **Sistem**:
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    **Pengaturan**:
+    ● Menambahkan gestur gesek dari kedua sisi
+    * Android version: Android 9.0
+  codename: RMX1805EX
+  date: 17/3/2020
+  device: realme 2
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0640_all_xbabfvaTmIiN_local.ozip
+  md5: 3F14573C65D9BA1353B90657A6223018
+  region: Indonesia
+  size: 2.15GB
+  system: ColorOS 6.0
+  version: RMX1805EX_11_A.64

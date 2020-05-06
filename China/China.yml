@@ -47,15 +47,15 @@
     ● 修复部分场景下应用分身图标无法显示问题
     ● 修复部分场景下耳机通话送话、录音声音小问题
     ● 修复部分三方应用小概率发生超清视效失效问题
-  codename: RMX2141
-  date: 27/04/2020
+  codename: RMX2051
+  date: 14/03/2020
   device: realme X50 5G
   download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0100_all_EYRInTYdkGEv.ozip
-  md5: B96E835A01636C6799ED40FD24128DA7
+  md5: D5CB708855A352AC1BDA53D0019DB625
   region: China
-  size: 3.75GB
+  size: 3.45GB
   system: realme UI V1.0
-  version: RMX2141_11.A.04
+  version: RMX2051_11.B.10
 - changelog: |
     **安全**:
     ● 更新2020年4月份安全补丁

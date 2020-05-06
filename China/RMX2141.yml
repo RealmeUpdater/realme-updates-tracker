@@ -1,20 +1,12 @@
 changelog: |
-  **安全**:
-  ● 更新3月份谷歌安全补丁
   **网络**:
   ● 优化网络性能，提升上网稳定性
-  ● 优化5G信号图标显示规则
   **相机**:
-  ● 新增前置慢动作功能
   ● 优化相机效果，提升拍照体验
-  **修复**:
-  ● 修复部分场景下应用分身图标无法显示问题
-  ● 修复部分场景下耳机通话送话、录音声音小问题
-  ● 修复部分三方应用小概率发生超清视效失效问题
 codename: RMX2141
 date: 27/04/2020
-device: realme X50 5G
-download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0100_all_EYRInTYdkGEv.ozip
+device: realme X50m 5G
+download: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0040_all_ufRXsoQRDRih.ozip
 md5: B96E835A01636C6799ED40FD24128DA7
 region: China
 size: 3.75GB

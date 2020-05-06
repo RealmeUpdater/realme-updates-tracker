@@ -43,6 +43,15 @@ def get_downloads_html(url: str) -> list:
     return downloads_html
 
 
+def clean_text(text: str) -> str:
+    """
+    Returns a cleaned string of a text
+    :param text: string to clean
+    :return: cleaned string
+    """
+    return text.strip().replace('  ', ' ')
+
+
 def parse_html(html: list) -> list:
     """
     Parse each device HTML into a list of dictionaries
@@ -52,14 +61,14 @@ def parse_html(html: list) -> list:
     updates = []
     for item in html:
         title_tag = item.select_one("h3.software-mobile-title")
-        title = title_tag.text.strip().replace('  ', ' ')
+        title = clean_text(title_tag.text)
         if "真我" in title:
             title = title.replace("真我", "realme ")
         region = set_region(title_tag.a["href"])
-        _system = item.select_one("div.software-system").text.strip()
+        _system = clean_text(item.select_one("div.software-system").text)
         codename = ""
         try:
-            version = item.select("div.software-field")[0].text.strip().split(" ")[1]
+            version = clean_text(item.select("div.software-field")[0].text).strip().split(" ")[1]
             codename = version.split('_')[0]
         except IndexError:
             version = "Unknown"
@@ -69,7 +78,7 @@ def parse_html(html: list) -> list:
                 date = datetime.strptime(date, "%Y/%m/%d").strftime("%d/%m/%Y")
         except IndexError:
             date = "Unknown"
-        size = item.select("div.software-field")[2].span.text.strip().replace(' ', '')
+        size = clean_text(item.select("div.software-field")[2].span.text)
         if size.endswith('G'):
             size = size.replace('G', 'GB')
         try:
@@ -127,11 +136,13 @@ def write_yaml(downloads, filename: str):
     :param filename: output file name
     :return:
     """
+
     def str_presenter(dumper, data):
         # https://stackoverflow.com/a/33300001
         if len(data.splitlines()) > 1:
             return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
         return dumper.represent_scalar('tag:yaml.org,2002:str', data)
+
     yaml.add_representer(str, str_presenter)
 
     with open(f"{filename}", 'w') as out:

@@ -53,7 +53,7 @@
     ● Added Ultra Steady feature
     ● Optimized the front camera resolution in some scenarios
     ● Optimized the video call resolution in some scenarios
-  codename: ''
+  codename: RMX2001
   date: 6/5/2020
   device: realme 6
   download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0270_all_b8CreEkxuiBb.ozip
@@ -61,7 +61,7 @@
   region: India
   size: 3.11GB
   system: realme UI 1.0
-  version: ''
+  version: RMX2001_11.B.27
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -306,7 +306,7 @@
     ● Android security patch: April, 2020
     **System**:
     ● Fixed some known bugs, and improved system stability
-  codename: ''
+  codename: RMX1911EX
   date: 28/4/2020
   device: realme 5s
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
@@ -314,13 +314,13 @@
   region: India
   size: 2.58GB
   system: ColorOS 6.0.1
-  version: ''
+  version: RMX1911EX_11_A.28
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
     **System**:
     ● Fixed some known bugs, and improved system stability
-  codename: ''
+  codename: RMX1911EX
   date: 28/4/2020
   device: realme 5
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
@@ -328,7 +328,7 @@
   region: India
   size: 2.58GB
   system: ColorOS 6.0.1
-  version: ''
+  version: RMX1911EX_11_A.28
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020

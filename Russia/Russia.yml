@@ -178,7 +178,7 @@
     ● Исправление для системы безопасности Android за апрель 2020 г.
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
-  codename: ''
+  codename: RMX1927EX
   date: 28/4/2020
   device: realme 5
   download: https://download.c.realme.com/osupdate/RMX1927EX_11_OTA_0150_all_cnmemkij4rIl.ozip
@@ -186,7 +186,7 @@
   region: Russia
   size: 2.39GB
   system: ColorOS 6.0.1
-  version: ''
+  version: RMX1927EX_11_A.15
 - changelog: |
     **Безопасность:**:
     ● обновление системы безопасности Android: апрель 2020 г.

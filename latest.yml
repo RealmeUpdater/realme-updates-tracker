@@ -53,7 +53,7 @@
     ● Added Ultra Steady feature
     ● Optimized the front camera resolution in some scenarios
     ● Optimized the video call resolution in some scenarios
-  codename: ''
+  codename: RMX2001
   date: 6/5/2020
   device: realme 6
   download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0270_all_b8CreEkxuiBb.ozip
@@ -61,7 +61,7 @@
   region: India
   size: 3.11GB
   system: realme UI 1.0
-  version: ''
+  version: RMX2001_11.B.27
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -306,7 +306,7 @@
     ● Android security patch: April, 2020
     **System**:
     ● Fixed some known bugs, and improved system stability
-  codename: ''
+  codename: RMX1911EX
   date: 28/4/2020
   device: realme 5s
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
@@ -314,13 +314,13 @@
   region: India
   size: 2.58GB
   system: ColorOS 6.0.1
-  version: ''
+  version: RMX1911EX_11_A.28
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
     **System**:
     ● Fixed some known bugs, and improved system stability
-  codename: ''
+  codename: RMX1911EX
   date: 28/4/2020
   device: realme 5
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
@@ -328,7 +328,7 @@
   region: India
   size: 2.58GB
   system: ColorOS 6.0.1
-  version: ''
+  version: RMX1911EX_11_A.28
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -562,7 +562,7 @@
     ● 修复Honor xSport AM61蓝牙耳机声音断续问题
     ● 修复悬浮窗回复好友信息后继续游戏，4D震感会消失问题
     ● 修复系统自带主题“简约至美”日历和时钟图标显示与实际不一致问题（升级后需要在主题商店里面，重新应用一次“简约至美”主题）即可
-  codename: ''
+  codename: RMX1931
   date: 29/04/2020
   device: realme X2 Pro
   download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1240_all_yDxo94GBvWWb.ozip
@@ -570,7 +570,7 @@
   region: China
   size: 2.85GB
   system: realme UI 1.0
-  version: ''
+  version: RMX1931_11.C.24
 - changelog: |
     **安全**:
     ● 合入四月份安全补丁
@@ -1060,7 +1060,7 @@
     ● Исправление для системы безопасности Android за апрель 2020 г.
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
-  codename: ''
+  codename: RMX1927EX
   date: 28/4/2020
   device: realme 5
   download: https://download.c.realme.com/osupdate/RMX1927EX_11_OTA_0150_all_cnmemkij4rIl.ozip
@@ -1068,7 +1068,7 @@
   region: Russia
   size: 2.39GB
   system: ColorOS 6.0.1
-  version: ''
+  version: RMX1927EX_11_A.15
 - changelog: |
     **Безопасность:**:
     ● обновление системы безопасности Android: апрель 2020 г.

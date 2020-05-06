@@ -503,26 +503,29 @@
   version: RMX2071_11_A.14
 - changelog: |
     **安全**:
-    ● 更新3月份谷歌安全补丁
+    ● 更新4月份谷歌安全补丁
+    **系统**:
+    ● 新增免解压查看压缩包内文档(文件数量不超过50个)功能
+    ● 新增录音转文本功能
+    ● 新增便签加密功能
     **网络**:
     ● 优化网络性能，提升上网稳定性
-    ● 优化5G信号图标显示规则
     **相机**:
-    ● 新增前置慢动作功能
-    ● 优化相机效果，提升拍照体验
+    ● 新增超级文本功能
+    **优化**:
+    ● 优化部分场景下耗电过大的问题
     **修复**:
-    ● 修复部分场景下应用分身图标无法显示问题
-    ● 修复部分场景下耳机通话送话、录音声音小问题
-    ● 修复部分三方应用小概率发生超清视效失效问题
+    ● 修复部分场景下无法录音的问题
+    ● 修复部分场景下触摸屏失效问题
   codename: RMX2051
-  date: 14/03/2020
+  date: 30/04/2020
   device: realme X50 5G
-  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0100_all_EYRInTYdkGEv.ozip
-  md5: D5CB708855A352AC1BDA53D0019DB625
+  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0120_all_3yWcK2VYe1v6.ozip
+  md5: F784B3ACEE71F4E9A541A6BDB484814F
   region: China
-  size: 3.45GB
+  size: 3.63GB
   system: realme UI V1.0
-  version: RMX2051_11.B.10
+  version: RMX2051_11.B.12
 - changelog: |
     **安全**:
     ● 更新2020年4月份安全补丁

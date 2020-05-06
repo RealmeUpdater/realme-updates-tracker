@@ -471,14 +471,14 @@
     **相机**:
     ● 优化相机效果，提升拍照体验
   codename: RMX2141
-  date: 27/04/2020
+  date: 30/04/2020
   device: realme X50m 5G
-  download: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0040_all_ufRXsoQRDRih.ozip
-  md5: B96E835A01636C6799ED40FD24128DA7
+  download: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0050_all_IrvnYlXlf4bJ.ozip
+  md5: C179E2FA10F5EE73FCB8EC9725E91D3B
   region: China
   size: 3.75GB
   system: realme UI V1.0
-  version: RMX2141_11.A.04
+  version: RMX2141_11.A.05
 - changelog: |
     **安全**:
     ● 更新4月份谷歌安全补丁

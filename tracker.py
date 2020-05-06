@@ -288,8 +288,8 @@ def main():
     with open("data/regions.yml", "r") as yaml_file:
         regions = yaml.load(yaml_file, Loader=yaml.FullLoader)
     for region_code, region in regions.items():
-        if path.exists(f'{region}/{region}.yml'):
-            rename(f'{region}/{region}.yml', f'{region}/old_{region}')
+        if path.exists(f'data/{region}/{region}.yml'):
+            rename(f'data/{region}/{region}.yml', f'data/{region}/old_{region}')
         downloads_html = get_downloads_html(f"{R_SITE}/{region_code}/{PAGE}")
         updates = parse_html(downloads_html, region)
         write_yaml(updates, f"data/{region}/{region}.yml")

@@ -46,6 +46,25 @@
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
+    **System**:
+    ● Fixed the issue that the game space is not effective in some scenarios
+    ● Updated VOOC charging animation
+    **Camera**:
+    ● Added Ultra Steady feature
+    ● Optimized the front camera resolution in some scenarios
+    ● Optimized the video call resolution in some scenarios
+  codename: ''
+  date: 6/5/2020
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0270_all_b8CreEkxuiBb.ozip
+  md5: 563469B9EE81A9E0FF0F5D8F070CFC41
+  region: India
+  size: 3.11GB
+  system: realme UI 1.0
+  version: ''
+- changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
     **Camera**:
     ● Optimized the low ISO noise performance of the front camera and improved the ISO clarity
     ● Optimized the front camera issue of indoor AWB redness
@@ -638,6 +657,25 @@
   size: 3.02GB
   system: realme UI 1.0
   version: RMX1851_11.C.03
+- changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
+    **System**:
+    ● Fixed the issue that the game space is not effective in some scenarios
+    ● Updated VOOC charging animation
+    **Camera**:
+    ● Added Ultra Steady feature
+    ● Optimized the front camera resolution in some scenarios
+    ● Optimized the video call resolution in some scenarios
+  codename: RMX2001EU
+  date: 6/5/2020
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0240_all_jKqf2EyfnLD2.ozip
+  md5: 14A0DECD69C430D185A4DA8CFE3F4886
+  region: Europe
+  size: 2.93GB
+  system: realme UI 1.0
+  version: RMX2001EU_11.A.24
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020

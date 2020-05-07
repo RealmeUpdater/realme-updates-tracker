@@ -1,0 +1,19 @@
+changelog: |
+  **الأمان**:
+  ● تصحيحات أمان Android: أبريل ٢٠٢٠
+  **النظام**:
+  ● إصلاح مشكلة عدم فعالية مساحة الألعاب في بعض السيناريوهات
+  ● تحديث الرسوم المتحركة للشحن بتقنية VOOC
+  **الكاميرا**:
+  ● إضافة ميزة الثبات الفائق
+  ● تحسين دقة الكاميرا الأمامية في بعض السيناريوهات
+  ● تحسين دقة مكالمة الفيديو في بعض السيناريوهات
+codename: RMX2001
+date: 6/5/2020
+device: realme 6
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0270_all_b8CreEkxuiBb.ozip
+md5: 563469B9EE81A9E0FF0F5D8F070CFC41
+region: Iraq
+size: 3.11GB
+system: realme UI 1.0
+version: RMX2001_11.B.27

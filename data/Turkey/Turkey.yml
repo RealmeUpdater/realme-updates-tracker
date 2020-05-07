@@ -59,6 +59,25 @@
   system: ColorOS 6.0.1
   version: RMX2030EX_11_A.19
 - changelog: |
+    **Sécurité**:
+    ● Correctif de sécurité Android : avril 2020
+    **Système**:
+    ● Résolution du problème suivant : l'espace de jeux n'est pas efficace dans certains cas
+    ● Mise à jour de l'animation de chargement VOOC
+    **Appareil photo**:
+    ● Ajout de la fonction Ultra stable
+    ● Optimisation de la résolution de l'appareil photo avant dans certains cas
+    ● Optimisation de la résolution des appels vidéo dans certains cas
+  codename: RMX2001EU
+  date: 6/5/2020
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0240_all_jKqf2EyfnLD2.ozip
+  md5: 14A0DECD69C430D185A4DA8CFE3F4886
+  region: Turkey
+  size: 2.93GB
+  system: realme UI 1.0
+  version: RMX2001EU_11.A.24
+- changelog: |
     **[Görseller]**:
     **• Kullanıcı arayüzü, realme kullanıcı arayüzü olarak güncellendi**:
     **• Yeni Real Design, görselleri daha çekici ve kullanımı daha etkili hale getiriyor.**:

@@ -1,13 +1,14 @@
 changelog: |
-  **Cài đặt**:
-  ● Sửa lỗi luôn có âm thanh thông báo sau khi các thiết bị khác được kết nối với điểm phát sóng cá nhân
-  * Phiên bản Android: Android 9.0
+  **Bảo mật**:
+  ● Bản vá bảo mật Android: Tháng 5 năm 2020
+  **Sửa những lỗi đã xác định**:
+  ● Tối ưu hóa vấn đề trễ khi trượt thanh trạng thái
 codename: RMX1801EX
-date: 30/3/2020
+date: 14/5/2020
 device: realme 2 Pro
-download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0300_all_am1UXCOpGXGU.ozip
-md5: 96236EC218E1BB90FD1589743D75A93D
+download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0310_all_UP4tkkokow3k.ozip
+md5: DABEA6DBB7482CE71EF1B11A0826F32
 region: Vietnam
-size: 2.72GB
+size: 2.44GB
 system: ColorOS 6.0
-version: RMX1801EX_11_C.30
+version: RMX1801EX_11_C.31

@@ -819,18 +819,18 @@
   version: RMX1821EX_11.A.28
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: Maret, 2020
-    **Pengaturan**:
-    ● Penambahan gestur usap dari kedua sisi
+    ● Patch keamanan Android: Mei 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1941EX
-  date: 25/3/2020
+  date: 13/5/2020
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0240_all_kH44EOzj6gd1.ozip
-  md5: 0e7d7c92f308c8046165110406170b92
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0250_all_EXhbn2ykDIbf.ozip
+  md5: cdedecfeecbd07b18447ba37b13effba
   region: Indonesia
   size: 1.98GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.24
+  version: RMX1941EX_11.A.25
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: Maret, 2020
@@ -862,18 +862,19 @@
   system: ColorOS 6.0
   version: RMX1805EX_11_A.64
 - changelog: |
-    **Pengaturan**:
-    ● Perbaikan masalah berupa suara notifikasi terus muncul setelah perangkat lain tersambung ke hotspot pribadi
-    * Android version: Android 9.0
+    **Keamanan**:
+    ● Patch keamanan Android: Mei 2020
+    **Perbaikan masalah yang diketahui**:
+    ● Pengoptimalan masalah lag saat batang status bergeser
   codename: RMX1801EX
-  date: 30/3/2020
+  date: 14/5/2020
   device: realme 2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0300_all_am1UXCOpGXGU.ozip
-  md5: A8B351D383ACF3191FEB607C8FCFFD3F
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0310_all_UP4tkkokow3k.ozip
+  md5: DABEA6DBB7482CE71EF1B11A0826F32
   region: Indonesia
-  size: 2.72GB
+  size: 2.44GB
   system: ColorOS 6.0
-  version: RMX1801EX_11_C.30
+  version: RMX1801EX_11_C.31
 - changelog: |
     **Keamanan**:
     ● Tambalan keamanan Android: Maret 2020
@@ -1280,20 +1281,18 @@
   version: RMX1851EX_11.C.05
 - changelog: |
     **Security**:
-    ● Android security patch: March, 2020
-    **Settings**:
-    ● Added swipe gestures from both sides
-    **Network**:
-    ● Added Airtel and Jio VoWiFi features( IN only)
+    ● Android security patch: May, 2020
+    **System**:
+    ● Fixed some known issues and improve system stability
   codename: RMX1941EX
-  date: 25/3/2020
+  date: 13/5/2020
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0240_all_kH44EOzj6gd1.ozip
-  md5: 0e7d7c92f308c8046165110406170b92
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0250_all_EXhbn2ykDIbf.ozip
+  md5: cdedecfeecbd07b18447ba37b13effba
   region: India
   size: 1.98GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.24
+  version: RMX1941EX_11.A.25
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -1337,18 +1336,19 @@
   system: ColorOS 6.0
   version: RMX1805EX_11_A.66
 - changelog: |
-    **Settings**:
-    ● Fixed the issue that the notification sound always exists after other devices are connected to personal hotspot
-    * Android version: Android 9.0
+    **Security**:
+    ● Android security patch: May, 2020
+    **Known issue fixed**:
+    ● Optimized lagging problem of sliding status bar
   codename: RMX1801EX
-  date: 30/3/2020
+  date: 14/5/2020
   device: realme 2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0300_all_am1UXCOpGXGU.ozip
-  md5: A8B351D383ACF3191FEB607C8FCFFD3F
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0310_all_UP4tkkokow3k.ozip
+  md5: DABEA6DBB7482CE71EF1B11A0826F32
   region: India
-  size: 2.72GB
+  size: 2.44GB
   system: ColorOS 6.0
-  version: RMX1801EX_11_C.30
+  version: RMX1801EX_11_C.31
 - changelog: |
     **Network**:
     ● Fixed the invalid call waiting issue
@@ -1552,18 +1552,18 @@
   version: RMX1821EX_11.A.28
 - changelog: |
     **Security**:
-    ● Android security patch: March, 2020
-    **Settings**:
-    ● Added swipe gestures from both sides
+    ● Android security patch: May, 2020
+    **System**:
+    ● Fixed some known issues and improve system stability
   codename: RMX1941EX
-  date: 25/3/2020
+  date: 13/5/2020
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0240_all_kH44EOzj6gd1.ozip
-  md5: 0e7d7c92f308c8046165110406170b92
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0250_all_EXhbn2ykDIbf.ozip
+  md5: cdedecfeecbd07b18447ba37b13effba
   region: Pakistan
   size: 1.98GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.24
+  version: RMX1941EX_11.A.25
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности Android за апрель 2020 г.
@@ -1785,19 +1785,19 @@
   system: ColorOS 6.0
   version: RMX1821EX_11.A.28
 - changelog: |
-    **Безопасность**:
-    ● Обновление системы безопасности Android: март 2020 г.
-    **Настройки**:
-    ● Добавлены жесты проведения от обеих сторон экрана.
+    **Безопасность:**:
+    ● обновление системы безопасности Android: май 2020 г.
+    **Система:**:
+    ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1941EX
-  date: 25/3/2020
+  date: 13/5/2020
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0240_all_kH44EOzj6gd1.ozip
-  md5: 0e7d7c92f308c8046165110406170b92
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0250_all_EXhbn2ykDIbf.ozip
+  md5: cdedecfeecbd07b18447ba37b13effba
   region: Russia
   size: 1.98GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.24
+  version: RMX1941EX_11.A.25
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması: Nisan 2020
@@ -2113,18 +2113,18 @@
   version: RMX1821EX_11.A.28
 - changelog: |
     **Bảo mật**:
-    ● Bản vá bảo mật Android: Tháng 3 năm 2020
-    **Cài đặt**:
-    ● Bổ sung cử chỉ vuốt từ cả hai phía
+    ● Bản vá bảo mật Android: Tháng 5 năm 2020
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1941EX
-  date: 25/3/2020
+  date: 13/5/2020
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0240_all_kH44EOzj6gd1.ozip
-  md5: 0e7d7c92f308c8046165110406170b92
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0250_all_EXhbn2ykDIbf.ozip
+  md5: cdedecfeecbd07b18447ba37b13effba
   region: Vietnam
   size: 1.98GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.24
+  version: RMX1941EX_11.A.25
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 3 năm 2020
@@ -2143,18 +2143,19 @@
   system: ColorOS 6.0
   version: RMX1805EX_11_A.64
 - changelog: |
-    **Cài đặt**:
-    ● Sửa lỗi luôn có âm thanh thông báo sau khi các thiết bị khác được kết nối với điểm phát sóng cá nhân
-    * Phiên bản Android: Android 9.0
+    **Bảo mật**:
+    ● Bản vá bảo mật Android: Tháng 5 năm 2020
+    **Sửa những lỗi đã xác định**:
+    ● Tối ưu hóa vấn đề trễ khi trượt thanh trạng thái
   codename: RMX1801EX
-  date: 30/3/2020
+  date: 14/5/2020
   device: realme 2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0300_all_am1UXCOpGXGU.ozip
-  md5: 96236EC218E1BB90FD1589743D75A93D
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0310_all_UP4tkkokow3k.ozip
+  md5: DABEA6DBB7482CE71EF1B11A0826F32
   region: Vietnam
-  size: 2.72GB
+  size: 2.44GB
   system: ColorOS 6.0
-  version: RMX1801EX_11_C.30
+  version: RMX1801EX_11_C.31
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 3 năm 2020

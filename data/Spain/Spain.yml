@@ -24,23 +24,19 @@
   version: RMX2020EU_11.A.24
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: abril de 2020
+    ● Parche de seguridad de Android: mayo de 2020
     **Sistema**:
-    ● Se ha solucionado el problema que impedía que el espacio de juegos no funcionase de forma eficaz en determinadas situaciones
-    ● Se ha actualizado la animación de carga VOOC
-    **Cámara**:
-    ● Se ha añadido la función Ultraestable
-    ● Se ha optimizado la resolución de la cámara frontal en determinadas situaciones
-    ● Se ha optimizado la resolución de las videollamadas en determinadas situaciones
+    ● Se soluciona el problema de reinicios aleatorios tras mostrarse la pantalla en verde en algunos escenarios.
+    ● Se soluciona el problema parcial con la tarjeta SIM del operador Orange que impedía acceder a Internet.
   codename: RMX2001EU
-  date: 6/5/2020
+  date: 19/5/2020
   device: realme 6
-  download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0240_all_jKqf2EyfnLD2.ozip'
-  md5: 14A0DECD69C430D185A4DA8CFE3F4886
+  download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0280_all_MjKBHazkmKZT.ozip'
+  md5: E38903D05C9D097870EC3B2CFFC5B31C
   region: Spain
-  size: 2.93GB
+  size: 2.94GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.24
+  version: RMX2001EU_11.A.28
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: abril de 2020

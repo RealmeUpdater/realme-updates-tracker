@@ -522,19 +522,6 @@
   system: ColorOS 6.0
   version: RMX1831EX_11_C.18
 - changelog: |
-    **Network**:
-    ● Fixed the invalid call waiting issue
-    * Android version: Android 9.0
-  codename: RMX1805EX
-  date: 11/4/2020
-  device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0660_all_wLwxLVizdNQL.ozip
-  md5: B04852E9D4934801D083D3B60A9586D0
-  region: India
-  size: 2.15GB
-  system: ColorOS 6.0
-  version: RMX1805EX_11_A.66
-- changelog: |
     **Security**:
     ● Android security patch: May, 2020
     **Known issue fixed**:
@@ -548,19 +535,6 @@
   size: 2.44GB
   system: ColorOS 6.0
   version: RMX1801EX_11_C.31
-- changelog: |
-    **Network**:
-    ● Fixed the invalid call waiting issue
-    * Android version: Android 9.0
-  codename: RMX1805EX
-  date: 11/4/2020
-  device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0660_all_wLwxLVizdNQL.ozip
-  md5: B04852E9D4934801D083D3B60A9586D0
-  region: India
-  size: 2.15GB
-  system: ColorOS 6.0
-  version: RMX1805EX_11.A.66
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020

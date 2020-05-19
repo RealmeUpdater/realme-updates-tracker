@@ -197,23 +197,19 @@
   version: RMX2020EU_11.A.24
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: abril de 2020
+    ● Parche de seguridad de Android: mayo de 2020
     **Sistema**:
-    ● Se ha solucionado el problema que impedía que el espacio de juegos no funcionase de forma eficaz en determinadas situaciones
-    ● Se ha actualizado la animación de carga VOOC
-    **Cámara**:
-    ● Se ha añadido la función Ultraestable
-    ● Se ha optimizado la resolución de la cámara frontal en determinadas situaciones
-    ● Se ha optimizado la resolución de las videollamadas en determinadas situaciones
+    ● Se soluciona el problema de reinicios aleatorios tras mostrarse la pantalla en verde en algunos escenarios.
+    ● Se soluciona el problema parcial con la tarjeta SIM del operador Orange que impedía acceder a Internet.
   codename: RMX2001EU
-  date: 6/5/2020
+  date: 19/5/2020
   device: realme 6
-  download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0240_all_jKqf2EyfnLD2.ozip'
-  md5: 14A0DECD69C430D185A4DA8CFE3F4886
+  download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0280_all_MjKBHazkmKZT.ozip'
+  md5: E38903D05C9D097870EC3B2CFFC5B31C
   region: Spain
-  size: 2.93GB
+  size: 2.94GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.24
+  version: RMX2001EU_11.A.28
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: abril de 2020
@@ -537,23 +533,6 @@
   version: RMX1831EX_11_C.18
 - changelog: |
     **Keamanan**:
-    ● Tambalan keamanan Android: Maret 2020
-    **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
-    **Pengaturan**:
-    ● Menambahkan gestur gesek dari kedua sisi
-    * Android version: Android 9.0
-  codename: RMX1805EX
-  date: 17/3/2020
-  device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0640_all_xbabfvaTmIiN_local.ozip
-  md5: 3F14573C65D9BA1353B90657A6223018
-  region: Indonesia
-  size: 2.15GB
-  system: ColorOS 6.0
-  version: RMX1805EX_11_A.64
-- changelog: |
-    **Keamanan**:
     ● Patch keamanan Android: Mei 2020
     **Perbaikan masalah yang diketahui**:
     ● Pengoptimalan masalah lag saat batang status bergeser
@@ -566,23 +545,6 @@
   size: 2.44GB
   system: ColorOS 6.0
   version: RMX1801EX_11_C.31
-- changelog: |
-    **Keamanan**:
-    ● Tambalan keamanan Android: Maret 2020
-    **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
-    **Pengaturan**:
-    ● Menambahkan gestur gesek dari kedua sisi
-    * Android version: Android 9.0
-  codename: RMX1805EX
-  date: 17/3/2020
-  device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0640_all_xbabfvaTmIiN_local.ozip
-  md5: 3F14573C65D9BA1353B90657A6223018
-  region: Indonesia
-  size: 2.15GB
-  system: ColorOS 6.0
-  version: RMX1805EX_11_A.64
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -1107,19 +1069,6 @@
   system: ColorOS 6.0
   version: RMX1831EX_11_C.18
 - changelog: |
-    **Network**:
-    ● Fixed the invalid call waiting issue
-    * Android version: Android 9.0
-  codename: RMX1805EX
-  date: 11/4/2020
-  device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0660_all_wLwxLVizdNQL.ozip
-  md5: B04852E9D4934801D083D3B60A9586D0
-  region: India
-  size: 2.15GB
-  system: ColorOS 6.0
-  version: RMX1805EX_11_A.66
-- changelog: |
     **Security**:
     ● Android security patch: May, 2020
     **Known issue fixed**:
@@ -1133,19 +1082,6 @@
   size: 2.44GB
   system: ColorOS 6.0
   version: RMX1801EX_11_C.31
-- changelog: |
-    **Network**:
-    ● Fixed the invalid call waiting issue
-    * Android version: Android 9.0
-  codename: RMX1805EX
-  date: 11/4/2020
-  device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0660_all_wLwxLVizdNQL.ozip
-  md5: B04852E9D4934801D083D3B60A9586D0
-  region: India
-  size: 2.15GB
-  system: ColorOS 6.0
-  version: RMX1805EX_11.A.66
 - changelog: |
     **Security**:
     ● Android security patch: March, 2020
@@ -1910,23 +1846,6 @@
   system: ColorOS 6.0
   version: RMX1941EX_11.A.25
 - changelog: |
-    **Bảo mật**:
-    ● Bản vá bảo mật Android: Tháng 3 năm 2020
-    **Hệ thống**:
-    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
-    **Cài đặt**:
-    ● Đã thêm cử chỉ vuốt từ cả hai cạnh
-    * Phiên bản Android: Android 9.0
-  codename: RMX1805EX
-  date: 17/3/2020
-  device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0640_all_xbabfvaTmIiN_local.ozip
-  md5: 3F14573C65D9BA1353B90657A6223018
-  region: Vietnam
-  size: 2.15GB
-  system: ColorOS 6.0
-  version: RMX1805EX_11_A.64
-- changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 5 năm 2020
     **Sửa những lỗi đã xác định**:
@@ -1940,20 +1859,3 @@
   size: 2.44GB
   system: ColorOS 6.0
   version: RMX1801EX_11_C.31
-- changelog: |
-    **Bảo mật**:
-    ● Bản vá bảo mật Android: Tháng 3 năm 2020
-    **Hệ thống**:
-    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
-    **Cài đặt**:
-    ● Đã thêm cử chỉ vuốt từ cả hai cạnh
-    * Phiên bản Android: Android 9.0
-  codename: RMX1805EX
-  date: 17/3/2020
-  device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0640_all_xbabfvaTmIiN_local.ozip
-  md5: 3F14573C65D9BA1353B90657A6223018
-  region: Vietnam
-  size: 2.15GB
-  system: ColorOS 6.0
-  version: RMX1805EX_11_A.64

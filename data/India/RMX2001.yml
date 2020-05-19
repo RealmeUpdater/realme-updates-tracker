@@ -1,19 +1,14 @@
 changelog: |
   **Security**:
-  ● Android security patch: April, 2020
+  ● Android security patch: May, 2020
   **System**:
-  ● Fixed the issue that the game space is not effective in some scenarios
-  ● Updated VOOC charging animation
-  **Camera**:
-  ● Added Ultra Steady feature
-  ● Optimized the front camera resolution in some scenarios
-  ● Optimized the video call resolution in some scenarios
+  ● Fixed the issue that screen shows green and automatic restart in some scenes
 codename: RMX2001
-date: 6/5/2020
+date: 19/5/2020
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0270_all_b8CreEkxuiBb.ozip
-md5: 563469B9EE81A9E0FF0F5D8F070CFC41
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0310_all_YW574oYsOKHs.ozip
+md5: AB15F230404320795DB945F37252BF17
 region: India
-size: 3.11GB
+size: 3.12GB
 system: realme UI 1.0
-version: RMX2001_11.B.27
+version: RMX2001_11.B.31

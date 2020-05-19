@@ -1,13 +1,15 @@
 changelog: |
-  **Network**:
-  ● Fixed the invalid call waiting issue
+  **Security**:
+  ● Android security patch: May, 2020
+  **System**:
+  ● Fixed some known bugs, and improved system stability
   * Android version: Android 9.0
 codename: RMX1805EX
-date: 11/4/2020
+date: 19/5/2020
 device: realme 2
-download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0660_all_wLwxLVizdNQL.ozip
-md5: B04852E9D4934801D083D3B60A9586D0
+download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0670_all_oXcVuoI7j8VO.ozip
+md5: f29572a131ec89978ec94eb6fa79b05e
 region: India
 size: 2.15GB
 system: ColorOS 6.0
-version: RMX1805EX_11.A.66
+version: RMX1805EX_11.A.67

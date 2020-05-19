@@ -149,6 +149,21 @@
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 5 năm 2020
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+    * Phiên bản Android: Android 9.0
+  codename: RMX1805EX
+  date: 19/5/2020
+  device: realme C1
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0670_all_oXcVuoI7j8VO.ozip
+  md5: f29572a131ec89978ec94eb6fa79b05e
+  region: Vietnam
+  size: 2.15GB
+  system: ColorOS 6.0
+  version: RMX1805EX_11_A.67
+- changelog: |
+    **Bảo mật**:
+    ● Bản vá bảo mật Android: Tháng 5 năm 2020
     **Sửa những lỗi đã xác định**:
     ● Tối ưu hóa vấn đề trễ khi trượt thanh trạng thái
   codename: RMX1801EX
@@ -160,3 +175,18 @@
   size: 2.44GB
   system: ColorOS 6.0
   version: RMX1801EX_11_C.31
+- changelog: |
+    **Bảo mật**:
+    ● Bản vá bảo mật Android: Tháng 5 năm 2020
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+    * Phiên bản Android: Android 9.0
+  codename: RMX1805EX
+  date: 19/5/2020
+  device: realme 2
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0670_all_oXcVuoI7j8VO.ozip
+  md5: f29572a131ec89978ec94eb6fa79b05e
+  region: Vietnam
+  size: 2.15GB
+  system: ColorOS 6.0
+  version: RMX1805EX_11_A.67

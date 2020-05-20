@@ -136,32 +136,32 @@
   version: RMX1971EX_11_C.03
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: April 2020
+    ● Patch keamanan Android: Mei 2020
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1911EX
-  date: 28/4/2020
+  date: 19/5/2020
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
-  md5: ' bd04a3c26d23606dde4bdc43c1a0454c'
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0290_all_pzrJthV2sMxl.ozip
+  md5: ' 347fcbcc4d0024b9fd57e253f6b7147a'
   region: Indonesia
-  size: 2.58GB
+  size: 2.59GB
   system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.28
+  version: RMX1911EX_11_A.29
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: April 2020
+    ● Patch keamanan Android: Mei 2020
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1911EX
-  date: 28/4/2020
+  date: 19/5/2020
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
-  md5: ' bd04a3c26d23606dde4bdc43c1a0454c'
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0290_all_pzrJthV2sMxl.ozip
+  md5: ' 347fcbcc4d0024b9fd57e253f6b7147a'
   region: Indonesia
-  size: 2.58GB
+  size: 2.59GB
   system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.28
+  version: RMX1911EX_11_A.29
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: April 2020

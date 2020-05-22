@@ -1,21 +1,17 @@
 changelog: |
   **Keamanan**:
-  ● Patch keamanan Android: April 2020
+  ● Patch keamanan Android: Mei 2020
   **Sistem**:
-  ● Memperbaiki bilah status lambat memperbarui saat membuka kunci
-  ● Memperbaiki delay suara saat menyambungkan headset Bluetooth untuk bermain PUBG dan game lainnya
-  **Kamera**:
-  ● Menambahkan pemandangan malam ultra untuk kamera belakang
-  ● Mengoptimalkan kejernihan foto 64M dan sudut lebar
-  ● Memecahkan masalah notifikasi tidak muncul untuk "mode ultra lebar" saat mode time-lapse diganti menjadi sudut ultra lebar
-  ● Memecahkan masalah dimana kamera gagal menyesuaikan kecantikan setelah bahasa sistem diganti menjadi bahasa Arab
-  ● Perbaikan: eksposur berlebih kamera depan dalam lingkungan paparan cahaya dari latar belakang
+  ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+  ● Memperbarui animasi pengisian daya
+  **Rekaman Layar**:
+  ● Mengurangi durasi jendela melayang rekaman layar
 codename: RMX2061
-date: 21/4/2020
+date: 21/5/2020
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0150_all_KruzpPuALFCV.ozip
-md5: 1e5a1ba0034d77392a36a64a156d7003
+download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0170_all_ft3YJz8yuhRK.ozip
+md5: b9ce963916110b947b2b3514fdaad34f
 region: Indonesia
-size: 3.37GB
+size: 3.36GB
 system: realme UI 1.0
-version: RMX2061_11.A.15
+version: RMX2061_11.A.17

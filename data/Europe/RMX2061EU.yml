@@ -1,0 +1,17 @@
+changelog: |
+  **Security**:
+  ● Android security patch: May, 2020
+  **System**:
+  ● Updated charging animation
+  ● Fixed some known issues, and improved system stability
+  **Screen Recording**:
+  ● Reduced the floating window of screen recording
+codename: RMX2061EU
+date: 21/5/2020
+device: realme 6 Pro
+download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0160_all_JZWS1QCvZakz.ozip
+md5: 4AB1FC58D508ADCAB99716DBIDSCCD
+region: Europe
+size: 3.22GB
+system: realme UI 1.0
+version: RMX2061EU_11.A.16

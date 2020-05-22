@@ -1,21 +1,21 @@
 changelog: |
   **Security**:
-  ● Android security patch: April, 2020
+  ● Android security patch: May, 2020
+  **Application**:
+  ● Added DocVault ID feature(India)
   **System**:
-  ● Fixed the status bar updates slowly after unlocking
-  ● Fixed the Bluetooth headset delay in playing PUBG and other games
-  **Camera**:
-  ● Added the ultra dark mode of the rear camera
-  ● Optimized the clarity of 64M and wide-angle camera
-  ● Solved the issue that without ultra-wide mode prompt when the time-lapse mode is switched to the ultra-wide angle mode
-  ● Solved the issue that the camera cannot adjust the beauty mode when the system language is Arabic
-  ● Fixed front camera overexposure under the backlight environment
+  ● Updated charging animation
+  ● Optimized video saturation in YouTube 60HDR mode
+  ● Fixed the issue that the transmission stops after the screen is turned off during the xender sending file
+  ● Fixed some known issues, and improved system stability
+  **Screen Recording**:
+  ● Reduced the floating window of screen recording
 codename: RMX2061
-date: 21/4/2020
+date: 21/5/2020
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0150_all_KruzpPuALFCV.ozip
-md5: 1e5a1ba0034d77392a36a64a156d7003
+download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0170_all_ft3YJz8yuhRK.ozip
+md5: b9ce963916110b947b2b3514fdaad34f
 region: India
-size: 3.37GB
+size: 3.36GB
 system: realme UI 1.0
-version: RMX2061_11_A.15
+version: RMX2061_11.A.17

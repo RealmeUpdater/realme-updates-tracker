@@ -1,70 +1,25 @@
 changelog: |
-  **[Visuals]**:
-  **• Updated UI to realme UI**:
-  **• Brand new Real Design makes visuals more attractive and operation more efficient.**:
-  **[Smart Sidebar]**:
-  **• Optimized user interface and improved one-handed operation.**:
-  **• Optimized Smart Sidebar: Replaced File Console with File Manager; removed OSIE Visual Effect and No Notification Alerts.**:
-  **• Drag an app out of Smart Sidebar to open it in Split-screen Mode.**:
-  **• Added two new features: “Assistive Ball Opacity” and “Hide Assistive Ball on Fullscreen App”.**:
-  **• Optimized the Floating Window feature for more apps.**:
-  **• Added Bubbles: A bubble is displayed when you open an app in a floating window from the Smart Sidebar. Tap the bubble to collapse or open the app.**:
-  **[Screenshot]**:
-  **• Optimized 3-Finger Screenshot Gesture: Use 3 fingers to touch and hold the screen, and swipe to take a screenshot of the selected part of the screen (partial screen capture). Use 3 fingers to touch and hold the screen, and swipe your fingers outwards to capture a long screenshot.**:
-  **• Added screenshot settings: You can adjust the position of the screenshot preview floating window and set the screenshot sound.**:
-  **• Optimized screenshot preview floating window: After taking a screenshot, drag it up and release to share it, or drag it down and release to take a long screenshot.**:
-  **[Navigation Gestures 3.0]**:
-  **• Optimized gestures: All gestures are supported in landscape mode.**:
-  **[System]**:
-  **• Added Focus Mode: Minimizes outside distractions when you are learning or working.**:
-  **• Added whole new charging animation.**:
-  **• Optimized the Quick Settings user interface for easier one-handed operation.**:
-  **• Added pause feature for screen recording.**:
-  **• Added a floating window and settings for screen recording.**:
-  **• New sounds added for file deletion, calculator key touches, and compass pointer.**:
-  **• Optimized system built-in ringtones.**:
-  **• Added TalkBack floating prompts for Accessibility.**:
-  **• New management feature for recent tasks: You can view memory of recent tasks and locked apps.**:
-  **[Games]**:
-  **• Optimized visual interaction for Game Space.**:
-  **• Optimized loading animation for Game Space.**:
-  **[Homescreen]**:
-  **• Added new live wallpapers.**:
-  **• Added artistic wallpapers.**:
-  **• Added option to open Global Search or the notification panel when swiping down on homescreen.**:
-  **• Added option to customize the size, shape, and style of app icons on homescreen.**:
-  **• Optimized the graphic design of password unlock to facilitate one-handed operation.**:
-  **• Support for animated wallpapers on the lockscreen.**:
-  **• Added a Simple Mode for homescreen, featuring larger fonts, icons and a clearer layout.**:
-  **[Security]**:
-  **• Random MAC address Generator: When your phone is connected to Wi-Fi network system generates a random MAC address to avoid targeted ads and protect your privacy.**:
-  **[Tools]**:
-  **• In Quick Settings or Smart Sidebar, you can open Calculator in a floating window.**:
-  **• Added the trim feature in Recordings.**:
-  **• Added the Weather (dynamic) ringtone, which automatically adapts to the current weather.**:
-  **• Added weather-adaptive animations in Weather.**:
-  **[Camera]**:
-  **• Optimized the Camera UI for better user experience.**:
-  **• Optimized the Timer UI and sound.**:
-  **[Photos]**:
-  **• Optimized the Album UI for a clearer structure and photo thumbnails.**:
-  **• Added Album Recommendations that recognize more than 80 different scenes.**:
-  **[Communications]**:
-  **realme Share now supports sharing files with OPPO, Vivo and Xiaomi devices.**:
-  **• Optimized the Contacts UI for a more efficient experience.**:
-  **[Settings]**:
-  **• Search Settings now supports fuzzy match and contains a search history.**:
-  **[Application]**:
-  **• Added YT music**:
-  **[Battery]**:
-  **• Updated decimals display during charging**:
-  **To deepen user's perception of fast charging, it will always be displayed when your phone is charging and the screen is bright.**:
+  **Security**:
+  ● Android security patch: May, 2020
+  **Applications**:
+  ● Added realme link
+  ● Added DocVault(India)
+  **Screen Recording**:
+  ● Optimized screen recording feature
+  **Battery**:
+  ● Updated charging animation
+  ● Fixed the issue of power jump during charging in some scenes
+  ● Fixed the issue of debris detected prompt
+  **System**:
+  ● Fixed the issue of touchscreen failure in some scenes during PUBG
+  ● Fixed the issue of sound error when entering Gods of Boom
+  ● Fixed some known issues and improved system stability
 codename: RMX1992EX
-date: 31/3/2020
+date: 21/5/2020
 device: realme X2
-download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1050_all_ExeuzrTLLJh5.ozip
-md5: 3b0f1f0ec7864895f61e15e716cee98c
+download: https://download.c.realme.com/osupdate/sign_RMX1992EX_11_OTA_1080_all_xEn34IuqcC2D.ozip
+md5: 1521eb733101223d7643f62747e6cf6a
 region: India
-size: 3.3GB
+size: 2.98GB
 system: realme UI 1.0
-version: RMX1992EX_11.C.05
+version: RMX1992EX_11.C.08

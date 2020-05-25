@@ -1,14 +1,14 @@
 changelog: |
   **Security**:
-  ● Android security patch: March, 2020
-  **Network**:
-  ● Fixed the issue that VoWiFi unable to registered in 2G / 3G network (IN only)
+  ● Android security patch: May, 2020
+  **System**:
+  ● Fixed some known bugs, and improved system stability
 codename: RMX1831EX
-date: 31/3/2020
+date: 23/5/2020
 device: realme U1
-download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0180_all_nc5nfqfAYf4T.ozip
-md5: 843F3289E4B8EC5D98F6A0B02C2F6CE9
+download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0190_all_ri13NOUes4P2.ozip
+md5: 2519913af7d0057d196b97fdb1c39358
 region: India
-size: 2.07GB
+size: 2.08GB
 system: ColorOS 6.0
-version: RMX1831EX_11_C.18
+version: RMX1831EX_11_C.19

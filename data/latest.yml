@@ -170,8 +170,8 @@
   system: realme UI 1.0
   version: RMX1851_11.C.03
 - changelog: |
-    **Güvenlik**:
-    ● Android güvenlik yaması: Mayıs 2020
+    **Seguridad**:
+    ● Parche de seguridad de Android: mayo de 2020
     **Sistema**:
     ● Se ha actualizado la animación de carga
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
@@ -248,8 +248,8 @@
   system: realme UI 1.0
   version: RMX1931EX_11.C.26
 - changelog: |
-    **Güvenlik**:
-    ● Android güvenlik yaması: Mayıs 2020
+    **Seguridad**:
+    ● Parche de seguridad de Android: mayo de 2020
     **Grabación de pantalla**:
     ● Optimización de la función de grabación de pantalla
     **Sistema**:
@@ -780,17 +780,19 @@
   version: RMX1941EX_11.A.25
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: Maret, 2020
+    ● Patch keamanan Android: Mei 2020
+    **Sistem**:
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
     * Android version: Android 9.0
   codename: RMX1831EX
-  date: 31/3/2020
+  date: 23/5/2020
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0180_all_nc5nfqfAYf4T.ozip
-  md5: 843F3289E4B8EC5D98F6A0B02C2F6CE9
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0190_all_ri13NOUes4P2.ozip
+  md5: 2519913af7d0057d196b97fdb1c39358
   region: Indonesia
-  size: 2.07GB
+  size: 2.08GB
   system: ColorOS 6.0
-  version: RMX1831EX_11_C.18
+  version: RMX1831EX_11_C.19
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: Mei 2020
@@ -936,145 +938,55 @@
   system: ColorOS 6.0.1
   version: RMX2030EX_11_A.19
 - changelog: |
-    **[Visuals]**:
-    **• Updated UI to realme UI**:
-    **• Brand new Real Design makes visuals more attractive and operation more efficient.**:
-    **[Smart Sidebar]**:
-    **• Optimized user interface and improved one-handed operation.**:
-    **• Optimized Smart Sidebar: Replaced File Console with File Manager; removed OSIE Visual Effect and No Notification Alerts.**:
-    **• Drag an app out of Smart Sidebar to open it in Split-screen Mode.**:
-    **• Added two new features: “Assistive Ball Opacity” and “Hide Assistive Ball on Fullscreen App”.**:
-    **• Optimized the Floating Window feature for more apps.**:
-    **• Added Bubbles: A bubble is displayed when you open an app in a floating window from the Smart Sidebar. Tap the bubble to collapse or open the app.**:
-    **[Screenshot]**:
-    **• Optimized 3-Finger Screenshot Gesture: Use 3 fingers to touch and hold the screen, and swipe to take a screenshot of the selected part of the screen (partial screen capture). Use 3 fingers to touch and hold the screen, and swipe your fingers outwards to capture a long screenshot.**:
-    **• Added screenshot settings: You can adjust the position of the screenshot preview floating window and set the screenshot sound.**:
-    **• Optimized screenshot preview floating window: After taking a screenshot, drag it up and release to share it, or drag it down and release to take a long screenshot.**:
-    **[Navigation Gestures 3.0]**:
-    **• Optimized gestures: All gestures are supported in landscape mode.**:
-    **[System]**:
-    **• Added Focus Mode: Minimizes outside distractions when you are learning or working.**:
-    **• Added whole new charging animation.**:
-    **• Optimized the Quick Settings user interface for easier one-handed operation.**:
-    **• Added pause feature for screen recording.**:
-    **• Added a floating window and settings for screen recording.**:
-    **• New sounds added for file deletion, calculator key touches, and compass pointer.**:
-    **• Optimized system built-in ringtones.**:
-    **• Added TalkBack floating prompts for Accessibility.**:
-    **• New management feature for recent tasks: You can view memory of recent tasks and locked apps.**:
-    **[Games]**:
-    **• Optimized visual interaction for Game Space.**:
-    **• Optimized loading animation for Game Space.**:
-    **[Homescreen]**:
-    **• Added new live wallpapers.**:
-    **• Added artistic wallpapers.**:
-    **• Added option to open Global Search or the notification panel when swiping down on homescreen.**:
-    **• Added option to customize the size, shape, and style of app icons on homescreen.**:
-    **• Optimized the graphic design of password unlock to facilitate one-handed operation.**:
-    **• Support for animated wallpapers on the lockscreen.**:
-    **• Added a Simple Mode for homescreen, featuring larger fonts, icons and a clearer layout.**:
-    **[Security]**:
-    **• Random MAC address Generator: When your phone is connected to Wi-Fi network system generates a random MAC address to avoid targeted ads and protect your privacy.**:
-    **[Tools]**:
-    **• In Quick Settings or Smart Sidebar, you can open Calculator in a floating window.**:
-    **• Added the trim feature in Recordings.**:
-    **• Added the Weather (dynamic) ringtone, which automatically adapts to the current weather.**:
-    **• Added weather-adaptive animations in Weather.**:
-    **[Camera]**:
-    **• Optimized the Camera UI for better user experience.**:
-    **• Optimized the Timer UI and sound.**:
-    **[Photos]**:
-    **• Optimized the Album UI for a clearer structure and photo thumbnails.**:
-    **• Added Album Recommendations that recognize more than 80 different scenes.**:
-    **[Communications]**:
-    **realme Share now supports sharing files with OPPO, Vivo and Xiaomi devices.**:
-    **• Optimized the Contacts UI for a more efficient experience.**:
-    **[Settings]**:
-    **• Search Settings now supports fuzzy match and contains a search history.**:
-    **[Application]**:
-    **• Added YT music**:
-    **[Battery]**:
-    **• Updated decimals display during charging**:
-    **To deepen user's perception of fast charging, it will always be displayed when your phone is charging and the screen is bright.**:
+    **Security**:
+    ● Android security patch: May, 2020
+    **Applications**:
+    ● Added realme link
+    ● Added DocVault(India)
+    **Screen Recording**:
+    ● Optimized screen recording feature
+    **Battery**:
+    ● Updated charging animation
+    ● Fixed the issue of power jump during charging in some scenes
+    ● Fixed the issue of debris detected prompt
+    **System**:
+    ● Fixed the issue of touchscreen failure in some scenes during PUBG
+    ● Fixed the issue of sound error when entering Gods of Boom
+    ● Fixed some known issues and improved system stability
   codename: RMX1992EX
-  date: 31/3/2020
+  date: 21/5/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1050_all_ExeuzrTLLJh5.ozip
-  md5: 3b0f1f0ec7864895f61e15e716cee98c
+  download: https://download.c.realme.com/osupdate/sign_RMX1992EX_11_OTA_1080_all_xEn34IuqcC2D.ozip
+  md5: 1521eb733101223d7643f62747e6cf6a
   region: India
-  size: 3.3GB
+  size: 2.98GB
   system: realme UI 1.0
-  version: RMX1992EX_11.C.05
+  version: RMX1992EX_11.C.08
 - changelog: |
-    **[Visuals]**:
-    **• Updated UI to realme UI**:
-    **• Brand new Real Design makes visuals more attractive and operation more efficient.**:
-    **[Smart Sidebar]**:
-    **• Optimized user interface and improved one-handed operation.**:
-    **• Optimized Smart Sidebar: Replaced File Console with File Manager; removed OSIE Visual Effect and No Notification Alerts.**:
-    **• Drag an app out of Smart Sidebar to open it in Split-screen Mode.**:
-    **• Added two new features: “Assistive Ball Opacity” and “Hide Assistive Ball on Fullscreen App”.**:
-    **• Optimized the Floating Window feature for more apps.**:
-    **• Added Bubbles: A bubble is displayed when you open an app in a floating window from the Smart Sidebar. Tap the bubble to collapse or open the app.**:
-    **[Screenshot]**:
-    **• Optimized 3-Finger Screenshot Gesture: Use 3 fingers to touch and hold the screen, and swipe to take a screenshot of the selected part of the screen (partial screen capture). Use 3 fingers to touch and hold the screen, and swipe your fingers outwards to capture a long screenshot.**:
-    **• Added screenshot settings: You can adjust the position of the screenshot preview floating window and set the screenshot sound.**:
-    **• Optimized screenshot preview floating window: After taking a screenshot, drag it up and release to share it, or drag it down and release to take a long screenshot.**:
-    **[Navigation Gestures 3.0]**:
-    **• Optimized gestures: All gestures are supported in landscape mode.**:
-    **[System]**:
-    **• Added Focus Mode: Minimizes outside distractions when you are learning or working.**:
-    **• Added whole new charging animation.**:
-    **• Optimized the Quick Settings user interface for easier one-handed operation.**:
-    **• Added pause feature for screen recording.**:
-    **• Added a floating window and settings for screen recording.**:
-    **• New sounds added for file deletion, calculator key touches, and compass pointer.**:
-    **• Optimized system built-in ringtones.**:
-    **• Added TalkBack floating prompts for Accessibility.**:
-    **• New management feature for recent tasks: You can view memory of recent tasks and locked apps.**:
-    **[Games]**:
-    **• Optimized visual interaction for Game Space.**:
-    **• Optimized loading animation for Game Space.**:
-    **[Homescreen]**:
-    **• Added new live wallpapers.**:
-    **• Added artistic wallpapers.**:
-    **• Added option to open Global Search or the notification panel when swiping down on homescreen.**:
-    **• Added option to customize the size, shape, and style of app icons on homescreen.**:
-    **• Optimized the graphic design of password unlock to facilitate one-handed operation.**:
-    **• Support for animated wallpapers on the lockscreen.**:
-    **• Added a Simple Mode for homescreen, featuring larger fonts, icons and a clearer layout.**:
-    **[Security]**:
-    **• Random MAC address Generator: When your phone is connected to Wi-Fi network system generates a random MAC address to avoid targeted ads and protect your privacy.**:
-    **[Tools]**:
-    **• In Quick Settings or Smart Sidebar, you can open Calculator in a floating window.**:
-    **• Added the trim feature in Recordings.**:
-    **• Added the Weather (dynamic) ringtone, which automatically adapts to the current weather.**:
-    **• Added weather-adaptive animations in Weather.**:
-    **[Camera]**:
-    **• Optimized the Camera UI for better user experience.**:
-    **• Optimized the Timer UI and sound.**:
-    **[Photos]**:
-    **• Optimized the Album UI for a clearer structure and photo thumbnails.**:
-    **• Added Album Recommendations that recognize more than 80 different scenes.**:
-    **[Communications]**:
-    **realme Share now supports sharing files with OPPO, Vivo and Xiaomi devices.**:
-    **• Optimized the Contacts UI for a more efficient experience.**:
-    **[Settings]**:
-    **• Search Settings now supports fuzzy match and contains a search history.**:
-    **[Application]**:
-    **• Added YT music**:
-    **[Battery]**:
-    **• Updated decimals display during charging**:
-    **To deepen user's perception of fast charging, it will always be displayed when your phone is charging and the screen is bright.**:
+    **Security**:
+    ● Android security patch: May, 2020
+    **Applications**:
+    ● Added realme link
+    ● Added DocVault(India)
+    **Screen Recording**:
+    ● Optimized screen recording feature
+    **Battery**:
+    ● Updated charging animation
+    ● Fixed the issue of power jump during charging in some scenes
+    ● Fixed the issue of debris detected prompt
+    **System**:
+    ● Fixed the issue of touchscreen failure in some scenes during PUBG
+    ● Fixed the issue of sound error when entering Gods of Boom
+    ● Fixed some known issues and improved system stability
   codename: RMX1992AEX
-  date: 31/3/2020
+  date: 21/5/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1050_all_dgEaNNRO2U9L.ozip
-  md5: 253076a07ef9cb826d2bbd3a03fdc92e
+  download: https://download.c.realme.com/osupdate/sign_RMX1992AEX_11_OTA_1080_all_o7eTg0zO32KH.ozip
+  md5: a8da7ea65b585c30ad75468453584556
   region: India
-  size: 3.3GB
+  size: 2.98GB
   system: realme UI 1.0
-  version: RMX1992AEX_11.C.05
+  version: RMX1992AEX_11.C.08
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -1346,18 +1258,18 @@
   version: RMX1821EX_11_C.10
 - changelog: |
     **Security**:
-    ● Android security patch: March, 2020
-    **Network**:
-    ● Fixed the issue that VoWiFi unable to registered in 2G / 3G network (IN only)
+    ● Android security patch: May, 2020
+    **System**:
+    ● Fixed some known bugs, and improved system stability
   codename: RMX1831EX
-  date: 31/3/2020
+  date: 23/5/2020
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0180_all_nc5nfqfAYf4T.ozip
-  md5: 843F3289E4B8EC5D98F6A0B02C2F6CE9
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0190_all_ri13NOUes4P2.ozip
+  md5: 2519913af7d0057d196b97fdb1c39358
   region: India
-  size: 2.07GB
+  size: 2.08GB
   system: ColorOS 6.0
-  version: RMX1831EX_11_C.18
+  version: RMX1831EX_11_C.19
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020
@@ -1404,19 +1316,19 @@
   version: RMX1805EX_11.A.67
 - changelog: |
     **Security**:
-    ● Android security patch: March, 2020
-    **Network**:
-    ● Fixed the issue that VoWiFi unable to registered in 2G / 3G network (IN only)
+    ● Android security patch: May, 2020
+    **System**:
+    ● Fixed some known bugs, and improved system stability
     * Android version: Android 9.0
   codename: CPH1861EX
-  date: 31/3/2020
+  date: 23/5/2020
   device: realme 1
-  download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0480_all_FWChDBv8KHOn.ozip
-  md5: AB456A5248B0C93000D2FA8B75992DE5
+  download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0490_all_sWtP8RDIvyoU.ozip
+  md5: dea5caac0705d8282e6ce515a7d3495f
   region: India
-  size: 2.16GB
+  size: 2.17GB
   system: ColorOS 6.0
-  version: CPH1861EX_11_C.48
+  version: CPH1861EX_11_C.49
 - changelog: |
     **الأمان**:
     ● تصحيحات أمان Android: أبريل ٢٠٢٠

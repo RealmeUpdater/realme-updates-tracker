@@ -1,15 +1,15 @@
 changelog: |
   **Security**:
-  ● Android security patch: March, 2020
-  **Network**:
-  ● Fixed the issue that VoWiFi unable to registered in 2G / 3G network (IN only)
+  ● Android security patch: May, 2020
+  **System**:
+  ● Fixed some known bugs, and improved system stability
   * Android version: Android 9.0
 codename: CPH1861EX
-date: 31/3/2020
+date: 23/5/2020
 device: realme 1
-download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0480_all_FWChDBv8KHOn.ozip
-md5: AB456A5248B0C93000D2FA8B75992DE5
+download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0490_all_sWtP8RDIvyoU.ozip
+md5: dea5caac0705d8282e6ce515a7d3495f
 region: India
-size: 2.16GB
+size: 2.17GB
 system: ColorOS 6.0
-version: CPH1861EX_11_C.48
+version: CPH1861EX_11_C.49

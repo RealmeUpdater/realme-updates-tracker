@@ -109,22 +109,31 @@
   system: realme UI 1.0
   version: RMX1991_11.C.14
 - changelog: |
-    **安全**:
-    ● 更新2020年4月份安全补丁
+    **电池**:
+    ● 充电动画增加小数点显示
+    ● 增加锁屏充电图标显示星球图案
+    **优化**:
+    ● 优化运营商限速提醒
+    ● 优化屏幕录制应用功能
     **修复**:
-    ● 优化三方应用音频效果
-    ● 暗色模式下最近的位置信息请求列表右侧增加箭头显示
-    ● 修复客户端播放音乐每次都出现提示音问题
-    ● 修复闹钟被后台任务清除后自动关闭问题
+    ● 修复全局搜索不能搜到电话本问题
+    ● 修复屏幕录制设置界面控件显示问题
+    ● 修复系统更新后信息加载显示错误问题
+    ● 修复输入法设置皮肤后重启会恢复默认问题
+    ● 修复暗色模式下，拔出SIM卡后弹框显示问题
+    **安全**:
+    ● 更新Android安全补丁（2020#5）
+    **提示**:
+    **手机升级完毕后，手机里部分已安装应用需要适配和后台优化，相册和手机文件也将进行智能整理并再次安全扫描。为避免安全隐患，这些优化动作在后台将会增加一些额外耗电，请放心使用，2~3天会自行恢复。**:
   codename: RMX1971
-  date: 29/04/2020
+  date: 23/05/2020
   device: realme Q
-  download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_1040_all_6mB9JqulzBcv.ozip
-  md5: 6434AB0F706E2F76DDEF7DFBF79B580E
+  download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_1050_all_AXsCwUrGoeW1.ozip
+  md5: 8628CB08B0B8BC1B18AF57584BBEC546
   region: China
-  size: 3.01GB
+  size: 2.98GB
   system: realme UI 1.0
-  version: RMX1971_11_C.04
+  version: RMX1971_11.C.05
 - changelog: |
     **【升级提示】**:
     **请升级到最新的版本：RMX1901_11.A.22，再进行拷包升级，否则会出现升级不上去**:

@@ -826,12 +826,12 @@
   codename: RMX1805EX
   date: 19/5/2020
   device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0670_all_oXcVuoI7j8VO.ozip
-  md5: f29572a131ec89978ec94eb6fa79b05e
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0680_all_IZytOys87kiC.ozip
+  md5: 032679e730bff878cdc298136934bd04
   region: Indonesia
   size: 2.15GB
   system: ColorOS 6.0
-  version: RMX1805EX_11.A.67
+  version: RMX1805EX_11_A.68
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: Mei 2020
@@ -855,12 +855,26 @@
   codename: RMX1805EX
   date: 19/5/2020
   device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0670_all_oXcVuoI7j8VO.ozip
-  md5: f29572a131ec89978ec94eb6fa79b05e
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0680_all_IZytOys87kiC.ozip
+  md5: 032679e730bff878cdc298136934bd04
   region: Indonesia
   size: 2.15GB
   system: ColorOS 6.0
-  version: RMX1805EX_11.A.67
+  version: RMX1805EX_11_A.68
+- changelog: |
+    **Security**:
+    ● Android security patch: May, 2020
+    **Camera**:
+    ● Optimized the front camera clarity in some scenes
+  codename: RMX2040
+  date: 25/5/2020
+  device: Narzo 10
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0170_all_3KtBmt3oFBev.ozip
+  md5: 341F19CE997EBA6E2EFCE5A2C5FE028E
+  region: India
+  size: 2.81GB
+  system: realme UI 1.0
+  version: RMX2040_11_A.17
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -1297,14 +1311,14 @@
     ● Fixed some known bugs, and improved system stability
     * Android version: Android 9.0
   codename: RMX1805EX
-  date: 17/5/2020
+  date: 19/5/2020
   device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0670_all_oXcVuoI7j8VO.ozip
-  md5: f29572a131ec89978ec94eb6fa79b05e
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0680_all_IZytOys87kiC.ozip
+  md5: 032679e730bff878cdc298136934bd04
   region: India
   size: 2.15GB
   system: ColorOS 6.0
-  version: RMX1805EX_11_A.67
+  version: RMX1805EX_11_A.68
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020
@@ -1328,12 +1342,12 @@
   codename: RMX1805EX
   date: 19/5/2020
   device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0670_all_oXcVuoI7j8VO.ozip
-  md5: f29572a131ec89978ec94eb6fa79b05e
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0680_all_IZytOys87kiC.ozip
+  md5: 032679e730bff878cdc298136934bd04
   region: India
   size: 2.15GB
   system: ColorOS 6.0
-  version: RMX1805EX_11.A.67
+  version: RMX1805EX_11_A.68
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020
@@ -1385,6 +1399,20 @@
   size: 3.16GB
   system: realme UI V1.0
   version: RMX1971EX_11_C.03
+- changelog: |
+    **Security**:
+    ● Android security patch: May, 2020
+    **Camera**:
+    ● Optimized the front camera clarity in some scenes
+  codename: RMX2040
+  date: 25/5/2020
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0170_all_3KtBmt3oFBev.ozip
+  md5: 341F19CE997EBA6E2EFCE5A2C5FE028E
+  region: Pakistan
+  size: 2.81GB
+  system: realme UI 1.0
+  version: RMX2040_11_A.17
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020
@@ -1555,6 +1583,20 @@
   size: 1.98GB
   system: ColorOS 6.0
   version: RMX1941EX_11.A.25
+- changelog: |
+    **Безопасность**:
+    ● Исправление безопасности Android: 5 мая 2020
+    **Камера:**:
+    **• оптимизирована четкость работы передней камеры в некоторых сценах;**:
+  codename: RMX2040
+  date: 25/5/2020
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0160_all_zSyg23JCoxwI.ozip
+  md5: 5929EEF7D77EC02E3F6788F13CCE7314
+  region: Russia
+  size: 2.67GB
+  system: realme UI 1.0
+  version: RMX2040_11_A.16
 - changelog: |
     **Безопасность**:
     ● Исправление безопасности Android: 5 мая 2020
@@ -2135,12 +2177,12 @@
   codename: RMX1805EX
   date: 19/5/2020
   device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0670_all_oXcVuoI7j8VO.ozip
-  md5: f29572a131ec89978ec94eb6fa79b05e
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0680_all_IZytOys87kiC.ozip
+  md5: 032679e730bff878cdc298136934bd04
   region: Vietnam
   size: 2.15GB
   system: ColorOS 6.0
-  version: RMX1805EX_11_A.67
+  version: RMX1805EX_11_A.68
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 5 năm 2020
@@ -2164,9 +2206,9 @@
   codename: RMX1805EX
   date: 19/5/2020
   device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0670_all_oXcVuoI7j8VO.ozip
-  md5: f29572a131ec89978ec94eb6fa79b05e
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0680_all_IZytOys87kiC.ozip
+  md5: 032679e730bff878cdc298136934bd04
   region: Vietnam
   size: 2.15GB
   system: ColorOS 6.0
-  version: RMX1805EX_11_A.67
+  version: RMX1805EX_11_A.68

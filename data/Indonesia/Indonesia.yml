@@ -245,12 +245,12 @@
   codename: RMX1805EX
   date: 19/5/2020
   device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0670_all_oXcVuoI7j8VO.ozip
-  md5: f29572a131ec89978ec94eb6fa79b05e
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0680_all_IZytOys87kiC.ozip
+  md5: 032679e730bff878cdc298136934bd04
   region: Indonesia
   size: 2.15GB
   system: ColorOS 6.0
-  version: RMX1805EX_11.A.67
+  version: RMX1805EX_11_A.68
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: Mei 2020
@@ -274,9 +274,9 @@
   codename: RMX1805EX
   date: 19/5/2020
   device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0670_all_oXcVuoI7j8VO.ozip
-  md5: f29572a131ec89978ec94eb6fa79b05e
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0680_all_IZytOys87kiC.ozip
+  md5: 032679e730bff878cdc298136934bd04
   region: Indonesia
   size: 2.15GB
   system: ColorOS 6.0
-  version: RMX1805EX_11.A.67
+  version: RMX1805EX_11_A.68

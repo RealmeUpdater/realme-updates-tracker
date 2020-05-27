@@ -1,0 +1,12 @@
+changelog: |
+  **Security**:
+  **• Added the May 2020 Android security patch to enhance system security.**:
+codename: RMX2030
+date: 25/5/2020
+device: realme 5i
+download: ' https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0200_all_ddurYzSHqWzG.ozip'
+md5: C79632757CA88B264F24D86E59D56011
+region: Europe
+size: 2.6GB
+system: ColorOS 6.0.1
+version: RMX2030_11_A.20

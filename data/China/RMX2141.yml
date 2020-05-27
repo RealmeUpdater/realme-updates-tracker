@@ -2,13 +2,18 @@ changelog: |
   **网络**:
   ● 优化网络性能，提升上网稳定性
   **相机**:
+  ● 新增后置慢动作120FPS功能
   ● 优化相机效果，提升拍照体验
+  **优化**:
+  ● 优化部分场景下耗电过快的问题
+  **修复**:
+  ● 修复部分场景下状态栏弹出"手机投屏 已连接到null"的提示
 codename: RMX2141
-date: 30/04/2020
+date: 25/05/2020
 device: realme X50m 5G
-download: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0050_all_IrvnYlXlf4bJ.ozip
-md5: C179E2FA10F5EE73FCB8EC9725E91D3B
+download: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0060_all_Y9c6Z5E8t6gV.ozip
+md5: F19DD280911703941AD8C69C12CFA77D
 region: China
-size: 3.75GB
+size: 3.77GB
 system: realme UI V1.0
-version: RMX2141_11.A.05
+version: RMX2141_11.A.06

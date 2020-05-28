@@ -160,26 +160,25 @@
   version: RMX1992AEX_11.C.08
 - changelog: |
     **Security**:
-    ● Android security patch: April, 2020
-    **System**:
-    ● Updated charging animation
-    **Camera**:
-    ● Fixed occational black face when HDR shooting
+    ● Android security patch: May, 2020
+    **Applications**:
+    ● Added DocVault(India)
+    **Screen Recording**:
+    ● Optimized screen recording feature
     **Known issue fixed**:
-    ● Optimized the Bluetooth headset delay while playing PUBG
-    ● Fixed occasional Splashing Screen when Rebooting Phone
-    ● Fixed occasional app crash issue
-    ● Fixed occasionally unable to evoke the voice assistant
-    ● Fixed the microphone icon displays on the status bar after the third-party apps exit
+    ● Fixed the issue of touch failure in some scenes during PUBG
+    ● Fixed the issue that phone restarted after the screen stuck during WeChat calls
+    **System**:
+    ● Fixed some known issues and improved system stability
   codename: RMX1931EX
-  date: 27/4/2020
+  date: 28/5/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1260_all_H0yONabfaaoA.ozip
-  md5: 1980115417f78e9eb3ebe391f6903ab7
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1270_all_XZQ2lsNPwhvA.ozip
+  md5: 04958fa575c5f9951c4e9347f7a3baf2
   region: India
-  size: 2.91GB
+  size: 2.88GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.26
+  version: RMX1931EX_11.C.27
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020

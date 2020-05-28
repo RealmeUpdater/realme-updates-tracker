@@ -1,8 +1,6 @@
 changelog: |
   **Security**:
   ● Android security patch: May, 2020
-  **Applications**:
-  ● Added DocVault(India)
   **Screen Recording**:
   ● Optimized screen recording feature
   **Known issue fixed**:
@@ -15,7 +13,7 @@ date: 28/5/2020
 device: realme X2 Pro
 download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1270_all_XZQ2lsNPwhvA.ozip
 md5: 04958fa575c5f9951c4e9347f7a3baf2
-region: India
+region: UAE
 size: 2.88GB
 system: realme UI 1.0
 version: RMX1931EX_11.C.27

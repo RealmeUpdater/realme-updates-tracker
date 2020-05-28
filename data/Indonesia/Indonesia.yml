@@ -74,26 +74,18 @@
   version: RMX2030_11_A.20
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: April 2020
+    ●Android Security Patch untuk 5 Mei 2020
     **Sistem**:
-    ● Memperbarui animasi pengisian daya
-    **Kamera**:
-    ● Memperbaiki wajah hitam sesekali pada pemotretan HDR
-    **Memperbaiki masalah yang diketahui**:
-    ● Mengoptimalkan kelambatan headset Bluetooth selagi memainkan PUBG
-    ● Memperbaiki Layar Pembuka sesekali saat menyalakan ulang ponsel
-    ● Memperbaiki masalah apli mogok sesekali
-    ● Memperbaiki ketidakmampuan sesekali untuk mengaktifkan asisten suara
-    ● Memperbaiki penampilan ikon mikrofon pada bilah status setelah keluar dari apli pihak ketiga
+    ●Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1931EX
-  date: 27/4/2020
+  date: 28/5/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1260_all_H0yONabfaaoA.ozip
-  md5: 1980115417f78e9eb3ebe391f6903ab7
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1270_all_XZQ2lsNPwhvA.ozip
+  md5: 04958fa575c5f9951c4e9347f7a3baf2
   region: Indonesia
-  size: 2.91GB
+  size: 2.88GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.26
+  version: RMX1931EX_11.C.27
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: April 2020

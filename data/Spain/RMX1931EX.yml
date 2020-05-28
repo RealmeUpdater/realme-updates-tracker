@@ -1,22 +1,14 @@
 changelog: |
-  **Seguridad**:
-  ● Parche de seguridad de Android: abril de 2020
+  **Güvenlik**:
+  ● Android güvenlik yaması: Mayıs 2020
   **Sistema**:
-  ● Se ha actualizado la animación de carga
-  **Cámara**:
-  ● Se ha solucionado el problema ocasional que hacía que apareciese el rostro negro con el disparo HDR
-  **Problema conocido solucionado**:
-  ● Se ha optimizado el retraso de los auriculares Bluetooth cuando se reproducían archivos PUBG
-  ● Se ha solucionado el problema ocasional de la pantalla de bienvenida cuando se reiniciaba el teléfono
-  ● Se ha solucionado el problema ocasional que hacía que la app se cerrase
-  ● Se ha solucionado el problema ocasional que impedía activar el asistente de voz
-  ● Se ha solucionado el problema que hacía que el icono del micrófono se visualizase en la barra de estado al cerrar apps de terceros
+  ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
 codename: RMX1931EX
-date: 27/4/2020
+date: 28/5/2020
 device: realme X2 Pro
-download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1260_all_H0yONabfaaoA.ozip'
-md5: 1980115417f78e9eb3ebe391f6903ab7
+download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1270_all_XZQ2lsNPwhvA.ozip'
+md5: 04958fa575c5f9951c4e9347f7a3baf2
 region: Spain
-size: 2.91GB
+size: 2.88GB
 system: realme UI 1.0
-version: RMX1931EX_11.C.26
+version: RMX1931EX_11.C.27

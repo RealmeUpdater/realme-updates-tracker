@@ -629,29 +629,18 @@
   version: RMX2001_11.B.27
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: April 2020
+    ● Patch keamanan Android: Mei 2020
     **Kamera**:
-    ● Mengoptimalkan performa noise ISO rendah di kamera depan dan meningkatkan kejernihan ISO
-    ● Mengoptimalkan masalah kamera depan untuk AWB dalam ruangan yang kemerahan
-    ● Meningkatkan kualitas selfie dan lebih dekat dengan alam
-    ● Mengoptimalkan kontras selfie dan mengurangi bayangan mata
-    ● Mengoptimalkan foto blur karena kamera depan berguncang
-    ● Mengoptimalkan kualitas gambar kamera belakang dalam kejernihan ISO rendah
-    ● Mengoptimalkan AWB kamera belakang untuk meningkatkan masalah rona kehijauan di beberapa pemandangan luar ruangan.
-    **Memperbaiki masalah yang diketahui**:
-    ● Mengoptimalkan kelancaran keluar-masuk Whatsapp
-    ● Memecahkan masalah macet menggulir di Facebook
-    ● Memecahkan masalah hang di beberapa adegan saat bermain PUBG
-    ● Mengoptimalkan kualitas layar sentuh dan memecahkan masalah lag dalam beberapa adegan
+    **• Pengoptimalan kejernihan kamera depan dalam adegan tertentu**:
   codename: RMX2020
-  date: 20/4/2020
+  date: 29/5/2020
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0210_all_EzfIVATAg4cH.ozip
-  md5: C8345B8067447197DD210D4029D4E2A5
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
+  md5: 00B654DE25B9C5F94A5438791ADE37A5
   region: Indonesia
-  size: 2.82GB
+  size: 2.84GB
   system: realme UI V1.0
-  version: RMX2020_11.A.21
+  version: RMX2020_11_A.25
 - changelog: '**• Menambahkan penambal keamanan Android Mei 2020 untuk menyempurnakan
     keamanan sistem.**:
 
@@ -870,6 +859,20 @@
     ● Android security patch: May, 2020
     **Camera**:
     ● Optimized the front camera clarity in some scenes
+  codename: RMX2020
+  date: 29/5/2020
+  device: Narzo 10A
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
+  md5: 00B654DE25B9C5F94A5438791ADE37A5
+  region: India
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX2020_11_A.25
+- changelog: |
+    **Security**:
+    ● Android security patch: May, 2020
+    **Camera**:
+    ● Optimized the front camera clarity in some scenes
   codename: RMX2040
   date: 25/5/2020
   device: Narzo 10
@@ -940,29 +943,18 @@
   version: RMX2001_11.B.31
 - changelog: |
     **Security**:
-    ● Android security patch: April, 2020
+    ● Android security patch: May, 2020
     **Camera**:
-    ● Optimized the low ISO noise performance of the front camera and improved the ISO clarity
-    ● Optimized the front camera issue of indoor AWB redness
-    ● Improved selfie experience and closer to nature
-    ● Optimized the contrast of selfies and reduced eye shadows
-    ● Optimized blurring of photos caused by front camera shaking
-    ● Optimized the image quality of the rear camera at low ISO clarity
-    ● Optimized the AWB of the rear camera to improve the greenish problem in some outdoor scenes
-    **Known issue fixed**:
-    ● Optimized the fluency of entering and exiting Whatsapp
-    ● Solved the issue of sliding stuck on Facebook
-    ● Solved the stuck issue in some scenes during the PUBG
-    ● Optimized the screen touch experience and solved the touch delay issue in some scenes
-  codename: RMX2027
-  date: 20/4/2020
+    ● Optimized the front camera clarity in some scenes
+  codename: RMX2020
+  date: 29/5/2020
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0210_all_EzfIVATAg4cH.ozip
-  md5: C8345B8067447197DD210D4029D4E2A5
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
+  md5: 00B654DE25B9C5F94A5438791ADE37A5
   region: India
-  size: 2.82GB
+  size: 2.84GB
   system: realme UI V1.0
-  version: RMX2027_11.A.21
+  version: RMX2020_11_A.25
 - changelog: |
     **Security**:
     **• Added the May 2020 Android security patch to enhance system security.**:

@@ -1,14 +1,14 @@
 changelog: |
-  **Keamanan**:
-  ● Patch keamanan Android: Mei 2020
-  **Kamera**:
-  **• Pengoptimalan kejernihan kamera depan dalam adegan tertentu**:
+  **Security**:
+  ● Android security patch: May, 2020
+  **Camera**:
+  ● Optimized the front camera clarity in some scenes
 codename: RMX2020
 date: 29/5/2020
 device: realme C3
 download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
 md5: 00B654DE25B9C5F94A5438791ADE37A5
-region: Indonesia
+region: India
 size: 2.84GB
 system: realme UI V1.0
 version: RMX2020_11_A.25

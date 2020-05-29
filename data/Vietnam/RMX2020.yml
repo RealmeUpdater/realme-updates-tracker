@@ -1,25 +1,14 @@
 changelog: |
-  **Bảo mật**:
-  ● Bản vá bảo mật Android: Tháng 4, 2020
-  **Camera**:
-  ● Đã tối ưu hóa hiệu suất sạn ISO thấp của camera trước và cải thiện độ rõ nét ISO
-  ● Đã tối ưu hóa vấn đề màu đỏ AWB trong nhà của camera trước
-  ● Đã cải thiện trải nghiệm ảnh tự chụp và gần với tự nhiên hơn
-  ● Đã tối ưu hóa độ tương phản của ảnh tự chụp và giảm bóng mắt
-  ● Đã tối ưu hóa tình trạng ảnh bị mờ do rung camera trước
-  ● Đã tối ưu hóa chất lượng hình ảnh của camera sau ở độ rõ nét ISO thấp
-  ● Đã tối ưu hóa AWB của camera sau để cải thiện vấn đề sắc màu xanh lục trong một số cảnh ngoài trời
-  **Sửa lỗi đã biết**:
-  ● Đã tối ưu hóa sự trôi chảy của việc vào và thoát Whatsapp
-  ● Đã giải quyết vấn đề thanh trượt bị mắc kẹt trên Facebook
-  ● Đã giải quyết vấn đề bị mắc kẹt trong một số cảnh trong PUBG
-  ● Đã tối ưu hóa trải nghiệm cảm ứng màn hình và đã giải quyết vấn đề bị trễ cảm ứng trong một số cảnh
+  **Bảo mật**:
+  ● Bản vá bảo mật Android: Tháng 5 năm 2020
+  **Máy ảnh**:
+  **• Tối ưu hóa độ rõ của máy ảnh trước khi chụp một số cảnh**:
 codename: RMX2020
-date: 20/4/2020
+date: 29/5/2020
 device: realme C3
-download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0210_all_EzfIVATAg4cH.ozip
-md5: C8345B8067447197DD210D4029D4E2A5
+download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
+md5: 00B654DE25B9C5F94A5438791ADE37A5
 region: Vietnam
-size: 2.82GB
+size: 2.84GB
 system: realme UI V1.0
-version: RMX2020_11.A.21
+version: RMX2020_11_A.25

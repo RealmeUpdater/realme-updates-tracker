@@ -1,22 +1,29 @@
 changelog: |
-  **安全**:
-  ● 更新4月份谷歌安全补丁
   **设置**:
-  ● 屏幕色彩模式增加鲜艳模式
+  ● 更新默认壁纸
+  ● 新增振动强度调节选项
+  **游戏空间**:
+  ● 新增游戏内显示弹幕消息的功能
   **相机**:
-  ● 新增60帧4K视频的录制功能
   ● 优化相机拍摄效果
+  ● 优化前后置连拍稳定性
+  ● 优化4K视频模式预览和录像稳定性
   **优化**:
-  ● 优化部分场景屏幕低亮时偏红问题
-  ● 优化数据网偶尔存在断连的问题
+  ● 优化音频效果
+  ● 优化系统稳定性
+  ● 优化界面显示
+  ● 优化数据网络断开后的恢复时间
+  ● 优化WiFi与数据网络切换时间
   **问题修复**:
-  ● 修复屏幕圆角效果会低概率显示在屏幕中间的问题
+  ● 修复王者荣耀首页时延卡顿问题
+  **安全**:
+  ● 更新5月份谷歌安全补丁
 codename: RMX2071
-date: 23/04/2020
+date: 23/05/2020
 device: realme X50 Pro 5G
-download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0140_all_v7HHZLn47CCD.ozip
-md5: A095500A926D48932D9EFE6ABFB982FB
+download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0180_all_AK7yXcEGpnMb.ozip
+md5: 66AF5E4BD3A7322ED08161894727D631
 region: China
-size: 3GB
+size: 3.11GB
 system: realme UI V1.0
-version: RMX2071_11_A.14
+version: RMX2071_11_A.18

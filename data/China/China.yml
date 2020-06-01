@@ -18,27 +18,34 @@
   system: realme UI V1.0
   version: RMX2141_11.A.06
 - changelog: |
-    **安全**:
-    ● 更新4月份谷歌安全补丁
     **设置**:
-    ● 屏幕色彩模式增加鲜艳模式
+    ● 更新默认壁纸
+    ● 新增振动强度调节选项
+    **游戏空间**:
+    ● 新增游戏内显示弹幕消息的功能
     **相机**:
-    ● 新增60帧4K视频的录制功能
     ● 优化相机拍摄效果
+    ● 优化前后置连拍稳定性
+    ● 优化4K视频模式预览和录像稳定性
     **优化**:
-    ● 优化部分场景屏幕低亮时偏红问题
-    ● 优化数据网偶尔存在断连的问题
+    ● 优化音频效果
+    ● 优化系统稳定性
+    ● 优化界面显示
+    ● 优化数据网络断开后的恢复时间
+    ● 优化WiFi与数据网络切换时间
     **问题修复**:
-    ● 修复屏幕圆角效果会低概率显示在屏幕中间的问题
+    ● 修复王者荣耀首页时延卡顿问题
+    **安全**:
+    ● 更新5月份谷歌安全补丁
   codename: RMX2071
-  date: 23/04/2020
+  date: 23/05/2020
   device: realme X50 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0140_all_v7HHZLn47CCD.ozip
-  md5: A095500A926D48932D9EFE6ABFB982FB
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0180_all_AK7yXcEGpnMb.ozip
+  md5: 66AF5E4BD3A7322ED08161894727D631
   region: China
-  size: 3GB
+  size: 3.11GB
   system: realme UI V1.0
-  version: RMX2071_11_A.14
+  version: RMX2071_11_A.18
 - changelog: |
     **安全**:
     ● 更新4月份谷歌安全补丁
@@ -65,31 +72,29 @@
   system: realme UI V1.0
   version: RMX2051_11.B.12
 - changelog: |
-    **安全**:
-    ● 更新2020年4月份安全补丁
+    **应用**:
+    ● 新增realme link
+    **录屏**:
+    ● 优化屏幕录制功能
     **系统**:
-    ● 更新充电动画
-    **相机**:
-    ● 修复相册删除图片还出现问题
-    ● 修复轻颜相机高清画质拍照卡死问题
-    **修复**:
-    ● 优化部分游戏概率卡顿掉帧问题
-    ● 修复部分用户升级C.23桌面闪退问题
-    ● 修复重启手机概率闪屏问题
-    ● 修复概率出现应用闪退问题
-    ● 修复钉钉无法拍照，发送照片问题
-    ● 修复Honor xSport AM61蓝牙耳机声音断续问题
-    ● 修复悬浮窗回复好友信息后继续游戏，4D震感会消失问题
-    ● 修复系统自带主题“简约至美”日历和时钟图标显示与实际不一致问题（升级后需要在主题商店里面，重新应用一次“简约至美”主题）即可
+    ● 优化王者荣耀和和平精英游戏部分场景下的断触问题
+    ● 修复息屏日历显示错误问题
+    ● 修复息屏锁屏时低概率出现闪屏问题
+    ● 修复微信语音对方概率听不到声音问题
+    ● 修复用户与账号界面低概率闪退问题
+    ● 修复开启超现实画质后退出再进入游戏，低概率出现无超现实画质效果问题
+    ● 修复部分已知问题，提高系统稳定性
+    **安全**:
+    ● 更新Android安全补丁（2020#5）
   codename: RMX1931
-  date: 29/04/2020
+  date: 28/05/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1240_all_yDxo94GBvWWb.ozip
-  md5: e35fcf51aa00868a68b88b34a4e9bd88
+  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1250_all_H8peW44p7GS0.ozip
+  md5: d2220873a7e17a3bb7e38deee0b563e5
   region: China
-  size: 2.85GB
+  size: 2.86GB
   system: realme UI 1.0
-  version: RMX1931_11.C.24
+  version: RMX1931_11.C.25
 - changelog: |
     **充电**:
     ● 更新充电动画效果
@@ -181,7 +186,7 @@
     **提示**:
     **手机升级完毕后，手机里部分已安装应用需要适配和后台优化，相册和手机文件也将进行智能整理并再次安全扫描。为避免安全隐患，这些优化动作在后台将会增加一些额外耗电，请放心使用，2~3天会自行恢复。**:
   codename: RMX1851
-  date: 20/05/2020
+  date: 25/05/2020
   device: realme X青春版
   download: https://download.c.realme.com/osupdate/RMX1851_11_OTA_1040_all_QhgqzRxRtiFW.ozip
   md5: 4CE1442C6244C8B7D169A739098402DE

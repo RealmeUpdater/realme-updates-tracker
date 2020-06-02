@@ -1,25 +1,21 @@
 changelog: |
-  **安全**:
-  ● 更新4月份谷歌安全补丁
-  **系统**:
-  ● 新增免解压查看压缩包内文档(文件数量不超过50个)功能
-  ● 新增录音转文本功能
-  ● 新增便签加密功能
+  **相机**:
+  ● 新增后置相机慢动作120FPS功能
+  ● 优化相机效果，提升拍照体验
   **网络**:
   ● 优化网络性能，提升上网稳定性
-  **相机**:
-  ● 新增超级文本功能
-  **优化**:
-  ● 优化部分场景下耗电过大的问题
-  **修复**:
-  ● 修复部分场景下无法录音的问题
-  ● 修复部分场景下触摸屏失效问题
+  **功耗**:
+  ● 优化部分场景下耗电过快的问题
+  **状态栏**:
+  ● 修复部分场景下状态栏弹出"手机投屏 已连接到null"的提示
+  **安全**:
+  ● 更新Android安全补丁（2020#5）
 codename: RMX2051
-date: 30/04/2020
+date: 30/05/2020
 device: realme X50 5G
-download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0120_all_3yWcK2VYe1v6.ozip
-md5: F784B3ACEE71F4E9A541A6BDB484814F
+download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0130_all_eYk6C5XZVbgV.ozip
+md5: 867A5F51BA2E88F2E91D973A39A92CBE
 region: China
 size: 3.63GB
 system: realme UI V1.0
-version: RMX2051_11.B.12
+version: RMX2051_11.B.13

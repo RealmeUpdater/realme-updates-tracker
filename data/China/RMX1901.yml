@@ -1,26 +1,16 @@
 changelog: |
-  **【升级提示】**:
-  **请升级到最新的版本：RMX1901_11.A.22，再进行拷包升级，否则会出现升级不上去**:
-  **电池**:
-  ● 增加锁屏充电图标显示星球图案
   **优化**:
-  ● 优化运营商限速提醒
-  ● 优化屏幕录制应用功能
-  ● 优化部分场景下的游戏体验
+  ● 优化侧滑返回样式透明度
   **修复**:
-  ● 修复全局搜索不能搜到电话本问题
-  ● 修复屏幕录制设置界面控件显示问题
-  ● 修复系统更新后信息加载显示错误问题
-  ● 修复输入法设置皮肤后重启会恢复默认问题
-  ● 修复暗色模式下，拔出SIM卡后弹框显示问题
-  **安全**:
-  ● 更新Android安全补丁（2020#5）
+  ● 修复主题切换时候导致黑屏问题
+  **提示**:
+  **手机升级完毕后，手机里部分已安装应用需要适配和后台优化，相册和手机文件也将进行智能整理并再次安全扫描。为避免安全隐患，这些优化动作在后台将会增加一些额外耗电，请放心使用，2~3天会自行恢复。**:
 codename: RMX1901
-date: 21/05/2020
+date: 01/06/2020
 device: realme X
-download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_1090_all_gw3y6ditPDVF.ozip
-md5: FA66740717E38199A38866C8BB2AC020
+download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_1110_all_v2KXpoUS8jCU.ozip
+md5: 59D3A9338B705BCFC5B7845CF1F0BEAE
 region: China
 size: 2.99GB
 system: realme UI 1.0
-version: RMX1901_11.C.09
+version: RMX1901_11.C.11

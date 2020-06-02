@@ -47,30 +47,26 @@
   system: realme UI V1.0
   version: RMX2071_11_A.18
 - changelog: |
-    **安全**:
-    ● 更新4月份谷歌安全补丁
-    **系统**:
-    ● 新增免解压查看压缩包内文档(文件数量不超过50个)功能
-    ● 新增录音转文本功能
-    ● 新增便签加密功能
+    **相机**:
+    ● 新增后置相机慢动作120FPS功能
+    ● 优化相机效果，提升拍照体验
     **网络**:
     ● 优化网络性能，提升上网稳定性
-    **相机**:
-    ● 新增超级文本功能
-    **优化**:
-    ● 优化部分场景下耗电过大的问题
-    **修复**:
-    ● 修复部分场景下无法录音的问题
-    ● 修复部分场景下触摸屏失效问题
+    **功耗**:
+    ● 优化部分场景下耗电过快的问题
+    **状态栏**:
+    ● 修复部分场景下状态栏弹出"手机投屏 已连接到null"的提示
+    **安全**:
+    ● 更新Android安全补丁（2020#5）
   codename: RMX2051
-  date: 30/04/2020
+  date: 30/05/2020
   device: realme X50 5G
-  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0120_all_3yWcK2VYe1v6.ozip
-  md5: F784B3ACEE71F4E9A541A6BDB484814F
+  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0130_all_eYk6C5XZVbgV.ozip
+  md5: 867A5F51BA2E88F2E91D973A39A92CBE
   region: China
   size: 3.63GB
   system: realme UI V1.0
-  version: RMX2051_11.B.12
+  version: RMX2051_11.B.13
 - changelog: |
     **应用**:
     ● 新增realme link
@@ -145,31 +141,21 @@
   system: realme UI 1.0
   version: RMX1971_11.C.05
 - changelog: |
-    **【升级提示】**:
-    **请升级到最新的版本：RMX1901_11.A.22，再进行拷包升级，否则会出现升级不上去**:
-    **电池**:
-    ● 增加锁屏充电图标显示星球图案
     **优化**:
-    ● 优化运营商限速提醒
-    ● 优化屏幕录制应用功能
-    ● 优化部分场景下的游戏体验
+    ● 优化侧滑返回样式透明度
     **修复**:
-    ● 修复全局搜索不能搜到电话本问题
-    ● 修复屏幕录制设置界面控件显示问题
-    ● 修复系统更新后信息加载显示错误问题
-    ● 修复输入法设置皮肤后重启会恢复默认问题
-    ● 修复暗色模式下，拔出SIM卡后弹框显示问题
-    **安全**:
-    ● 更新Android安全补丁（2020#5）
+    ● 修复主题切换时候导致黑屏问题
+    **提示**:
+    **手机升级完毕后，手机里部分已安装应用需要适配和后台优化，相册和手机文件也将进行智能整理并再次安全扫描。为避免安全隐患，这些优化动作在后台将会增加一些额外耗电，请放心使用，2~3天会自行恢复。**:
   codename: RMX1901
-  date: 21/05/2020
+  date: 01/06/2020
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_1090_all_gw3y6ditPDVF.ozip
-  md5: FA66740717E38199A38866C8BB2AC020
+  download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_1110_all_v2KXpoUS8jCU.ozip
+  md5: 59D3A9338B705BCFC5B7845CF1F0BEAE
   region: China
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1901_11.C.09
+  version: RMX1901_11.C.11
 - changelog: |
     **电池**:
     ● 充电动画增加小数点显示

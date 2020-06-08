@@ -72,19 +72,23 @@
   system: realme UI 1.0
   version: RMX2061_11.A.17
 - changelog: |
-    **Security**:
-    ● Android security patch: May, 2020
+    **Application**:
+    **• Added Google pay(Only for India)**:
     **System**:
-    ● Fixed the issue that screen shows green and automatic restart in some scenes
+    **• Supported Hebrew system language**:
+    **• Updated default lockscreen wallpaper**:
+    **• Fixed the issue that low probability splash screen in some scenes of Instagram**:
+    **• Fixed the issue that some games show 0 FPS in the game space**:
+    **• Fixed some known issues, and improved system stability**:
   codename: RMX2001
-  date: 19/5/2020
+  date: 6/6/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0310_all_YW574oYsOKHs.ozip
-  md5: AB15F230404320795DB945F37252BF17
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
+  md5: 2109441FD6AB8DF9883ABF30B6CCF23B
   region: India
-  size: 3.12GB
+  size: 3.02GB
   system: realme UI 1.0
-  version: RMX2001_11.B.31
+  version: RMX2001_11.B.33
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020

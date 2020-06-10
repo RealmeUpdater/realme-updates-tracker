@@ -1,12 +1,12 @@
 changelog: |
-  **Sistem**:
-  ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+  **Система:**:
+  ● Исправлено несколько известных ошибок, улучшена стабильность системы.
 codename: RMX2001
 date: 6/6/2020
 device: realme 6
 download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
 md5: 2109441FD6AB8DF9883ABF30B6CCF23B
-region: Indonesia
+region: Russia
 size: 3.02GB
 system: realme UI 1.0
 version: RMX2001_11.B.33

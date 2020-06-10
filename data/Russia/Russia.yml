@@ -30,6 +30,18 @@
   system: realme UI 1.0
   version: RMX2061_11.A.17
 - changelog: |
+    **Система:**:
+    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
+  codename: RMX2001
+  date: 6/6/2020
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
+  md5: 2109441FD6AB8DF9883ABF30B6CCF23B
+  region: Russia
+  size: 3.02GB
+  system: realme UI 1.0
+  version: RMX2001_11.B.33
+- changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности Android за апрель 2020 г.
     **Камера**:

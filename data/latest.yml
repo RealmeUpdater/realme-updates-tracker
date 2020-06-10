@@ -229,6 +229,25 @@
   system: realmeUI V1.0
   version: RMX2040EU_11.A.16
 - changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
+    **Settings**:
+    ● Added Vivid Mode to Screen Color Mode
+    **Network**:
+    ● Improved the stability of network
+    **Camera**:
+    ● Added function of recording 60FPS 4K video
+    ● Optimized the quality of photos
+  codename: RMX2076EU
+  date: 29/5/2020
+  device: realme X50 Pro 5G
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0200_all_SMijFMn119wv.ozip
+  md5: 2E48CC95B7385EF115140057AD45BE14
+  region: Spain
+  size: 3.20GB
+  system: realmeUI V1.0
+  version: RMX2076EU_11_A.20
+- changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: mayo de 2020
   codename: RMX2020EU
@@ -241,20 +260,17 @@
   system: realme UI V1.0
   version: RMX2020EU_11.A.24
 - changelog: |
-    **Seguridad**:
-    ● Parche de seguridad de Android: mayo de 2020
     **Sistema**:
-    ● Se soluciona el problema de reinicios aleatorios tras mostrarse la pantalla en verde en algunos escenarios.
-    ● Se soluciona el problema parcial con la tarjeta SIM del operador Orange que impedía acceder a Internet.
+    ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2001EU
-  date: 19/5/2020
+  date: 6/6/2020
   device: realme 6
-  download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0280_all_MjKBHazkmKZT.ozip'
-  md5: E38903D05C9D097870EC3B2CFFC5B31C
+  download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0300_all_OQP6voxoc0hY.ozip'
+  md5: 9121625CFE731FCA03798EBCCB67510E
   region: Spain
-  size: 2.94GB
+  size: 2.75GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.28
+  version: RMX2001EU_11.A.30
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması: Mayıs 2020
@@ -403,24 +419,21 @@
   system: realme UI 1.0
   version: RMX2061EU_11.A.16
 - changelog: |
-    **Security**:
-    ● Android security patch: April, 2020
     **System**:
-    ● Fixed the issue that the game space is not effective in some scenarios
-    ● Updated VOOC charging animation
-    **Camera**:
-    ● Added Ultra Steady feature
-    ● Optimized the front camera resolution in some scenarios
-    ● Optimized the video call resolution in some scenarios
+    **• Supported Hebrew system language**:
+    **• Updated default lockscreen wallpaper**:
+    **• Fixed the issue that low probability splash screen in some scenes of Instagram**:
+    **• Fixed the issue that some games show 0 FPS in the game space**:
+    **• Fixed some known bugs, and improved system stability**:
   codename: RMX2001EU
-  date: 6/5/2020
+  date: 6/6/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0240_all_jKqf2EyfnLD2.ozip
-  md5: 14A0DECD69C430D185A4DA8CFE3F4886
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0300_all_OQP6voxoc0hY.ozip
+  md5: 9121625CFE731FCA03798EBCCB67510E
   region: Europe
-  size: 2.93GB
+  size: 2.75GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.24
+  version: RMX2001EU_11.A.30
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020
@@ -600,24 +613,17 @@
   system: realme UI 1.0
   version: RMX2061_11.A.17
 - changelog: |
-    **Keamanan**:
-    ● Patch keamanan Android: April 2020
     **Sistem**:
-    ● Memperbaiki masalah game space tidak efektif dalam beberapa skenario
-    ● Memperbarui animasi pengisian VOOC
-    **Kamera**:
-    ● Menambah fitur Ultra Stabil
-    ● Mengoptimalkan resolusi kamera depan dalam beberapa skenario
-    ● Mengoptimalkan resolusi panggilan video dalam beberapa skenario
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2001
-  date: 6/5/2020
+  date: 6/6/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0270_all_b8CreEkxuiBb.ozip
-  md5: 563469B9EE81A9E0FF0F5D8F070CFC41
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
+  md5: 2109441FD6AB8DF9883ABF30B6CCF23B
   region: Indonesia
-  size: 3.11GB
+  size: 3.02GB
   system: realme UI 1.0
-  version: RMX2001_11.B.27
+  version: RMX2001_11.B.33
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: Mei 2020
@@ -1525,14 +1531,14 @@
     ● تحسين دقة الكاميرا الأمامية في بعض السيناريوهات
     ● تحسين دقة مكالمة الفيديو في بعض السيناريوهات
   codename: RMX2001
-  date: 6/5/2020
+  date: 6/6/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0270_all_b8CreEkxuiBb.ozip
-  md5: 563469B9EE81A9E0FF0F5D8F070CFC41
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
+  md5: 2109441FD6AB8DF9883ABF30B6CCF23B
   region: Iraq
-  size: 3.11GB
+  size: 3.02GB
   system: realme UI 1.0
-  version: RMX2001_11.B.27
+  version: RMX2001_11.B.33
 - changelog: |
     **الأمان**:
     ● تصحيح الأمان لنظام أندرويد: أبريل 2020
@@ -1583,6 +1589,22 @@
   size: 3.36GB
   system: realme UI 1.0
   version: RMX2061_11.A.17
+- changelog: |
+    **System**:
+    **• Supported Hebrew system language**:
+    **• Updated default lockscreen wallpaper**:
+    **• Fixed the issue that low probability splash screen in some scenes of Instagram**:
+    **• Fixed the issue that some games show 0 FPS in the game space**:
+    **• Fixed some known bugs, and improved system stability**:
+  codename: RMX2001
+  date: 6/6/2020
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
+  md5: 2109441FD6AB8DF9883ABF30B6CCF23B
+  region: Pakistan
+  size: 3.02GB
+  system: realme UI 1.0
+  version: RMX2001_11.B.33
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -1765,6 +1787,18 @@
   size: 3.36GB
   system: realme UI 1.0
   version: RMX2061_11.A.17
+- changelog: |
+    **Система:**:
+    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
+  codename: RMX2001
+  date: 6/6/2020
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
+  md5: 2109441FD6AB8DF9883ABF30B6CCF23B
+  region: Russia
+  size: 3.02GB
+  system: realme UI 1.0
+  version: RMX2001_11.B.33
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности Android за апрель 2020 г.
@@ -2055,24 +2089,18 @@
   system: ColorOS 6.0.1
   version: RMX2030EX_11_A.19
 - changelog: |
-    **Sécurité**:
-    ● Correctif de sécurité Android : avril 2020
-    **Système**:
-    ● Résolution du problème suivant : l'espace de jeux n'est pas efficace dans certains cas
-    ● Mise à jour de l'animation de chargement VOOC
-    **Appareil photo**:
-    ● Ajout de la fonction Ultra stable
-    ● Optimisation de la résolution de l'appareil photo avant dans certains cas
-    ● Optimisation de la résolution des appels vidéo dans certains cas
+    **Sistem**:
+    **• Instagram'ın bazen sayfalarda giriş ekranına dönmesi sorunu düzeltildi**:
+    **• Bilinen bazı sorunlar düzeltildi ve sistem kararlılığı artırıldı**:
   codename: RMX2001EU
-  date: 6/5/2020
+  date: 6/6/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0240_all_jKqf2EyfnLD2.ozip
-  md5: 14A0DECD69C430D185A4DA8CFE3F4886
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0300_all_OQP6voxoc0hY.ozip
+  md5: 9121625CFE731FCA03798EBCCB67510E
   region: Turkey
-  size: 2.93GB
+  size: 2.75GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.24
+  version: RMX2001EU_11.A.30
 - changelog: |
     **[Görseller]**:
     **• Kullanıcı arayüzü, realme kullanıcı arayüzü olarak güncellendi**:

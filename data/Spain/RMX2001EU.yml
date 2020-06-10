@@ -1,15 +1,12 @@
 changelog: |
-  **Seguridad**:
-  ● Parche de seguridad de Android: mayo de 2020
   **Sistema**:
-  ● Se soluciona el problema de reinicios aleatorios tras mostrarse la pantalla en verde en algunos escenarios.
-  ● Se soluciona el problema parcial con la tarjeta SIM del operador Orange que impedía acceder a Internet.
+  ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
 codename: RMX2001EU
-date: 19/5/2020
+date: 6/6/2020
 device: realme 6
-download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0280_all_MjKBHazkmKZT.ozip'
-md5: E38903D05C9D097870EC3B2CFFC5B31C
+download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0300_all_OQP6voxoc0hY.ozip'
+md5: 9121625CFE731FCA03798EBCCB67510E
 region: Spain
-size: 2.94GB
+size: 2.75GB
 system: realme UI 1.0
-version: RMX2001EU_11.A.28
+version: RMX2001EU_11.A.30

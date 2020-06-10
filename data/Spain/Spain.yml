@@ -28,6 +28,25 @@
   system: realmeUI V1.0
   version: RMX2040EU_11.A.16
 - changelog: |
+    **Security**:
+    ● Android security patch: April, 2020
+    **Settings**:
+    ● Added Vivid Mode to Screen Color Mode
+    **Network**:
+    ● Improved the stability of network
+    **Camera**:
+    ● Added function of recording 60FPS 4K video
+    ● Optimized the quality of photos
+  codename: RMX2076EU
+  date: 29/5/2020
+  device: realme X50 Pro 5G
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0200_all_SMijFMn119wv.ozip
+  md5: 2E48CC95B7385EF115140057AD45BE14
+  region: Spain
+  size: 3.20GB
+  system: realmeUI V1.0
+  version: RMX2076EU_11_A.20
+- changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: mayo de 2020
   codename: RMX2020EU
@@ -40,20 +59,17 @@
   system: realme UI V1.0
   version: RMX2020EU_11.A.24
 - changelog: |
-    **Seguridad**:
-    ● Parche de seguridad de Android: mayo de 2020
     **Sistema**:
-    ● Se soluciona el problema de reinicios aleatorios tras mostrarse la pantalla en verde en algunos escenarios.
-    ● Se soluciona el problema parcial con la tarjeta SIM del operador Orange que impedía acceder a Internet.
+    ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2001EU
-  date: 19/5/2020
+  date: 6/6/2020
   device: realme 6
-  download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0280_all_MjKBHazkmKZT.ozip'
-  md5: E38903D05C9D097870EC3B2CFFC5B31C
+  download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0300_all_OQP6voxoc0hY.ozip'
+  md5: 9121625CFE731FCA03798EBCCB67510E
   region: Spain
-  size: 2.94GB
+  size: 2.75GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.28
+  version: RMX2001EU_11.A.30
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması: Mayıs 2020

@@ -5,12 +5,12 @@ changelog: |
   **• Fixed the issue that low probability splash screen in some scenes of Instagram**:
   **• Fixed the issue that some games show 0 FPS in the game space**:
   **• Fixed some known bugs, and improved system stability**:
-codename: RMX2001EU
+codename: RMX2001
 date: 6/6/2020
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0300_all_OQP6voxoc0hY.ozip
-md5: 9121625CFE731FCA03798EBCCB67510E
-region: Europe
-size: 2.75GB
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
+md5: 2109441FD6AB8DF9883ABF30B6CCF23B
+region: Pakistan
+size: 3.02GB
 system: realme UI 1.0
-version: RMX2001EU_11.A.30
+version: RMX2001_11.B.33

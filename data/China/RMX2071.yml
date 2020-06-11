@@ -1,29 +1,21 @@
 changelog: |
-  **设置**:
-  ● 更新默认壁纸
-  ● 新增振动强度调节选项
-  **游戏空间**:
-  ● 新增游戏内显示弹幕消息的功能
-  **相机**:
-  ● 优化相机拍摄效果
-  ● 优化前后置连拍稳定性
-  ● 优化4K视频模式预览和录像稳定性
+  **应用**:
+  ● 新增realme Link应用
+  **修复**:
+  ● 修复农历闰4月显示错误的问题
+  ● 修复无线投屏低概率会弹出null提示的问题
+  ● 修复夜景拍照极低概率照片绿屏或花屏的问题
+  ● 修复系统语言为阿拉伯语时，部分场景会出现显示错误的问题
+  ● 修复连接蓝牙耳机通话时切换至外放，对方无法听到我方声音的问题
+  ● 修复切换主题时，低概率会显示黑屏的问题
   **优化**:
-  ● 优化音频效果
-  ● 优化系统稳定性
-  ● 优化界面显示
-  ● 优化数据网络断开后的恢复时间
-  ● 优化WiFi与数据网络切换时间
-  **问题修复**:
-  ● 修复王者荣耀首页时延卡顿问题
-  **安全**:
-  ● 更新5月份谷歌安全补丁
+  ● 优化部分场景下的网络功耗
 codename: RMX2071
-date: 23/05/2020
+date: 03/06/2020
 device: realme X50 Pro 5G
-download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0180_all_AK7yXcEGpnMb.ozip
-md5: 66AF5E4BD3A7322ED08161894727D631
+download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0190_all_5ZB0yOSRNnZ9.ozip
+md5: 6417D15F3DC7F1618F7B33B1AA2C4B49
 region: China
-size: 3.11GB
+size: 3.58GB
 system: realme UI V1.0
-version: RMX2071_11_A.18
+version: RMX2071_11_A.19

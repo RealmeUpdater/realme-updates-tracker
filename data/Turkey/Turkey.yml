@@ -55,6 +55,20 @@
   system: ColorOS 6.0.1
   version: RMX2030EX_11_A.19
 - changelog: |
+    **Güvenlik**:
+    ● Android güvenlik yaması: Mayıs 2020
+    **Sistem**:
+    ● Ekranın yeşil görünmesi ve bazı sahnelerde otomatik yeniden başlatma sorunu düzeltilmiştir
+  codename: RMX2001EU
+  date: 19/5/2020
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0280_all_MjKBHazkmKZT.ozip
+  md5: E38903D05C9D097870EC3B2CFFC5B31C
+  region: Turkey
+  size: 2.94GB
+  system: realme UI 1.0
+  version: RMX2001EU_11.A.28
+- changelog: |
     **[Görseller]**:
     **• Kullanıcı arayüzü, realme kullanıcı arayüzü olarak güncellendi**:
     **• Yeni Real Design, görselleri daha çekici ve kullanımı daha etkili hale getiriyor.**:

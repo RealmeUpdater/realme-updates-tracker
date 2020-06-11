@@ -2102,19 +2102,6 @@
   system: ColorOS 6.0.1
   version: RMX2030EX_11_A.19
 - changelog: |
-    **Sistem**:
-    **• Instagram'ın bazen sayfalarda giriş ekranına dönmesi sorunu düzeltildi**:
-    **• Bilinen bazı sorunlar düzeltildi ve sistem kararlılığı artırıldı**:
-  codename: RMX2001EU
-  date: 6/6/2020
-  device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0300_all_OQP6voxoc0hY.ozip
-  md5: 9121625CFE731FCA03798EBCCB67510E
-  region: Turkey
-  size: 2.75GB
-  system: realme UI 1.0
-  version: RMX2001EU_11.A.30
-- changelog: |
     **[Görseller]**:
     **• Kullanıcı arayüzü, realme kullanıcı arayüzü olarak güncellendi**:
     **• Yeni Real Design, görselleri daha çekici ve kullanımı daha etkili hale getiriyor.**:

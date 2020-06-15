@@ -116,72 +116,19 @@
   system: ColorOS 6.0.1
   version: RMX1911EX_11_A.28
 - changelog: |
-    **[Efectos visuales]**:
-    **• Se ha actualizado la interfaz de usuario de realme**:
-    **• La nueva función Real Design aporta efectos visuales más atractivos y proporciona un funcionamiento más eficiente.**:
-    **[Barra lateral inteligente]**:
-    **• Se ha optimizado la interfaz de usuario y se ha mejorado del manejo con una sola mano.**:
-    **• Se ha optimizado la barra lateral inteligente: se ha reemplazado la Consola de archivos por el Administrador de archivos; se ha eliminado el efecto visual OSIE y las alertas de ausencia de notificaciones.**:
-    **• Arrastre una aplicación fuera de la barra lateral inteligente para abrirla en modo Pantalla dividida.**:
-    **• Se han añadido dos nuevas funciones: “Opacidad del botón de asistencia” y “Ocultar el botón de asistencia en la aplicación a pantalla completa”.**:
-    **• Se ha optimizado la función Ventana flotante en más aplicaciones.**:
-    **• Se han añadido más burbujas: se muestra una burbuja cuando se abre una aplicación en una ventana flotante desde la barra lateral inteligente. Pulse la burbuja para contraer o abrir la aplicación.**:
-    **[Captura de pantalla]**:
-    **• Se ha optimizado el gesto de captura de pantalla con 3 dedos: pulse la pantalla con 3 dedos y no los levante; después, deslice para hacer una captura de pantalla de la parte seleccionada de la pantalla (captura de pantalla parcial). Pulse la pantalla con 3 dedos y no los levante; deslice hacia fuera para hacer una captura de pantalla larga.**:
-    **• Se han añadido ajustes de captura de pantalla: puede ajustar la posición de la ventana flotante de vista previa de la captura de pantalla y elegir el sonido de la captura de pantalla.**:
-    **• Se ha optimizado la ventana flotante de vista previa de la captura de pantalla: después de hacer una captura de pantalla, arrástrela hacia arriba y suéltela para compartirla, o bien arrástrela hacia abajo y suéltela para hacer una captura de pantalla larga.**:
-    **[Gestos de navegación 3.0]**:
-    **• Se han optimizado los gestos: ahora se admiten todos los gestos en el modo horizontal.**:
-    **[Sistema]**:
-    **• Se ha añadido el Modo Sin distracciones: minimiza las distracciones externas mientras estudia o trabaja.**:
-    **• Se ha añadido una animación de carga totalmente nueva.**:
-    **• Se ha optimizado la interfaz de usuario de Ajustes rápidos para poder manejar el teléfono más fácilmente con una sola mano.**:
-    **• Se ha añadido la función de pausa en la grabación de pantalla.**:
-    **• Se han añadido ajustes de ventana flotante para la grabación de pantalla.**:
-    **• Se han añadido nuevos sonidos para la eliminación de archivos, las pulsaciones de teclas de la calculadora y el puntero de la brújula.**:
-    **• Se han optimizado los tonos de llamada integrados del sistema.**:
-    **• Se han añadido mensajes flotantes de respuesta en Accesibilidad.**:
-    **• Se ha añadido una nueva función de administración para tareas recientes: puede ver la memoria de las tareas recientes y de las aplicaciones bloqueadas.**:
-    **[Juegos]**:
-    **• Se ha optimizado la interacción visual en el Espacio de juegos.**:
-    **• Se ha optimizado la animación de carga en el Espacio de juegos.**:
-    **[Pantalla de inicio]**:
-    **• Se han añadido nuevos fondos de pantalla dinámicos.**:
-    **• Se han añadido fondos de pantalla artísticos.**:
-    **• Se ha añadido una opción para abrir la función Búsqueda global o el panel de notificaciones al deslizar hacia abajo en la pantalla de inicio.**:
-    **• Se ha añadido una opción para personalizar el tamaño, la forma y el estilo de los iconos de las aplicaciones de la pantalla de inicio.**:
-    **• Se ha optimizado el diseño gráfico del desbloqueo con contraseña para facilitar el manejo con una sola mano.**:
-    **• Se ha añadido soporte para fondos de pantalla animados en la pantalla de bloqueo.**:
-    **• Se ha añadido un Modo Sencillo a la pantalla de inicio que incluye fuentes e iconos más grandes, y un diseño más claro.**:
-    **[Seguridad]**:
-    **• Generador de direcciones MAC aleatorias: cuando el teléfono está conectado a la red Wi-Fi, el sistema genera una dirección MAC aleatoria para evitar los anuncios dirigidos y proteger su privacidad.**:
-    **[Herramientas]**:
-    **• Desde Ajustes rápidos o en la barra lateral inteligente, es posible abrir la calculadora en una ventana flotante.**:
-    **• Se ha añadido una opción de recorte a la función Grabaciones.**:
-    **• Se ha añadido un tono de llamada (dinámico) a la aplicación Tiempo que se adapta automáticamente al tiempo que hace en cada momento.**:
-    **• Se han añadido animaciones adaptadas al tiempo en la aplicación Tiempo.**:
-    **[Cámara]**:
-    **• Se ha optimizado la interfaz de usuario de la cámara para mejorar la experiencia del usuario.**:
-    **• Se ha optimizado la interfaz de usuario y los sonidos de la aplicación Temporizador.**:
-    **[Fotos]**:
-    **• Se ha optimizado la interfaz de usuario de la aplicación Álbumes para conseguir una estructura más intuitiva y miniaturas de fotos más claras.**:
-    **• Se ha añadido la función Recomendaciones de álbumes para reconocer más de 80 escenas diferentes.**:
-    **[Comunicaciones]**:
-    **realme Share ahora permite compartir archivos con dispositivos OPPO, vivo y Xiaomi.**:
-    **• Se ha optimizado la interfaz de usuario de Contactos para brindar una experiencia más eficiente.**:
-    **[Ajustes]**:
-    **• La función Ajustes de búsqueda ahora presenta coincidencias parciales y un historial de búsquedas.**:
-    **[Música]**:
-    ● Se ha añadido la función Compartir música en modo dual a realme Lab
+    **Seguridad**:
+    ● Parche de seguridad de Android: junio de 2020
+    **Sistema**:
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1971EX
-  date: 27/2/2020
+  date: 14/6/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1010_all_EclovWQpIsEx.ozip
-  md5: B5CFE2FFCED11686547FCFE02AF98F12
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
+  md5: 5628C63C7CF5881DF7468A78567EC7FE
   region: Spain
-  size: 3.5GB
+  size: 3.12GB
   system: realme UI 1.0
-  version: RMX1971EX_11_C.01
+  version: RMX1971EX_11.C.04
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: abril de 2020

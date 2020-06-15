@@ -330,72 +330,19 @@
   system: ColorOS 6.0.1
   version: RMX1911EX_11_A.28
 - changelog: |
-    **[Efectos visuales]**:
-    **• Se ha actualizado la interfaz de usuario de realme**:
-    **• La nueva función Real Design aporta efectos visuales más atractivos y proporciona un funcionamiento más eficiente.**:
-    **[Barra lateral inteligente]**:
-    **• Se ha optimizado la interfaz de usuario y se ha mejorado del manejo con una sola mano.**:
-    **• Se ha optimizado la barra lateral inteligente: se ha reemplazado la Consola de archivos por el Administrador de archivos; se ha eliminado el efecto visual OSIE y las alertas de ausencia de notificaciones.**:
-    **• Arrastre una aplicación fuera de la barra lateral inteligente para abrirla en modo Pantalla dividida.**:
-    **• Se han añadido dos nuevas funciones: “Opacidad del botón de asistencia” y “Ocultar el botón de asistencia en la aplicación a pantalla completa”.**:
-    **• Se ha optimizado la función Ventana flotante en más aplicaciones.**:
-    **• Se han añadido más burbujas: se muestra una burbuja cuando se abre una aplicación en una ventana flotante desde la barra lateral inteligente. Pulse la burbuja para contraer o abrir la aplicación.**:
-    **[Captura de pantalla]**:
-    **• Se ha optimizado el gesto de captura de pantalla con 3 dedos: pulse la pantalla con 3 dedos y no los levante; después, deslice para hacer una captura de pantalla de la parte seleccionada de la pantalla (captura de pantalla parcial). Pulse la pantalla con 3 dedos y no los levante; deslice hacia fuera para hacer una captura de pantalla larga.**:
-    **• Se han añadido ajustes de captura de pantalla: puede ajustar la posición de la ventana flotante de vista previa de la captura de pantalla y elegir el sonido de la captura de pantalla.**:
-    **• Se ha optimizado la ventana flotante de vista previa de la captura de pantalla: después de hacer una captura de pantalla, arrástrela hacia arriba y suéltela para compartirla, o bien arrástrela hacia abajo y suéltela para hacer una captura de pantalla larga.**:
-    **[Gestos de navegación 3.0]**:
-    **• Se han optimizado los gestos: ahora se admiten todos los gestos en el modo horizontal.**:
-    **[Sistema]**:
-    **• Se ha añadido el Modo Sin distracciones: minimiza las distracciones externas mientras estudia o trabaja.**:
-    **• Se ha añadido una animación de carga totalmente nueva.**:
-    **• Se ha optimizado la interfaz de usuario de Ajustes rápidos para poder manejar el teléfono más fácilmente con una sola mano.**:
-    **• Se ha añadido la función de pausa en la grabación de pantalla.**:
-    **• Se han añadido ajustes de ventana flotante para la grabación de pantalla.**:
-    **• Se han añadido nuevos sonidos para la eliminación de archivos, las pulsaciones de teclas de la calculadora y el puntero de la brújula.**:
-    **• Se han optimizado los tonos de llamada integrados del sistema.**:
-    **• Se han añadido mensajes flotantes de respuesta en Accesibilidad.**:
-    **• Se ha añadido una nueva función de administración para tareas recientes: puede ver la memoria de las tareas recientes y de las aplicaciones bloqueadas.**:
-    **[Juegos]**:
-    **• Se ha optimizado la interacción visual en el Espacio de juegos.**:
-    **• Se ha optimizado la animación de carga en el Espacio de juegos.**:
-    **[Pantalla de inicio]**:
-    **• Se han añadido nuevos fondos de pantalla dinámicos.**:
-    **• Se han añadido fondos de pantalla artísticos.**:
-    **• Se ha añadido una opción para abrir la función Búsqueda global o el panel de notificaciones al deslizar hacia abajo en la pantalla de inicio.**:
-    **• Se ha añadido una opción para personalizar el tamaño, la forma y el estilo de los iconos de las aplicaciones de la pantalla de inicio.**:
-    **• Se ha optimizado el diseño gráfico del desbloqueo con contraseña para facilitar el manejo con una sola mano.**:
-    **• Se ha añadido soporte para fondos de pantalla animados en la pantalla de bloqueo.**:
-    **• Se ha añadido un Modo Sencillo a la pantalla de inicio que incluye fuentes e iconos más grandes, y un diseño más claro.**:
-    **[Seguridad]**:
-    **• Generador de direcciones MAC aleatorias: cuando el teléfono está conectado a la red Wi-Fi, el sistema genera una dirección MAC aleatoria para evitar los anuncios dirigidos y proteger su privacidad.**:
-    **[Herramientas]**:
-    **• Desde Ajustes rápidos o en la barra lateral inteligente, es posible abrir la calculadora en una ventana flotante.**:
-    **• Se ha añadido una opción de recorte a la función Grabaciones.**:
-    **• Se ha añadido un tono de llamada (dinámico) a la aplicación Tiempo que se adapta automáticamente al tiempo que hace en cada momento.**:
-    **• Se han añadido animaciones adaptadas al tiempo en la aplicación Tiempo.**:
-    **[Cámara]**:
-    **• Se ha optimizado la interfaz de usuario de la cámara para mejorar la experiencia del usuario.**:
-    **• Se ha optimizado la interfaz de usuario y los sonidos de la aplicación Temporizador.**:
-    **[Fotos]**:
-    **• Se ha optimizado la interfaz de usuario de la aplicación Álbumes para conseguir una estructura más intuitiva y miniaturas de fotos más claras.**:
-    **• Se ha añadido la función Recomendaciones de álbumes para reconocer más de 80 escenas diferentes.**:
-    **[Comunicaciones]**:
-    **realme Share ahora permite compartir archivos con dispositivos OPPO, vivo y Xiaomi.**:
-    **• Se ha optimizado la interfaz de usuario de Contactos para brindar una experiencia más eficiente.**:
-    **[Ajustes]**:
-    **• La función Ajustes de búsqueda ahora presenta coincidencias parciales y un historial de búsquedas.**:
-    **[Música]**:
-    ● Se ha añadido la función Compartir música en modo dual a realme Lab
+    **Seguridad**:
+    ● Parche de seguridad de Android: junio de 2020
+    **Sistema**:
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1971EX
-  date: 27/2/2020
+  date: 14/6/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1010_all_EclovWQpIsEx.ozip
-  md5: B5CFE2FFCED11686547FCFE02AF98F12
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
+  md5: 5628C63C7CF5881DF7468A78567EC7FE
   region: Spain
-  size: 3.5GB
+  size: 3.12GB
   system: realme UI 1.0
-  version: RMX1971EX_11_C.01
+  version: RMX1971EX_11.C.04
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: abril de 2020
@@ -510,72 +457,26 @@
   system: realme UI 1.0
   version: RMX1993EX_11.C.04
 - changelog: |
-    **[Visuals]**:
-    **• Updated UI to realme UI**:
-    **• Brand new Real Design makes visuals more attractive and operation more efficient.**:
-    **[Smart Sidebar]**:
-    **• Optimized user interface and improved one-handed operation.**:
-    **• Optimized Smart Sidebar: Replaced File Console with File Manager; removed OSIE Visual Effect and No Notification Alerts.**:
-    **• Drag an app out of Smart Sidebar to open it in Split-screen Mode.**:
-    **• Added two new features: “Assistive Ball Opacity” and “Hide Assistive Ball on Fullscreen App”.**:
-    **• Optimized the Floating Window feature for more apps.**:
-    **• Added Bubbles: A bubble is displayed when you open an app in a floating window from the Smart Sidebar. Tap the bubble to collapse or open the app.**:
-    **[Screenshot]**:
-    **• Optimized 3-Finger Screenshot Gesture: Use 3 fingers to touch and hold the screen, and swipe to take a screenshot of the selected part of the screen (partial screen capture). Use 3 fingers to touch and hold the screen, and swipe your fingers outwards to capture a long screenshot.**:
-    **• Added screenshot settings: You can adjust the position of the screenshot preview floating window and set the screenshot sound.**:
-    **• Optimized screenshot preview floating window: After taking a screenshot, drag it up and release to share it, or drag it down and release to take a long screenshot.**:
-    **[Navigation Gestures 3.0]**:
-    **• Optimized gestures: All gestures are supported in landscape mode.**:
-    **[System]**:
-    **• Added Focus Mode: Minimizes outside distractions when you are learning or working.**:
-    **• Added whole new charging animation.**:
-    **• Optimized the Quick Settings user interface for easier one-handed operation.**:
-    **• Added pause feature for screen recording.**:
-    **• Added a floating window and settings for screen recording.**:
-    **• New sounds added for file deletion, calculator key touches, and compass pointer.**:
-    **• Optimized system built-in ringtones.**:
-    **• Added TalkBack floating prompts for Accessibility.**:
-    **• New management feature for recent tasks: You can view memory of recent tasks and locked apps.**:
-    **[Games]**:
-    **• Optimized visual interaction for Game Space.**:
-    **• Optimized loading animation for Game Space.**:
-    **[Homescreen]**:
-    **• Added new live wallpapers.**:
-    **• Added artistic wallpapers.**:
-    **• Added option to open Global Search or the notification panel when swiping down on homescreen.**:
-    **• Added option to customize the size, shape, and style of app icons on homescreen.**:
-    **• Optimized the graphic design of password unlock to facilitate one-handed operation.**:
-    **• Support for animated wallpapers on the lockscreen.**:
-    **• Added a Simple Mode for homescreen, featuring larger fonts, icons and a clearer layout.**:
-    **[Security]**:
-    **• Random MAC address Generator: When your phone is connected to Wi-Fi network system generates a random MAC address to avoid targeted ads and protect your privacy.**:
-    **[Tools]**:
-    **• In Quick Settings or Smart Sidebar, you can open Calculator in a floating window.**:
-    **• Added the trim feature in Recordings.**:
-    **• Added the Weather (dynamic) ringtone, which automatically adapts to the current weather.**:
-    **• Added weather-adaptive animations in Weather.**:
-    **[Camera]**:
-    **• Optimized the Camera UI for better user experience.**:
-    **• Optimized the Timer UI and sound.**:
-    **[Photos]**:
-    **• Optimized the Album UI for a clearer structure and photo thumbnails.**:
-    **• Added Album Recommendations that recognize more than 80 different scenes.**:
-    **[Communications]**:
-    **realme Share now supports sharing files with OPPO, Vivo and Xiaomi devices.**:
-    **• Optimized the Contacts UI for a more efficient experience.**:
-    **[Settings]**:
-    **• Search Settings now supports fuzzy match and contains a search history.**:
-    **[Music]**:
-    ● Added Dual Mode Music Share in realme Lab
+    **Security**:
+    ● Updated Andriod security patch（2020#6）
+    **Battery**:
+    ● Added charging animation on the lock screen
+    ● Added charging decimal display on the lock screen while charging
+    **Settings**:
+    ● Modified default state of power saving mode auto-off switch
+    ● Modified default state of screen brightness reduction switch in power saving mode
+    **Optimization**:
+    ● Optimized transparency of the slide back gesture style
+    ● Optimized screen recording icon size
   codename: RMX1971EX
-  date: 27/2/2020
+  date: 14/6/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1010_all_EclovWQpIsEx.ozip
-  md5: B5CFE2FFCED11686547FCFE02AF98F12
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
+  md5: 5628C63C7CF5881DF7468A78567EC7FE
   region: Europe
-  size: 3.5GB
+  size: 3.12GB
   system: realme UI 1.0
-  version: RMX1971EX_11_C.01
+  version: RMX1971EX_11.C.04
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -697,21 +598,18 @@
   version: RMX1921EX_11_C.04
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: April 2020
-    **Memperbaiki masalah yang diketahui**:
-    ● Mengoptimalkan efek audio untuk aplikasi pihak ketiga
-    ● Menambahkan panah kanan ke daftar permintaan informasi lokasi baru-baru ini dalam mode gelap
-    ● Memperbaiki masalah dimana nada pertanyaan muncul setiap kali klien memutar musik
-    ● Memperbaiki masalah dengan alarm dimatikan secara otomatis setelah dihapus oleh tugas latar belakang
+    ● Tingkat Android Security Patch: 5 Juni 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1971EX
-  date: 30/4/2020
+  date: 14/6/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1030_all_d2wEgWvTFBDq.ozip
-  md5: 587C5D50CC9D1C4D5C25C3275CD42410
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
+  md5: 5628C63C7CF5881DF7468A78567EC7FE
   region: Indonesia
-  size: 3.16GB
+  size: 3.12GB
   system: realme UI V1.0
-  version: RMX1971EX_11_C.03
+  version: RMX1971EX_11.C.04
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: Mei 2020
@@ -1109,23 +1007,28 @@
   version: RMX1931EX_11.C.27
 - changelog: |
     **Security**:
-    ● Android security patch: April, 2020
-    **Application**:
-    ● Added DocVault ID feature(India)
-    **Known issue fixed**:
-    ● Optimized audio quality for third-party apps
-    ● Added arrow to the right of the list of recent location information requests in dark mode
-    ● Fixed the issue that the prompt tone appears every time when the client plays music
-    ● Fixed the issue that the alarm is automatically turned off after being cleared by the background task
+    ● Updated Andriod security patch（2020#6）
+    **Applications**:
+    ● Added realme PaySa(India)
+    ● Added realme Link
+    **Battery**:
+    ● Added charging animation on the lock screen
+    ● Added charging decimal display on the lock screen while charging
+    **Settings**:
+    ● Modified default state of power saving mode auto-off switch
+    ● Modified default state of screen brightness reduction switch in power saving mode
+    **Optimization**:
+    ● Optimized transparency of the slide back gesture style
+    ● Optimized screen recording icon size
   codename: RMX1971EX
-  date: 30/4/2020
+  date: 14/6/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1030_all_d2wEgWvTFBDq.ozip
-  md5: 587C5D50CC9D1C4D5C25C3275CD42410
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
+  md5: 5628C63C7CF5881DF7468A78567EC7FE
   region: India
   size: 3.16GB
   system: realme UI V1.0
-  version: RMX1971EX_11_C.03
+  version: RMX1971EX_11.C.04
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -1299,69 +1202,31 @@
   system: realme UI V1.0
   version: RMX1901EX_11.C.03
 - changelog: |
-    **[Visuals]**:
-    **• Updated UI to realme UI**:
-    **• Brand new Real Design makes visuals more attractive and operation more efficient.**:
-    **[Smart Sidebar]**:
-    **• Optimized user interface and improved one-handed operation.**:
-    **• Optimized Smart Sidebar: Replaced File Console with File Manager; removed OSIE Visual Effect and No Notification Alerts.**:
-    **• Drag an app out of Smart Sidebar to open it in Split-screen Mode.**:
-    **• Added two new features: “Assistive Ball Opacity” and “Hide Assistive Ball on Fullscreen App”.**:
-    **• Optimized the Floating Window feature for more apps.**:
-    **• Added Bubbles: A bubble is displayed when you open an app in a floating window from the Smart Sidebar. Tap the bubble to collapse or open the app.**:
-    **[Screenshot]**:
-    **• Optimized 3-Finger Screenshot Gesture: Use 3 fingers to touch and hold the screen, and swipe to take a screenshot of the selected part of the screen (partial screen capture). Use 3 fingers to touch and hold the screen, and swipe your fingers outwards to capture a long screenshot.**:
-    **• Added screenshot settings: You can adjust the position of the screenshot preview floating window and set the screenshot sound.**:
-    **• Optimized screenshot preview floating window: After taking a screenshot, drag it up and release to share it, or drag it down and release to take a long screenshot.**:
-    **[Navigation Gestures 3.0]**:
-    **• Optimized gestures: All gestures are supported in landscape mode.**:
-    **[System]**:
-    **• Added Focus Mode: Minimizes outside distractions when you are learning or working.**:
-    **• Added whole new charging animation.**:
-    **• Optimized the Quick Settings user interface for easier one-handed operation.**:
-    **• Added pause feature for screen recording.**:
-    **• Added a floating window and settings for screen recording.**:
-    **• New sounds added for file deletion, calculator key touches, and compass pointer.**:
-    **• Optimized system built-in ringtones.**:
-    **• Added TalkBack floating prompts for Accessibility.**:
-    **• New management feature for recent tasks: You can view memory of recent tasks and locked apps.**:
-    **[Games]**:
-    **• Optimized visual interaction for Game Space.**:
-    **• Optimized loading animation for Game Space.**:
-    **[Homescreen]**:
-    **• Added artistic wallpapers.**:
-    **• Added option to open Global Search or the notification panel when swiping down on homescreen.**:
-    **• Added option to customize the size, shape, and style of app icons on homescreen.**:
-    **• Optimized the graphic design of password unlock to facilitate one-handed operation.**:
-    **• Support for animated wallpapers on the lockscreen.**:
-    **• Added a Simple Mode for homescreen, featuring larger fonts, icons and a clearer layout.**:
-    **[Security]**:
-    **• Random MAC address Generator: When your phone is connected to Wi-Fi network system generates a random MAC address to avoid targeted ads and protect your privacy.**:
-    **[Tools]**:
-    **• In Quick Settings or Smart Sidebar, you can open Calculator in a floating window.**:
-    **• Added the trim feature in Recordings.**:
-    **• Added the Weather (dynamic) ringtone, which automatically adapts to the current weather.**:
-    **• Added weather-adaptive animations in Weather.**:
-    **[Camera]**:
-    **• Optimized the Camera UI for better user experience.**:
-    **• Optimized the Timer UI and sound.**:
-    **[Photos]**:
-    **• Optimized the Album UI for a clearer structure and photo thumbnails.**:
-    **• Added Album Recommendations that recognize more than 80 different scenes.**:
-    **[Communications]**:
-    **• realme Share now supports sharing files with OPPO, Vivo and Xiaomi devices.**:
-    **• Optimized the Contacts UI for a more efficient experience.**:
-    **[Settings]**:
-    **• Search Settings now supports fuzzy match and contains a search history**:
+    **Security**:
+    ● Updated Android security patch（2020#6）
+    **Application**:
+    ● Added DocVault
+    ● Added realme Link
+    **System**:
+    ● Optimized hanging issue in low memory state
+    **Fingerprint**:
+    ● Optimized the time of fingerprint recognize in some scenarios
+    **Touch**:
+    ● Optimized touch failure issue in some scenarios during game
+    ● Optimized the issue that no response while touching the edges and corners of the screen
+    **Other**:
+    ● Optimized the issue that the compass of some phones is not sensitive
+    ● Optimized video scene brightness and color saturation
+    ● Fixed the issue that no game dirac sound effect while entering some games
   codename: RMX1821EX
-  date: 15/5/2020
+  date: 12/6/2020
   device: realme 3i
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1100_all_GQu4ppXhf2JQ.ozip
-  md5: 9B6AB1368FC861433C6E9DCC8885070E
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1110_all_DXFApjLiuPZv.ozip
+  md5: 07F0C10FE1978DA493D59BF1F87D6BD7
   region: India
-  size: 2.46GB
+  size: 2.47GB
   system: realme UI V1.0
-  version: RMX1821EX_11_C.10
+  version: RMX1821EX_11.C.11
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -1397,69 +1262,31 @@
   system: ColorOS 6.0
   version: RMX1941EX_11.A.25
 - changelog: |
-    **[Visuals]**:
-    **• Updated UI to realme UI**:
-    **• Brand new Real Design makes visuals more attractive and operation more efficient.**:
-    **[Smart Sidebar]**:
-    **• Optimized user interface and improved one-handed operation.**:
-    **• Optimized Smart Sidebar: Replaced File Console with File Manager; removed OSIE Visual Effect and No Notification Alerts.**:
-    **• Drag an app out of Smart Sidebar to open it in Split-screen Mode.**:
-    **• Added two new features: “Assistive Ball Opacity” and “Hide Assistive Ball on Fullscreen App”.**:
-    **• Optimized the Floating Window feature for more apps.**:
-    **• Added Bubbles: A bubble is displayed when you open an app in a floating window from the Smart Sidebar. Tap the bubble to collapse or open the app.**:
-    **[Screenshot]**:
-    **• Optimized 3-Finger Screenshot Gesture: Use 3 fingers to touch and hold the screen, and swipe to take a screenshot of the selected part of the screen (partial screen capture). Use 3 fingers to touch and hold the screen, and swipe your fingers outwards to capture a long screenshot.**:
-    **• Added screenshot settings: You can adjust the position of the screenshot preview floating window and set the screenshot sound.**:
-    **• Optimized screenshot preview floating window: After taking a screenshot, drag it up and release to share it, or drag it down and release to take a long screenshot.**:
-    **[Navigation Gestures 3.0]**:
-    **• Optimized gestures: All gestures are supported in landscape mode.**:
-    **[System]**:
-    **• Added Focus Mode: Minimizes outside distractions when you are learning or working.**:
-    **• Added whole new charging animation.**:
-    **• Optimized the Quick Settings user interface for easier one-handed operation.**:
-    **• Added pause feature for screen recording.**:
-    **• Added a floating window and settings for screen recording.**:
-    **• New sounds added for file deletion, calculator key touches, and compass pointer.**:
-    **• Optimized system built-in ringtones.**:
-    **• Added TalkBack floating prompts for Accessibility.**:
-    **• New management feature for recent tasks: You can view memory of recent tasks and locked apps.**:
-    **[Games]**:
-    **• Optimized visual interaction for Game Space.**:
-    **• Optimized loading animation for Game Space.**:
-    **[Homescreen]**:
-    **• Added artistic wallpapers.**:
-    **• Added option to open Global Search or the notification panel when swiping down on homescreen.**:
-    **• Added option to customize the size, shape, and style of app icons on homescreen.**:
-    **• Optimized the graphic design of password unlock to facilitate one-handed operation.**:
-    **• Support for animated wallpapers on the lockscreen.**:
-    **• Added a Simple Mode for homescreen, featuring larger fonts, icons and a clearer layout.**:
-    **[Security]**:
-    **• Random MAC address Generator: When your phone is connected to Wi-Fi network system generates a random MAC address to avoid targeted ads and protect your privacy.**:
-    **[Tools]**:
-    **• In Quick Settings or Smart Sidebar, you can open Calculator in a floating window.**:
-    **• Added the trim feature in Recordings.**:
-    **• Added the Weather (dynamic) ringtone, which automatically adapts to the current weather.**:
-    **• Added weather-adaptive animations in Weather.**:
-    **[Camera]**:
-    **• Optimized the Camera UI for better user experience.**:
-    **• Optimized the Timer UI and sound.**:
-    **[Photos]**:
-    **• Optimized the Album UI for a clearer structure and photo thumbnails.**:
-    **• Added Album Recommendations that recognize more than 80 different scenes.**:
-    **[Communications]**:
-    **• realme Share now supports sharing files with OPPO, Vivo and Xiaomi devices.**:
-    **• Optimized the Contacts UI for a more efficient experience.**:
-    **[Settings]**:
-    **• Search Settings now supports fuzzy match and contains a search history**:
+    **Security**:
+    ● Updated Android security patch（2020#6）
+    **Application**:
+    ● Added DocVault
+    ● Added realme Link
+    **System**:
+    ● Optimized hanging issue in low memory state
+    **Fingerprint**:
+    ● Optimized the time of fingerprint recognize in some scenarios
+    **Touch**:
+    ● Optimized touch failure issue in some scenarios during game
+    ● Optimized the issue that no response while touching the edges and corners of the screen
+    **Other**:
+    ● Optimized the issue that the compass of some phones is not sensitive
+    ● Optimized video scene brightness and color saturation
+    ● Fixed the issue that no game dirac sound effect while entering some games
   codename: RMX1821EX
-  date: 15/5/2020
+  date: 12/6/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1100_all_GQu4ppXhf2JQ.ozip
-  md5: 9B6AB1368FC861433C6E9DCC8885070E
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1110_all_DXFApjLiuPZv.ozip
+  md5: 07F0C10FE1978DA493D59BF1F87D6BD7
   region: India
-  size: 2.46GB
+  size: 2.47GB
   system: realme UI 1.0
-  version: RMX1821EX_11_C.10
+  version: RMX1821EX_11.C.11
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020
@@ -1554,21 +1381,18 @@
   version: RMX2001_11.B.33
 - changelog: |
     **الأمان**:
-    ● تصحيح الأمان لنظام أندرويد: أبريل 2020
-    **تم إصلاح المشكلات المعروفة**:
-    ● تم تحسين التأثيرات الصوتية لتطبيقات الأطراف الثالثة
-    ● تمت إضافة سهم في الجانب الأيمن من قائمة طلبات الحصول على معلومات الموقع الحالي في الوضع الليلي
-    ● تم إصلاح المشكلة المتعلقة بسماع نغمة المطالبة في كل مرة يقوم فيها العميل بتشغيل الموسيقى
-    ● تم إصلاح المشكلة المتعلقة بإيقاف تشغيل المنبه بعد مسحه بواسطة مهمة في الخلفية
+    ●معامل تصحيح أمان أندرويد : 5 يونيو ,2020
+    **النظام**:
+    ● تم إصلاح بعض المشكلات المعروفة، وتحسين استقرار النظام
   codename: RMX1971EX
-  date: 30/4/2020
+  date: 14/6/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1030_all_d2wEgWvTFBDq.ozip
-  md5: 587C5D50CC9D1C4D5C25C3275CD42410
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
+  md5: 5628C63C7CF5881DF7468A78567EC7FE
   region: Iraq
-  size: 3.16GB
+  size: 3.12GB
   system: realme UI V1.0
-  version: RMX1971EX_11_C.03
+  version: RMX1971EX_11.C.04
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020
@@ -1678,21 +1502,25 @@
   version: RMX1921EX_11_C.04
 - changelog: |
     **Security**:
-    ● Android security patch: April, 2020
-    **Known issue fixed**:
-    ● Optimized audio quality for third-party apps
-    ● Added arrow to the right of the list of recent location information requests in dark mode
-    ● Fixed the issue that the prompt tone appears every time when the client plays music
-    ● Fixed the issue that the alarm is automatically turned off after being cleared by the background task
+    ● Updated Andriod security patch（2020#6）
+    **Battery**:
+    ● Added charging animation on the lock screen
+    ● Added charging decimal display on the lock screen while charging
+    **Settings**:
+    ● Modified default state of power saving mode auto-off switch
+    ● Modified default state of screen brightness reduction switch in power saving mode
+    **Optimization**:
+    ● Optimized transparency of the slide back gesture style
+    ● Optimized screen recording icon size
   codename: RMX1971EX
-  date: 30/4/2020
+  date: 14/6/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1030_all_d2wEgWvTFBDq.ozip
-  md5: 587C5D50CC9D1C4D5C25C3275CD42410
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
+  md5: 5628C63C7CF5881DF7468A78567EC7FE
   region: Pakistan
-  size: 3.16GB
+  size: 3.12GB
   system: realme UI 1.0
-  version: RMX1971EX_11_C.03
+  version: RMX1971EX_11.C.04
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020
@@ -1920,72 +1748,19 @@
   system: realme UI 1.0
   version: RMX1921EUEX_11.C.03
 - changelog: |
-    **[Внешний вид]**:
-    **• Обновленный пользовательский интерфейс realme**:
-    **• Новый Real Design делает интерфейс более привлекательным, а работу устройства - более устойчивой.**:
-    **[Умная боковая панель]**:
-    **• Оптимизированный пользовательский интерфейс и более удобное управление одной рукой**:
-    **• Оптимизированная умная боковая панель: файловая консоль заменена на файловый менеджер; удалены визуальные эффекты OSIE и отключение уведомлений.**:
-    **• Чтобы открыть приложение в режиме разделенного экрана, достаточно вытянуть его из боковой панели.**:
-    **• Добавлены две новые функции: "Регулировка прозрачности плавающей кнопки" и "Скрыть плавающую кнопку в полноэкранном режиме".**:
-    **• Оптимизация плавающих окон для большего количества приложений.**:
-    **• Добавлены "пузыри": При открытии приложения в плавающем окне из боковой панели появляется "пузырь". Чтобы свернуть или открыть приложение, коснитесь пузыря.**:
-    **[Снимок экрана]**:
-    **• Оптимизация снимка экрана по трехпальцевому жесту: чтобы сделать снимок выбранной части экрана (частичный снимок экрана), длительно коснитесь тремя пальцами экрана и смахните. Чтобы сделать длинный снимок экрана, длительно коснитесь экрана тремя пальцами и смахните наружу.**:
-    **• Добавлены настройки снимка экрана: возможность настройки положения плавающего окна предварительного просмотра и задания звука снимка экрана.**:
-    **• Оптимизация плавающего окна предварительного просмотра снимка экрана: чтобы поделиться снимком экрана, потяните снимок вверх и отпустите; чтобы сделать длинный снимок экрана, потяните вниз и отпустите.**:
-    **[Жесты навигации 3.0]**:
-    **• Оптимизация жестов: в горизонтальной ориентации теперь поддерживаются все жесты.**:
-    **[Система]**:
-    **• Добавлен режим "фокусировки": он минимизирует внешние отвлекающие факторы во время вашей учебы или работы.**:
-    **• Добавлена новая анимация зарядки.**:
-    **• Оптимизированный пользовательский интерфейс быстрых настроек упрощает управление одной рукой.**:
-    **• Добавлена функция приостановки записи экрана.**:
-    **• Добавлены плавающее окно и настройки для записи экрана.**:
-    **• Добавлены новые звуки для удаления файлов, нажатия кнопок калькулятора и стрелки компаса.**:
-    **• Оптимизированы встроенные в систему мелодии.**:
-    **• Добавлены всплывающие приглашения TalkBack для Специальных возможностей.**:
-    **• Новая функция управления для недавних задач: возможность просмотра списка недавних задач и заблокированных приложений.**:
-    **[Игры]**:
-    **• Оптимизированное визуальное взаимодействие для Игрового пространства.**:
-    **• Оптимизированная загрузка анимации для Игрового пространства.**:
-    **[Главный экран]**:
-    **• Добавлены новые живые обои.**:
-    **• Добавлены художественные обои.**:
-    **• Добавлена возможность глобального поиска либо открытия панели уведомлений по жесту смахивания вниз на главном экране.**:
-    **• Добавлена возможность пользовательской настройки размера, формы и стиля значков приложений на главном экране.**:
-    **• Оптимизирован графический дизайн для разблокировки паролем, упрощающий управление одной рукой.**:
-    **• Добавлена поддержка анимированных обоев на экране блокировки.**:
-    **• Добавлен упрощенный режим для главного экрана, включающий в себя укрупненные шрифты и значки приложений, а также удобное расположение элементов экрана.**:
-    **[Безопасность]**:
-    **• Генератор случайных MAC-адресов: когда ваш телефон подключается к сети Wi-Fi, система генерирует случайный MAC-адрес; эта мера предотвращает таргетирование рекламы и защищает вашу конфиденциальность.**:
-    **[Инструменты]**:
-    **• В меню быстрых настроек и в умной боковой панели появилась возможность открыть Калькулятор в плавающем окне.**:
-    **• В Записи добавлена функция обрезки.**:
-    **• Добавлена (динамическая) мелодия для Погоды, автоматически подстраивающаяся к текущей погоде.**:
-    **• Добавлена анимация для Погоды, автоматически подстраивающаяся к текущей погоде.**:
-    **[Камера]**:
-    **• Оптимизирован пользовательский интерфейс Камеры - он стал удобнее.**:
-    **• Оптимизированы интерфейс и звук таймера.**:
-    **[Фото]**:
-    **• Оптимизирован интерфейс Альбома - его структура стала более четкой; появились миниатюры фотографий.**:
-    **• Добавлены рекомендации для альбомов, распознающие более 80 сцен.**:
-    **[Коммуникация]**:
-    **Функция realme Share теперь поддерживает общий доступ к файлам с устройств OPPO, Vivo и Xiaomi.**:
-    **• Оптимизирован интерфейс приложения Контакты - он стал удобнее для пользователя.**:
-    **[Настройки]**:
-    **• Настройки поиска теперь поддерживают неточные совпадения и историю поиска.**:
-    **[Музыка]**:
-    **• В realme Lab добавлен режим одновременного прослушивания музыки через две пары наушников**:
+    **Безопасность**:
+    ● Патчи безопасности Android: от 5 июня 2020
+    **Система:**:
+    ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1971EX
-  date: 27/2/2020
+  date: 14/6/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1010_all_EclovWQpIsEx.ozip
-  md5: B5CFE2FFCED11686547FCFE02AF98F12
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
+  md5: 5628C63C7CF5881DF7468A78567EC7FE
   region: Russia
-  size: 3.5GB
+  size: 3.12GB
   system: realme UI 1.0
-  version: RMX1971EX_11_C.01
+  version: RMX1971EX_11.C.04
 - changelog: |
     **Безопасность**:
     ● Исправление безопасности Android: 5 мая 2020
@@ -2116,74 +1891,19 @@
   system: realme UI 1.0
   version: RMX2001EU_11.A.28
 - changelog: |
-    **[Görseller]**:
-    **• Kullanıcı arayüzü, realme kullanıcı arayüzü olarak güncellendi**:
-    **• Yeni Real Design, görselleri daha çekici ve kullanımı daha etkili hale getiriyor.**:
-    **[Akıllı Kenar Çubuğu]**:
-    **• Kullanıcı arayüzü ve tek elle kullanım iyileştirildi.**:
-    **• Akıllı Kenar Çubuğu İyileştirildi: Dosya Konsolu, Dosya Yöneticisi ile değiştirildi; OSIE Görsel Efekti ve Bildirim Yok Uyarıları kaldırıldı.**:
-    **• Bir uygulamayı Akıllı Kenar Çubuğunun dışına sürükleyerek Bölünmüş Ekran Modunda açabilirsiniz.**:
-    **• İki yeni özellik eklendi: “Yardımcı Top Opaklığı” ve “Tam Ekran Uygulamada Yardımcı Topu Gizle”.**:
-    **• Kayan Pencere özelliği daha fazla uygulama için iyileştirildi.**:
-    **• Balonlar Eklendi: Akıllı Kenar Çubuğundan kayan pencerede bir uygulama açtığınızda bir balon görüntülenir. Uygulamayı daraltmak veya açmak için balona dokunun.**:
-    **[Ekran görüntüsü]**:
-    **• 3 Parmakla Ekran Görüntüsü Alma Hareketi İyileştirildi: 3 parmağınızı kullanarak ekrana basılı tutun ve ekranın seçili kısmının ekran görüntüsünü (kısmi ekran görüntüsü) almak için parmaklarınızı kaydırın. 3 parmağınızı kullanarak ekrana basılı tutun ve uzun bir ekran görüntüsü almak için parmaklarınızı dışarı doğru kaydırın.**:
-    **• Ekran görüntüsü ayarları eklendi: Ekran görüntüsü önizleme kayan penceresinin konumunu ve ekran görüntüsü alma sesini ayarlayabilirsiniz.**:
-    **• Ekran görüntüsü önizleme kayan penceresi iyileştirildi: Ekran görüntüsünü aldıktan sonra görüntüyü yukarı çekip serbest bırakarak paylaşabilir veya aşağı çekip serbest bırakarak uzun ekran görüntüsü alabilirsiniz.**:
-    **[Gezinme Hareketleri 3.0]**:
-    **• Hareketler iyileştirildi: Tüm hareketler yatay modda desteklenmektedir.**:
-    **[Sistem]**:
-    **• Odak Modu Eklendi: Bir eğitime katılırken veya çalışırken dikkat dağıtan şeyleri en aza indirir.**:
-    **• Tamamen yeni bir şarj animasyonu eklendi.**:
-    **• Daha kolay tek elle kullanım için Hızlı Ayarlar arayüzü iyileştirildi.**:
-    **• Ekran kaydı için duraklatma özelliği eklendi.**:
-    **• Ekran kaydı için kayan pencere ve ayarlar eklendi.**:
-    **• Dosya silme, hesap makinesi tuş dokunuşları ve pusula işaretçisi için yeni sesler eklendi.**:
-    **• Sistemde bulunan zil sesleri iyileştirildi.**:
-    **• Erişilebilirlik için TalkBack kayan istemleri eklendi.**:
-    **• Son kullanılan görevler için yeni yönetim özelliği: Son görevler ve kilitli uygulamalarla ilgili bellek bilgilerini görebilirsiniz.**:
-    **[Oyunlar]**:
-    **• Oyun Alanı için görsel etkileşim iyileştirildi.**:
-    **• Oyun alanı için yükleme animasyonu iyileştirildi.**:
-    **[Ana ekran]**:
-    **• Yeni canlı duvar kağıtları eklendi.**:
-    **• Artistik duvar kağıtları eklendi.**:
-    **• Ana ekranda aşağı kaydırırken Global Aramayı veya bildirim panelini açma seçeneği eklendi.**:
-    **• Ana ekrandaki uygulama simgelerinin boyutunu, şeklini ve stilini özelleştirme seçeneği eklendi.**:
-    **• Tek elle kullanımı kolaylaştırmak için kilit açma şifresinin grafik tasarımı iyileştirildi.**:
-    **• Kilit ekranında animasyonlu duvar kağıtları için destek sağlandı.**:
-    **• Daha büyük yazı tiplerine, simgelere ve daha sade bir düzene sahip ana ekran için Basit Mod eklendi.**:
-    **[Güvenlik]**:
-    **• Rastgele MAC Adresi Oluşturucu: Telefonunuz Wi-Fi ağına bağlandığında, hedefe odaklı reklamları önlemek ve gizliliğinizi korumak için sistem bir rastgele MAC adresi oluşturur.**:
-    **[Araçlar]**:
-    **• Hızlı Ayarlarda veya Akıllı Kenar Çubuğunda Hesap Makinesini kayan pencerede açabilirsiniz.**:
-    **• Kayıtlara kırpma özelliği eklendi.**:
-    **• Mevcut hava durumuna otomatik olarak uyum sağlayan Hava Durumu (dinamik) zil sesi eklendi.**:
-    **• Hava Durumu uygulamasına hava durumuna uyum sağlayan animasyonlar eklendi.**:
-    **[Kamera]**:
-    **• Daha iyi kullanıcı deneyimi için Kamera arayüzü iyileştirildi.**:
-    **• Zamanlayıcı arayüzü ve sesi iyileştirildi.**:
-    **[Fotoğraflar]**:
-    **• Daha sade bir yapı ve küçük resimler için Albüm arayüzü iyileştirildi.**:
-    **• 80'den fazla sahneyi tanıyabilen Albüm Önerileri eklendi.**:
-    **[İletişimler]**:
-    **realme Share artık OPPO, Vivo ve Xiaomi cihazlarla dosya paylaşımını desteklemektedir.**:
-    **• Daha etkin bir deneyim için Kişiler arayüzü iyileştirildi.**:
-    **[Ayarlar]**:
-    **• Arama Ayarları artık benzer eşleşmeleri desteklemekte ve bir arama geçmişi içermektedir.**:
-    **[Müzik]**:
-    ● realme Laboratuvara Çift Modlu Müzik Paylaşımı eklendi
-    **[FM]**:
-    ● Dahili FM işlevi eklendi
+    **Güvenlik**:
+    ● Güncel Android güvenlik yaması (2020#6)
+    **Sistem**:
+    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX1971EX
-  date: 27/2/2020
+  date: 14/6/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1010_all_EclovWQpIsEx.ozip
-  md5: B5CFE2FFCED11686547FCFE02AF98F12
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
+  md5: 5628C63C7CF5881DF7468A78567EC7FE
   region: Turkey
-  size: 3.5GB
+  size: 3.12GB
   system: realme UI 1.0
-  version: RMX1971EX_11_C.01
+  version: RMX1971EX_11.C.04
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması: Nisan 2020
@@ -2259,22 +1979,19 @@
   system: realme UI V1.0
   version: RMX1921EX_11_C.04
 - changelog: |
-    **Bảo mật**:
-    ● Bản vá bảo mật Android: Tháng 4 năm 2020
-    **Sửa những lỗi đã xác định**:
-    ● Tối ưu hóa hiệu ứng âm thanh cho các ứng dụng bên thứ ba
-    ● Thêm mũi tên vào bên phải danh sách yêu cầu thông tin vị trí gần đây ở chế độ tối
-    ● Sửa lỗi âm thông báo nhắc xuất hiện mỗi khi máy khách phát nhạc
-    ● Sửa lỗi báo thức tự động tắt sau khi bị xóa bởi tác vụ dưới nền
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1971EX
-  date: 30/4/2020
+  date: 14/6/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1030_all_d2wEgWvTFBDq.ozip
-  md5: 587C5D50CC9D1C4D5C25C3275CD42410
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
+  md5: 5628C63C7CF5881DF7468A78567EC7FE
   region: Vietnam
-  size: 3.16GB
+  size: 3.12GB
   system: realme UI V1.0
-  version: RMX1971EX_11_C.03
+  version: RMX1971EX_11.C.04
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 5 năm 2020

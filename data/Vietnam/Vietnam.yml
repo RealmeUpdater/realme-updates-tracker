@@ -42,22 +42,19 @@
   system: realme UI V1.0
   version: RMX1921EX_11_C.04
 - changelog: |
-    **Bảo mật**:
-    ● Bản vá bảo mật Android: Tháng 4 năm 2020
-    **Sửa những lỗi đã xác định**:
-    ● Tối ưu hóa hiệu ứng âm thanh cho các ứng dụng bên thứ ba
-    ● Thêm mũi tên vào bên phải danh sách yêu cầu thông tin vị trí gần đây ở chế độ tối
-    ● Sửa lỗi âm thông báo nhắc xuất hiện mỗi khi máy khách phát nhạc
-    ● Sửa lỗi báo thức tự động tắt sau khi bị xóa bởi tác vụ dưới nền
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1971EX
-  date: 30/4/2020
+  date: 14/6/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1030_all_d2wEgWvTFBDq.ozip
-  md5: 587C5D50CC9D1C4D5C25C3275CD42410
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
+  md5: 5628C63C7CF5881DF7468A78567EC7FE
   region: Vietnam
-  size: 3.16GB
+  size: 3.12GB
   system: realme UI V1.0
-  version: RMX1971EX_11_C.03
+  version: RMX1971EX_11.C.04
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 5 năm 2020

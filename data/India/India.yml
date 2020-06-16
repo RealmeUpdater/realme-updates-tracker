@@ -439,32 +439,6 @@
   version: RMX1901EX_11.C.03
 - changelog: |
     **Security**:
-    ● Updated Android security patch（2020#6）
-    **Application**:
-    ● Added DocVault
-    ● Added realme Link
-    **System**:
-    ● Optimized hanging issue in low memory state
-    **Fingerprint**:
-    ● Optimized the time of fingerprint recognize in some scenarios
-    **Touch**:
-    ● Optimized touch failure issue in some scenarios during game
-    ● Optimized the issue that no response while touching the edges and corners of the screen
-    **Other**:
-    ● Optimized the issue that the compass of some phones is not sensitive
-    ● Optimized video scene brightness and color saturation
-    ● Fixed the issue that no game dirac sound effect while entering some games
-  codename: RMX1821EX
-  date: 12/6/2020
-  device: realme 3i
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1110_all_DXFApjLiuPZv.ozip
-  md5: 07F0C10FE1978DA493D59BF1F87D6BD7
-  region: India
-  size: 2.47GB
-  system: realme UI V1.0
-  version: RMX1821EX_11.C.11
-- changelog: |
-    **Security**:
     ● Android security patch: April, 2020
     **Application**:
     ● Added DocVault ID feature(India)
@@ -497,32 +471,6 @@
   size: 1.98GB
   system: ColorOS 6.0
   version: RMX1941EX_11.A.25
-- changelog: |
-    **Security**:
-    ● Updated Android security patch（2020#6）
-    **Application**:
-    ● Added DocVault
-    ● Added realme Link
-    **System**:
-    ● Optimized hanging issue in low memory state
-    **Fingerprint**:
-    ● Optimized the time of fingerprint recognize in some scenarios
-    **Touch**:
-    ● Optimized touch failure issue in some scenarios during game
-    ● Optimized the issue that no response while touching the edges and corners of the screen
-    **Other**:
-    ● Optimized the issue that the compass of some phones is not sensitive
-    ● Optimized video scene brightness and color saturation
-    ● Fixed the issue that no game dirac sound effect while entering some games
-  codename: RMX1821EX
-  date: 12/6/2020
-  device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1110_all_DXFApjLiuPZv.ozip
-  md5: 07F0C10FE1978DA493D59BF1F87D6BD7
-  region: India
-  size: 2.47GB
-  system: realme UI 1.0
-  version: RMX1821EX_11.C.11
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020

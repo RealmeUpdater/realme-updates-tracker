@@ -1,5 +1,30 @@
 - changelog: |
     **Security**:
+    ● Updated Andriod security patch（2020#5）
+    **Settings**:
+    ● Updated system static wallpapers
+    ● Added vibration intensity adjustment option
+    **Known issue fixed**:
+    ● Fixed the issue of main screen hanging during Arena of Valor
+    ● Fixed the text display issue while connected personal hotspot
+    **Optimized**:
+    ● Optimized audio quality
+    ● Optimized system stability
+    ● Optimized partial display issue
+    **Camera**:
+    ● Improved fluency while previewing 60 FPS 4K video
+    ● Optimized heating issues while recording 60 FPS 4K video
+  codename: RMX2076EU
+  date: 17/6/2020
+  device: realme X50 Pro
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0220_all_JtSKqVA0jAWx.ozip
+  md5: 9D06D6E2E002E47416DA0958F4CE7EAD
+  region: Europe
+  size: 3.6GB
+  system: realmeUI V1.0
+  version: RMX2076EU_11_A.22
+- changelog: |
+    **Security**:
     ● Android security patch: May, 2020
     **System**:
     ● Updated charging animation

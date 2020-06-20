@@ -70,21 +70,18 @@
   version: RMX1931EX_11.C.27
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: April 2020
-    **Memperbaiki masalah yang diketahui**:
-    ● Mengoptimalkan efek audio untuk aplikasi pihak ketiga
-    ● Menambahkan panah kanan ke daftar permintaan informasi lokasi baru-baru ini dalam mode gelap
-    ● Memperbaiki masalah dimana nada pertanyaan muncul setiap kali klien memutar musik
-    ● Memperbaiki masalah dengan alarm dimatikan secara otomatis setelah dihapus oleh tugas latar belakang
+    ● Tingkat Android Security Patch: 5 Juni 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1921EX
-  date: 30/4/2020
+  date: 18/6/2020
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1040_all_sJ20CP11Qx6E.ozip
-  md5: 270CFF211C210EDCBFBC8B365B5F4994
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1050_all_HppdemYM4jdE.ozip
+  md5: E7A99C5D1287C17986912D114890C9CD
   region: Indonesia
-  size: 3.17GB
+  size: 3.12GB
   system: realme UI V1.0
-  version: RMX1921EX_11_C.04
+  version: RMX1921EX_11.C.05
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: 5 Juni 2020
@@ -144,21 +141,18 @@
   version: RMX1901EX_11.C.04
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: April 2020
-    **Memperbaiki masalah yang diketahui**:
-    ● Mengoptimalkan efek audio untuk aplikasi pihak ketiga
-    ● Menambahkan panah kanan ke daftar permintaan informasi lokasi baru-baru ini dalam mode gelap
-    ● Memperbaiki masalah dimana nada pertanyaan muncul setiap kali klien memutar musik
-    ● Memperbaiki masalah dimana alarm mati otomatis setelah dihapus oleh tugas latar belakang
+    ● Tingkat Android Security Patch: 5 Juni 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1851EX
-  date: 30/4/2020
+  date: 18/6/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1050_all_mrfWfUMXI172.ozip
-  md5: 518C7D1398A8EACE46F61022333F076E
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
+  md5: 394ABA33ECAF1132730CE0AAD67A0863
   region: Indonesia
-  size: 3.16GB
+  size: 3.12GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.05
+  version: RMX1851EX_11.C.06
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: April 2020

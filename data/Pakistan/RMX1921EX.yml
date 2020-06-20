@@ -1,17 +1,23 @@
 changelog: |
   **Security**:
-  ● Android security patch: April, 2020
-  **Known issue fixed**:
-  ● Optimized audio quality for third-party apps
-  ● Added arrow to the right of the list of recent location information requests in dark mode
-  ● Fixed the issue that the prompt tone appears every time when the client plays music
-  ● Fixed the issue that the alarm is automatically turned off after being cleared by the background task
+  ● Updated Andriod security patch（2020#6）
+  **Applications**:
+  ● Added realme Link
+  **Battery**:
+  ● Added charging animation on the lock screen
+  ● Added charging decimal display on the lock screen while charging
+  **Settings**:
+  ● Modified default state of power saving mode auto-off switch
+  ● Modified default state of screen brightness reduction switch in power saving mode
+  **Optimization**:
+  ● Optimized transparency of the slide back gesture style
+  ● Optimized screen recording icon size
 codename: RMX1921EX
-date: 30/4/2020
+date: 18/6/2020
 device: realme XT
-download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1040_all_sJ20CP11Qx6E.ozip
-md5: 270CFF211C210EDCBFBC8B365B5F4994
+download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1050_all_HppdemYM4jdE.ozip
+md5: E7A99C5D1287C17986912D114890C9CD
 region: Pakistan
-size: 3.17GB
+size: 3.12GB
 system: realme UI V1.0
-version: RMX1921EX_11_C.04
+version: RMX1921EX_11.C.05

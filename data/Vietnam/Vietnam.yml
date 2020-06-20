@@ -25,22 +25,19 @@
   system: ColorOS 6.0.1
   version: RMX2030_11_A.20
 - changelog: |
-    **Bảo mật**:
-    ● Bản vá bảo mật Android: Tháng 4 năm 2020
-    **Sửa những lỗi đã xác định**:
-    ● Tối ưu hóa hiệu ứng âm thanh cho các ứng dụng bên thứ ba
-    ● Thêm mũi tên vào bên phải danh sách yêu cầu thông tin vị trí gần đây ở chế độ tối
-    ● Sửa lỗi âm thông báo nhắc xuất hiện mỗi khi máy khách phát nhạc
-    ● Sửa lỗi báo thức tự động tắt sau khi bị xóa bởi tác vụ dưới nền
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1921EX
-  date: 30/4/2020
+  date: 18/6/2020
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1040_all_sJ20CP11Qx6E.ozip
-  md5: 270CFF211C210EDCBFBC8B365B5F4994
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1050_all_HppdemYM4jdE.ozip
+  md5: E7A99C5D1287C17986912D114890C9CD
   region: Vietnam
-  size: 3.17GB
+  size: 3.12GB
   system: realme UI V1.0
-  version: RMX1921EX_11_C.04
+  version: RMX1921EX_11.C.05
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
@@ -84,22 +81,19 @@
   system: ColorOS 6.0.1
   version: RMX1911EX_11_A.29
 - changelog: |
-    **Bảo mật**:
-    ● Bản vá bảo mật Android: Tháng 4 năm 2020
-    **Sửa những lỗi đã xác định**:
-    ● Tối ưu hóa hiệu ứng âm thanh cho các ứng dụng bên thứ ba
-    ● Thêm mũi tên vào bên phải danh sách yêu cầu thông tin vị trí gần đây ở chế độ tối
-    ● Sửa lỗi âm thông báo nhắc xuất hiện mỗi khi máy khách phát nhạc
-    ● Sửa lỗi báo thức tự động tắt sau khi bị xóa bởi tác vụ dưới nền
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1851EX
-  date: 30/4/2020
+  date: 18/6/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1050_all_mrfWfUMXI172.ozip
-  md5: 518C7D1398A8EACE46F61022333F076E
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
+  md5: 394ABA33ECAF1132730CE0AAD67A0863
   region: Vietnam
-  size: 3.16GB
+  size: 3.12GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.05
+  version: RMX1851EX_11.C.06
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 4, 2020

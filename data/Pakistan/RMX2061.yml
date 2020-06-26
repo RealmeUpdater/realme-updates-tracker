@@ -1,19 +1,16 @@
 changelog: |
   **Security**:
-  ● Android security patch: May, 2020
+  ● Updated Android security patch（June,2020）
+  **Application**:
+  ● Added realme Link
   **System**:
-  ● Updated charging animation
-  ● Optimized video saturation in YouTube 60HDR mode
-  ● Fixed the issue that the transmission stops after the screen is turned off during the xender sending file
   ● Fixed some known issues, and improved system stability
-  **Screen Recording**:
-  ● Reduced the floating window of screen recording
 codename: RMX2061
-date: 21/5/2020
+date: 21/6/2020
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0170_all_ft3YJz8yuhRK.ozip
-md5: b9ce963916110b947b2b3514fdaad34f
+download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
+md5: 7ebf27ec7da21567b5465ee76bebe6f9
 region: Pakistan
-size: 3.36GB
+size: 3.38GB
 system: realme UI 1.0
-version: RMX2061_11.A.17
+version: RMX2061_11.A.25

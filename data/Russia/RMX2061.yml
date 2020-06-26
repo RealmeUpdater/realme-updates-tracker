@@ -1,17 +1,14 @@
 changelog: |
   **Безопасность**:
-  ● Исправление безопасности Android: 5 мая 2020
+  ● Патчи безопасности Android: от 5 июня 2020
   **Система**:
   ● Исправлено несколько известных ошибок, улучшена стабильность системы.
-  ● Обновлена анимация во время зарядки
-  **Запись экрана**:
-  ● Уменьшены размеры плавающего окна записи экрана
 codename: RMX2061
-date: 21/5/2020
+date: 21/6/2020
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0170_all_ft3YJz8yuhRK.ozip
-md5: b9ce963916110b947b2b3514fdaad34f
+download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
+md5: 7ebf27ec7da21567b5465ee76bebe6f9
 region: Russia
-size: 3.36GB
+size: 3.38GB
 system: realme UI 1.0
-version: RMX2061_11.A.17
+version: RMX2061_11.A.25

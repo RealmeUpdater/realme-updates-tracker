@@ -1,5 +1,21 @@
 - changelog: |
     **Security**:
+    ● Updated Android security patch（June,2020）
+    **Application**:
+    ● Added realme Link
+    **System**:
+    ● Fixed some known issues, and improved system stability
+  codename: RMX2061
+  date: 21/6/2020
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
+  md5: 7ebf27ec7da21567b5465ee76bebe6f9
+  region: UAE
+  size: 3.38GB
+  system: realme UI 1.0
+  version: RMX2061_11.A.25
+- changelog: |
+    **Security**:
     ● Android security patch: May, 2020
     **Screen Recording**:
     ● Optimized screen recording feature
@@ -537,21 +553,20 @@
   version: RMX1851EX_11.C.06
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: Mei 2020
+    ● Tingkat Android Security Patch: 5 Juni 2020
+    **Aplikasi**:
+    ● Ditambahkan realme Link
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
-    ● Memperbarui animasi pengisian daya
-    **Rekaman Layar**:
-    ● Mengurangi durasi jendela melayang rekaman layar
   codename: RMX2061
-  date: 21/5/2020
+  date: 21/6/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0170_all_ft3YJz8yuhRK.ozip
-  md5: b9ce963916110b947b2b3514fdaad34f
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
+  md5: 7ebf27ec7da21567b5465ee76bebe6f9
   region: Indonesia
-  size: 3.36GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2061_11.A.17
+  version: RMX2061_11.A.25
 - changelog: |
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
@@ -832,25 +847,20 @@
   version: RMX2076PU_11_A.19
 - changelog: |
     **Security**:
-    ● Android security patch: May, 2020
+    ● Updated Android security patch（June,2020）
     **Application**:
-    ● Added DocVault ID feature(India)
+    ● Added realme Link
     **System**:
-    ● Updated charging animation
-    ● Optimized video saturation in YouTube 60HDR mode
-    ● Fixed the issue that the transmission stops after the screen is turned off during the xender sending file
     ● Fixed some known issues, and improved system stability
-    **Screen Recording**:
-    ● Reduced the floating window of screen recording
   codename: RMX2061
-  date: 21/5/2020
+  date: 21/6/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0170_all_ft3YJz8yuhRK.ozip
-  md5: b9ce963916110b947b2b3514fdaad34f
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
+  md5: 7ebf27ec7da21567b5465ee76bebe6f9
   region: India
-  size: 3.36GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2061_11.A.17
+  version: RMX2061_11.A.25
 - changelog: |
     **Application**:
     **• Added Google pay(Only for India)**:
@@ -1389,23 +1399,20 @@
   version: RMX2040_11_A.17
 - changelog: |
     **Security**:
-    ● Android security patch: May, 2020
+    ● Updated Android security patch（June,2020）
+    **Application**:
+    ● Added realme Link
     **System**:
-    ● Updated charging animation
-    ● Optimized video saturation in YouTube 60HDR mode
-    ● Fixed the issue that the transmission stops after the screen is turned off during the xender sending file
     ● Fixed some known issues, and improved system stability
-    **Screen Recording**:
-    ● Reduced the floating window of screen recording
   codename: RMX2061
-  date: 21/5/2020
+  date: 21/6/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0170_all_ft3YJz8yuhRK.ozip
-  md5: b9ce963916110b947b2b3514fdaad34f
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
+  md5: 7ebf27ec7da21567b5465ee76bebe6f9
   region: Pakistan
-  size: 3.36GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2061_11.A.17
+  version: RMX2061_11.A.25
 - changelog: |
     **System**:
     **• Supported Hebrew system language**:
@@ -1604,21 +1611,18 @@
   version: RMX2040_11_A.16
 - changelog: |
     **Безопасность**:
-    ● Исправление безопасности Android: 5 мая 2020
+    ● Патчи безопасности Android: от 5 июня 2020
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
-    ● Обновлена анимация во время зарядки
-    **Запись экрана**:
-    ● Уменьшены размеры плавающего окна записи экрана
   codename: RMX2061
-  date: 21/5/2020
+  date: 21/6/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0170_all_ft3YJz8yuhRK.ozip
-  md5: b9ce963916110b947b2b3514fdaad34f
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
+  md5: 7ebf27ec7da21567b5465ee76bebe6f9
   region: Russia
-  size: 3.36GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2061_11.A.17
+  version: RMX2061_11.A.25
 - changelog: |
     **Система:**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
@@ -1923,6 +1927,22 @@
   size: 1.98GB
   system: ColorOS 6.0
   version: RMX1941EX_11.A.24
+- changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020
+    **Ứng dụng:**:
+    ● thêm realme Link
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2061
+  date: 21/6/2020
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
+  md5: 7ebf27ec7da21567b5465ee76bebe6f9
+  region: Vietnam
+  size: 3.38GB
+  system: realme UI 1.0
+  version: RMX2061_11.A.25
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 5 năm 2020

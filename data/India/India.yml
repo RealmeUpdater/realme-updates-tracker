@@ -175,15 +175,15 @@
     ● Optimized the transparency of the slide back gestures style
     **System**:
     ● Fixed some known issues and improved system stability
-  codename: RMX1992AEX
+  codename: RMX1992EX
   date: 21/6/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/sign_RMX1992AEX_11_OTA_1090_all_6oRWCDPaCigp.ozip
-  md5: aa680ddee2458ec1213184e55efedfb3
+  download: https://download.c.realme.com/osupdate/sign_RMX1992EX_11_OTA_1090_all_5qc41DTH9gbZ.ozip
+  md5: 2de4b447cd35d8f678e9e8cc3f56c144
   region: India
   size: 2.98GB
   system: realme UI 1.0
-  version: RMX1992AEX_11.C.09
+  version: RMX1992EX_11.C.09
 - changelog: |
     **Security**:
     ● Updated Andriod security patch（June,2020)

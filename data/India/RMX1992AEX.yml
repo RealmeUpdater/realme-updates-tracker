@@ -1,25 +1,19 @@
 changelog: |
   **Security**:
-  ● Android security patch: May, 2020
+  ● Updated Andriod security patch（June,2020)
   **Applications**:
-  ● Added realme link
-  ● Added DocVault(India)
-  **Screen Recording**:
-  ● Optimized screen recording feature
-  **Battery**:
-  ● Updated charging animation
-  ● Fixed the issue of power jump during charging in some scenes
-  ● Fixed the issue of debris detected prompt
+  ● Added realme PaySa
+  **Optimization**:
+  ● Optimized the height of status bar
+  ● Optimized the transparency of the slide back gestures style
   **System**:
-  ● Fixed the issue of touchscreen failure in some scenes during PUBG
-  ● Fixed the issue of sound error when entering Gods of Boom
   ● Fixed some known issues and improved system stability
 codename: RMX1992AEX
-date: 21/5/2020
+date: 21/6/2020
 device: realme X2
-download: https://download.c.realme.com/osupdate/sign_RMX1992AEX_11_OTA_1080_all_o7eTg0zO32KH.ozip
-md5: a8da7ea65b585c30ad75468453584556
+download: https://download.c.realme.com/osupdate/sign_RMX1992AEX_11_OTA_1090_all_6oRWCDPaCigp.ozip
+md5: aa680ddee2458ec1213184e55efedfb3
 region: India
 size: 2.98GB
 system: realme UI 1.0
-version: RMX1992AEX_11.C.08
+version: RMX1992AEX_11.C.09

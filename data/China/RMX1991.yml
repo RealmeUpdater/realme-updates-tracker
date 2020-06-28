@@ -1,23 +1,18 @@
 changelog: |
-  **充电**:
-  ● 更新充电动画效果
-  ● 修复充电时概率性电量跳变问题
-  ● 修复充电出现异物提示问题
-  **录屏**:
-  ● 优化屏幕录制功能
-  **状态栏**:
-  ● 调整状态栏的高度
-  **系统**:
-  ● 修复王者荣耀和和平精英游戏部分场景下的断触问题
-  ● 修复一些已知问题，增加系统稳定性
+  **应用**:
+  ● 新增realme Link应用
+  **蓝牙**:
+  ● 新增蓝牙耳机(Air和Neo)弹窗功能(此功能只能配合realme耳机使用，且需要配合realme Link应用更新耳机固件才可以使用)
+  **修复**:
+  ● 修复移动网络下概率无法使用云服务问题
   **安全**:
-  ● 更新Android安全补丁（2020#05）
+  ● 更新Android安全补丁（2020#06）
 codename: RMX1991
-date: 20/05/2020
+date: 21/06/2020
 device: realme X2
-download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1140_all_p1Z4tROJMLm1.ozip
-md5: ebaeb8074e174903edcc44824c1d430c
+download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1170_all_YlRZi9nk1PA2.ozip
+md5: d228b7f67cbd8f400c0c3c32e728fef1
 region: China
-size: 2.77GB
+size: 2.85GB
 system: realme UI 1.0
-version: RMX1991_11.C.14
+version: RMX1991_11.C.17

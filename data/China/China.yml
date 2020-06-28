@@ -1,24 +1,30 @@
 - changelog: |
-    **应用**:
-    ● 新增realme Link应用
-    **修复**:
-    ● 修复农历闰4月显示错误的问题
-    ● 修复无线投屏低概率会弹出null提示的问题
-    ● 修复夜景拍照极低概率照片绿屏或花屏的问题
-    ● 修复系统语言为阿拉伯语时，部分场景会出现显示错误的问题
-    ● 修复连接蓝牙耳机通话时切换至外放，对方无法听到我方声音的问题
-    ● 修复切换主题时，低概率会显示黑屏的问题
-    **优化**:
-    ● 优化部分场景下的网络功耗
+    **网络**:
+    ● 对网络进行多项优化以提高网络稳定性和性能
+    ● 优化双卡时，用主卡数据网游戏时的体验
+    **暗色模式**:
+    ● 优化暗色模式下三方应用兼容性
+    ● 修复切换暗色模式时偶尔状态栏闪烁问题
+    **输入法**:
+    ● 优化输入法偶尔会出现连击问题
+    **相机**:
+    ● 优化X50 Pro玩家版后置主摄在某些灯光场景下低概率的闪屏问题
+    ● 修复更改三方字体后在相机界面不生效的问题
+    **设置**:
+    ● 修复振动调节强度级数感知不明显问题
+    **闹钟**:
+    ● 修复关闭闹钟时，状态栏会短暂提示正在响铃的问题
+    **安全**:
+    ● 更新Android安全补丁（2020#06）
   codename: RMX2071
-  date: 03/06/2020
+  date: 25/06/2020
   device: realme  X50 Pro 玩家版
-  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0190_all_5ZB0yOSRNnZ9.ozip
-  md5: 6417D15F3DC7F1618F7B33B1AA2C4B49
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0200_all_HpFNAI9MZTnA.ozip
+  md5: 57FF0B6762D567EE522CDF88442E5534
   region: China
-  size: 3.58GB
+  size: 3.6GB
   system: realme UI V1.0
-  version: RMX2071_11_A.19
+  version: RMX2071_11_A.20
 - changelog: |
     **网络**:
     ● 优化网络性能，提升上网稳定性
@@ -39,26 +45,32 @@
   system: realme UI V1.0
   version: RMX2141_11.A.06
 - changelog: |
-    **应用**:
-    ● 新增realme Link应用
-    **修复**:
-    ● 修复农历闰4月显示错误的问题
-    ● 修复无线投屏低概率会弹出null提示的问题
-    ● 修复夜景拍照极低概率照片绿屏或花屏的问题
-    ● 修复系统语言为阿拉伯语时，部分场景会出现显示错误的问题
-    ● 修复连接蓝牙耳机通话时切换至外放，对方无法听到我方声音的问题
-    ● 修复切换主题时，低概率会显示黑屏的问题
-    **优化**:
-    ● 优化部分场景下的网络功耗
+    **网络**:
+    ● 对网络进行多项优化以提高网络稳定性和性能
+    ● 优化双卡时，用主卡数据网游戏时的体验
+    **暗色模式**:
+    ● 优化暗色模式下三方应用兼容性
+    ● 修复切换暗色模式时偶尔状态栏闪烁问题
+    **输入法**:
+    ● 优化输入法偶尔会出现连击问题
+    **相机**:
+    ● 优化X50 Pro玩家版后置主摄在某些灯光场景下低概率的闪屏问题
+    ● 修复更改三方字体后在相机界面不生效的问题
+    **设置**:
+    ● 修复振动调节强度级数感知不明显问题
+    **闹钟**:
+    ● 修复关闭闹钟时，状态栏会短暂提示正在响铃的问题
+    **安全**:
+    ● 更新Android安全补丁（2020#06）
   codename: RMX2071
-  date: 03/06/2020
+  date: 25/06/2020
   device: realme X50 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0190_all_5ZB0yOSRNnZ9.ozip
-  md5: 6417D15F3DC7F1618F7B33B1AA2C4B49
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0200_all_HpFNAI9MZTnA.ozip
+  md5: 57FF0B6762D567EE522CDF88442E5534
   region: China
-  size: 3.58GB
+  size: 3.6GB
   system: realme UI V1.0
-  version: RMX2071_11_A.19
+  version: RMX2071_11_A.20
 - changelog: |
     **相机**:
     ● 新增后置相机慢动作120FPS功能
@@ -105,28 +117,23 @@
   system: realme UI 1.0
   version: RMX1931_11.C.25
 - changelog: |
-    **充电**:
-    ● 更新充电动画效果
-    ● 修复充电时概率性电量跳变问题
-    ● 修复充电出现异物提示问题
-    **录屏**:
-    ● 优化屏幕录制功能
-    **状态栏**:
-    ● 调整状态栏的高度
-    **系统**:
-    ● 修复王者荣耀和和平精英游戏部分场景下的断触问题
-    ● 修复一些已知问题，增加系统稳定性
+    **应用**:
+    ● 新增realme Link应用
+    **蓝牙**:
+    ● 新增蓝牙耳机(Air和Neo)弹窗功能(此功能只能配合realme耳机使用，且需要配合realme Link应用更新耳机固件才可以使用)
+    **修复**:
+    ● 修复移动网络下概率无法使用云服务问题
     **安全**:
-    ● 更新Android安全补丁（2020#05）
+    ● 更新Android安全补丁（2020#06）
   codename: RMX1991
-  date: 20/05/2020
+  date: 21/06/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1140_all_p1Z4tROJMLm1.ozip
-  md5: ebaeb8074e174903edcc44824c1d430c
+  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1170_all_YlRZi9nk1PA2.ozip
+  md5: d228b7f67cbd8f400c0c3c32e728fef1
   region: China
-  size: 2.77GB
+  size: 2.85GB
   system: realme UI 1.0
-  version: RMX1991_11.C.14
+  version: RMX1991_11.C.17
 - changelog: |
     **电池**:
     ● 充电动画增加小数点显示

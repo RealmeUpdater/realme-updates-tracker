@@ -25,21 +25,18 @@
   version: RMX2076EU_11_A.22
 - changelog: |
     **Security**:
-    ● Android security patch: May, 2020
+    ● Updated Android security patch（2020#6）
     **System**:
-    ● Updated charging animation
     ● Fixed some known issues, and improved system stability
-    **Screen Recording**:
-    ● Reduced the floating window of screen recording
   codename: RMX2061EU
-  date: 21/5/2020
+  date: 21/6/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0160_all_JZWS1QCvZakz.ozip
-  md5: 4AB1FC58D508ADCAB99716DBIDSCCD
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0180_all_FyagB4n9PhpW.ozip
+  md5: 89fd20b84860e82d1571415bef1c621a
   region: Europe
-  size: 3.22GB
+  size: 3.11GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.16
+  version: RMX2061EU_11.A.18
 - changelog: |
     **System**:
     **• Supported Hebrew system language**:
@@ -103,21 +100,21 @@
   version: RMX1931EX_11.C.27
 - changelog: |
     **Security**:
-    ● Android security patch: May, 2020
-    **Screen Recording**:
-    ● Optimized screen recording feature
+    ● Updated Andriod security patch（2020#6）
+    **Optimization**:
+    ● Optimized the height of status bar
+    ● Optimized the transparency of the slide back gestures style
     **System**:
-    ● Updated charging animation
     ● Fixed some known issues and improved system stability
   codename: RMX1993EX
-  date: 20/5/2020
+  date: 21/6/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1040_all_tSZ3Sf5A77NS.ozip
-  md5: 3d4776e70d388ed00fc31ba158e3fde
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1050_all_loALrMDyMrbs.ozip
+  md5: 1afef6b8933b58343395fa061578410e
   region: Europe
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1993EX_11.C.04
+  version: RMX1993EX_11.C.05
 - changelog: |
     **Security**:
     ● Updated Andriod security patch（2020#6）

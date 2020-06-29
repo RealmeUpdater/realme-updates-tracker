@@ -28,28 +28,27 @@
   version: RMX2040_11_A.17
 - changelog: |
     **Security**:
-    ● Android security patch: April, 2020
-    **Desktop**:
-    ● Changed the charging icon
-    **Settings**:
-    ● Added Vivid Mode to Screen Color Mode
+    ● Android security patch: June, 2020
+    **Network**:
+    ● Optimized the stability and performance of the network
+    ● Optimized the game experience over mobile data with 2 SIM cards installed
+    **Fixed**:
+    ● Fixed the issue that Alarm ringing is temporarily showed on the status bar after switching a alarm off
+    ● Fixed the issue that status bar occasionally flickers when switching the Dark Mode on
     **Camera**:
-    ● Added function of recording 60FPS 4K videos
-    ● Optimized the quality of photos
-    **Optimization**:
-    ● Optimized the screen redness at the low brightness in some scenes
-    ● Optimized network stability
-    **Known issue fixed**:
-    ● Fixed screen rounded corner problem
+    ● Fixed the issue that fonts dosen't work after applying a third-party fonts
+    **Optimized**:
+    ● Optimized the issue that input methods are sometimes double clicked for one tap
+    ● Optimized the compatibility of third-party applications in Dark Mode
   codename: RMX2076PU
-  date: 30/4/2020
+  date: 28/6/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0190_all_GtaIbbl9KMW6.ozip
-  md5: D9897814A4947440749B63346F9D8A6F
+  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0250_all_kUo2dID1pUiO.ozip
+  md5: 4BB251F76767891F2F69A4BDCCF823D7
   region: India
-  size: 3.37GB
+  size: 3.76GB
   system: realmeUI V1.0
-  version: RMX2076PU_11_A.19
+  version: RMX2076PU_11_A.25
 - changelog: |
     **Security**:
     ● Updated Android security patch（June,2020）

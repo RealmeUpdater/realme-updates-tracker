@@ -1,15 +1,19 @@
 changelog: |
   **Bảo mật**:
-  ● Bản vá bảo mật Android: Tháng 4, 2020
+  ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020
+  **Ứng dụng:**:
+  ● thêm realme Link
   **Hệ thống**:
-  ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
-  * Phiên bản Android: Android 9.0
+  ● Sửa lỗi đôi khi bị treo khi sử dụng ứng dụng bên thứ ba
+  **Đã sửa vấn đề đã biết**:
+  ● Sửa lỗi tỉ lệ màn hình không nhạy khi chơi Game
+  ● Cải tiến chất lượng hiển thị
 codename: RMX1821EX
-date: 18/4/2020
+date: 29/6/2020
 device: realme 3
-download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0280_all_3V2ARw7ZSbCv.ozip
-md5: 0f14aa504c4da3f5b1e66926b87b4fb9
+download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1130_all_xqusrKJXApYv.ozip
+md5: BA8A64F8ADFBDF6526A12A74DB985415
 region: Vietnam
-size: 2.04GB
-system: ColorOS 6.0
-version: RMX1821EX_11.A.28
+size: 2.46GB
+system: realme UI V1.0
+version: RMX1821EX_11.C.13

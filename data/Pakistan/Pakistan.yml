@@ -183,19 +183,29 @@
   version: RMX1851EX_11.C.06
 - changelog: |
     **Security**:
-    ● Android security patch: April, 2020
+    ● Android security patch: June, 2020
+    **Application**:
+    ● Added realme Link
     **System**:
-    ● Fixed some known issues and improved system stability.
-    * Android version: Android 9.0
+    ● Optimized hanging issue in low memory state
+    **Fingerprint**:
+    ● Optimized fingerprint recognition speed
+    **Touch**:
+    ● Optimized touch failure issue in some scenarios during game
+    ● Optimized the issue that no response while touching the edges and corners of the screen
+    **Known issue fixed**:
+    ● Optimized the sensitive issue of compass
+    ● Optimized video scene brightness and color saturation
+    ● Fixed the issue that without game dirac sound effect while entering some games
   codename: RMX1821EX
-  date: 18/4/2020
+  date: 29/6/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0280_all_3V2ARw7ZSbCv.ozip
-  md5: 0f14aa504c4da3f5b1e66926b87b4fb9
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1130_all_xqusrKJXApYv.ozip
+  md5: BA8A64F8ADFBDF6526A12A74DB985415
   region: Pakistan
-  size: 2.04GB
-  system: ColorOS 6.0
-  version: RMX1821EX_11.A.28
+  size: 2.46GB
+  system: realme UI V1.0
+  version: RMX1821EX_11.C.13
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020

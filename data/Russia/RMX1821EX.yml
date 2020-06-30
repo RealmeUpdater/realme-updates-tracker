@@ -1,14 +1,17 @@
 changelog: |
-  **Безопаснсть**:
-  ● Исправление для системы безопасности Android за апрель 2020 г.
-  **Сиситема**:
-  ● Устранены некоторые другие неполадки и улучшена стабильность системы.
+  **Безопасность**:
+  ● Патчи безопасности Android: от 5 июня 2020
+  **Система:**:
+  ● Исправлена маловероятная проблема зависания при использовании сторонних приложений
+  **Исправлены обнаруженные проблемы**:
+  ● Устранена редкая проблема с касаниями экрана во время игры
+  ● Оптимизировать отображение
 codename: RMX1821EX
-date: 18/4/2020
+date: 29/6/2020
 device: realme 3
-download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0280_all_3V2ARw7ZSbCv.ozip
-md5: 0f14aa504c4da3f5b1e66926b87b4fb9
+download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1130_all_xqusrKJXApYv.ozip
+md5: BA8A64F8ADFBDF6526A12A74DB985415
 region: Russia
-size: 2.04GB
-system: ColorOS 6.0
-version: RMX1821EX_11.A.28
+size: 2.46GB
+system: realme UI V1.0
+version: RMX1821EX_11.C.13

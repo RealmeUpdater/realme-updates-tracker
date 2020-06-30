@@ -154,19 +154,23 @@
   version: RMX1851EX_11.C.06
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: April 2020
+    ● Tingkat Android Security Patch: 5 Juni 2020
+    **Aplikasi**:
+    **Ditambahkan realme Link**:
     **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
-    * Android version: Android 9.0
+    ● Perbaikan masalah tersangkut yang kadang muncul saat menggunakan aplikasi pihak ketiga
+    **Menyelesaikan masalah yang diketahui**:
+    ● Menyelesaikan masalah sentuhan saat bermain game
+    ● Mengoptimalkan kualitas tampilan
   codename: RMX1821EX
-  date: 18/4/2020
+  date: 29/6/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0280_all_3V2ARw7ZSbCv.ozip
-  md5: 0f14aa504c4da3f5b1e66926b87b4fb9
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1130_all_xqusrKJXApYv.ozip
+  md5: BA8A64F8ADFBDF6526A12A74DB985415
   region: Indonesia
-  size: 2.04GB
-  system: ColorOS 6.0
-  version: RMX1821EX_11.A.28
+  size: 2.46GB
+  system: realme UI V1.0
+  version: RMX1821EX_11.C.13
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: Mei 2020

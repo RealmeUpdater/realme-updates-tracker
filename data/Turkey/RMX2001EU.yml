@@ -1,14 +1,14 @@
 changelog: |
   **Güvenlik**:
-  ● Android güvenlik yaması: Mayıs 2020
+  ● Güncel Android güvenlik yaması (2020#6)
   **Sistem**:
-  ● Ekranın yeşil görünmesi ve bazı sahnelerde otomatik yeniden başlatma sorunu düzeltilmiştir
+  ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
 codename: RMX2001EU
-date: 19/5/2020
+date: 28/6/2020
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0280_all_MjKBHazkmKZT.ozip
-md5: E38903D05C9D097870EC3B2CFFC5B31C
+download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0340_all_52qYRqqh54uU.ozip
+md5: B8D117882987A8FCA72CD1C11CC2ED18
 region: Turkey
-size: 2.94GB
+size: 2.78GB
 system: realme UI 1.0
-version: RMX2001EU_11.A.28
+version: RMX2001EU_11.A.34

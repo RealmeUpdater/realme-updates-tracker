@@ -66,23 +66,25 @@
   system: realme UI 1.0
   version: RMX2061_11.A.25
 - changelog: |
-    **Application**:
-    **• Added Google pay(Only for India)**:
+    **Security**:
+    ● Updated Andriod security patch: June, 2020
+    **Applications**:
+    ● Added realme Link
     **System**:
-    **• Supported Hebrew system language**:
-    **• Updated default lockscreen wallpaper**:
-    **• Fixed the issue that low probability splash screen in some scenes of Instagram**:
-    **• Fixed the issue that some games show 0 FPS in the game space**:
-    **• Fixed some known issues, and improved system stability**:
+    ● Fixed the issue that FPS for some games was shown as zero in Game Space
+    ● Fixed some known issues and improved system stability
+    **Camera**:
+    ● Optimized front camera NIGHTSCAPE quality
+    ● Fixed the low probabilistic issue that the sound is out of sync with the picture after video recording
   codename: RMX2001
-  date: 6/6/2020
+  date: 28/6/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
-  md5: 2109441FD6AB8DF9883ABF30B6CCF23B
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
+  md5: 7F29D0A855213C2D84F0C55DEF067262
   region: India
-  size: 3.02GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2001_11.B.33
+  version: RMX2001_11.B.37
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020

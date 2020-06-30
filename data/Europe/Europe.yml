@@ -38,21 +38,25 @@
   system: realme UI 1.0
   version: RMX2061EU_11.A.18
 - changelog: |
+    **Security**:
+    ● Updated Andriod security patch: June, 2020
+    **Applications**:
+    ● Added realme Link
     **System**:
-    **• Supported Hebrew system language**:
-    **• Updated default lockscreen wallpaper**:
-    **• Fixed the issue that low probability splash screen in some scenes of Instagram**:
-    **• Fixed the issue that some games show 0 FPS in the game space**:
-    **• Fixed some known bugs, and improved system stability**:
+    ● Fixed the issue that FPS for some games was shown as zero in Game Space
+    ● Fixed some known issues and improved system stability
+    **Camera**:
+    ● Optimized front camera NIGHTSCAPE quality
+    ● Fixed the low probabilistic issue that the sound is out of sync with the picture after video recording
   codename: RMX2001EU
-  date: 6/6/2020
+  date: 28/6/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0300_all_OQP6voxoc0hY.ozip
-  md5: 9121625CFE731FCA03798EBCCB67510E
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0340_all_52qYRqqh54uU.ozip
+  md5: B8D117882987A8FCA72CD1C11CC2ED18
   region: Europe
-  size: 2.75GB
+  size: 2.78GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.30
+  version: RMX2001EU_11.A.34
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020

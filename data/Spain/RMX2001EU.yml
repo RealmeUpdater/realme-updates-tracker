@@ -1,12 +1,14 @@
 changelog: |
+  **Seguridad**:
+  ● Parche de seguridad de Android: junio de 2020
   **Sistema**:
   ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
 codename: RMX2001EU
-date: 6/6/2020
+date: 28/6/2020
 device: realme 6
-download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0300_all_OQP6voxoc0hY.ozip'
-md5: 9121625CFE731FCA03798EBCCB67510E
+download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0340_all_52qYRqqh54uU.ozip'
+md5: B8D117882987A8FCA72CD1C11CC2ED18
 region: Spain
-size: 2.75GB
+size: 2.78GB
 system: realme UI 1.0
-version: RMX2001EU_11.A.30
+version: RMX2001EU_11.A.34

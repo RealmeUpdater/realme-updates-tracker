@@ -1,17 +1,14 @@
 changelog: |
   **Seguridad**:
-  ● Parche de seguridad de Android: mayo de 2020
+  ● Parche de seguridad de Android(2020#6)
   **Sistema**:
-  ● Se ha actualizado la animación de carga
   ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
-  **Grabación de pantalla**:
-  ● Se ha reducido la ventana flotante de la grabación de pantalla
 codename: RMX2061EU
-date: 21/5/2020
+date: 21/6/2020
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0160_all_JZWS1QCvZakz.ozip
-md5: 4AB1FC58D508ADCAB99716DBIDSCCD
+download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0180_all_FyagB4n9PhpW.ozip
+md5: 89fd20b84860e82d1571415bef1c621a
 region: Spain
-size: 3.22GB
+size: 3.11GB
 system: realme UI 1.0
-version: RMX2061EU_11.A.16
+version: RMX2061EU_11.A.18

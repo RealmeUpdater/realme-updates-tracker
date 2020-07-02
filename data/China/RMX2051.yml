@@ -1,21 +1,25 @@
 changelog: |
+  **应用**:
+  ● 新增realme Link应用
+  **蓝牙**:
+  ● 新增realme蓝牙耳机（Air和Neo）连接弹窗提示（需要在realme Link中将耳机固件更新）功能
   **相机**:
-  ● 新增后置相机慢动作120FPS功能
-  ● 优化相机效果，提升拍照体验
+  ● 优化前置主摄低色温肤色偏深问题
+  ● 优化打开炫彩模式夜景拍照噪点明显问题
+  ● 修复后置人像模式下切换视频模式，预览界面低概率卡屏问题
+  ● 修复照片模式切慢动作，预览界面低概率闪屏问题
   **网络**:
-  ● 优化网络性能，提升上网稳定性
-  **功耗**:
-  ● 优化部分场景下耗电过快的问题
-  **状态栏**:
-  ● 修复部分场景下状态栏弹出"手机投屏 已连接到null"的提示
+  ● 修复重启手机之后，偶现状态栏运营商名字抖动问题
+  **时钟**:
+  ● 修复暗色模式下，偶现双时钟常驻地城市不显示边框的问题
   **安全**:
-  ● 更新Android安全补丁（2020#5）
+  ● 更新Android安全补丁（2020#6）
 codename: RMX2051
-date: 30/05/2020
+date: 30/06/2020
 device: realme X50 5G
-download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0130_all_eYk6C5XZVbgV.ozip
-md5: 867A5F51BA2E88F2E91D973A39A92CBE
+download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0140_all_W49QSrMZAM7a.ozip
+md5: 12721911A6BDE435D081A462350D7D8E
 region: China
-size: 3.63GB
+size: 3.66GB
 system: realme UI V1.0
-version: RMX2051_11.B.13
+version: RMX2051_11.B.14

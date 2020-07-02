@@ -190,10 +190,14 @@
     RMX1991_11_A.14: https://download.c.realme.com/osupdate/RMX1991_11_OTA_0140_all_RfH5a5t2Kegi.ozip
 - RMX1992AEX:
     RMX1992AEX_11.C.05: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1050_all_dgEaNNRO2U9L.ozip
+    RMX1992AEX_11.C.08: https://download.c.realme.com/osupdate/sign_RMX1992AEX_11_OTA_1080_all_o7eTg0zO32KH.ozip
+    RMX1992AEX_11.C.09: https://download.c.realme.com/osupdate/sign_RMX1992AEX_11_OTA_1090_all_6oRWCDPaCigp.ozip
 - RMX1992EX:
     RMX1992EX_11.A.17: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_0170_all_cejQEPD5hd0c.ozip
     RMX1992EX_11.A.18: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_0180_all_9jUtCwfNEfDr.ozip
     RMX1992EX_11.A.19: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_0190_all_HSsfHckUqYqq.ozip
+    RMX1992EX_11.C.08: https://download.c.realme.com/osupdate/sign_RMX1992EX_11_OTA_1080_all_xEn34IuqcC2D.ozip
+    RMX1992EX_11.C.09: https://download.c.realme.com/osupdate/sign_RMX1992EX_11_OTA_1090_all_5qc41DTH9gbZ.ozip
 - RMX1993EX:
     RMX1993EX_11.A.15: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0150_all_BEtWFa2mvn83.ozip
     RMX1993EX_11.A.16: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_0160_all_bEdlmdxqYETs.ozip
@@ -269,8 +273,3 @@
     RMX2141_11.A.05: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0050_all_IrvnYlXlf4bJ.ozip
     RMX2141_11.A.06: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0060_all_Y9c6Z5E8t6gV.ozip
     RMX2141_11.A.07: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0070_all_Zlwbk8E9IePz.ozip
-- sign:
-    RMX1992AEX_11.C.08: https://download.c.realme.com/osupdate/sign_RMX1992AEX_11_OTA_1080_all_o7eTg0zO32KH.ozip
-    RMX1992AEX_11.C.09: https://download.c.realme.com/osupdate/sign_RMX1992AEX_11_OTA_1090_all_6oRWCDPaCigp.ozip
-    RMX1992EX_11.C.08: https://download.c.realme.com/osupdate/sign_RMX1992EX_11_OTA_1080_all_xEn34IuqcC2D.ozip
-    RMX1992EX_11.C.09: https://download.c.realme.com/osupdate/sign_RMX1992EX_11_OTA_1090_all_5qc41DTH9gbZ.ozip

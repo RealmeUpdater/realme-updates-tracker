@@ -254,7 +254,8 @@ def archive(update: dict):
     """Append new update to the archive"""
     link = update['download']
     version = update['version']
-    codename = link.split('/')[-1].split('_')[0]
+    codename = link.split('/')[-1].split('_')[0] \
+        if 'sign' not in link else link.split('/')[-1].split('_')[1]
     try:
         with open(f'data/archive/{codename}.yml', 'r') as yaml_file:
             data = yaml.load(yaml_file, Loader=yaml.FullLoader)

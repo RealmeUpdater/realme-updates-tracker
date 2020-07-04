@@ -815,19 +815,26 @@
   system: ColorOS 6.0
   version: RMX1805EX_11_A.68
 - changelog: |
+    **Optimized**:
+    ● Optimized game audio quality
+    ● Optimized system stability
+    ● Optimized probabilistic lagging issue
+    **Known issue fixed**:
+    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
+    ● Fixed the probabilistic issue that weather app failed to obtain location
+    ● Fixed the probabilistic issue that game center FPS was shown as zero
+    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
     **Security**:
-    ● Android security patch: May, 2020
-    **Camera**:
-    ● Optimized the front camera clarity in some scenes
+    ● Updated Android security patch（2020#6）
   codename: RMX2020
-  date: 29/5/2020
+  date: 3/7/2020
   device: Narzo 10A
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
-  md5: 00B654DE25B9C5F94A5438791ADE37A5
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0330_all_L57BVJ63NK5r.ozip
+  md5: CA8CEA341F9E3289892FA90DE93601CB
   region: India
-  size: 2.84GB
+  size: 2.83GB
   system: realme UI 1.0
-  version: RMX2020_11_A.25
+  version: RMX2020_11_A.33
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020
@@ -883,7 +890,7 @@
   version: RMX2061_11.A.25
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch: June, 2020
+    ● Updated Android security patch: June, 2020
     **Applications**:
     ● Added realme Link
     **System**:
@@ -902,19 +909,26 @@
   system: realme UI 1.0
   version: RMX2001_11.B.37
 - changelog: |
+    **Optimized**:
+    ● Optimized game audio quality
+    ● Optimized system stability
+    ● Optimized probabilistic lagging issue
+    **Known issue fixed**:
+    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
+    ● Fixed the probabilistic issue that weather app failed to obtain location
+    ● Fixed the probabilistic issue that game center FPS was shown as zero
+    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
     **Security**:
-    ● Android security patch: May, 2020
-    **Camera**:
-    ● Optimized the front camera clarity in some scenes
+    ● Updated Android security patch（2020#6）
   codename: RMX2020
-  date: 29/5/2020
+  date: 3/7/2020
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
-  md5: 00B654DE25B9C5F94A5438791ADE37A5
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0330_all_L57BVJ63NK5r.ozip
+  md5: CA8CEA341F9E3289892FA90DE93601CB
   region: India
-  size: 2.84GB
+  size: 2.83GB
   system: realme UI V1.0
-  version: RMX2020_11_A.25
+  version: RMX2020_11_A.33
 - changelog: |
     **Security**:
     ● Updated Andriod security patch（2020#6）

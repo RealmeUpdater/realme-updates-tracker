@@ -1,12 +1,14 @@
 changelog: |
+  **Безопасность**:
+  ● Патчи безопасности Android: от 5 июня 2020
   **Система:**:
   ● Исправлено несколько известных ошибок, улучшена стабильность системы.
 codename: RMX2001
-date: 6/6/2020
+date: 28/6/2020
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
-md5: 2109441FD6AB8DF9883ABF30B6CCF23B
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
+md5: 7F29D0A855213C2D84F0C55DEF067262
 region: Russia
-size: 3.02GB
+size: 3.05GB
 system: realme UI 1.0
-version: RMX2001_11.B.33
+version: RMX2001_11.B.37

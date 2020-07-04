@@ -16,6 +16,26 @@
   version: RMX2061_11.A.25
 - changelog: |
     **Security**:
+    ● Updated Android security patch: June, 2020
+    **Applications**:
+    ● Added realme Link
+    **System**:
+    ● Fixed the  issue that FPS for some games was shown as zero in Game Space
+    ● Fixed some known issues and improved system stability
+    **Camera**:
+    ● Optimized front camera NIGHTSCAPE quality
+    ● Fixed the low probabilistic issue that the sound is out of sync with the picture after video recording
+  codename: RMX2001
+  date: 28/6/2020
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
+  md5: 7F29D0A855213C2D84F0C55DEF067262
+  region: UAE
+  size: 3.05GB
+  system: realme UI 1.0
+  version: RMX2001_11.B.37
+- changelog: |
+    **Security**:
     ● Android security patch: May, 2020
     **Screen Recording**:
     ● Optimized screen recording feature
@@ -585,31 +605,33 @@
   system: realme UI 1.0
   version: RMX2061_11.A.25
 - changelog: |
+    **Keamanan**:
+    ● Tingkat Android Security Patch: 5 Juni 2020
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2001
-  date: 6/6/2020
+  date: 28/6/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
-  md5: 2109441FD6AB8DF9883ABF30B6CCF23B
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
+  md5: 7F29D0A855213C2D84F0C55DEF067262
   region: Indonesia
-  size: 3.02GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2001_11.B.33
+  version: RMX2001_11.B.37
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: Mei 2020
-    **Kamera**:
-    **• Pengoptimalan kejernihan kamera depan dalam adegan tertentu**:
+    ● Tingkat Android Security Patch: 5 Juni 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2020
-  date: 29/5/2020
+  date: 3/7/2020
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
-  md5: 00B654DE25B9C5F94A5438791ADE37A5
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0330_all_L57BVJ63NK5r.ozip
+  md5: CA8CEA341F9E3289892FA90DE93601CB
   region: Indonesia
-  size: 2.84GB
+  size: 2.83GB
   system: realme UI V1.0
-  version: RMX2020_11_A.25
+  version: RMX2020_11_A.33
 - changelog: '**• Menambahkan penambal keamanan Android Mei 2020 untuk menyempurnakan
     keamanan sistem.**:
 
@@ -1376,21 +1398,25 @@
   system: realme UI 1.0
   version: RMX2061_11.A.25
 - changelog: |
+    **Security**:
+    ● Updated Android security patch: June, 2020
+    **Applications**:
+    ● Added realme Link
     **System**:
-    **• Supported Hebrew system language**:
-    **• Updated default lockscreen wallpaper**:
-    **• Fixed the issue that low probability splash screen in some scenes of Instagram**:
-    **• Fixed the issue that some games show 0 FPS in the game space**:
-    **• Fixed some known bugs, and improved system stability**:
+    ● Fixed the  issue that FPS for some games was shown as zero in Game Space
+    ● Fixed some known issues and improved system stability
+    **Camera**:
+    ● Optimized front camera NIGHTSCAPE quality
+    ● Fixed the low probabilistic issue that the sound is out of sync with the picture after video recording
   codename: RMX2001
-  date: 6/6/2020
+  date: 28/6/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
-  md5: 2109441FD6AB8DF9883ABF30B6CCF23B
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
+  md5: 7F29D0A855213C2D84F0C55DEF067262
   region: Pakistan
-  size: 3.02GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2001_11.B.33
+  version: RMX2001_11.B.37
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -1596,17 +1622,19 @@
   system: realme UI 1.0
   version: RMX2061_11.A.25
 - changelog: |
+    **Безопасность**:
+    ● Патчи безопасности Android: от 5 июня 2020
     **Система:**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
   codename: RMX2001
-  date: 6/6/2020
+  date: 28/6/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
-  md5: 2109441FD6AB8DF9883ABF30B6CCF23B
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
+  md5: 7F29D0A855213C2D84F0C55DEF067262
   region: Russia
-  size: 3.02GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2001_11.B.33
+  version: RMX2001_11.B.37
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности Android за апрель 2020 г.
@@ -1916,19 +1944,33 @@
   system: realme UI 1.0
   version: RMX2061_11.A.25
 - changelog: |
-    **Bảo mật**:
-    ● Bản vá bảo mật Android: Tháng 5 năm 2020
-    **Máy ảnh**:
-    **• Tối ưu hóa độ rõ của máy ảnh trước khi chụp một số cảnh**:
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2001
+  date: 28/6/2020
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
+  md5: 7F29D0A855213C2D84F0C55DEF067262
+  region: Vietnam
+  size: 3.05GB
+  system: realme UI 1.0
+  version: RMX2001_11.B.37
+- changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2020
-  date: 29/5/2020
+  date: 3/7/2020
   device: realme C3
   download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0250_all_b9Vgmy1EJ2Bc.ozip
   md5: 00B654DE25B9C5F94A5438791ADE37A5
   region: Vietnam
-  size: 2.84GB
+  size: 2.83GB
   system: realme UI V1.0
-  version: RMX2020_11_A.25
+  version: RMX2020_11_A.33
 - changelog: |
     **Bảo mật**:
     **• Thêm bản vá bảo mật Android tháng 5/2020 nhằm nâng cao tính bảo mật của hệ thống.**:

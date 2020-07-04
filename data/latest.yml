@@ -1336,23 +1336,18 @@
   version: CPH1861EX_11_C.49
 - changelog: |
     **الأمان**:
-    ● تصحيحات أمان Android: أبريل ٢٠٢٠
+    ●معامل تصحيح أمان أندرويد : 5 يونيو ,2020
     **النظام**:
-    ● إصلاح مشكلة عدم فعالية مساحة الألعاب في بعض السيناريوهات
-    ● تحديث الرسوم المتحركة للشحن بتقنية VOOC
-    **الكاميرا**:
-    ● إضافة ميزة الثبات الفائق
-    ● تحسين دقة الكاميرا الأمامية في بعض السيناريوهات
-    ● تحسين دقة مكالمة الفيديو في بعض السيناريوهات
+    ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
   codename: RMX2001
-  date: 6/6/2020
+  date: 28/6/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0330_all_qbNARhZt88dD.ozip
-  md5: 2109441FD6AB8DF9883ABF30B6CCF23B
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
+  md5: 7F29D0A855213C2D84F0C55DEF067262
   region: Iraq
-  size: 3.02GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2001_11.B.33
+  version: RMX2001_11.B.37
 - changelog: |
     **الأمان**:
     ●معامل تصحيح أمان أندرويد : 5 يونيو ,2020

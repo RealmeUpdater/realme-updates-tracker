@@ -456,19 +456,98 @@
   system: ColorOS 6.0
   version: RMX1805EX_11_A.68
 - changelog: |
-    **Security**:
-    ● Android security patch: May, 2020
-    **Known issue fixed**:
-    ● Optimized lagging problem of sliding status bar
+    **Reminder**:
+    **This update is the Stable Release version, it is recommended that you update to the latest realme UI 1.0**:
+    **realme’s own customised UI based on Android 10 for realme devices is coming. You can now experience enhanced security, software stability and consistent user experience.**:
+    **Note: Before you upgrade the Stable Release version, please make sure to back up your important data in advance.**:
+    **Attention & Instructions**:
+    **1.To-do list before upgrading**:
+    **（1） Before upgrading the Stable Release version, please back up your mobile phone's important data and confirm that the backup is complete and successful.**:
+    **（2） Before upgrading the Stable Release version, please make sure that the current version of your mobile phone is on required version**:
+    **Model Required version**:
+    **realme 2 Pro 【RMX1801EX_11_C.31】**:
+    **（To check the version number: Settings> About phone> Version）. If your phone is currently not on the required version, please upgrade to latest version first.**:
+    **（3） There may have some third-party application versions that aren’t compatible with Android 10. Therefore, it is recommended to update all your applications to the latest version in Play Store before upgrading the Stable Release version.**:
+    **（4） Please ensure that your phone storage is more than 5G. Otherwise there will be a risk of upgrade failure. （To check storage space method: Settings> Additional Settings> Storage）.**:
+    **（5） Please make sure your phone is not ROOT.**:
+    **[Visuals]**:
+    **• Updated UI to realme UI**:
+    **• Brand new Real Design makes visuals more attractive and operation more efficient**:
+    **[Smart Sidebar]**:
+    **• Optimized user interface and improved one-handed operation**:
+    **• Optimized Smart Sidebar: Replaced File Console with File Manager; removed OSIE Visual Effect and No Notification Alerts**:
+    **• Drag an app out of Smart Sidebar to open it in Split-screen Mode**:
+    **• Added two new features: “Assistive Ball Opacity” and “Hide Assistive Ball on Fullscreen App”**:
+    **• Optimized the Floating Window feature for more apps**:
+    **• Added Bubbles: A bubble is displayed when you open an app in a floating window from the Smart Sidebar. Tap the bubble to collapse or open the app**:
+    **[Screenshot]**:
+    **• Optimized 3-Finger Screenshot Gesture: Use 3 fingers to touch and hold the screen, and swipe to take a screenshot of the selected part of the screen (partial screen capture). Use 3 fingers to touch and hold the screen, and swipe your fingers outwards to capture a long screenshot**:
+    **• Added screenshot settings: You can adjust the position of the screenshot preview floating window and set the screenshot sound**:
+    **• Optimized screenshot preview floating window: After taking a screenshot, drag it up and release to share it, or drag it down and release to take a long screenshot**:
+    **[Navigation Gestures 3.0]**:
+    **• Optimized gestures: All gestures are supported in landscape mode**:
+    **[System]**:
+    **• Added Focus Mode: Minimizes outside distractions when you are learning or working**:
+    **• Added whole new charging animation**:
+    **• Optimized the Quick Settings user interface for easier one-handed operation**:
+    **• Added pause feature for screen recording**:
+    **• Added a floating window and settings for screen recording**:
+    **• New sounds added for file deletion, calculator key touches, and compass pointer**:
+    **• Optimized system built-in ringtones**:
+    **• Added TalkBack floating prompts for Accessibility**:
+    **• New management feature for recent tasks: You can view memory of recent tasks and locked apps**:
+    **[Games]**:
+    **• Optimized visual interaction for Game Space**:
+    **• Optimized loading animation for Game Space**:
+    **[Homescreen]**:
+    **• Added new live wallpapers**:
+    **• Added artistic wallpapers**:
+    **• Added option to open Global Search or the notification panel when swiping down on homescreen**:
+    **• Added option to customize the size, shape, and style of app icons on homescreen**:
+    **• Optimized the graphic design of password unlock to facilitate one-handed operation**:
+    **• Support for animated wallpapers on the lockscreen**:
+    **• Added a Simple Mode for homescreen, featuring larger fonts, icons and a clearer layout**:
+    **[Security]**:
+    **• Random MAC address Generator: When your phone is connected to Wi-Fi network system generates a random MAC address to avoid targeted ads and protect your privacy**:
+    **[Tools]**:
+    **• In Quick Settings or Smart Sidebar, you can open Calculator in a floating window**:
+    **• Added the trim feature in Recordings**:
+    **• Added the Weather (dynamic) ringtone, which automatically adapts to the current weather**:
+    **• Added weather-adaptive animations in Weather**:
+    **[Camera]**:
+    **• Optimized the Camera UI for better user experience**:
+    **• Optimized the Timer UI and sound**:
+    **[Photos]**:
+    **• Optimized the Album UI for a clearer structure and photo thumbnails**:
+    **• Added Album Recommendations that recognize more than 80 different scenes**:
+    **[Communications]**:
+    **• realme Share now supports sharing files with OPPO, Vivo and Xiaomi devices**:
+    **• Optimized the Contacts UI for a more efficient experience**:
+    **[Settings]**:
+    **• Search Settings now supports fuzzy match and contains a search history**:
+    **[Music]**:
+    **• Added Dual Mode Music Share in realme Lab**:
+    **FAQ:**:
+    **1.Why my Google key not working?**:
+    **Please note (only for users who have unlocked the device, users who not unlocked are not affected):**:
+    **Due to the new Google security mechanism, the device will be in a non-secure mechanism state after unlocked. The Google key will be automatically deleted which will affect the three-party payment application.**:
+    **In order to ensure the safety of mobile phone data, it is recommended back to the lock state before update;**:
+    **If your phone has been upgraded to F.07 & future versions, Google key will come back when you lock your phone.**:
+    **2.Why is my Google camera(GCAM) not working after upgrading?**:
+    **After our lab testing , Google camera is not very compatible with realme UI.**:
+    **If you want to use Google Camera, please upgrade to latest version first;**:
+    **And operate on following path: settings ---- ""developer options ----"" camera HAL3, and then restart the phone;**:
+    **We had found a version with better compatibility for 2 Pro. It is recommended to download and install the following apk link:**:
+    **https://drive.google.com/file/d/1x9xwQCNy1jPEbLkV0HLPf2HKPT3nm59T/view?usp=sharin**:
   codename: RMX1801EX
-  date: 14/5/2020
+  date: 30/6/2020
   device: realme 2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0310_all_UP4tkkokow3k.ozip
-  md5: DABEA6DBB7482CE71EF1B11A0826F32
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_2080_all_56MIbf8bO6Ld.ozip
+  md5: 168ED7A99441713DF155FCAE8B3118E6
   region: India
-  size: 2.44GB
-  system: ColorOS 6.0
-  version: RMX1801EX_11_C.31
+  size: 2.94GB
+  system: realme UI V1.0
+  version: RMX1801EX_11.F.08
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020

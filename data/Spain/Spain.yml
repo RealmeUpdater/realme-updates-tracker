@@ -1,29 +1,29 @@
 - changelog: |
-    **Seguridad**:
-    ● Parche de seguridad de Android(2020#6)
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2061EU
-  date: 21/6/2020
+  date: 4/7/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0180_all_FyagB4n9PhpW.ozip
-  md5: 89fd20b84860e82d1571415bef1c621a
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0200_all_uIzNbnYiGLLT.ozip
+  md5: C0845B100EEF3AB51B41C8EA6DFFC895
   region: Spain
   size: 3.11GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.18
+  version: RMX2061EU_11.A.20
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: mayo de 2020
-  codename: RMX2040EU
-  date: 16/5/2020
+    ● Parche de seguridad de Android: junio de 2020
+    **Sistema**:
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+  codename: RMX2040
+  date: 3/7/2020
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0160_all_zSyg23JCoxwI.ozip
-  md5: 5929EEF7D77EC02E3F6788F13CCE7314
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
+  md5: 33A048134CA7BC6215EED41457CE958A
   region: Spain
-  size: 2.67GB
+  size: 2.6GB
   system: realmeUI V1.0
-  version: RMX2040EU_11.A.16
+  version: RMX2040_11_A.20
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020

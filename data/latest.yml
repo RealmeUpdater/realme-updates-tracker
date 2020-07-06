@@ -262,31 +262,31 @@
   system: realme UI 1.0
   version: RMX1851_11.C.04
 - changelog: |
-    **Seguridad**:
-    ● Parche de seguridad de Android(2020#6)
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2061EU
-  date: 21/6/2020
+  date: 4/7/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0180_all_FyagB4n9PhpW.ozip
-  md5: 89fd20b84860e82d1571415bef1c621a
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0200_all_uIzNbnYiGLLT.ozip
+  md5: C0845B100EEF3AB51B41C8EA6DFFC895
   region: Spain
   size: 3.11GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.18
+  version: RMX2061EU_11.A.20
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: mayo de 2020
-  codename: RMX2040EU
-  date: 16/5/2020
+    ● Parche de seguridad de Android: junio de 2020
+    **Sistema**:
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+  codename: RMX2040
+  date: 3/7/2020
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0160_all_zSyg23JCoxwI.ozip
-  md5: 5929EEF7D77EC02E3F6788F13CCE7314
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
+  md5: 33A048134CA7BC6215EED41457CE958A
   region: Spain
-  size: 2.67GB
+  size: 2.6GB
   system: realmeUI V1.0
-  version: RMX2040EU_11.A.16
+  version: RMX2040_11_A.20
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -431,19 +431,17 @@
   system: realmeUI V1.0
   version: RMX2076EU_11_A.22
 - changelog: |
-    **Security**:
-    ● Updated Android security patch（2020#6）
     **System**:
-    ● Fixed some known issues, and improved system stability
+    ● Fixed the issue of excessive system storage occupation
   codename: RMX2061EU
-  date: 21/6/2020
+  date: 4/7/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0180_all_FyagB4n9PhpW.ozip
-  md5: 89fd20b84860e82d1571415bef1c621a
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0200_all_uIzNbnYiGLLT.ozip
+  md5: C0845B100EEF3AB51B41C8EA6DFFC895
   region: Europe
   size: 3.11GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.18
+  version: RMX2061EU_11.A.20
 - changelog: |
     **Security**:
     ● Updated Andriod security patch: June, 2020
@@ -465,19 +463,47 @@
   system: realme UI 1.0
   version: RMX2001EU_11.A.34
 - changelog: |
+    **Optimized**:
+    ● Optimized game audio quality
+    ● Optimized system stability
+    ● Optimized probabilistic lagging issue
+    **Known issue fixed**:
+    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
+    ● Fixed the probabilistic issue that weather app failed to obtain location
+    ● Fixed the probabilistic issue that game center FPS was shown as zero
+    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
     **Security**:
-    ● Android security patch: May, 2020
-    **Camera**:
-    ● Optimized the front camera clarity in some scenes
+    ● Updated Android security patch（2020#6）
   codename: RMX2040
-  date: 25/5/2020
+  date: 3/7/2020
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0160_all_zSyg23JCoxwI.ozip
-  md5: 5929EEF7D77EC02E3F6788F13CCE7314
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
+  md5: 33A048134CA7BC6215EED41457CE958A
   region: Europe
-  size: 2.67GB
+  size: 2.6GB
   system: realme UI 1.0
-  version: RMX2040_11_A.16
+  version: RMX2040_11_A.20
+- changelog: |
+    **Optimized**:
+    ● Optimized game audio quality
+    ● Optimized system stability
+    ● Optimized probabilistic lagging issue
+    **Known issue fixed**:
+    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
+    ● Fixed the probabilistic issue that weather app failed to obtain location
+    ● Fixed the probabilistic issue that game center FPS was shown as zero
+    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
+    **Security**:
+    ● Updated Android security patch（2020#6）
+  codename: RMX2020
+  date: 3/7/2020
+  device: realme C3
+  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0320_all_crQxH1bPiHb6.ozip'
+  md5: F811B440D5232128AE71486BA19641BE
+  region: Europe
+  size: 2.6GB
+  system: realme UI 1.0
+  version: RMX2020_11_A.32
 - changelog: |
     **Security**:
     **• Added the May 2020 Android security patch to enhance system security.**:
@@ -589,21 +615,17 @@
   system: realme UI V1.0
   version: RMX1851EX_11.C.06
 - changelog: |
-    **Keamanan**:
-    ● Tingkat Android Security Patch: 5 Juni 2020
-    **Aplikasi**:
-    ● Ditambahkan realme Link
-    **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    **System**:
+    ● Korrektur einiger bekannter Probleme und verbesserte Systemstabilität
   codename: RMX2061
-  date: 21/6/2020
+  date: 4/7/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
-  md5: 7ebf27ec7da21567b5465ee76bebe6f9
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0270_all_EmtL5ZcP1lZd.ozip
+  md5: 84979E5E9E5A3AE483FD443369B405D1
   region: Indonesia
   size: 3.38GB
   system: realme UI 1.0
-  version: RMX2061_11.A.25
+  version: RMX2061_11.A.27
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: 5 Juni 2020
@@ -858,19 +880,26 @@
   system: realme UI 1.0
   version: RMX2020_11_A.33
 - changelog: |
+    **Optimized**:
+    ● Optimized game audio quality
+    ● Optimized system stability
+    ● Optimized probabilistic lagging issue
+    **Known issue fixed**:
+    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
+    ● Fixed the probabilistic issue that weather app failed to obtain location
+    ● Fixed the probabilistic issue that game center FPS was shown as zero
+    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
     **Security**:
-    ● Android security patch: May, 2020
-    **Camera**:
-    ● Optimized the front camera clarity in some scenes
+    ● Updated Android security patch（2020#6）
   codename: RMX2040
-  date: 25/5/2020
+  date: 3/7/2020
   device: Narzo 10
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0170_all_3KtBmt3oFBev.ozip
-  md5: 341F19CE997EBA6E2EFCE5A2C5FE028E
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0230_all_xdNcURB51oIc.ozip
+  md5: AFE9F21B2822F2979C8C4D00D29C2930
   region: India
-  size: 2.81GB
+  size: 2.83GB
   system: realme UI 1.0
-  version: RMX2040_11_A.17
+  version: RMX2040_11_A.23
 - changelog: |
     **Security**:
     ● Android security patch: June, 2020
@@ -895,21 +924,17 @@
   system: realmeUI V1.0
   version: RMX2076PU_11_A.25
 - changelog: |
-    **Security**:
-    ● Updated Android security patch（June,2020）
-    **Application**:
-    ● Added realme Link
     **System**:
-    ● Fixed some known issues, and improved system stability
+    ● Fixed the issue of excessive system storage occupation
   codename: RMX2061
-  date: 21/6/2020
+  date: 4/7/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
-  md5: 7ebf27ec7da21567b5465ee76bebe6f9
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0270_all_EmtL5ZcP1lZd.ozip
+  md5: 84979E5E9E5A3AE483FD443369B405D1
   region: India
   size: 3.38GB
   system: realme UI 1.0
-  version: RMX2061_11.A.25
+  version: RMX2061_11.A.27
 - changelog: |
     **Security**:
     ● Updated Android security patch: June, 2020
@@ -1363,35 +1388,38 @@
   system: realme UI V1.0
   version: RMX1971EX_11.C.04
 - changelog: |
+    **Optimized**:
+    ● Optimized game audio quality
+    ● Optimized system stability
+    ● Optimized probabilistic lagging issue
+    **Known issue fixed**:
+    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
+    ● Fixed the probabilistic issue that weather app failed to obtain location
+    ● Fixed the probabilistic issue that game center FPS was shown as zero
+    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
     **Security**:
-    ● Android security patch: May, 2020
-    **Camera**:
-    ● Optimized the front camera clarity in some scenes
+    ● Updated Android security patch（2020#6）
   codename: RMX2040
-  date: 25/5/2020
+  date: 3/7/2020
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0170_all_3KtBmt3oFBev.ozip
-  md5: 341F19CE997EBA6E2EFCE5A2C5FE028E
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0230_all_xdNcURB51oIc.ozip
+  md5: AFE9F21B2822F2979C8C4D00D29C2930
   region: Pakistan
-  size: 2.81GB
+  size: 2.83GB
   system: realme UI 1.0
-  version: RMX2040_11_A.17
+  version: RMX2040_11_A.23
 - changelog: |
-    **Security**:
-    ● Updated Android security patch（June,2020）
-    **Application**:
-    ● Added realme Link
     **System**:
-    ● Fixed some known issues, and improved system stability
+    ● Fixed the issue of excessive system storage occupation
   codename: RMX2061
-  date: 21/6/2020
+  date: 4/7/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
-  md5: 7ebf27ec7da21567b5465ee76bebe6f9
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0270_all_EmtL5ZcP1lZd.ozip
+  md5: 84979E5E9E5A3AE483FD443369B405D1
   region: Pakistan
   size: 3.38GB
   system: realme UI 1.0
-  version: RMX2061_11.A.25
+  version: RMX2061_11.A.27
 - changelog: |
     **Security**:
     ● Updated Android security patch: June, 2020
@@ -1590,32 +1618,30 @@
   version: RMX1941EX_11.A.25
 - changelog: |
     **Безопасность**:
-    ● Исправление безопасности Android: 5 мая 2020
-    **Камера:**:
-    **• оптимизирована четкость работы передней камеры в некоторых сценах;**:
-  codename: RMX2040
-  date: 25/5/2020
-  device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0160_all_zSyg23JCoxwI.ozip
-  md5: 5929EEF7D77EC02E3F6788F13CCE7314
-  region: Russia
-  size: 2.67GB
-  system: realme UI 1.0
-  version: RMX2040_11_A.16
-- changelog: |
-    **Безопасность**:
     ● Патчи безопасности Android: от 5 июня 2020
+    **Система:**:
+    ● исправлено несколько известных проблем, улучшена стабильность системы.
+  codename: RMX2040
+  date: 3/7/2020
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
+  md5: 33A048134CA7BC6215EED41457CE958A
+  region: Russia
+  size: 2.6GB
+  system: realme UI 1.0
+  version: RMX2040_11_A.20
+- changelog: |
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
   codename: RMX2061
-  date: 21/6/2020
+  date: 4/7/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
-  md5: 7ebf27ec7da21567b5465ee76bebe6f9
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0270_all_EmtL5ZcP1lZd.ozip
+  md5: 84979E5E9E5A3AE483FD443369B405D1
   region: Russia
   size: 3.38GB
   system: realme UI 1.0
-  version: RMX2061_11.A.25
+  version: RMX2061_11.A.27
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android: от 5 июня 2020
@@ -1811,19 +1837,17 @@
   system: ColorOS 6.0
   version: RMX1941EX_11.A.25
 - changelog: |
-    **Güvenlik**:
-    ● Android güvenlik yaması(2020#6)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2061EU
-  date: 21/6/2020
+  date: 4/7/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0180_all_FyagB4n9PhpW.ozip
-  md5: 89fd20b84860e82d1571415bef1c621a
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0200_all_uIzNbnYiGLLT.ozip
+  md5: C0845B100EEF3AB51B41C8EA6DFFC895
   region: Turkey
   size: 3.11GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.18
+  version: RMX2061EU_11.A.20
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması: Nisan 2020
@@ -1923,21 +1947,31 @@
   system: ColorOS 6.0
   version: RMX1941EX_11.A.24
 - changelog: |
-    **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020
-    **Ứng dụng:**:
-    ● thêm realme Link
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2061
-  date: 21/6/2020
+  date: 4/7/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
-  md5: 7ebf27ec7da21567b5465ee76bebe6f9
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0270_all_EmtL5ZcP1lZd.ozip
+  md5: 84979E5E9E5A3AE483FD443369B405D1
   region: Vietnam
   size: 3.38GB
   system: realme UI 1.0
-  version: RMX2061_11.A.25
+  version: RMX2061_11.A.27
+- changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2040
+  date: 3/7/2020
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0230_all_xdNcURB51oIc.ozip
+  md5: AFE9F21B2822F2979C8C4D00D29C2930
+  region: Vietnam
+  size: 2.83GB
+  system: realme UI 1.0
+  version: RMX2040_11_A.23
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.

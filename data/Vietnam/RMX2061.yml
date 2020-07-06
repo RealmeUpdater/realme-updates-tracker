@@ -1,16 +1,12 @@
 changelog: |
-  **Bảo mật**:
-  ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020
-  **Ứng dụng:**:
-  ● thêm realme Link
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
 codename: RMX2061
-date: 21/6/2020
+date: 4/7/2020
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
-md5: 7ebf27ec7da21567b5465ee76bebe6f9
+download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0270_all_EmtL5ZcP1lZd.ozip
+md5: 84979E5E9E5A3AE483FD443369B405D1
 region: Vietnam
 size: 3.38GB
 system: realme UI 1.0
-version: RMX2061_11.A.25
+version: RMX2061_11.A.27

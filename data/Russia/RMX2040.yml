@@ -1,14 +1,14 @@
 changelog: |
   **Безопасность**:
-  ● Исправление безопасности Android: 5 мая 2020
-  **Камера:**:
-  **• оптимизирована четкость работы передней камеры в некоторых сценах;**:
+  ● Патчи безопасности Android: от 5 июня 2020
+  **Система:**:
+  ● исправлено несколько известных проблем, улучшена стабильность системы.
 codename: RMX2040
-date: 25/5/2020
+date: 3/7/2020
 device: realme 6i
-download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0160_all_zSyg23JCoxwI.ozip
-md5: 5929EEF7D77EC02E3F6788F13CCE7314
+download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
+md5: 33A048134CA7BC6215EED41457CE958A
 region: Russia
-size: 2.67GB
+size: 2.6GB
 system: realme UI 1.0
-version: RMX2040_11_A.16
+version: RMX2040_11_A.20

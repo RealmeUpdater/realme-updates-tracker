@@ -24,19 +24,17 @@
   system: realmeUI V1.0
   version: RMX2076EU_11_A.22
 - changelog: |
-    **Security**:
-    ● Updated Android security patch（2020#6）
     **System**:
-    ● Fixed some known issues, and improved system stability
+    ● Fixed the issue of excessive system storage occupation
   codename: RMX2061EU
-  date: 21/6/2020
+  date: 4/7/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0180_all_FyagB4n9PhpW.ozip
-  md5: 89fd20b84860e82d1571415bef1c621a
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0200_all_uIzNbnYiGLLT.ozip
+  md5: C0845B100EEF3AB51B41C8EA6DFFC895
   region: Europe
   size: 3.11GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.18
+  version: RMX2061EU_11.A.20
 - changelog: |
     **Security**:
     ● Updated Andriod security patch: June, 2020
@@ -58,19 +56,47 @@
   system: realme UI 1.0
   version: RMX2001EU_11.A.34
 - changelog: |
+    **Optimized**:
+    ● Optimized game audio quality
+    ● Optimized system stability
+    ● Optimized probabilistic lagging issue
+    **Known issue fixed**:
+    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
+    ● Fixed the probabilistic issue that weather app failed to obtain location
+    ● Fixed the probabilistic issue that game center FPS was shown as zero
+    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
     **Security**:
-    ● Android security patch: May, 2020
-    **Camera**:
-    ● Optimized the front camera clarity in some scenes
+    ● Updated Android security patch（2020#6）
   codename: RMX2040
-  date: 25/5/2020
+  date: 3/7/2020
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0160_all_zSyg23JCoxwI.ozip
-  md5: 5929EEF7D77EC02E3F6788F13CCE7314
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
+  md5: 33A048134CA7BC6215EED41457CE958A
   region: Europe
-  size: 2.67GB
+  size: 2.6GB
   system: realme UI 1.0
-  version: RMX2040_11_A.16
+  version: RMX2040_11_A.20
+- changelog: |
+    **Optimized**:
+    ● Optimized game audio quality
+    ● Optimized system stability
+    ● Optimized probabilistic lagging issue
+    **Known issue fixed**:
+    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
+    ● Fixed the probabilistic issue that weather app failed to obtain location
+    ● Fixed the probabilistic issue that game center FPS was shown as zero
+    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
+    **Security**:
+    ● Updated Android security patch（2020#6）
+  codename: RMX2020
+  date: 3/7/2020
+  device: realme C3
+  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0320_all_crQxH1bPiHb6.ozip'
+  md5: F811B440D5232128AE71486BA19641BE
+  region: Europe
+  size: 2.6GB
+  system: realme UI 1.0
+  version: RMX2020_11_A.32
 - changelog: |
     **Security**:
     **• Added the May 2020 Android security patch to enhance system security.**:

@@ -10,12 +10,12 @@ changelog: |
   ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
   **Security**:
   ● Updated Android security patch（2020#6）
-codename: RMX2040
+codename: RMX2020
 date: 3/7/2020
-device: realme 6i
-download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0230_all_xdNcURB51oIc.ozip
-md5: AFE9F21B2822F2979C8C4D00D29C2930
-region: Pakistan
-size: 2.83GB
+device: realme C3
+download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0320_all_crQxH1bPiHb6.ozip'
+md5: F811B440D5232128AE71486BA19641BE
+region: Europe
+size: 2.6GB
 system: realme UI 1.0
-version: RMX2040_11_A.23
+version: RMX2020_11_A.32

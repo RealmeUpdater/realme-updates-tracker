@@ -1330,6 +1330,18 @@
     **（3） There may have some third-party application versions that aren’t compatible with Android 10. Therefore, it is recommended to update all your applications to the latest version in Play Store before upgrading the Stable Release version.**:
     **（4） Please ensure that your phone storage is more than 5G. Otherwise there will be a risk of upgrade failure. （To check storage space method: Settings> Additional Settings> Storage）.**:
     **（5） Please make sure your phone is not ROOT.**:
+    **FAQ:**:
+    **1.Why my Google key not working?**:
+    **Please note (only for users who have unlocked the device, users who not unlocked are not affected):**:
+    **Due to the new Google security mechanism, the device will be in a non-secure mechanism state after unlocked. The Google key will be automatically deleted which will affect the three-party payment application.**:
+    **In order to ensure the safety of mobile phone data, it is recommended back to the lock state before update;**:
+    **If your phone has been upgraded to F.07 & future versions, Google key will come back when you lock your phone.**:
+    **2.Why is my Google camera(GCAM) not working after upgrading?**:
+    **After our lab testing , Google camera is not very compatible with realme UI.**:
+    **If you want to use Google Camera, please upgrade to latest version first;**:
+    **And operate on following path: settings ---- ""developer options ----"" camera HAL3, and then restart the phone;**:
+    **We had found a version with better compatibility for 2 Pro. It is recommended to download and install the following apk link:**:
+    **https://drive.google.com/file/d/1x9xwQCNy1jPEbLkV0HLPf2HKPT3nm59T/view?usp=sharin**:
     **[Visuals]**:
     **• Updated UI to realme UI**:
     **• Brand new Real Design makes visuals more attractive and operation more efficient**:
@@ -1387,18 +1399,6 @@
     **• Search Settings now supports fuzzy match and contains a search history**:
     **[Music]**:
     **• Added Dual Mode Music Share in realme Lab**:
-    **FAQ:**:
-    **1.Why my Google key not working?**:
-    **Please note (only for users who have unlocked the device, users who not unlocked are not affected):**:
-    **Due to the new Google security mechanism, the device will be in a non-secure mechanism state after unlocked. The Google key will be automatically deleted which will affect the three-party payment application.**:
-    **In order to ensure the safety of mobile phone data, it is recommended back to the lock state before update;**:
-    **If your phone has been upgraded to F.07 & future versions, Google key will come back when you lock your phone.**:
-    **2.Why is my Google camera(GCAM) not working after upgrading?**:
-    **After our lab testing , Google camera is not very compatible with realme UI.**:
-    **If you want to use Google Camera, please upgrade to latest version first;**:
-    **And operate on following path: settings ---- ""developer options ----"" camera HAL3, and then restart the phone;**:
-    **We had found a version with better compatibility for 2 Pro. It is recommended to download and install the following apk link:**:
-    **https://drive.google.com/file/d/1x9xwQCNy1jPEbLkV0HLPf2HKPT3nm59T/view?usp=sharin**:
   codename: RMX1801EX
   date: 30/6/2020
   device: realme 2 Pro

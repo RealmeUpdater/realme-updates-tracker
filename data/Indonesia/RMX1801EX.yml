@@ -1,14 +1,65 @@
 changelog: |
-  **Keamanan**:
-  ● Patch keamanan Android: Mei 2020
-  **Perbaikan masalah yang diketahui**:
-  ● Pengoptimalan masalah lag saat batang status bergeser
+  **[Visual]**:
+  **• Memperbarui UI menjadi realme UI**:
+  **• Real Design terbaru membuat tampilan lebih atraktif dan pengoperasiannya lebih efisien.**:
+  **[Smart Sidebar]**:
+  **• Mengoptimalkan tampilan pengguna dan meningkatkan pengoperasian satu tangan.**:
+  **• Mengoptimalkan Smart Siderbar: Menggantikan File Console dengan File Manager; menghapus Efek Visual OSIE dan Peringatan Tanpa Pemberitahuan.**:
+  **• Menggeser aplikasi keluar Smart Sidebar untuk membukanya dalam mode Split-screen.**:
+  **• Menambahkan dua fitur baru: ""Assistive Ball Opacity"" dan ""Sembunyikan Assistive Ball saat di Fullscreen”.**:
+  **• Mengoptimalkan fitur Floating Window untuk aplikasi-aplikasi lainnya.**:
+  **• Menambahkan Bubble: bubble akan muncul ketika anda membuka aplikasi di floating window dari Smart Sidebar. Tekan bubble untuk membuka aplikasinya.**:
+  **[Tangkapan Layar]**:
+  **• Mengoptimalkan Gerakan Tangkapan Layar 3 Jari: Gunakan 3 jari untuk menyentuh dan tahan di layar. Kemudian geser bersamaan untuk mengambil tangkapan layar (tangkapan layar sebagian). Gunakan 3 jari untuk menyentuh dan tahan di layar, kemudian geser jari keluar untuk mengambil tangkapan layar panjang.**:
+  **• Menambahkan pengaturan tangkapan layar: Anda bisa mengatur posisi floating window dari tangkapan layar serta mengatur suara tangkapan layar.**:
+  **• Mengoptimalkan floating window pratinjau tangkapan layar: Setelah mengambil tangkapan layar, geser ke atas lalu lepaskan untuk membaginya, atau geser ke bawah lalu melepaskan untuk mengambil tangkapan layar panjang.**:
+  **[Gerakan Navigasi 3.0]**:
+  **• Mengoptimalkan gerakan : Semua gerakan mendukung mode landscape.**:
+  **[Sistem]**:
+  **• Menambahkan Mode Fokus: Mengurangi gangguan dari luar ketika anda belajar atau bekerja.**:
+  **• Menambahkan animasi pengisian baterai yang baru.**:
+  **• Mengoptimalkan tampilan pengguna Quick Settings untuk memudahkan pengoperasian satu tangan.**:
+  **• Menambahkan fitur pause untuk rekaman layar.**:
+  **• Menambahkan floating window dan pengaturan untuk rekaman layar.**:
+  **• Menambahkan suara baru untuk menghapus file, sentuhan kalkulator dan penunjukan kompas.**:
+  **• Mengoptimalkan nada dering sistem.**:
+  **• Menambahkan peringatan TalkBack untuk Aksesibilitas.**:
+  **• Fitur manajemen baru untuk recent task: Anda bisa melihat memori di recent task dan juga mengunci aplikasi.**:
+  **[Games]**:
+  **• Mengoptimalkan interaksi visual untuk Game Space.**:
+  **• Mengoptimalkan animasi loading untuk Game Space.**:
+  **[Homescreen]**:
+  **• Menambahkan live wallpaper.**:
+  **• Menambahkan walpaper artistik.**:
+  **• Menambahkan pilihan untuk Pencarian Global atau panel pemberitahuan ketika menggeser ke bawah di layar utama.**:
+  **• Menambahkan pilihan untuk mengatur ukuran, bentuk dan jenis dari icon aplikasi di layar utama.**:
+  **• Mengoptimalkan desain grafis tampilan kata sandi buka kunci untuk memudahkan pengoperasian satu tangan.**:
+  **• Dukungan untuk wallpaper animasi di layar kunci.**:
+  **• Menambah Simple Mode di layar utama, termasuk font dan icon yang lebih besar, serta tata letak yang lebih baik.**:
+  **[Keamanan]**:
+  **• Generator alamat MAC acak: Ketika ponsel anda terhubung dengan jaringan Wi-Fi, sistem akan membuat alamat MAC secara acak untuk menghindari iklan dan melindungin privasi anda.**:
+  **[Peralatan]**:
+  **• Di Quick Settings atau Smart Sidebar, anda bisa membuka Kalkulator di floating window.**:
+  **• Menambahkan fitur potong di Rekaman.**:
+  **• Menambahkan nada dering Cuaca (dinamis), yang secara otomatis akan beradaptasi dengan cuaca yang ada.**:
+  **• Menambahkan animasi cuaca yang adaptive di aplikasi Cuaca.**:
+  **[Kamera]**:
+  **• Mengoptimalkan UI Kamera untuk pengalaman pengguna yang lebih baik.**:
+  **• Mengoptimalkan UI Waktu dan suara.**:
+  **[Foto]**:
+  **• Mengoptimalkan UI Album untuk struktur dan tampilan foto yang lebih baik.**:
+  **• Menambahkan Rekomendasi Album yang mampu mengenali lebih dari 80 pemandangan yang berbeda.**:
+  **[Komunikasi]**:
+  **• realme Share mendukung perangkat OPPO, Vivo dan Xiaomi.**:
+  **• Mengoptimalkan UI Kontak untuk pengalaman yang lebih efisien.**:
+  **[Pengaturan]**:
+  **• Pencarian Pengaturan mendukung fuzzy match dan riwayat pencarian**:
 codename: RMX1801EX
-date: 14/5/2020
+date: 30/6/2020
 device: realme 2 Pro
-download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0310_all_UP4tkkokow3k.ozip
-md5: DABEA6DBB7482CE71EF1B11A0826F32
+download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_2080_all_56MIbf8bO6Ld.ozip
+md5: 168ED7A99441713DF155FCAE8B3118E6
 region: Indonesia
-size: 2.44GB
-system: ColorOS 6.0
-version: RMX1801EX_11_C.31
+size: 2.94GB
+system: realme UI V1.0
+version: RMX1801EX_11.F.08

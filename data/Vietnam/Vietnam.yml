@@ -197,19 +197,72 @@
   system: ColorOS 6.0
   version: RMX1805EX_11_A.68
 - changelog: |
-    **Bảo mật**:
-    ● Bản vá bảo mật Android: Tháng 5 năm 2020
-    **Sửa những lỗi đã xác định**:
-    ● Tối ưu hóa vấn đề trễ khi trượt thanh trạng thái
+    **[Đồ họa]**:
+    **• Cập nhật UI thành realme UI**:
+    **• Real Design hoàn toàn mới khiến đồ họa trở nên hấp dẫn hơn và thao tác hiệu quả hơn.**:
+    **[Thanh bên thông minh]**:
+    **• Tối ưu hóa giao diện người dùng và cải thiện thao tác một tay.**:
+    **• Tối ưu hóa Thanh bên thông minh: Thay thế File Console bằng File Manager; gỡ bỏ Hiệu ứng hình ảnh OSIE và Không có cảnh báo thông báo.**:
+    **• Kéo một ứng dụng ra khỏi Thanh bên thông minh để mở ứng dụng trong Chế độ chia màn hình.**:
+    **• Thêm hai tính năng mới: “Độ mờ bóng trợ lý” và “Ẩn bóng trợ lý trên ứng dụng toàn màn hình”.**:
+    **• Tối ưu hóa tính năng Cửa sổ nổi cho thêm nhiều ứng dụng.**:
+    **• Thêm Bong bóng: Một bong bóng được hiển thị khi bạn mở một ứng dụng trong cửa sổ nổi từ Thanh bên thông minh. Chạm vào bong bóng để thu gọn hoặc mở ứng dụng.**:
+    **[Ảnh chụp màn hình]**:
+    **• Tối ưu hóa cử chỉ chụp màn hình bằng 3 ngón tay: Sử dụng 3 ngón tay để chạm và giữ màn hình, và vuốt để chụp ảnh phần màn hình được chọn (chụp một phần màn hình). Sử dụng 3 ngón tay để chạm và giữ màn hình, và vuốt các ngón tay của bạn ra bên ngoài để chụp một ảnh màn hình dài.**:
+    **• Thêm cài đặt ảnh chụp màn hình: Bạn có thể điều chỉnh vị trí của cửa sổ nổi xem trước ảnh chụp màn hình và đặt âm thanh chụp màn hình.**:
+    **• Tối ưu hóa cửa sổ nổi xem trước ảnh chụp màn hình: Sau khi chụp ảnh màn hình, kéo ảnh lên và thả ra để chia sẻ, hoặc kéo ảnh xuống và thả ra để chụp ảnh màn hình dài.**:
+    **[Cử chỉ điều hướng 3.0]**:
+    **• Tối ưu hóa cử chỉ: Tất cả các cử chỉ đều được hỗ trợ trong chế độ ngang.**:
+    **[Hệ thống]**:
+    **• Thêm Chế độ tập trung: Giảm thiểu sự sao nhãng từ bên ngoài khi bạn đang học tập hoặc làm việc.**:
+    **• Thêm hình động sạc hoàn toàn mới.**:
+    **• Tối ưu hóa giao diện Cài đặt nhanh để thao tác một tay dễ dàng hơn.**:
+    **• Thêm tính năng tạm dừng đối với ghi màn hình.**:
+    **• Thêm cửa sổ nổi và cài đặt cho ghi màn hình.**:
+    **• Thêm âm thanh mới cho thao tác xóa tệp, chạm vào phím máy tính và kim la bàn.**:
+    **• Tối ưu hóa nhạc chuông tích hợp sẵn trong hệ thống.**:
+    **• Thêm lời nhắc nổi TalkBack cho Trợ năng.**:
+    **• Tính năng quản lý mới cho các tác vụ gần đây: Bạn có thể xem bộ nhớ các tác vụ gần đây và ứng dụng bị khóa.**:
+    **[Trò chơi]**:
+    **• Tối ưu hóa tương tác hình ảnh cho Không gian trò chơi.**:
+    **• Tối ưu hóa hình động tải cho Không gian trò chơi.**:
+    **[Màn hình chính]**:
+    **• Thêm hình nền trực tiếp mới.**:
+    **• Thêm hình nền nghệ thuật.**:
+    **• Thêm tùy chọn mở Tìm kiếm toàn bộ hoặc khung thông báo khi vuốt xuống trên màn hình chính.**:
+    **• Thêm tùy chọn tùy biến kích thước, hình dạng và kiểu của biểu tượng ứng dụng trên màn hình chính.**:
+    **• Tối ưu hóa thiết kế đồ họa của màn hình mở khóa mật khẩu để hỗ trợ thao tác một tay.**:
+    **• Hỗ trợ hình nền động trên màn hình khóa.**:
+    **• Thêm Chế độ đơn giản cho màn hình chính, với phông chữ và biểu tượng lớn hơn và bố cục rõ ràng hơn.**:
+    **[Bảo mật]**:
+    **• Trình tạo địa chỉ MAC ngẫu nhiên: Khi điện thoại của bạn kết nối với mạng Wi-Fi, hệ thống tạo ra một địa chỉ MAC ngẫu nhiên để tránh quảng cáo hướng đối tượng và bảo vệ sự riêng tư của bạn.**:
+    **[Công cụ]**:
+    **• Trong Cài đặt nhanh hoặc Thanh bên thông minh, bạn có thể mở Máy tính trong cửa sổ nổi.**:
+    **• Thêm tính năng cắt trong Ghi âm.**:
+    **• Thêm nhạc chuông (động) Thời tiết mà sẽ tự động thay đổi theo thời tiết hiện tại.**:
+    **• Thêm hình động thay đổi theo thời tiết trong Thời tiết.**:
+    **[Camera]**:
+    **• Tối ưu hóa UI của Camera để mang lại trải nghiệm người dùng tốt hơn.**:
+    **• Tối ưu hóa UI và âm thanh của Bộ hẹn giờ.**:
+    **[Ảnh]**:
+    **• Tối ưu hóa UI của Album để mang lại cấu trúc và ảnh thu nhỏ rõ ràng hơn.**:
+    **• Thêm Đề xuất album có thể nhận dạng hơn 80 cảnh khác nhau.**:
+    **[Liên lạc]**:
+    **• realme Share giờ hỗ trợ chia sẻ tệp với các thiết bị OPPO, Vivo và Xiaomi.**:
+    **• Tối ưu hóa UI của Danh bạ để mang lại trải nghiệm hiệu quả hơn.**:
+    **[Cài đặt]**:
+    **• Cài đặt Tìm kiếm giờ hỗ trợ kết quả khớp tương đối và chứa lịch sử tìm kiếm.**:
+    **[Nhạc]**:
+    **Thêm Chia sẻ nhạc chế độ kép trong realme Lab**:
   codename: RMX1801EX
-  date: 14/5/2020
+  date: 30/6/2020
   device: realme 2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_0310_all_UP4tkkokow3k.ozip
-  md5: DABEA6DBB7482CE71EF1B11A0826F32
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_2080_all_56MIbf8bO6Ld.ozip
+  md5: 168ED7A99441713DF155FCAE8B3118E6
   region: Vietnam
-  size: 2.44GB
+  size: 2.94GB
   system: ColorOS 6.0
-  version: RMX1801EX_11_C.31
+  version: RMX1801EX_11.F.08
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 5 năm 2020

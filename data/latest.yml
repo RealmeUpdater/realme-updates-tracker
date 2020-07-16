@@ -151,32 +151,26 @@
   system: realme UI V1.0
   version: RMX2051_11.B.14
 - changelog: |
-    **游戏空间**:
-    ● 新增游戏内显示弹幕消息的功能
-    ● 新增游戏空间支持oppo游戏手柄
+    **主题商店**:
+    ● 新增动态壁纸功能
+    ● 新增视频铃声功能
+    **状态栏**:
+    ● 优化切换上网卡功能的默认位置
     **蓝牙**:
-    ● 新增蓝牙耳机(Air和Neo)弹窗功能(此功能只能配合realme耳机使用，且需要配合realme Link应用更新耳机固件才可以使用)
-    **屏幕录制**:
-    ● 优化屏幕录制功能
-    **设置**:
-    ● 优化侧滑返回样式透明度
-    **游戏**:
-    ● 优化和平精英概率卡顿掉帧问题
+    ● 修复连接蓝牙耳机时最低音量偏小问题
+    **通知栏**:
+    ● 修复微博消息概率性不能跳转问题
     **系统**:
-    ● 修复信息添加音频文件概率卡死问题
-    ● 修复软件商店概率加载数据失败问题
-    ● 修复移动网络下概率无法使用云服务问题
-    **安全**:
-    ● 更新Android安全补丁（2020#6）
+    ● 修复抖音上滑概率性失效问题
   codename: RMX1931
-  date: 26/06/2020
+  date: 16/07/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1260_all_dCLbvXiAZleZ.ozip
-  md5: 7015a347132913abb9f85e6a64282ea0
+  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1270_all_ItMWgf9Z19XT.ozip
+  md5: c8935a12b52a44cc4f44aa229b6a0045
   region: China
-  size: 2.92GB
+  size: 2.93GB
   system: realme UI 1.0
-  version: RMX1931_11.C.26
+  version: RMX1931_11.C.27
 - changelog: |
     **应用**:
     ● 新增realme Link应用

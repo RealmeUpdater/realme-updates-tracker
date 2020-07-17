@@ -236,7 +236,7 @@
     RMX2030EX_11_A.16: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0160_all_z8nGVfavmkmS.ozip
     RMX2030EX_11_A.18: ' https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0180_all_81DARpRNAwgZ.ozip'
     RMX2030EX_11_A.19: ' https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0190_all_nrdKBLRr60zb.ozip'
-    RMX2030_11_A.20: ' https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0200_all_ddurYzSHqWzG.ozip'
+    RMX2030_11_A.20: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0200_all_ddurYzSHqWzG.ozip
 - RMX2040:
     RMX2040_11_A.17: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0170_all_3KtBmt3oFBev.ozip
     RMX2040_11_A.23: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0230_all_xdNcURB51oIc.ozip
@@ -278,6 +278,8 @@
 - RMX2076PU:
     RMX2076PU_11_A.19: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0190_all_GtaIbbl9KMW6.ozip
     RMX2076PU_11_A.25: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0250_all_kUo2dID1pUiO.ozip
+- RMX2081PU:
+    RMX2081PU_11.A.33: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0330_all_Hd2fStjxAphY.ozip
 - RMX2141:
     RMX2141_11.A.04: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0040_all_ufRXsoQRDRih.ozip
     RMX2141_11.A.05: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0050_all_IrvnYlXlf4bJ.ozip

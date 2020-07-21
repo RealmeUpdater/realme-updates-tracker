@@ -1,5 +1,24 @@
 - changelog: |
     **Security**:
+    ● Andriod security patch: June, 2020
+    **Optimization**:
+    ● Optimized screen brightness
+    ● Optimized the ocassional heating issue of side fingerprint sensor
+    ● Optimized photographing quality, and fixed some known issues
+    **System**:
+    ● Fixed the ocassional crash issue
+    ● Fixed some known issues, and improved system stability
+  codename: RMX2081EU
+  date: 30/6/2020
+  device: realme X3 SuperZoom
+  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0320_all_TnFj0hxHgRoX.ozip
+  md5: 581285513b5c0821b8262fb5f8362010
+  region: Europe
+  size: 3.04GB
+  system: realme UI 1.0
+  version: RMX2081EU_11.A.32
+- changelog: |
+    **Security**:
     ● Updated Andriod security patch（2020#5）
     **Settings**:
     ● Updated system static wallpapers

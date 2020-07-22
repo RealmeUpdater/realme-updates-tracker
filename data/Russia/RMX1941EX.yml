@@ -1,14 +1,14 @@
 changelog: |
   **Безопасность:**:
-  ● обновление системы безопасности Android: май 2020 г.
+  ● Добавлены патчи безопасности Android за июль 2020
   **Система:**:
   ● исправлено несколько известных проблем, улучшена стабильность системы.
 codename: RMX1941EX
-date: 13/5/2020
+date: 21/7/2020
 device: realme C2
-download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0250_all_EXhbn2ykDIbf.ozip
-md5: cdedecfeecbd07b18447ba37b13effba
+download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0270_all_L0s8I1dfox9G.ozip
+md5: c52aa411815a110db244bed839dbd4b2
 region: Russia
-size: 1.98GB
+size: 2.01GB
 system: ColorOS 6.0
-version: RMX1941EX_11.A.25
+version: RMX1941EX_11.A.27

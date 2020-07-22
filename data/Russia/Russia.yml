@@ -3,6 +3,20 @@
     ● Патчи безопасности Android: от 5 июня 2020
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
+  codename: RMX2081PU
+  date: 30/6/2020
+  device: realme X3 SuperZoom
+  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0330_all_Hd2fStjxAphY.ozip
+  md5: 342fdafaf322192bfed0cf46de037806
+  region: Russia
+  size: 3.34GB
+  system: realme UI 1.0
+  version: RMX2081PU_11.A.33
+- changelog: |
+    **Безопасность**:
+    ● Патчи безопасности Android: от 5 июня 2020
+    **Система:**:
+    ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX2040
   date: 3/7/2020
   device: realme 6i
@@ -206,15 +220,15 @@
   version: RMX1821EX_11.C.13
 - changelog: |
     **Безопасность:**:
-    ● обновление системы безопасности Android: май 2020 г.
+    ● Добавлены патчи безопасности Android за июль 2020
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1941EX
-  date: 13/5/2020
+  date: 21/7/2020
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0250_all_EXhbn2ykDIbf.ozip
-  md5: cdedecfeecbd07b18447ba37b13effba
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0270_all_L0s8I1dfox9G.ozip
+  md5: c52aa411815a110db244bed839dbd4b2
   region: Russia
-  size: 1.98GB
+  size: 2.01GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.25
+  version: RMX1941EX_11.A.27

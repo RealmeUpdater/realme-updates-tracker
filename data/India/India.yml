@@ -414,22 +414,6 @@
   version: RMX1851EX_11.C.06
 - changelog: |
     **Security**:
-    ● Android security patch: July, 2020
-    **Applications**:
-    ● Added realme Link
-    **System**:
-    ● Fixed some known issues and improved system stability
-  codename: RMX1941EX
-  date: 21/7/2020
-  device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0270_all_L0s8I1dfox9G.ozip
-  md5: c52aa411815a110db244bed839dbd4b2
-  region: India
-  size: 2.01GB
-  system: ColorOS 6.0
-  version: RMX1941EX_11.A.27
-- changelog: |
-    **Security**:
     ● Android security patch: June, 2020
     **Application**:
     ● Added DocVault

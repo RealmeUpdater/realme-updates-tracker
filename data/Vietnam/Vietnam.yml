@@ -169,6 +169,20 @@
   version: RMX1821EX_11.C.13
 - changelog: |
     **Bảo mật**:
+    ● Bản vá bảo mật Android: Tháng 7 năm 2020
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX1941EX
+  date: 24/7/2020
+  device: realme C2
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0280_all_8kEXmFjiHsMf.ozip
+  md5: 607c31345569a0e83be57934dc3d6f69
+  region: Vietnam
+  size: 2.01GB
+  system: ColorOS 6.0
+  version: RMX1941EX_11.A.28
+- changelog: |
+    **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 5 năm 2020
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống

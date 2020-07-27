@@ -1,0 +1,19 @@
+changelog: |
+  **Secruity**:
+  ● Android Security Patch: July, 2020
+  **Settings**:
+  ● Added performance mode feature in battery settings
+  **Camera**:
+  ● Fixed the probabilistic flicker issue in SLO-MO preview interface
+  ● Fixed the probabilistic blurring issue in preview interface of portrait mode using front camera
+  **Status Bar**:
+  ● Optimized the time display issue
+codename: RMX2144EU
+date: 16/7/2020
+device: realme X50
+download: https://download.c.realme.com/osupdate/RMX2144EU_11_OTA_0110_all_Z7q6ma0YdnSD.ozip
+md5: 29689E69D445C41AF8F4A551283CAA60
+region: Europe
+size: 3.29GB
+system: realme UI V1.0
+version: RMX2144EU_11.A.11

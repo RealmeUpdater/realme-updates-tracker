@@ -1,0 +1,14 @@
+changelog: |
+  **Seguridad**:
+  ● Parche de seguridad de Android（2020#7）
+  **Sistema**:
+  ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+codename: RMX2144EU
+date: 16/7/2020
+device: realme X50
+download: https://download.c.realme.com/osupdate/RMX2144EU_11_OTA_0110_all_Z7q6ma0YdnSD.ozip
+md5: 29689E69D445C41AF8F4A551283CAA60
+region: Spain
+size: 3.29GB
+system: realme UI V1.0
+version: RMX2144EU_11.A.11

@@ -1,30 +1,34 @@
 - changelog: |
-    **网络**:
-    ● 对网络进行多项优化以提高网络稳定性和性能
-    ● 优化双卡时，用主卡数据网游戏时的体验
-    **暗色模式**:
-    ● 优化暗色模式下三方应用兼容性
-    ● 修复切换暗色模式时偶尔状态栏闪烁问题
-    **输入法**:
-    ● 优化输入法偶尔会出现连击问题
-    **相机**:
-    ● 优化X50 Pro玩家版后置主摄在某些灯光场景下低概率的闪屏问题
-    ● 修复更改三方字体后在相机界面不生效的问题
+    **状态栏**:
+    ● 新增5G快捷开关
+    **游戏空间**:
+    ● 新增游戏挂机功能
     **设置**:
-    ● 修复振动调节强度级数感知不明显问题
-    **闹钟**:
-    ● 修复关闭闹钟时，状态栏会短暂提示正在响铃的问题
+    ● 优化侧滑返回样式透明度
+    ● 优化省电模式下默认亮度调节
+    ● 优化省电模式的充电关闭机制
+    **蓝牙**:
+    ● 修复蓝牙耳机前几级音量变化不均匀问题
+    ● 修复连接Airpods/Enco Free音量偏小问题
+    **游戏**:
+    ● 优化和平精英游戏场景功耗
+    ● 优化游戏场景发热问题
+    ● 修复王者荣耀游戏概率性网络变差导致游戏卡顿问题
+    **通知**:
+    ● 修复更改NFC通知音效后，NFC传输文件过程中一直响铃问题
+    **网络**:
+    ● 修复手机重启后默认上网卡更改问题
     **安全**:
-    ● 更新Android安全补丁（2020#06）
+    ● 更新Android安全补丁（2020#7）
   codename: RMX2071
-  date: 25/06/2020
+  date: 22/07/2020
   device: realme  X50 Pro 玩家版
-  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0200_all_HpFNAI9MZTnA.ozip
-  md5: 57FF0B6762D567EE522CDF88442E5534
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0210_all_qWfWrEkmhZAc.ozip
+  md5: 1fbb5da344e8f27c577d6927a54bdda0
   region: China
   size: 3.6GB
   system: realme UI V1.0
-  version: RMX2071_11_A.20
+  version: RMX2071_11.A.21
 - changelog: |
     **应用**:
     ● 新增realme Link应用
@@ -44,32 +48,36 @@
   system: realme UI V1.0
   version: RMX2141_11.A.07
 - changelog: |
-    **网络**:
-    ● 对网络进行多项优化以提高网络稳定性和性能
-    ● 优化双卡时，用主卡数据网游戏时的体验
-    **暗色模式**:
-    ● 优化暗色模式下三方应用兼容性
-    ● 修复切换暗色模式时偶尔状态栏闪烁问题
-    **输入法**:
-    ● 优化输入法偶尔会出现连击问题
-    **相机**:
-    ● 优化X50 Pro玩家版后置主摄在某些灯光场景下低概率的闪屏问题
-    ● 修复更改三方字体后在相机界面不生效的问题
+    **状态栏**:
+    ● 新增5G快捷开关
+    **游戏空间**:
+    ● 新增游戏挂机功能
     **设置**:
-    ● 修复振动调节强度级数感知不明显问题
-    **闹钟**:
-    ● 修复关闭闹钟时，状态栏会短暂提示正在响铃的问题
+    ● 优化侧滑返回样式透明度
+    ● 优化省电模式下默认亮度调节
+    ● 优化省电模式的充电关闭机制
+    **蓝牙**:
+    ● 修复蓝牙耳机前几级音量变化不均匀问题
+    ● 修复连接Airpods/Enco Free音量偏小问题
+    **游戏**:
+    ● 优化和平精英游戏场景功耗
+    ● 优化游戏场景发热问题
+    ● 修复王者荣耀游戏概率性网络变差导致游戏卡顿问题
+    **通知**:
+    ● 修复更改NFC通知音效后，NFC传输文件过程中一直响铃问题
+    **网络**:
+    ● 修复手机重启后默认上网卡更改问题
     **安全**:
-    ● 更新Android安全补丁（2020#06）
+    ● 更新Android安全补丁（2020#7）
   codename: RMX2071
-  date: 25/06/2020
+  date: 22/07/2020
   device: realme X50 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0200_all_HpFNAI9MZTnA.ozip
-  md5: 57FF0B6762D567EE522CDF88442E5534
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0210_all_qWfWrEkmhZAc.ozip
+  md5: 1fbb5da344e8f27c577d6927a54bdda0
   region: China
   size: 3.6GB
   system: realme UI V1.0
-  version: RMX2071_11_A.20
+  version: RMX2071_11.A.21
 - changelog: |
     **应用**:
     ● 新增realme Link应用

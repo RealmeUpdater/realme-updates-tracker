@@ -375,7 +375,7 @@
     ● Optimized the quality of photos
   codename: RMX2076EU
   date: 29/5/2020
-  device: realme X50 Pro 5G
+  device: realme X50 Pro
   download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0200_all_SMijFMn119wv.ozip
   md5: 2E48CC95B7385EF115140057AD45BE14
   region: Spain
@@ -728,6 +728,18 @@
   size: 3.12GB
   system: realme UI V1.0
   version: RMX1851EX_11.C.06
+- changelog: |
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2185
+  date: 28/7/2020
+  device: realme C11
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0650_all_jif6XLQEIp0p.ozip
+  md5: B4757F67A612EDE6E58733A4F1FF247EF096921D
+  region: Indonesia
+  size: 3.00GB
+  system: realme UI 1.0
+  version: RMX2185_11_A.65
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: 5 Juni 2020
@@ -1507,6 +1519,18 @@
   system: realme UI V1.0
   version: RMX1971EX_11.C.04
 - changelog: |
+    **Optimized**:
+    ● Optimized system stability
+  codename: RMX2185
+  date: 28/7/2020
+  device: realme C11
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0650_all_jif6XLQEIp0p.ozip
+  md5: B4757F67A612EDE6E58733A4F1FF247EF096921D
+  region: Pakistan
+  size: 3.00GB
+  system: realme UI 1.0
+  version: RMX2185_11_A.65
+- changelog: |
     **System**:
     ● Fixed the ocassional crash issue
     ● Fixed some known issues, and improved system stability
@@ -2079,6 +2103,18 @@
   size: 2.01GB
   system: ColorOS 6.0
   version: RMX1941EX_11.A.28
+- changelog: |
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2185
+  date: 28/7/2020
+  device: realme C11
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0650_all_jif6XLQEIp0p.ozip
+  md5: B4757F67A612EDE6E58733A4F1FF247EF096921D
+  region: Vietnam
+  size: 3.00GB
+  system: realme UI 1.0
+  version: RMX2185_11_A.65
 - changelog: |
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống

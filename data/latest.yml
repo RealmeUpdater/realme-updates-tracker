@@ -755,8 +755,10 @@
   system: realme UI 1.0
   version: RMX2081PU_11.A.33
 - changelog: |
-    **System**:
-    ● Korrektur einiger bekannter Probleme und verbesserte Systemstabilität
+    **Keamanan**:
+    ● Tingkat Android Security Patch: Juli 2020
+    **Sistem**:
+    ● Memperbaiki beberapa masalah dan meningkatkan stabilitas sistem.
   codename: RMX2061
   date: 4/7/2020
   device: realme 6 Pro

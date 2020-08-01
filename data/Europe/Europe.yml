@@ -19,23 +19,27 @@
   version: RMX2144EU_11.A.11
 - changelog: |
     **Security**:
-    ● Andriod security patch: June, 2020
-    **Optimization**:
-    ● Optimized screen brightness
-    ● Optimized the ocassional heating issue of side fingerprint sensor
-    ● Optimized photographing quality, and fixed some known issues
+    ● Updated Android Security Patch: July, 2020
+    **realme Lab**:
+    ● Added smooth scrolling feature
+    **Status Bar**:
+    ● Optimized the time display issue
+    **Settings**:
+    ● Optimized the default state of reduce screen brightness switch in power saving mode
+    **Bluetooth**:
+    ● Fixed the voice jam issue when connected to Bluetooth headset using LDAC codec
     **System**:
-    ● Fixed the ocassional crash issue
-    ● Fixed some known issues, and improved system stability
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    ● Optimized the system power consumption
   codename: RMX2081EU
-  date: 30/6/2020
+  date: 31/7/2020
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0320_all_TnFj0hxHgRoX.ozip
-  md5: 581285513b5c0821b8262fb5f8362010
+  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0380_all_uNcCSPPqWHax.ozip
+  md5: 22ee7454aad89e684cf9e937efc12ca6
   region: Europe
-  size: 3.04GB
+  size: 3.12GB
   system: realme UI 1.0
-  version: RMX2081EU_11.A.32
+  version: RMX2081EU_11.A.38
 - changelog: |
     **Security**:
     ● Android Security Patch: June&July, 2020

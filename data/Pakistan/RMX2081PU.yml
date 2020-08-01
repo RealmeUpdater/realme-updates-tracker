@@ -1,13 +1,23 @@
 changelog: |
+  **Security**:
+  ● Updated Android Security Patch: July, 2020
+  **realme Lab**:
+  ● Added smooth scrolling feature
+  **Status Bar**:
+  ● Optimized the time display issue
+  **Settings**:
+  ● Optimized the default state of reduce screen brightness switch in power saving mode
+  **Bluetooth**:
+  ● Fixed the voice jam issue when connected to Bluetooth headset using LDAC codec
   **System**:
-  ● Fixed the ocassional crash issue
-  ● Fixed some known issues, and improved system stability
+  ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+  ● Optimized the system power consumption
 codename: RMX2081PU
-date: 30/6/2020
+date: 31/7/2020
 device: realme X3 SuperZoom
-download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0330_all_Hd2fStjxAphY.ozip
-md5: 342fdafaf322192bfed0cf46de037806
+download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0390_all_gL1IiprDDtA2.ozip
+md5: 4890eea323399c6609b75a74c3c38db9
 region: Pakistan
-size: 3.34GB
+size: 3.4GB
 system: realme UI 1.0
-version: RMX2081PU_11.A.33
+version: RMX2081PU_11.A.39

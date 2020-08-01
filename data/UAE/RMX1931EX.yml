@@ -1,19 +1,23 @@
 changelog: |
   **Security**:
-  ● Android security patch: May, 2020
-  **Screen Recording**:
-  ● Optimized screen recording feature
-  **Known issue fixed**:
-  ● Fixed the issue of touch failure in some scenes during PUBG
-  ● Fixed the issue that phone restarted after the screen stuck during WeChat calls
+  ● Updated Android security Patch: July, 2020
+  **Game Space**:
+  ● Optimized the probabilistic crash issue in Game Space
+  ● Fixed the probabilistic setting data loss issue after update
+  **Settings**:
+  ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+  ● Fixed the probabilistic crash issue when enter settings
+  **Bluetooth**:
+  ● Fixed the voice jam issue when connected to Bluetooth headset using LDAC codec
+  ● Fixed the low minimum volume issue when connected to the Bluetooth headset
   **System**:
-  ● Fixed some known issues and improved system stability
+  ● Fixed some interface display issue in dark mode
 codename: RMX1931EX
-date: 28/5/2020
+date: 30/7/2020
 device: realme X2 Pro
-download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1270_all_XZQ2lsNPwhvA.ozip
-md5: 04958fa575c5f9951c4e9347f7a3baf2
+download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1290_all_6Q1G7PnXC7fy.ozip
+md5: 19cd4579458de4e911c2735e961c5320
 region: UAE
-size: 2.88GB
+size: 2.93GB
 system: realme UI 1.0
-version: RMX1931EX_11.C.27
+version: RMX1931EX_11.C.29

@@ -38,29 +38,39 @@
   version: RMX2081EU_11.A.32
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（2020#5）
+    ● Android Security Patch: June&July, 2020
+    **Status Bar**:
+    ● Added 5G Switch toggles of notification panel
+    **Game Space**:
+    ● Added Autoplay feature
     **Settings**:
-    ● Updated system static wallpapers
-    ● Added vibration intensity adjustment option
-    **Known issue fixed**:
-    ● Fixed the issue of main screen hanging during Arena of Valor
-    ● Fixed the text display issue while connected personal hotspot
-    **Optimized**:
-    ● Optimized audio quality
-    ● Optimized system stability
-    ● Optimized partial display issue
-    **Camera**:
-    ● Improved fluency while previewing 60 FPS 4K video
-    ● Optimized heating issues while recording 60 FPS 4K video
+    ● Optimized the transparency of swipe back gesture style
+    ● Optimized the default brightness adjustment mechanism in Power Saving Mode
+    ● Optimized the turn off automatically mechanism when charged in Power Saving Mode
+    **Bluetooth**:
+    ● Fixed the uneven volume change issue of the first few levels when connected to Bluetooth headset.
+    ● Fixed the lower volume issue when connected to Airpods/Enco Free
+    **Games**:
+    ● Optimized the power consumption issue of PUBG
+    ● Optimized the heating issue of games
+    **Notifications**:
+    ● Fixed the NFC file transfer ringing issue after changing NFC notification sound
+    **Network**:
+    ● Optimized the stability and performance of the network
+    **System**:
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    ● Optimized the issue that input methods are sometimes double clicked for one tap
+    ● Optimized the compatibility of third-party applications in Dark Mode
+    ● Fixed the issue that status bar occasionally flickers when switching the Dark Mode on
   codename: RMX2076EU
-  date: 17/6/2020
+  date: 28/7/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0220_all_JtSKqVA0jAWx.ozip
-  md5: 9D06D6E2E002E47416DA0958F4CE7EAD
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0280_all_c77smiCeQgvF.ozip
+  md5: fff28d372a62572dcc134b5fd7b52453
   region: Europe
-  size: 3.6GB
+  size: 3.60GB
   system: realmeUI V1.0
-  version: RMX2076EU_11_A.22
+  version: RMX2076EU_11.A.28
 - changelog: |
     **System**:
     ● Fixed the issue of excessive system storage occupation

@@ -53,24 +53,19 @@
   system: realmeUI V1.0
   version: RMX2040_11_A.20
 - changelog: |
-    **Security**:
-    ● Android security patch: April, 2020
-    **Settings**:
-    ● Added Vivid Mode to Screen Color Mode
-    **Network**:
-    ● Improved the stability of network
-    **Camera**:
-    ● Added function of recording 60FPS 4K video
-    ● Optimized the quality of photos
+    **Seguridad**:
+    ● Parche de seguridad de Android:（2020#6&#7）
+    **Sistema**:
+    ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2076EU
-  date: 29/5/2020
+  date: 28/7/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0200_all_SMijFMn119wv.ozip
-  md5: 2E48CC95B7385EF115140057AD45BE14
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0280_all_c77smiCeQgvF.ozip
+  md5: fff28d372a62572dcc134b5fd7b52453
   region: Spain
-  size: 3.20GB
+  size: 3.60GB
   system: realmeUI V1.0
-  version: RMX2076EU_11_A.20
+  version: RMX2076EU_11.A.28
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: mayo de 2020

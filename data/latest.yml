@@ -85,23 +85,33 @@
   system: realme UI V1.0
   version: RMX2071_11.A.21
 - changelog: |
-    **应用**:
-    ● 新增realme Link应用
+    **音乐**:
+    ● 新增连接线控耳机后按播放键启动最近使用的音乐App功能
     **蓝牙**:
-    ● 新增realme蓝牙耳机（Air和Neo）连接弹窗提示（需要在realme Link中将耳机固件更新）功能
+    ● 优化飞行模式，开启后不影响蓝牙状态
+    **状态栏**:
+    ● 优化状态栏时间显示
+    **文件管理**:
+    ● 修复最近视图界面下切换暗色模式分享弹窗低概率不消失问题
+    **手机搬家**:
+    ● 修复数据传输过程中的低概率卡死问题
     **相机**:
-    ● 优化相机效果，提升拍照体验
+    ● 修复相机慢动作预览界面低概率闪烁问题
+    ● 修复使用前置摄像头HDR模式拍照预览低概率闪黑屏问题
+    **悬浮球**:
+    ● 修复点击菜单后低概率不回收问题
+    ● 修复点击设置后低概率闪退问题
     **安全**:
-    ● 更新Android安全补丁（2020#6）
+    ● 更新Android安全补丁（2020#7）
   codename: RMX2141
-  date: 26/06/2020
+  date: 29/07/2020
   device: realme X50m 5G
-  download: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0070_all_Zlwbk8E9IePz.ozip
-  md5: 20B959012F622866DED39B6746515666
+  download: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0080_all_4TleBBbHokdN.ozip
+  md5: FE79161E1F4D29F01DD00CD6028A0385
   region: China
-  size: 3.75GB
+  size: 3.78GB
   system: realme UI V1.0
-  version: RMX2141_11.A.07
+  version: RMX2141_11.A.08
 - changelog: |
     **状态栏**:
     ● 新增5G快捷开关
@@ -364,24 +374,19 @@
   system: realmeUI V1.0
   version: RMX2040_11_A.20
 - changelog: |
-    **Security**:
-    ● Android security patch: April, 2020
-    **Settings**:
-    ● Added Vivid Mode to Screen Color Mode
-    **Network**:
-    ● Improved the stability of network
-    **Camera**:
-    ● Added function of recording 60FPS 4K video
-    ● Optimized the quality of photos
+    **Seguridad**:
+    ● Parche de seguridad de Android:（2020#6&#7）
+    **Sistema**:
+    ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2076EU
-  date: 29/5/2020
+  date: 28/7/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0200_all_SMijFMn119wv.ozip
-  md5: 2E48CC95B7385EF115140057AD45BE14
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0280_all_c77smiCeQgvF.ozip
+  md5: fff28d372a62572dcc134b5fd7b52453
   region: Spain
-  size: 3.20GB
+  size: 3.60GB
   system: realmeUI V1.0
-  version: RMX2076EU_11_A.20
+  version: RMX2076EU_11.A.28
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: mayo de 2020
@@ -521,29 +526,39 @@
   version: RMX2081EU_11.A.32
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（2020#5）
+    ● Android Security Patch: June&July, 2020
+    **Status Bar**:
+    ● Added 5G Switch toggles of notification panel
+    **Game Space**:
+    ● Added Autoplay feature
     **Settings**:
-    ● Updated system static wallpapers
-    ● Added vibration intensity adjustment option
-    **Known issue fixed**:
-    ● Fixed the issue of main screen hanging during Arena of Valor
-    ● Fixed the text display issue while connected personal hotspot
-    **Optimized**:
-    ● Optimized audio quality
-    ● Optimized system stability
-    ● Optimized partial display issue
-    **Camera**:
-    ● Improved fluency while previewing 60 FPS 4K video
-    ● Optimized heating issues while recording 60 FPS 4K video
+    ● Optimized the transparency of swipe back gesture style
+    ● Optimized the default brightness adjustment mechanism in Power Saving Mode
+    ● Optimized the turn off automatically mechanism when charged in Power Saving Mode
+    **Bluetooth**:
+    ● Fixed the uneven volume change issue of the first few levels when connected to Bluetooth headset.
+    ● Fixed the lower volume issue when connected to Airpods/Enco Free
+    **Games**:
+    ● Optimized the power consumption issue of PUBG
+    ● Optimized the heating issue of games
+    **Notifications**:
+    ● Fixed the NFC file transfer ringing issue after changing NFC notification sound
+    **Network**:
+    ● Optimized the stability and performance of the network
+    **System**:
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    ● Optimized the issue that input methods are sometimes double clicked for one tap
+    ● Optimized the compatibility of third-party applications in Dark Mode
+    ● Fixed the issue that status bar occasionally flickers when switching the Dark Mode on
   codename: RMX2076EU
-  date: 17/6/2020
+  date: 28/7/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0220_all_JtSKqVA0jAWx.ozip
-  md5: 9D06D6E2E002E47416DA0958F4CE7EAD
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0280_all_c77smiCeQgvF.ozip
+  md5: fff28d372a62572dcc134b5fd7b52453
   region: Europe
-  size: 3.6GB
+  size: 3.60GB
   system: realmeUI V1.0
-  version: RMX2076EU_11_A.22
+  version: RMX2076EU_11.A.28
 - changelog: |
     **System**:
     ● Fixed the issue of excessive system storage occupation
@@ -1047,27 +1062,37 @@
   version: RMX2040_11_A.23
 - changelog: |
     **Security**:
-    ● Android security patch: June, 2020
+    ● Android Security Patch: July, 2020
+    **Applications**:
+    ● Added realme PaySa(India)
+    **Status Bar**:
+    ● Added 5G Switch toggles of notification panel
+    **Game Space**:
+    ● Added Autoplay feature
+    **Settings**:
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    ● Optimized the transparency of swipe back gesture style
+    ● Optimized the default brightness adjustment mechanism in Power Saving Mode
+    ● Optimized the turn off automatically mechanism when charged in Power Saving Mode
     **Network**:
-    ● Optimized the stability and performance of the network
-    ● Optimized the game experience over mobile data with 2 SIM cards installed
-    **Fixed**:
-    ● Fixed the issue that Alarm ringing is temporarily showed on the status bar after switching a alarm off
-    ● Fixed the issue that status bar occasionally flickers when switching the Dark Mode on
-    **Camera**:
-    ● Fixed the issue that fonts dosen't work after applying a third-party fonts
-    **Optimized**:
-    ● Optimized the issue that input methods are sometimes double clicked for one tap
-    ● Optimized the compatibility of third-party applications in Dark Mode
+    ● Optimized network performance to improve stability
+    **Games**:
+    ● Optimized the power consumption issue of PUBG
+    ● Optimized the heating issue of games
+    **Bluetooth**:
+    ● Fixed the uneven volume change issue of the first few levels when connected to Bluetooth headset.
+    ● Fixed the lower volume issue when connected to Airpods/Enco Free
+    **Notifications**:
+    ● Fixed the NFC file transfer ringing issue after changing NFC notification sound
   codename: RMX2076PU
-  date: 28/6/2020
+  date: 30/7/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0250_all_kUo2dID1pUiO.ozip
-  md5: 4BB251F76767891F2F69A4BDCCF823D7
+  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0290_all_xA1mpyGa5gAt.ozip
+  md5: 0ff58721031204904644ce46be068d1c
   region: India
-  size: 3.76GB
+  size: 3.78GB
   system: realmeUI V1.0
-  version: RMX2076PU_11_A.25
+  version: RMX2076PU_11.A.29
 - changelog: |
     **System**:
     ● Fixed the issue of excessive system storage occupation

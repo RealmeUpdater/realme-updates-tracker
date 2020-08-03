@@ -36,6 +36,28 @@
   version: RMX2001_11.B.37
 - changelog: |
     **Security**:
+    ● Android security patch: July, 2020
+    **realme Lab**:
+    ● Added the smooth scrolling feature
+    **Settings**:
+    ● Added multi-user feature
+    **Screen recording**:
+    ● Optimized screen recording feature
+    **System**:
+    ● Optimized the transparency of swipe back gesture style
+    ● Optimized Bluetooth being turned off when flight mode is turned on mechanisam
+    ● Fixed some known issues and improved system stability
+  codename: RMX1971EX
+  date: 30/7/2020
+  device: realme 5 Pro
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1050_all_dNjggfyXOjy3.ozip
+  md5: CC87E9CD1996ED6443EBE9EEEDEE0679
+  region: UAE
+  size: 3.14GB
+  system: realme UI V1.0
+  version: RMX1971EX_11.C.05
+- changelog: |
+    **Security**:
     ● Updated Android security Patch: July, 2020
     **Game Space**:
     ● Optimized the probabilistic crash issue in Game Space
@@ -1563,18 +1585,30 @@
   version: RMX2001_11.B.37
 - changelog: |
     **الأمان**:
-    ●معامل تصحيح أمان أندرويد : 5 يونيو ,2020
+    ●معامل تصحيح أمان أندرويد : يوليو ,2020
     **النظام**:
     ● تم إصلاح بعض المشكلات المعروفة، وتحسين استقرار النظام
   codename: RMX1971EX
-  date: 14/6/2020
+  date: 30/7/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
-  md5: 5628C63C7CF5881DF7468A78567EC7FE
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1050_all_dNjggfyXOjy3.ozip
+  md5: CC87E9CD1996ED6443EBE9EEEDEE0679
   region: Iraq
-  size: 3.12GB
+  size: 3.14GB
   system: realme UI V1.0
-  version: RMX1971EX_11.C.04
+  version: RMX1971EX_11.C.05
+- changelog: |
+    **Security**:
+    ● Android Security Patch Level: February 5, 2019.
+  codename: RMX1941EX
+  date: 27/7/2020
+  device: realme C2
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0280_all_8kEXmFjiHsMf.ozip
+  md5: 607c31345569a0e83be57934dc3d6f69
+  region: Iraq
+  size: 2.01GB
+  system: ColorOS 6.0
+  version: RMX1941EX_11.A.28
 - changelog: |
     **Optimized**:
     ● Optimized system stability
@@ -2128,18 +2162,18 @@
   version: RMX2001EU_11.A.34
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2020#6)
+    ● Güncel Android güvenlik yaması (2020#7)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX1971EX
-  date: 14/6/2020
+  date: 30/7/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1040_all_XObW6afyijrq.ozip
-  md5: 5628C63C7CF5881DF7468A78567EC7FE
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1050_all_dNjggfyXOjy3.ozip
+  md5: CC87E9CD1996ED6443EBE9EEEDEE0679
   region: Turkey
-  size: 3.12GB
+  size: 3.14GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.04
+  version: RMX1971EX_11.C.05
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması: Nisan 2020

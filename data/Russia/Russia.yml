@@ -174,32 +174,32 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Безопасность**:
-    ● Исправление безопасности Android: 5 мая 2020
-    **Система**:
-    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
-  codename: RMX1927EX
-  date: 19/5/2020
+    ● Патчи безопасности Android: июль 2020
+    **Система:**:
+    ● исправлено несколько известных проблем, улучшена стабильность системы.
+  codename: RMX1911EX
+  date: 30/7/2020
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1927EX_11_OTA_0160_all_NjJfhuBI68Pp.ozip
-  md5: ' d8dff0290bc8369e27b89b818978420c'
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: Russia
-  size: 2.39GB
-  system: ColorOS 6.0.1
-  version: RMX1927EX_11_A.16
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX1911EX_11.C.53
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: от 5 июня 2020
+    ● Патчи безопасности Android: июль 2020
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1851EX
-  date: 18/6/2020
+  date: 30/7/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
-  md5: 394ABA33ECAF1132730CE0AAD67A0863
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
+  md5: 86FE0992FFFF87A331389A4977FCEE4C
   region: Russia
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.06
+  version: RMX1851EX_11.C.07
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android: от 5 июня 2020

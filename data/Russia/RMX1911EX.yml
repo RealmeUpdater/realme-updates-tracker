@@ -3,12 +3,12 @@ changelog: |
   ● Патчи безопасности Android: июль 2020
   **Система:**:
   ● исправлено несколько известных проблем, улучшена стабильность системы.
-codename: RMX1851EX
+codename: RMX1911EX
 date: 30/7/2020
-device: realme 3 Pro
-download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
-md5: 86FE0992FFFF87A331389A4977FCEE4C
+device: realme 5
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+md5: ECD77B77782391E39022B9684212EEF5
 region: Russia
-size: 3.15GB
-system: realme UI V1.0
-version: RMX1851EX_11.C.07
+size: 2.84GB
+system: realme UI 1.0
+version: RMX1911EX_11.C.53

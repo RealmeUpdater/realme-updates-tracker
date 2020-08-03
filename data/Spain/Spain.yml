@@ -97,6 +97,34 @@
     ● Parche de seguridad de Android: julio 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+  codename: RMX2030EU
+  date: 30/7/2020
+  device: realme 5i
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
+  md5: 2917117D84E22769564A5C61959B9CB5
+  region: Spain
+  size: 2.57GB
+  system: realme UI 1.0
+  version: RMX2030EU_11.C.44
+- changelog: |
+    **Seguridad**:
+    ● Parche de seguridad de Android: julio 2020
+    **Sistema**:
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+  codename: RMX1911EU
+  date: 30/7/2020
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
+  md5: 2917117D84E22769564A5C61959B9CB5
+  region: Spain
+  size: 2.57GB
+  system: realme UI 1.0
+  version: RMX1911EU_11.C.44
+- changelog: |
+    **Seguridad**:
+    ● Parche de seguridad de Android: julio 2020
+    **Sistema**:
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1931EX
   date: 30/7/2020
   device: realme X2 Pro
@@ -125,20 +153,6 @@
   version: RMX1993EX_11.C.04
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: abril de 2020
-    **Sistema**:
-    ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
-  codename: RMX1911EX
-  date: 28/4/2020
-  device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
-  md5: ' bd04a3c26d23606dde4bdc43c1a0454c'
-  region: Spain
-  size: 2.58GB
-  system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.28
-- changelog: |
-    **Seguridad**:
     ● Parche de seguridad de Android: julio 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
@@ -153,15 +167,15 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: junio de 2020
+    ● Parche de seguridad de Android: julio 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1851EX
-  date: 18/6/2020
+  date: 30/7/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
-  md5: 394ABA33ECAF1132730CE0AAD67A0863
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
+  md5: 86FE0992FFFF87A331389A4977FCEE4C
   region: Spain
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.06
+  version: RMX1851EX_11.C.07

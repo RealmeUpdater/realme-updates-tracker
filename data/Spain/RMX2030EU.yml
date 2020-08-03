@@ -1,0 +1,14 @@
+changelog: |
+  **Seguridad**:
+  ● Parche de seguridad de Android: julio 2020
+  **Sistema**:
+  ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+codename: RMX2030EU
+date: 30/7/2020
+device: realme 5i
+download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
+md5: 2917117D84E22769564A5C61959B9CB5
+region: Spain
+size: 2.57GB
+system: realme UI 1.0
+version: RMX2030EU_11.C.44

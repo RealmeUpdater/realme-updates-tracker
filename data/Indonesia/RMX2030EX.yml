@@ -1,15 +1,14 @@
 changelog: |
   **Keamanan**:
-  ● Patch keamanan Android: April 2020
-  **Kamera**:
-  ● Kinerja warna kamera depan yang ditingkatkan selagi menggunakan aplikasi pihak ketiga
-  ● Kejelasan kamera depan yang ditingkatkan selagi berada di lingkungan malam
+  ● Tingkat Android Security Patch: Juli 2020
+  **Sistem**:
+  ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
 codename: RMX2030EX
-date: 24/4/2020
+date: 30/7/2020
 device: realme 5i
-download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0190_all_nrdKBLRr60zb.ozip
-md5: 757954ADC548EBCE5B5A017F1EFE364D
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+md5: ECD77B77782391E39022B9684212EEF5
 region: Indonesia
-size: 2.6GB
-system: ColorOS 6.0.1
-version: RMX2030EX_11_A.19
+size: 2.84GB
+system: realme UI 1.0
+version: RMX2030EX_11.C.53

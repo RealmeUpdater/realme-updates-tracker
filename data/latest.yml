@@ -448,6 +448,34 @@
     ● Parche de seguridad de Android: julio 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+  codename: RMX2030EU
+  date: 30/7/2020
+  device: realme 5i
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
+  md5: 2917117D84E22769564A5C61959B9CB5
+  region: Spain
+  size: 2.57GB
+  system: realme UI 1.0
+  version: RMX2030EU_11.C.44
+- changelog: |
+    **Seguridad**:
+    ● Parche de seguridad de Android: julio 2020
+    **Sistema**:
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+  codename: RMX1911EU
+  date: 30/7/2020
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
+  md5: 2917117D84E22769564A5C61959B9CB5
+  region: Spain
+  size: 2.57GB
+  system: realme UI 1.0
+  version: RMX1911EU_11.C.44
+- changelog: |
+    **Seguridad**:
+    ● Parche de seguridad de Android: julio 2020
+    **Sistema**:
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1931EX
   date: 30/7/2020
   device: realme X2 Pro
@@ -476,20 +504,6 @@
   version: RMX1993EX_11.C.04
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: abril de 2020
-    **Sistema**:
-    ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
-  codename: RMX1911EX
-  date: 28/4/2020
-  device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
-  md5: ' bd04a3c26d23606dde4bdc43c1a0454c'
-  region: Spain
-  size: 2.58GB
-  system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.28
-- changelog: |
-    **Seguridad**:
     ● Parche de seguridad de Android: julio 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
@@ -504,18 +518,18 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: junio de 2020
+    ● Parche de seguridad de Android: julio 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1851EX
-  date: 18/6/2020
+  date: 30/7/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
-  md5: 394ABA33ECAF1132730CE0AAD67A0863
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
+  md5: 86FE0992FFFF87A331389A4977FCEE4C
   region: Spain
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.06
+  version: RMX1851EX_11.C.07
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
@@ -669,16 +683,54 @@
   version: RMX2020_11_A.32
 - changelog: |
     **Security**:
-    **• Added the May 2020 Android security patch to enhance system security.**:
-  codename: RMX2030
-  date: 25/5/2020
+    ● Android Security Patch: July, 2020
+    **Settings**:
+    ● Added rotate the guide bars with screen switch in navigation button
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    **Status Bar**:
+    ● Optimized the battery icon display while charging
+    ● Fixed the status bar not displaying Wi-Fi icon issue in special situations
+    **System**:
+    ● Optimized the power cunsumption of third party apps
+    **Games**:
+    ● Fixed the black screen issue when switch to PUBG from recent interface
+    **Camera**:
+    ● Optimized the shooting quality in night mode
+    ● Fixed the photo greenish issue when shooting with flash on in special situations
+  codename: RMX2030EU
+  date: 30/7/2020
   device: realme 5i
-  download: ' https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0200_all_ddurYzSHqWzG.ozip'
-  md5: C79632757CA88B264F24D86E59D56011
+  download: ' https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip'
+  md5: 2917117D84E22769564A5C61959B9CB5
   region: Europe
-  size: 2.6GB
-  system: ColorOS 6.0.1
-  version: RMX2030_11_A.20
+  size: 2.57GB
+  system: realme UI 1.0
+  version: RMX2030EU_11.C.44
+- changelog: |
+    **Security**:
+    ● Android Security Patch: July, 2020
+    **Settings**:
+    ● Added rotate the guide bars with screen switch in navigation button
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    **Status Bar**:
+    ● Optimized the battery icon display while charging
+    ● Fixed the status bar not displaying Wi-Fi icon issue in special situations
+    **System**:
+    ● Optimized the power cunsumption of third party apps
+    **Games**:
+    ● Fixed the black screen issue when switch to PUBG from recent interface
+    **Camera**:
+    ● Optimized the shooting quality in night mode
+    ● Fixed the photo greenish issue when shooting with flash on in special situations
+  codename: RMX1911EU
+  date: 30/7/2020
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
+  md5: 2917117D84E22769564A5C61959B9CB5
+  region: Europe
+  size: 2.57GB
+  system: realme UI 1.0
+  version: RMX1911EU_11.C.44
 - changelog: |
     **Security**:
     ● Updated Android security Patch: July, 2020
@@ -743,41 +795,26 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Security**:
-    ● Android security patch: April, 2020
-    **System**:
-    ● Fixed some known bugs, and improved system stability
-  codename: RMX1911EX
-  date: 28/4/2020
-  device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
-  md5: ' bd04a3c26d23606dde4bdc43c1a0454c'
-  region: Europe
-  size: 2.58GB
-  system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.28
-- changelog: |
-    **Security**:
-    ● Updated Andriod security patch（2020#6）
-    **Applications**:
-    ● Added realme Link
-    **Battery**:
-    ● Added charging animation on the lock screen
-    ● Added charging decimal display on the lock screen while charging
+    ● Android security patch: July, 2020
+    **realme Lab**:
+    ● Added the smooth scrolling feature
     **Settings**:
-    ● Modified default state of power saving mode auto-off switch
-    ● Modified default state of screen brightness reduction switch in power saving mode
-    **Optimization**:
-    ● Optimized transparency of the slide back gesture style
-    ● Optimized screen recording icon size
+    ● Added multi-user feature
+    **Screen recording**:
+    ● Optimized screen recording feature
+    **System**:
+    ● Optimized the transparency of swipe back gesture style
+    ● Optimized Bluetooth being turned off when flight mode is turned on mechanisam
+    ● Fixed some known issues and improved system stability
   codename: RMX1851EX
-  date: 18/6/2020
+  date: 30/7/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
-  md5: 518C7D1398A8EACE46F61022333F076E
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
+  md5: 86FE0992FFFF87A331389A4977FCEE4C
   region: Europe
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.06
+  version: RMX1851EX_11.C.07
 - changelog: |
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
@@ -846,19 +883,20 @@
   size: 2.83GB
   system: realme UI V1.0
   version: RMX2020_11_A.33
-- changelog: '**• Menambahkan penambal keamanan Android Mei 2020 untuk menyempurnakan
-    keamanan sistem.**:
-
-    '
-  codename: RMX2030
-  date: 25/5/2020
+- changelog: |
+    **Keamanan**:
+    ● Tingkat Android Security Patch: Juli 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2030EX
+  date: 30/7/2020
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0200_all_ddurYzSHqWzG.ozip
-  md5: C79632757CA88B264F24D86E59D56011
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: Indonesia
-  size: 2.6GB
-  system: ColorOS 6.0.1
-  version: RMX2030_11_A.20
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX2030EX_11.C.53
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: Juli 2020
@@ -903,61 +941,60 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: Mei 2020
+    ● Tingkat Android Security Patch: Juli 2020
     **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1911EX
-  date: 19/5/2020
+  date: 30/7/2020
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0290_all_pzrJthV2sMxl.ozip
-  md5: ' 347fcbcc4d0024b9fd57e253f6b7147a'
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: Indonesia
-  size: 2.59GB
-  system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.29
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX1911EX_11.C.53
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: Mei 2020
+    ● Tingkat Android Security Patch: Juli 2020
     **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1911EX
-  date: 19/5/2020
+  date: 30/7/2020
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0290_all_pzrJthV2sMxl.ozip
-  md5: ' 347fcbcc4d0024b9fd57e253f6b7147a'
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: Indonesia
-  size: 2.59GB
-  system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.29
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX1911EX_11.C.53
 - changelog: |
     **Keamanan**:
-    ● patch keamanan Android: Juni 2020
+    ● patch keamanan Android: Juli 2020
     **Sistem**:
-    ● Memperbarui animasi pengisian daya
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1901EX
-  date: 15/6/2020
+  date: 31/7/2020
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1040_all_BbUuFdfQYcIr.ozip
-  md5: 3003095A2962F59969DE9D8489279A22
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1050_all_E7ol9wSKNXaQ.ozip
+  md5: BD7970CADECCF77D932F4A085EFCAAC9
   region: Indonesia
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1901EX_11.C.04
+  version: RMX1901EX_11.C.05
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: 5 Juni 2020
+    ● Tingkat Android Security Patch: Juli 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1851EX
-  date: 18/6/2020
+  date: 30/7/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
-  md5: 394ABA33ECAF1132730CE0AAD67A0863
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
+  md5: 86FE0992FFFF87A331389A4977FCEE4C
   region: Indonesia
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.06
+  version: RMX1851EX_11.C.07
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: 5 Juni 2020
@@ -1203,32 +1240,29 @@
   version: RMX2020_11_A.33
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（2020#6）
-    **Optimization**:
-    ● Optimized the speed of pressing power button to light up screen
-    ● Optimized the detention issue of bluetooth earphones during PUBG
-    ● Optimized fluency of photographic preview interface under portrait mode
-    **Known issues fixed**:
-    ● Fixed the probabilistic issue that failed to register VoWiFi
-    ● Fixed the probabilistic issue that black borders shaded the interface during PUBG when the phone switched from vertical to horizontal orientation
-    ● Fixed the probabilistic issue that rear camera reddish in some outdoor backlight scenes
-    ● Fixed the probabilistic issue that rear camera photographic preview interface greenish when camera flash was switched on and off repeatedly
-    ● Fixed the probabilistic issue that green line was shown on photographic preview interface under panorama mode
-    ● Fixed the probabilistic issue that flash icon didn't match the actual state
-    ● Fixed the issue that night mode didn't work in some scenes
-    ● Fixed the display issue of number and percent sign in power off state
-    ● Fixed the probabilistic issue that no service in Iraqi Tisknet SIM card
-    ● Fixed the probabilistic issue that CMCC SIM card failed to data roaming in Cambodia
-    ● Fixed the probabilistic issue that emergency call didn't show name
-  codename: RMX1911EX
-  date: 21/6/2020
+    ● Android Security Patch: July, 2020
+    **Settings**:
+    ● Added rotate the guide bars with screen switch in navigation button
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    **Status Bar**:
+    ● Optimized the battery icon display while charging
+    ● Fixed the status bar not displaying Wi-Fi icon issue in special situations
+    **System**:
+    ● Optimized the power cunsumption of third party apps
+    **Games**:
+    ● Fixed the black screen issue when switch to PUBG from recent interface
+    **Camera**:
+    ● Optimized the shooting quality in night mode
+    ● Fixed the photo greenish issue when shooting with flash on in special situations
+  codename: RMX2030EX
+  date: 30/7/2020
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1490_all_NGoaAXLP4eyX.ozip
-  md5: 61419CCEF9589C33A6044D5800910B8F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: India
-  size: 2.83GB
+  size: 2.84GB
   system: realme UI V1.0
-  version: RMX1911EX_11.C.49
+  version: RMX2030EX_11.C.53
 - changelog: |
     **Security**:
     ● Updated Andriod security patch（June,2020)
@@ -1314,109 +1348,76 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（2020#6）
-    **Applications**:
-    ● Added realme PaySa(India)
-    ● Added realme Link
-    **Battery**:
-    ● Added charging animation on the lock screen
-    ● Added charging decimal display on the lock screen while charging
+    ● Android Security Patch: July, 2020
     **Settings**:
-    ● Modified default state of power saving mode auto-off switch
-    ● Modified default state of screen brightness reduction switch in power saving mode
-    **Optimization**:
-    ● Optimized transparency of the slide back gesture style
-    ● Optimized screen recording icon size
-  codename: RMX1921EX
-  date: 18/6/2020
-  device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1050_all_HppdemYM4jdE.ozip
-  md5: E7A99C5D1287C17986912D114890C9CD
-  region: India
-  size: 3.12GB
-  system: realme UI V1.0
-  version: RMX1921EX_11.C.05
-- changelog: |
-    **Security**:
-    ● Updated Andriod security patch（2020#6）
-    **Optimization**:
-    ● Optimized the speed of pressing power button to light up screen
-    ● Optimized the detention issue of bluetooth earphones during PUBG
-    ● Optimized fluency of photographic preview interface under portrait mode
-    **Known issues fixed**:
-    ● Fixed the probabilistic issue that failed to register VoWiFi
-    ● Fixed the probabilistic issue that black borders shaded the interface during PUBG when the phone switched from vertical to horizontal orientation
-    ● Fixed the probabilistic issue that rear camera reddish in some outdoor backlight scenes
-    ● Fixed the probabilistic issue that rear camera photographic preview interface greenish when camera flash was switched on and off repeatedly
-    ● Fixed the probabilistic issue that green line was shown on photographic preview interface under panorama mode
-    ● Fixed the probabilistic issue that flash icon didn't match the actual state
-    ● Fixed the issue that night mode didn't work in some scenes
-    ● Fixed the display issue of number and percent sign in power off state
-    ● Fixed the probabilistic issue that no service in Iraqi Tisknet SIM card
-    ● Fixed the probabilistic issue that CMCC SIM card failed to data roaming in Cambodia
-    ● Fixed the probabilistic issue that emergency call didn't show name
+    ● Added rotate the guide bars with screen switch in navigation button
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    **Status Bar**:
+    ● Optimized the battery icon display while charging
+    ● Fixed the status bar not displaying Wi-Fi icon issue in special situations
+    **System**:
+    ● Optimized the power cunsumption of third party apps
+    **Games**:
+    ● Fixed the black screen issue when switch to PUBG from recent interface
+    **Camera**:
+    ● Optimized the shooting quality in night mode
+    ● Fixed the photo greenish issue when shooting with flash on in special situations
   codename: RMX1911EX
-  date: 21/6/2020
+  date: 30/7/2020
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1490_all_NGoaAXLP4eyX.ozip
-  md5: 61419CCEF9589C33A6044D5800910B8F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: India
-  size: 2.83GB
+  size: 2.84GB
   system: realme UI V1.0
-  version: RMX1911EX_11.C.49
+  version: RMX1911EX_11.C.53
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（2020#6）
-    **Optimization**:
-    ● Optimized the speed of pressing power button to light up screen
-    ● Optimized the detention issue of bluetooth earphones during PUBG
-    ● Optimized fluency of photographic preview interface under portrait mode
-    **Known issues fixed**:
-    ● Fixed the probabilistic issue that failed to register VoWiFi
-    ● Fixed the probabilistic issue that black borders shaded the interface during PUBG when the phone switched from vertical to horizontal orientation
-    ● Fixed the probabilistic issue that rear camera reddish in some outdoor backlight scenes
-    ● Fixed the probabilistic issue that rear camera photographic preview interface greenish when camera flash was switched on and off repeatedly
-    ● Fixed the probabilistic issue that green line was shown on photographic preview interface under panorama mode
-    ● Fixed the probabilistic issue that flash icon didn't match the actual state
-    ● Fixed the issue that night mode didn't work in some scenes
-    ● Fixed the display issue of number and percent sign in power off state
-    ● Fixed the probabilistic issue that no service in Iraqi Tisknet SIM card
-    ● Fixed the probabilistic issue that CMCC SIM card failed to data roaming in Cambodia
-    ● Fixed the probabilistic issue that emergency call didn't show name
+    ● Android Security Patch: July, 2020
+    **Settings**:
+    ● Added rotate the guide bars with screen switch in navigation button
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    **Status Bar**:
+    ● Optimized the battery icon display while charging
+    ● Fixed the status bar not displaying Wi-Fi icon issue in special situations
+    **System**:
+    ● Optimized the power cunsumption of third party apps
+    **Games**:
+    ● Fixed the black screen issue when switch to PUBG from recent interface
+    **Camera**:
+    ● Optimized the shooting quality in night mode
+    ● Fixed the photo greenish issue when shooting with flash on in special situations
   codename: RMX1911EX
-  date: 21/6/2020
+  date: 30/7/2020
   device: realme 5
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1490_all_NGoaAXLP4eyX.ozip
-  md5: 61419CCEF9589C33A6044D5800910B8F
+  md5: ECD77B77782391E39022B9684212EEF5
   region: India
-  size: 2.83GB
+  size: 2.84GB
   system: realme UI V1.0
-  version: RMX1911EX_11.C.49
+  version: RMX1911EX_11.C.53
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（2020#6）
-    **Applications**:
-    ● Added Heyfun(India)
-    ● Added realme PaySa(India)
-    ● Added realme Link
-    **Battery**:
-    ● Added charging animation on the lock screen
-    ● Added charging decimal display on the lock screen while charging
+    ● Android security patch: July, 2020
+    **realme Lab**:
+    ● Added the smooth scrolling feature
     **Settings**:
-    ● Modified default state of power saving mode auto-off switch
-    ● Modified default state of screen brightness reduction switch in power saving mode
-    **Optimization**:
-    ● Optimized transparency of the slide back gesture style
-    ● Optimized screen recording icon size
+    ● Added multi-user feature
+    **Screen recording**:
+    ● Optimized screen recording feature
+    **System**:
+    ● Optimized the transparency of swipe back gesture style
+    ● Optimized Bluetooth being turned off when flight mode is turned on mechanisam
+    ● Fixed some known issues and improved system stability
   codename: RMX1901EX
-  date: 15/6/2020
+  date: 31/7/2020
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1040_all_BbUuFdfQYcIr.ozip
-  md5: 3003095A2962F59969DE9D8489279A22
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1050_all_E7ol9wSKNXaQ.ozip
+  md5: BD7970CADECCF77D932F4A085EFCAAC9
   region: India
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1901EX_11.C.04
+  version: RMX1901EX_11.C.05
 - changelog: |
     **Security**:
     ● Android security patch: June, 2020
@@ -1445,29 +1446,26 @@
   version: RMX1821EX_11.C.13
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（2020#6）
-    **Applications**:
-    ● Added realme PaySa(India)
-    ● Added realme Link
-    **Battery**:
-    ● Added charging animation on the lock screen
-    ● Added charging decimal display on the lock screen while charging
+    ● Android security patch: July, 2020
+    **realme Lab**:
+    ● Added the smooth scrolling feature
     **Settings**:
-    ● Modified default state of power saving mode auto-off switch
-    ● Modified default state of screen brightness reduction switch in power saving mode
-    **Optimization**:
-    ● Optimized transparency of the slide back gesture style
-    ● Optimized screen recording icon size
-    * Android version: Android 10
+    ● Added multi-user feature
+    **Screen recording**:
+    ● Optimized screen recording feature
+    **System**:
+    ● Optimized the transparency of swipe back gesture style
+    ● Optimized Bluetooth being turned off when flight mode is turned on mechanisam
+    ● Fixed some known issues and improved system stability
   codename: RMX1851EX
-  date: 18/6/2020
+  date: 30/7/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
-  md5: 394ABA33ECAF1132730CE0AAD67A0863
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
+  md5: 86FE0992FFFF87A331389A4977FCEE4C
   region: India
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.06
+  version: RMX1851EX_11.C.07
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020
@@ -1813,28 +1811,26 @@
   version: RMX1911EX_11_A.29
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（2020#6）
-    **Applications**:
-    ● Added realme PaySa(India)
-    ● Added realme Link
-    **Battery**:
-    ● Added charging animation on the lock screen
-    ● Added charging decimal display on the lock screen while charging
+    ● Android security patch: July, 2020
+    **realme Lab**:
+    ● Added the smooth scrolling feature
     **Settings**:
-    ● Modified default state of power saving mode auto-off switch
-    ● Modified default state of screen brightness reduction switch in power saving mode
-    **Optimization**:
-    ● Optimized transparency of the slide back gesture style
-    ● Optimized screen recording icon size
+    ● Added multi-user feature
+    **Screen recording**:
+    ● Optimized screen recording feature
+    **System**:
+    ● Optimized the transparency of swipe back gesture style
+    ● Optimized Bluetooth being turned off when flight mode is turned on mechanisam
+    ● Fixed some known issues and improved system stability
   codename: RMX1851EX
-  date: 18/6/2020
+  date: 30/7/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
-  md5: 394ABA33ECAF1132730CE0AAD67A0863
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
+  md5: 86FE0992FFFF87A331389A4977FCEE4C
   region: Pakistan
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.06
+  version: RMX1851EX_11.C.07
 - changelog: |
     **Security**:
     ● Android security patch: June, 2020
@@ -2052,32 +2048,32 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Безопасность**:
-    ● Исправление безопасности Android: 5 мая 2020
-    **Система**:
-    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
-  codename: RMX1927EX
-  date: 19/5/2020
+    ● Патчи безопасности Android: июль 2020
+    **Система:**:
+    ● исправлено несколько известных проблем, улучшена стабильность системы.
+  codename: RMX1911EX
+  date: 30/7/2020
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1927EX_11_OTA_0160_all_NjJfhuBI68Pp.ozip
-  md5: ' d8dff0290bc8369e27b89b818978420c'
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: Russia
-  size: 2.39GB
-  system: ColorOS 6.0.1
-  version: RMX1927EX_11_A.16
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX1911EX_11.C.53
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: от 5 июня 2020
+    ● Патчи безопасности Android: июль 2020
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1851EX
-  date: 18/6/2020
+  date: 30/7/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
-  md5: 394ABA33ECAF1132730CE0AAD67A0863
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
+  md5: 86FE0992FFFF87A331389A4977FCEE4C
   region: Russia
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.06
+  version: RMX1851EX_11.C.07
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android: от 5 июня 2020
@@ -2286,17 +2282,19 @@
   system: realme UI V1.0
   version: RMX2020_11_A.33
 - changelog: |
-    **Bảo mật**:
-    **• Thêm bản vá bảo mật Android tháng 5/2020 nhằm nâng cao tính bảo mật của hệ thống.**:
-  codename: RMX2030
-  date: 25/5/2020
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2030EX
+  date: 30/7/2020
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0200_all_ddurYzSHqWzG.ozip
-  md5: C79632757CA88B264F24D86E59D56011
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: Vietnam
-  size: 2.6GB
-  system: ColorOS 6.0.1
-  version: RMX2030_11_A.20
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX2030EX_11.C.53
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
@@ -2326,47 +2324,47 @@
   system: realme UI V1.0
   version: RMX1971EX_11.C.05
 - changelog: |
-    **Bảo mật**:
-    ● Bản vá bảo mật Android: Tháng 5 năm 2020
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2020#7)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1911EX
-  date: 19/5/2020
+  date: 30/7/2020
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0290_all_pzrJthV2sMxl.ozip
-  md5: 347fcbcc4d0024b9fd57e253f6b7147a
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: Vietnam
-  size: 2.59GB
-  system: ColorOS 6.0
-  version: RMX1911EX_11_A.29
-- changelog: |
-    **Bảo mật**:
-    ● Bản vá bảo mật Android: Tháng 5 năm 2020
-    **Hệ thống**:
-    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
-  codename: RMX1911EX
-  date: 19/5/2020
-  device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0290_all_pzrJthV2sMxl.ozip
-  md5: ' 347fcbcc4d0024b9fd57e253f6b7147a'
-  region: Vietnam
-  size: 2.59GB
-  system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.29
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX1911EX_11.C.53
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
+    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX1911EX
+  date: 30/7/2020
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
+  region: Vietnam
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX1911EX_11.C.53
+- changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2020#7)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1851EX
-  date: 18/6/2020
+  date: 30/7/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
-  md5: 394ABA33ECAF1132730CE0AAD67A0863
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
+  md5: 86FE0992FFFF87A331389A4977FCEE4C
   region: Vietnam
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.06
+  version: RMX1851EX_11.C.07
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020

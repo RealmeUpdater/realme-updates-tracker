@@ -1,14 +1,14 @@
 changelog: |
   **Keamanan**:
-  ● Tingkat Android Security Patch: 5 Juni 2020
+  ● Tingkat Android Security Patch: Juli 2020
   **Sistem**:
   ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
 codename: RMX1851EX
-date: 18/6/2020
+date: 30/7/2020
 device: realme 3 Pro
-download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
-md5: 394ABA33ECAF1132730CE0AAD67A0863
+download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
+md5: 86FE0992FFFF87A331389A4977FCEE4C
 region: Indonesia
-size: 3.12GB
+size: 3.15GB
 system: realme UI V1.0
-version: RMX1851EX_11.C.06
+version: RMX1851EX_11.C.07

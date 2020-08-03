@@ -66,19 +66,20 @@
   size: 2.83GB
   system: realme UI V1.0
   version: RMX2020_11_A.33
-- changelog: '**• Menambahkan penambal keamanan Android Mei 2020 untuk menyempurnakan
-    keamanan sistem.**:
-
-    '
-  codename: RMX2030
-  date: 25/5/2020
+- changelog: |
+    **Keamanan**:
+    ● Tingkat Android Security Patch: Juli 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2030EX
+  date: 30/7/2020
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0200_all_ddurYzSHqWzG.ozip
-  md5: C79632757CA88B264F24D86E59D56011
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: Indonesia
-  size: 2.6GB
-  system: ColorOS 6.0.1
-  version: RMX2030_11_A.20
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX2030EX_11.C.53
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: Juli 2020
@@ -123,61 +124,60 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: Mei 2020
+    ● Tingkat Android Security Patch: Juli 2020
     **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1911EX
-  date: 19/5/2020
+  date: 30/7/2020
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0290_all_pzrJthV2sMxl.ozip
-  md5: ' 347fcbcc4d0024b9fd57e253f6b7147a'
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: Indonesia
-  size: 2.59GB
-  system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.29
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX1911EX_11.C.53
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: Mei 2020
+    ● Tingkat Android Security Patch: Juli 2020
     **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1911EX
-  date: 19/5/2020
+  date: 30/7/2020
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0290_all_pzrJthV2sMxl.ozip
-  md5: ' 347fcbcc4d0024b9fd57e253f6b7147a'
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
+  md5: ECD77B77782391E39022B9684212EEF5
   region: Indonesia
-  size: 2.59GB
-  system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.29
+  size: 2.84GB
+  system: realme UI 1.0
+  version: RMX1911EX_11.C.53
 - changelog: |
     **Keamanan**:
-    ● patch keamanan Android: Juni 2020
+    ● patch keamanan Android: Juli 2020
     **Sistem**:
-    ● Memperbarui animasi pengisian daya
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1901EX
-  date: 15/6/2020
+  date: 31/7/2020
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1040_all_BbUuFdfQYcIr.ozip
-  md5: 3003095A2962F59969DE9D8489279A22
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1050_all_E7ol9wSKNXaQ.ozip
+  md5: BD7970CADECCF77D932F4A085EFCAAC9
   region: Indonesia
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1901EX_11.C.04
+  version: RMX1901EX_11.C.05
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: 5 Juni 2020
+    ● Tingkat Android Security Patch: Juli 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1851EX
-  date: 18/6/2020
+  date: 30/7/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
-  md5: 394ABA33ECAF1132730CE0AAD67A0863
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
+  md5: 86FE0992FFFF87A331389A4977FCEE4C
   region: Indonesia
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.06
+  version: RMX1851EX_11.C.07
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: 5 Juni 2020

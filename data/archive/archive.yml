@@ -74,6 +74,7 @@
     RMX1851EX_11.C.04: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1040_all_aq8syIfCvByN.ozip
     RMX1851EX_11.C.05: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1050_all_mrfWfUMXI172.ozip
     RMX1851EX_11.C.06: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1060_all_vldiYirroxu1.ozip
+    RMX1851EX_11.C.07: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
     RMX1851EX_11_A.12: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0120_all_L6ZahEviNKID.ozip
     RMX1851EX_11_A.14: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0140_all_paF0awWJMvA3.ozip
     RMX1851EX_11_A.15: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_0150_all_2zfcensDOEzK.ozip
@@ -99,12 +100,17 @@
     RMX1901EX_11.C.01: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1010_all_8KaWrap9LXiN.ozip
     RMX1901EX_11.C.03: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1030_all_SNmD0OOmonAs.ozip
     RMX1901EX_11.C.04: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1040_all_BbUuFdfQYcIr.ozip
+    RMX1901EX_11.C.05: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1050_all_E7ol9wSKNXaQ.ozip
     RMX1901EX_11_A.10: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0100_all_S3IpHN2fYjiN.ozip
     RMX1901EX_11_A.11: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0110_all_ahSrsX4WkOsX.ozip
     RMX1901EX_11_A.12: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_0120_all_imBWNUMqwtBz.ozip
+- RMX1911EU:
+    RMX1911EU_11.C.44: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
+    RMX2030EU_11.C.44: ' https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip'
 - RMX1911EX:
     RMX1911EX_11.C.47: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1470_all_YhQq6Ut0sgP2.ozip
     RMX1911EX_11.C.49: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1490_all_NGoaAXLP4eyX.ozip
+    RMX1911EX_11.C.53: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
     RMX1911EX_11_A.15: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0150_all_jzKjYWTb3tvE.ozip
     RMX1911EX_11_A.18: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0180_all_tGiCF58o1Df9.ozip
     RMX1911EX_11_A.20: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0200_all_jMIjTV5gLY1O.ozip
@@ -113,6 +119,7 @@
     RMX1911EX_11_A.28: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0280_all_NTnxlOol25kW.ozip
     RMX1911EX_11_A.29: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0290_all_pzrJthV2sMxl.ozip
     RMX1911_11_A.15: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0150_all_jzKjYWTb3tvE.ozip
+    RMX2030EX_11.C.53: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
 - RMX1921EUEX:
     RMX1921EUEX_11.C.03: https://download.c.realme.com/osupdate/RMX1921EUEX_11_OTA_1030_all_KQaEpByKeCgh.ozip
     RMX1921EUEX_11.C.04: https://download.c.realme.com/osupdate/RMX1921EUEX_11_OTA_1040_all_QZ544kll3mFR.ozip
@@ -154,7 +161,7 @@
     RMX1931EX_11.C.26: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1260_all_H0yONabfaaoA.ozip'
     RMX1931EX_11.C.27: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1270_all_XZQ2lsNPwhvA.ozip
     RMX1931EX_11.C.28: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1280_all_RGM1KnvB9uxg.ozip
-    RMX1931EX_11.C.29: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1290_all_6Q1G7PnXC7fy.ozip
+    RMX1931EX_11.C.29: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1290_all_6Q1G7PnXC7fy.ozip'
     RMX1931EX_11_A.07: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0070_all_pPnzkNE5pNia.ozip
     RMX1931EX_11_A.08: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_0080_all_ZPSMKJmsn9jM.ozip
     RMX1931EX_11_C.23: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1230_all_u4DJcrigsE54.ozip

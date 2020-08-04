@@ -79,21 +79,18 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Güvenlik**:
-    ● Android güvenlik yaması: Nisan 2020
-    **Bilinen sorun düzeltildi**:
-    ● Üçüncü taraf uygulamaları için ses efektleri optimize edildi
-    ● Karanlık modda son konum bilgisi istekleri listesinin sağına ok eklendi
-    ● İstemci her müzik çaldığında komut istemi sesinin duyulması sorunu düzeltildi
-    ● Arka plan görevi tarafından temizlendikten sonra alarmın otomatik olarak kapatılması sorunu düzeltildi
+    ● Güncel Android güvenlik yaması (2020#7)
+    **Sistem**:
+    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX1921EX
-  date: 30/4/2020
+  date: 31/7/2020
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1040_all_sJ20CP11Qx6E.ozip
-  md5: 270CFF211C210EDCBFBC8B365B5F4994
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA.ozip
+  md5: 2B413CEB6C082294E3383A3FE671F957
   region: Turkey
-  size: 3.17GB
+  size: 3.15GB
   system: realme UI 1.0
-  version: RMX1921EX_11_C.04
+  version: RMX1921EX_11.C.06
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması: Temmuz 2020

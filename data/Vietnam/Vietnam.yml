@@ -94,18 +94,18 @@
   version: RMX2030EX_11.C.53
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
+    ● Cập nhật bản vá bảo mật Android: (2020#7)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1921EX
-  date: 18/6/2020
+  date: 31/7/2020
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1050_all_HppdemYM4jdE.ozip
-  md5: E7A99C5D1287C17986912D114890C9CD
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA.ozip
+  md5: 2B413CEB6C082294E3383A3FE671F957
   region: Vietnam
-  size: 3.12GB
+  size: 3.15GB
   system: realme UI V1.0
-  version: RMX1921EX_11.C.05
+  version: RMX1921EX_11.C.06
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#7)

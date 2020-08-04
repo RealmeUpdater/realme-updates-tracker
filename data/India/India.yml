@@ -282,6 +282,28 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Security**:
+    ● Android security patch: July, 2020
+    **realme Lab**:
+    ● Added the smooth scrolling feature
+    **Settings**:
+    ● Added multi-user feature
+    **Screen recording**:
+    ● Optimized screen recording feature
+    **System**:
+    ● Optimized the transparency of swipe back gesture style
+    ● Optimized Bluetooth being turned off when flight mode is turned on mechanisam
+    ● Fixed some known issues and improved system stability
+  codename: RMX1921EX
+  date: 31/7/2020
+  device: realme XT
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA.ozip
+  md5: 2B413CEB6C082294E3383A3FE671F957
+  region: India
+  size: 3.15GB
+  system: realme UI V1.0
+  version: RMX1921EX_11.C.06
+- changelog: |
+    **Security**:
     ● Android Security Patch: July, 2020
     **Settings**:
     ● Added rotate the guide bars with screen switch in navigation button

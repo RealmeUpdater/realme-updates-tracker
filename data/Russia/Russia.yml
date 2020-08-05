@@ -201,19 +201,16 @@
   system: realme UI V1.0
   version: RMX1851EX_11.C.07
 - changelog: |
-    **Безопасность**:
-    ● Патчи безопасности Android: от 5 июня 2020
+    **Безопасность:**:
+    ● Добавлены патчи безопасности Android за июль 2020
     **Система:**:
-    ● Исправлена маловероятная проблема зависания при использовании сторонних приложений
-    **Исправлены обнаруженные проблемы**:
-    ● Устранена редкая проблема с касаниями экрана во время игры
-    ● Оптимизировать отображение
+    ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1821EX
-  date: 29/6/2020
+  date: 29/7/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1130_all_xqusrKJXApYv.ozip
-  md5: BA8A64F8ADFBDF6526A12A74DB985415
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1140_all_mzE2KoP1ciKp.ozip
+  md5: 413D0C28318844429F457BDD6FBB742D
   region: Russia
-  size: 2.46GB
+  size: 2.49GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.13
+  version: RMX1821EX_11.C.14

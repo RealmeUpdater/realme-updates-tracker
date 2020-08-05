@@ -199,42 +199,60 @@
   version: RMX2030EX_11.C.53
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（June,2020)
-    **Applications**:
-    ● Added realme PaySa
-    **Optimization**:
-    ● Optimized the height of status bar
-    ● Optimized the transparency of the slide back gestures style
+    ● Updated Android Security Patch: July, 2020
+    **realme Lab**:
+    ● Added smooth scrolling feature
     **System**:
-    ● Fixed some known issues and improved system stability
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    **Phone Manager**:
+    ● Fixed the overlapped text display issue in Phone Manager
+    **Bluetooth**:
+    ● Fixed the abnormal prompt display issue when exiting from the Bluetooth device detection interface
+    **Status Bar**:
+    ● Fixed the display issue in status bar
+    **Notification Drawer**:
+    ● Fixed the probabilistic reset button failure issue when editing
+    **Game Space**:
+    ● Fixed the status bar display issue in network acceleration interface under dark mode
+    ● Fixed the probabilistic crash issue when click agree for storage permission Pop-up
+    ● Fixed the abnormal display issue when open Game Space from home screen
   codename: RMX1992EX
-  date: 21/6/2020
+  date: 3/8/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/sign_RMX1992EX_11_OTA_1090_all_5qc41DTH9gbZ.ozip
-  md5: 2de4b447cd35d8f678e9e8cc3f56c144
+  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1110_all_O1NwycXjzo0v.ozip
+  md5: D69F14892D5A30FBEF2A15A51A8303B9
   region: India
-  size: 2.98GB
+  size: 3.00GB
   system: realme UI 1.0
-  version: RMX1992EX_11.C.09
+  version: RMX1992EX_11.C.11
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（June,2020)
-    **Applications**:
-    ● Added realme PaySa
-    **Optimization**:
-    ● Optimized the height of status bar
-    ● Optimized the transparency of the slide back gestures style
+    ● Updated Android Security Patch: July, 2020
+    **realme Lab**:
+    ● Added smooth scrolling feature
     **System**:
-    ● Fixed some known issues and improved system stability
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    **Phone Manager**:
+    ● Fixed the overlapped text display issue in Phone Manager
+    **Bluetooth**:
+    ● Fixed the abnormal prompt display issue when exiting from the Bluetooth device detection interface
+    **Status Bar**:
+    ● Fixed the display issue in status bar
+    **Notification Drawer**:
+    ● Fixed the probabilistic reset button failure issue when editing
+    **Game Space**:
+    ● Fixed the status bar display issue in network acceleration interface under dark mode
+    ● Fixed the probabilistic crash issue when click agree for storage permission Pop-up
+    ● Fixed the abnormal display issue when open Game Space from home screen
   codename: RMX1992AEX
-  date: 21/6/2020
+  date: 3/8/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/sign_RMX1992AEX_11_OTA_1090_all_6oRWCDPaCigp.ozip
-  md5: aa680ddee2458ec1213184e55efedfb3
+  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1110_all_XRgKhmH4Jee0.ozip
+  md5: D69F14892D5A30FBEF2A15A51A8303B9
   region: India
-  size: 2.98GB
+  size: 3.00GB
   system: realme UI 1.0
-  version: RMX1992AEX_11.C.09
+  version: RMX1992AEX_11.C.11
 - changelog: |
     **Security**:
     ● Updated Android security Patch: July, 2020

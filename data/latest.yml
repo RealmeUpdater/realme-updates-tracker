@@ -997,23 +997,18 @@
   version: RMX1851EX_11.C.07
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: 5 Juni 2020
-    **Aplikasi**:
-    **Ditambahkan realme Link**:
+    ● Level Android Security Patch : Juli 2020
     **Sistem**:
-    ● Perbaikan masalah tersangkut yang kadang muncul saat menggunakan aplikasi pihak ketiga
-    **Menyelesaikan masalah yang diketahui**:
-    ● Menyelesaikan masalah sentuhan saat bermain game
-    ● Mengoptimalkan kualitas tampilan
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1821EX
-  date: 29/6/2020
+  date: 29/7/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1130_all_xqusrKJXApYv.ozip
-  md5: BA8A64F8ADFBDF6526A12A74DB985415
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1140_all_mzE2KoP1ciKp.ozip
+  md5: 413D0C28318844429F457BDD6FBB742D
   region: Indonesia
-  size: 2.46GB
+  size: 2.49GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.13
+  version: RMX1821EX_11.C.14
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: Juli 2020
@@ -1265,42 +1260,60 @@
   version: RMX2030EX_11.C.53
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（June,2020)
-    **Applications**:
-    ● Added realme PaySa
-    **Optimization**:
-    ● Optimized the height of status bar
-    ● Optimized the transparency of the slide back gestures style
+    ● Updated Android Security Patch: July, 2020
+    **realme Lab**:
+    ● Added smooth scrolling feature
     **System**:
-    ● Fixed some known issues and improved system stability
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    **Phone Manager**:
+    ● Fixed the overlapped text display issue in Phone Manager
+    **Bluetooth**:
+    ● Fixed the abnormal prompt display issue when exiting from the Bluetooth device detection interface
+    **Status Bar**:
+    ● Fixed the display issue in status bar
+    **Notification Drawer**:
+    ● Fixed the probabilistic reset button failure issue when editing
+    **Game Space**:
+    ● Fixed the status bar display issue in network acceleration interface under dark mode
+    ● Fixed the probabilistic crash issue when click agree for storage permission Pop-up
+    ● Fixed the abnormal display issue when open Game Space from home screen
   codename: RMX1992EX
-  date: 21/6/2020
+  date: 3/8/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/sign_RMX1992EX_11_OTA_1090_all_5qc41DTH9gbZ.ozip
-  md5: 2de4b447cd35d8f678e9e8cc3f56c144
+  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1110_all_O1NwycXjzo0v.ozip
+  md5: D69F14892D5A30FBEF2A15A51A8303B9
   region: India
-  size: 2.98GB
+  size: 3.00GB
   system: realme UI 1.0
-  version: RMX1992EX_11.C.09
+  version: RMX1992EX_11.C.11
 - changelog: |
     **Security**:
-    ● Updated Andriod security patch（June,2020)
-    **Applications**:
-    ● Added realme PaySa
-    **Optimization**:
-    ● Optimized the height of status bar
-    ● Optimized the transparency of the slide back gestures style
+    ● Updated Android Security Patch: July, 2020
+    **realme Lab**:
+    ● Added smooth scrolling feature
     **System**:
-    ● Fixed some known issues and improved system stability
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    **Phone Manager**:
+    ● Fixed the overlapped text display issue in Phone Manager
+    **Bluetooth**:
+    ● Fixed the abnormal prompt display issue when exiting from the Bluetooth device detection interface
+    **Status Bar**:
+    ● Fixed the display issue in status bar
+    **Notification Drawer**:
+    ● Fixed the probabilistic reset button failure issue when editing
+    **Game Space**:
+    ● Fixed the status bar display issue in network acceleration interface under dark mode
+    ● Fixed the probabilistic crash issue when click agree for storage permission Pop-up
+    ● Fixed the abnormal display issue when open Game Space from home screen
   codename: RMX1992AEX
-  date: 21/6/2020
+  date: 3/8/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/sign_RMX1992AEX_11_OTA_1090_all_6oRWCDPaCigp.ozip
-  md5: aa680ddee2458ec1213184e55efedfb3
+  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1110_all_XRgKhmH4Jee0.ozip
+  md5: D69F14892D5A30FBEF2A15A51A8303B9
   region: India
-  size: 2.98GB
+  size: 3.00GB
   system: realme UI 1.0
-  version: RMX1992AEX_11.C.09
+  version: RMX1992AEX_11.C.11
 - changelog: |
     **Security**:
     ● Updated Android security Patch: July, 2020
@@ -2119,22 +2132,19 @@
   system: realme UI V1.0
   version: RMX1851EX_11.C.07
 - changelog: |
-    **Безопасность**:
-    ● Патчи безопасности Android: от 5 июня 2020
+    **Безопасность:**:
+    ● Добавлены патчи безопасности Android за июль 2020
     **Система:**:
-    ● Исправлена маловероятная проблема зависания при использовании сторонних приложений
-    **Исправлены обнаруженные проблемы**:
-    ● Устранена редкая проблема с касаниями экрана во время игры
-    ● Оптимизировать отображение
+    ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1821EX
-  date: 29/6/2020
+  date: 29/7/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1130_all_xqusrKJXApYv.ozip
-  md5: BA8A64F8ADFBDF6526A12A74DB985415
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1140_all_mzE2KoP1ciKp.ozip
+  md5: 413D0C28318844429F457BDD6FBB742D
   region: Russia
-  size: 2.46GB
+  size: 2.49GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.13
+  version: RMX1821EX_11.C.14
 - changelog: |
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
@@ -2301,7 +2311,7 @@
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2020
   date: 3/7/2020
-  device: realme 3i
+  device: realme C3i
   download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0330_all_L57BVJ63NK5r.ozip
   md5: CA8CEA341F9E3289892FA90DE93601CB
   region: Vietnam
@@ -2407,24 +2417,19 @@
   system: realme UI V1.0
   version: RMX1851EX_11.C.07
 - changelog: |
-    **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020
-    **Ứng dụng:**:
-    ● thêm realme Link
+    **Bảo mật**:
+    ● Bản vá bảo mật Android: Tháng 7 năm 2020
     **Hệ thống**:
-    ● Sửa lỗi đôi khi bị treo khi sử dụng ứng dụng bên thứ ba
-    **Đã sửa vấn đề đã biết**:
-    ● Sửa lỗi tỉ lệ màn hình không nhạy khi chơi Game
-    ● Cải tiến chất lượng hiển thị
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1821EX
-  date: 29/6/2020
+  date: 29/7/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1130_all_xqusrKJXApYv.ozip
-  md5: BA8A64F8ADFBDF6526A12A74DB985415
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1140_all_mzE2KoP1ciKp.ozip
+  md5: 413D0C28318844429F457BDD6FBB742D
   region: Vietnam
-  size: 2.46GB
+  size: 2.49GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.13
+  version: RMX1821EX_11.C.14
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 7 năm 2020

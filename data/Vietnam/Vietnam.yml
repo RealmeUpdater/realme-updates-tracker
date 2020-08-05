@@ -57,7 +57,7 @@
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2020
   date: 3/7/2020
-  device: realme 3i
+  device: realme C3i
   download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0330_all_L57BVJ63NK5r.ozip
   md5: CA8CEA341F9E3289892FA90DE93601CB
   region: Vietnam
@@ -163,24 +163,19 @@
   system: realme UI V1.0
   version: RMX1851EX_11.C.07
 - changelog: |
-    **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020
-    **Ứng dụng:**:
-    ● thêm realme Link
+    **Bảo mật**:
+    ● Bản vá bảo mật Android: Tháng 7 năm 2020
     **Hệ thống**:
-    ● Sửa lỗi đôi khi bị treo khi sử dụng ứng dụng bên thứ ba
-    **Đã sửa vấn đề đã biết**:
-    ● Sửa lỗi tỉ lệ màn hình không nhạy khi chơi Game
-    ● Cải tiến chất lượng hiển thị
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1821EX
-  date: 29/6/2020
+  date: 29/7/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1130_all_xqusrKJXApYv.ozip
-  md5: BA8A64F8ADFBDF6526A12A74DB985415
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1140_all_mzE2KoP1ciKp.ozip
+  md5: 413D0C28318844429F457BDD6FBB742D
   region: Vietnam
-  size: 2.46GB
+  size: 2.49GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.13
+  version: RMX1821EX_11.C.14
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 7 năm 2020

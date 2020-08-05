@@ -1,14 +1,14 @@
 changelog: |
   **Güvenlik**:
-  ● Güncel Android güvenlik yaması (2020#6)
+  ● Güncel Android güvenlik yaması (2020#7)
   **Sistem**:
   ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
 codename: RMX2001EU
-date: 28/6/2020
+date: 3/8/2020
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0340_all_52qYRqqh54uU.ozip
-md5: B8D117882987A8FCA72CD1C11CC2ED18
+download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0380_all_HgmAVWfZJljL.ozip
+md5: 8E81FAD986E0BC8E99A183F73809E576
 region: Turkey
-size: 2.78GB
+size: 2.80GB
 system: realme UI 1.0
-version: RMX2001EU_11.A.34
+version: RMX2001EU_11.A.38

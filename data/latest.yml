@@ -16,24 +16,22 @@
   version: RMX2061_11.A.25
 - changelog: |
     **Security**:
-    ● Updated Android security patch: June, 2020
-    **Applications**:
-    ● Added realme Link
+    ● Android Security Patch: July, 2020
     **System**:
-    ● Fixed the  issue that FPS for some games was shown as zero in Game Space
-    ● Fixed some known issues and improved system stability
+    ● Added system language: Serbian
+    ● Optimized the power consumption
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
     **Camera**:
-    ● Optimized front camera NIGHTSCAPE quality
-    ● Fixed the low probabilistic issue that the sound is out of sync with the picture after video recording
+    ● Fixed the probabilistic issue that the video playback sound is out of sync with the image after recording the video
   codename: RMX2001
-  date: 28/6/2020
+  date: 31/7/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
-  md5: 7F29D0A855213C2D84F0C55DEF067262
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0410_all_NMLKtGLlV9n2.ozip
+  md5: F23A6F5D31BE0AABA68112D22B90412F
   region: UAE
-  size: 3.05GB
+  size: 3.08GB
   system: realme UI 1.0
-  version: RMX2001_11.B.37
+  version: RMX2001_11.B.41
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020
@@ -857,18 +855,18 @@
   version: RMX2061_11.A.27
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: 5 Juni 2020
+    ● Tingkat Android Security Patch: 5 Juli 2020
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2001
-  date: 28/6/2020
+  date: 31/7/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
-  md5: 7F29D0A855213C2D84F0C55DEF067262
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0410_all_NMLKtGLlV9n2.ozip
+  md5: F23A6F5D31BE0AABA68112D22B90412F
   region: Indonesia
-  size: 3.05GB
+  size: 3.08GB
   system: realme UI 1.0
-  version: RMX2001_11.B.37
+  version: RMX2001_11.B.41
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: 5 Juni 2020
@@ -1194,24 +1192,22 @@
   version: RMX2061_11.A.27
 - changelog: |
     **Security**:
-    ● Updated Android security patch: June, 2020
-    **Applications**:
-    ● Added realme Link
+    ● Android Security Patch: July, 2020
     **System**:
-    ● Fixed the issue that FPS for some games was shown as zero in Game Space
-    ● Fixed some known issues and improved system stability
+    ● Added system language: Serbian
+    ● Optimized the power consumption
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
     **Camera**:
-    ● Optimized front camera NIGHTSCAPE quality
-    ● Fixed the low probabilistic issue that the sound is out of sync with the picture after video recording
+    ● Fixed the probabilistic issue that the video playback sound is out of sync with the image after recording the video
   codename: RMX2001
-  date: 28/6/2020
+  date: 31/7/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
-  md5: 7F29D0A855213C2D84F0C55DEF067262
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0410_all_NMLKtGLlV9n2.ozip
+  md5: F23A6F5D31BE0AABA68112D22B90412F
   region: India
-  size: 3.05GB
+  size: 3.08GB
   system: realme UI 1.0
-  version: RMX2001_11.B.37
+  version: RMX2001_11.B.41
 - changelog: |
     **Optimized**:
     ● Optimized game audio quality
@@ -1724,24 +1720,22 @@
   version: RMX2061_11.A.27
 - changelog: |
     **Security**:
-    ● Updated Android security patch: June, 2020
-    **Applications**:
-    ● Added realme Link
+    ● Android Security Patch: July, 2020
     **System**:
-    ● Fixed the  issue that FPS for some games was shown as zero in Game Space
-    ● Fixed some known issues and improved system stability
+    ● Added system language: Serbian
+    ● Optimized the power consumption
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
     **Camera**:
-    ● Optimized front camera NIGHTSCAPE quality
-    ● Fixed the low probabilistic issue that the sound is out of sync with the picture after video recording
+    ● Fixed the probabilistic issue that the video playback sound is out of sync with the image after recording the video
   codename: RMX2001
-  date: 28/6/2020
+  date: 31/7/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
-  md5: 7F29D0A855213C2D84F0C55DEF067262
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0410_all_NMLKtGLlV9n2.ozip
+  md5: F23A6F5D31BE0AABA68112D22B90412F
   region: Pakistan
-  size: 3.05GB
+  size: 3.08GB
   system: realme UI 1.0
-  version: RMX2001_11.B.37
+  version: RMX2001_11.B.41
 - changelog: |
     **Security**:
     ● Android security patch: April, 2020
@@ -1971,18 +1965,18 @@
   version: RMX2061_11.A.27
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: от 5 июня 2020
+    ● Патчи безопасности Android: от 5 июля 2020
     **Система:**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
   codename: RMX2001
-  date: 28/6/2020
+  date: 31/7/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
-  md5: 7F29D0A855213C2D84F0C55DEF067262
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0410_all_NMLKtGLlV9n2.ozip
+  md5: F23A6F5D31BE0AABA68112D22B90412F
   region: Russia
-  size: 3.05GB
+  size: 3.08GB
   system: realme UI 1.0
-  version: RMX2001_11.B.37
+  version: RMX2001_11.B.41
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности Android за апрель 2020 г.
@@ -2198,18 +2192,18 @@
   version: RMX2030EX_11_A.19
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2020#6)
+    ● Güncel Android güvenlik yaması (2020#7)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2001EU
-  date: 28/6/2020
+  date: 3/8/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0340_all_52qYRqqh54uU.ozip
-  md5: B8D117882987A8FCA72CD1C11CC2ED18
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0380_all_HgmAVWfZJljL.ozip
+  md5: 8E81FAD986E0BC8E99A183F73809E576
   region: Turkey
-  size: 2.78GB
+  size: 2.80GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.34
+  version: RMX2001EU_11.A.38
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#7)
@@ -2292,18 +2286,18 @@
   version: RMX2040_11_A.23
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
+    ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 7 năm 2020.
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2001
-  date: 28/6/2020
+  date: 31/7/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
-  md5: 7F29D0A855213C2D84F0C55DEF067262
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0410_all_NMLKtGLlV9n2.ozip
+  md5: F23A6F5D31BE0AABA68112D22B90412F
   region: Vietnam
-  size: 3.05GB
+  size: 3.08GB
   system: realme UI 1.0
-  version: RMX2001_11.B.37
+  version: RMX2001_11.B.41
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.

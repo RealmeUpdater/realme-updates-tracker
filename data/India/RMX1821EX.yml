@@ -1,26 +1,25 @@
 changelog: |
   **Security**:
-  ● Android security patch: June, 2020
-  **Application**:
-  ● Added DocVault
-  ● Added realme Link
-  **System**:
-  ● Optimized hanging issue in low memory state
+  ● Updated Android Security Patch: July, 2020
+  **Settings**:
+  ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+  ● Fixed the rename Cloned App failure issue
   **Fingerprint**:
-  ● Optimized fingerprint recognition speed
-  **Touch**:
-  ● Optimized touch failure issue in some scenarios during game
-  ● Optimized the issue that no response while touching the edges and corners of the screen
-  **Known issue fixed**:
-  ● Optimized the sensitive issue of compass
-  ● Optimized video scene brightness and color saturation
-  ● Fixed the issue that without game dirac sound effect while entering some games
+  ● Fixed the probabilistic fingerprint unlock failure issue while screen-off
+  **Assistive Ball**:
+  ● Fixed the assistive ball fail to retract issue after clicking the menu
+  ● Fixed the probabilistic crash issue when select operation mode
+  **Smart Sidebar**:
+  ● Fixed the probabilistic crash issue when press and hold in smart sidebar
+  **Game Space**:
+  ● Fixed the game assistant failure issue
+  ● Fixed the setting data loss issue after update
 codename: RMX1821EX
-date: 29/6/2020
+date: 29/7/2020
 device: realme 3
-download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1130_all_xqusrKJXApYv.ozip
-md5: BA8A64F8ADFBDF6526A12A74DB985415
+download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1140_all_mzE2KoP1ciKp.ozip
+md5: 413D0C28318844429F457BDD6FBB742D
 region: India
-size: 2.46GB
+size: 2.49GB
 system: realme UI 1.0
-version: RMX1821EX_11.C.13
+version: RMX1821EX_11.C.14

@@ -1,20 +1,18 @@
 changelog: |
   **Security**:
-  ● Updated Andriod security patch: June, 2020
-  **Applications**:
-  ● Added realme Link
+  ● Android Security Patch: July, 2020
   **System**:
-  ● Fixed the issue that FPS for some games was shown as zero in Game Space
-  ● Fixed some known issues and improved system stability
+  ● Added system language: Serbian
+  ● Optimized the power consumption
+  ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
   **Camera**:
-  ● Optimized front camera NIGHTSCAPE quality
-  ● Fixed the low probabilistic issue that the sound is out of sync with the picture after video recording
+  ● Fixed the probabilistic issue that the video playback sound is out of sync with the image after recording the video
 codename: RMX2001EU
-date: 28/6/2020
+date: 31/7/2020
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0340_all_52qYRqqh54uU.ozip
-md5: B8D117882987A8FCA72CD1C11CC2ED18
+download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0380_all_HgmAVWfZJljL.ozip
+md5: 8E81FAD986E0BC8E99A183F73809E576
 region: Europe
-size: 2.78GB
+size: 2.80GB
 system: realme UI 1.0
-version: RMX2001EU_11.A.34
+version: RMX2001EU_11.A.38

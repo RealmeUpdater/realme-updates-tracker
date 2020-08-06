@@ -27,6 +27,20 @@
   system: realme UI 1.0
   version: RMX2081EU_11.A.38
 - changelog: |
+    **Seguridad**:
+    ● Parche de seguridad de Android:julio de 2020
+    **Sistema**:
+    ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
+  codename: RMX2001EU
+  date: 3/8/2020
+  device: realme 6s
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0380_all_HgmAVWfZJljL.ozip
+  md5: 8E81FAD986E0BC8E99A183F73809E576
+  region: Spain
+  size: 2.80GB
+  system: realme UI 1.0
+  version: RMX2001EU_11.A.38
+- changelog: |
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2061EU
@@ -80,18 +94,18 @@
   version: RMX2020EU_11.A.24
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: junio de 2020
+    ● Parche de seguridad de Android:julio de 2020
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2001EU
-  date: 28/6/2020
+  date: 3/8/2020
   device: realme 6
-  download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0340_all_52qYRqqh54uU.ozip'
-  md5: B8D117882987A8FCA72CD1C11CC2ED18
+  download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0380_all_HgmAVWfZJljL.ozip'
+  md5: 8E81FAD986E0BC8E99A183F73809E576
   region: Spain
-  size: 2.78GB
+  size: 2.80GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.34
+  version: RMX2001EU_11.A.38
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: julio 2020

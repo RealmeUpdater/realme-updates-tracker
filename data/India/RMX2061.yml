@@ -1,12 +1,28 @@
 changelog: |
-  **System**:
-  ● Fixed the issue of excessive system storage occupation
+  **Security**:
+  ● Android Security Patch: July, 2020
+  **Game**:
+  ●Optimized the up-swiping gesture in the game scene
+  ●Fixed the probabilistic issue of insensitive touch in the games
+  **Settings**:
+  ●Optimized the switch state when the battery reaches the automatic shutdown in Power Saving Mode
+  ●Optimized power saving mode to reduce screen brightness switch state
+  ●Fixed the issue that the bottom button of the floating keyboard does not respond
+  **Launcher**:
+  ●Fixed the probabilistic desktop icon display abnormal issue
+  **Camera**:
+  ●Fixed the probabilistic lagging issue of camera preview interface
+  ●Fixed the probabilistic lagging issue of recording video
+  **Game Space**:
+  ●Fixed the issue that Lock Screen Magazine can be added as a game application
+  **Notification Bar and Status Bar**:
+  ●Fixed the probabilistic abnormal display issue after deleting the message in the notification bar
 codename: RMX2061
-date: 4/7/2020
+date: 5/8/2020
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0270_all_EmtL5ZcP1lZd.ozip
-md5: 84979E5E9E5A3AE483FD443369B405D1
+download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0290_all_TjeZ9QLjbIsx.ozip
+md5: 2A437939982D3469DD53AD76D3A37ABD
 region: India
-size: 3.38GB
+size: 3.44GB
 system: realme UI 1.0
-version: RMX2061_11.A.27
+version: RMX2061_11.A.29

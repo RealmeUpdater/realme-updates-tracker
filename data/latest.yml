@@ -2295,17 +2295,19 @@
   system: realme UI V1.0
   version: RMX1821EX_11.C.14
 - changelog: |
+    **Güvenlik**:
+    ● Android güvenlik yaması(2020#7)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2061EU
-  date: 4/7/2020
+  date: 5/8/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0200_all_uIzNbnYiGLLT.ozip
-  md5: C0845B100EEF3AB51B41C8EA6DFFC895
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0220_all_OvHmjVvUt03x.ozip
+  md5: C7B1B437F2B9445F78B03CB5A8AEA248
   region: Turkey
-  size: 3.11GB
+  size: 3.17GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.20
+  version: RMX2061EU_11.A.22
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması: Nisan 2020

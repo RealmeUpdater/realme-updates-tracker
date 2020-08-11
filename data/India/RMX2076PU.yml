@@ -3,6 +3,7 @@ changelog: |
   ● Android Security Patch: July, 2020
   **Applications**:
   ● Added realme PaySa(India)
+  ● Fixed the display issue of WhatsApp video call scene
   **Status Bar**:
   ● Added 5G Switch toggles of notification panel
   **Game Space**:
@@ -23,11 +24,11 @@ changelog: |
   **Notifications**:
   ● Fixed the NFC file transfer ringing issue after changing NFC notification sound
 codename: RMX2076PU
-date: 30/7/2020
+date: 3/8/2020
 device: realme X50 Pro
-download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0290_all_xA1mpyGa5gAt.ozip
-md5: 0ff58721031204904644ce46be068d1c
+download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0310_all_IVSRE5t9Kq69.ozip
+md5: ccd9e9e22a60cd04804522a2882b30ec
 region: India
 size: 3.78GB
 system: realmeUI V1.0
-version: RMX2076PU_11.A.29
+version: RMX2076PU_11.A.31

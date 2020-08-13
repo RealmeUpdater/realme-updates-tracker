@@ -1172,56 +1172,6 @@
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
-    **Language**:
-    ● Added system language: Serbian
-    **System**:
-    ● Optimized the speed of the App Startup from the recent apps
-    ● Optimized the speed of application installation
-    **Status Bar**:
-    ● Optimized the display of battery icon when charging
-    **Camera**:
-    ● Optimized the speed of camera cold start
-    **Phone**:
-    ● Fixed the issue that non-emergency numbers are incorrectly displayed
-    ● Fixed the probabilistic issue that unable to make a conference call
-  codename: RMX2020
-  date: 3/8/2020
-  device: Narzo 10A
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0370_all_JwLeoT2lQsA3.ozip
-  md5: EF3D82B2270AF46ECD9E71AEA7C8900A
-  region: India
-  size: 2.83GB
-  system: realme UI 1.0
-  version: RMX2020_11.A.37
-- changelog: |
-    **Security**:
-    ● Android Security Patch: July, 2020
-    **Language**:
-    ● Added system language: Serbian
-    **System**:
-    ● Optimized the speed of the App Startup from the recent apps
-    ● Optimized the speed of application installation
-    **Fingerprint**:
-    ● Optimized fingerprint recognition rate
-    **Status Bar**:
-    ● Optimized the display of battery icon when charging
-    **Camera**:
-    ● Optimized the speed of camera cold start
-    **Phone**:
-    ● Fixed the issue that non-emergency numbers are incorrectly displayed
-    ● Fixed the probabilistic issue that unable to make a conference call
-  codename: RMX2040
-  date: 3/8/2020
-  device: Narzo 10
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0250_all_dNsiVY2tplRJ.ozip
-  md5: FE8C454D9FCBB68D2A2B29E60081613F
-  region: India
-  size: 2.83GB
-  system: realme UI 1.0
-  version: RMX2040_11.A.25
-- changelog: |
-    **Security**:
-    ● Android Security Patch: July, 2020
     **Applications**:
     ● Added realme PaySa(India)
     ● Fixed the display issue of WhatsApp video call scene

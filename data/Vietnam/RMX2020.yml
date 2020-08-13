@@ -1,14 +1,14 @@
 changelog: |
   **Bảo mật**:
-  ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 6 năm 2020.
+  ● Cập nhật bản vá bảo mật Android: (2020#7)
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
 codename: RMX2020
-date: 3/7/2020
+date: 3/8/2020
 device: realme C3
-download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0330_all_L57BVJ63NK5r.ozip
-md5: CA8CEA341F9E3289892FA90DE93601CB
+download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0370_all_JwLeoT2lQsA3.ozip
+md5: EF3D82B2270AF46ECD9E71AEA7C8900A
 region: Vietnam
 size: 2.83GB
 system: realme UI V1.0
-version: RMX2020_11_A.33
+version: RMX2020_11_A.37

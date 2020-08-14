@@ -1238,30 +1238,6 @@
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
-    **Language**:
-    ● Added system language: Serbian
-    **System**:
-    ● Optimized the speed of the App Startup from the recent apps
-    ● Optimized the speed of application installation
-    **Status Bar**:
-    ● Optimized the display of battery icon when charging
-    **Camera**:
-    ● Optimized the speed of camera cold start
-    **Phone**:
-    ● Fixed the issue that non-emergency numbers are incorrectly displayed
-    ● Fixed the probabilistic issue that unable to make a conference call
-  codename: RMX2020
-  date: 3/8/2020
-  device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0370_all_JwLeoT2lQsA3.ozip
-  md5: EF3D82B2270AF46ECD9E71AEA7C8900A
-  region: India
-  size: 2.83GB
-  system: realme UI V1.0
-  version: RMX2020_11.A.37
-- changelog: |
-    **Security**:
-    ● Android Security Patch: July, 2020
     **Settings**:
     ● Added rotate the guide bars with screen switch in navigation button
     ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on

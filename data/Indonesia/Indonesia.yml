@@ -57,20 +57,6 @@
     ● Tingkat Android Security Patch: Juli 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
-  codename: RMX2020
-  date: 3/8/2020
-  device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0370_all_JwLeoT2lQsA3.ozip
-  md5: EF3D82B2270AF46ECD9E71AEA7C8900A
-  region: Indonesia
-  size: 2.83GB
-  system: realme UI V1.0
-  version: RMX2020_11_A.37
-- changelog: |
-    **Keamanan**:
-    ● Tingkat Android Security Patch: Juli 2020
-    **Sistem**:
-    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2030EX
   date: 30/7/2020
   device: realme 5i

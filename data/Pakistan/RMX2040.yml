@@ -1,21 +1,27 @@
 changelog: |
-  **Optimized**:
-  ● Optimized game audio quality
-  ● Optimized system stability
-  ● Optimized probabilistic lagging issue
-  **Known issue fixed**:
-  ● Fixed the probabilistic lagging issue when pressing power button to light up screen
-  ● Fixed the probabilistic issue that weather app failed to obtain location
-  ● Fixed the probabilistic issue that game center FPS was shown as zero
-  ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
   **Security**:
-  ● Updated Android security patch（2020#6）
+  ● Android Security Patch: July, 2020
+  **Language**:
+  ● Added system language: Serbian
+  **System**:
+  ● Optimized the speed of the App Startup from the recent apps
+  ● Optimized the speed of application installation
+  ● Fixed the issue that the phone cannot be woken up by pressing the power button
+  **Fingerprint**:
+  ● Optimized fingerprint recognition rate
+  **Status Bar**:
+  ● Optimized the display of battery icon when charging
+  **Camera**:
+  ● Optimized the speed of camera cold start
+  **Phone**:
+  ● Fixed the issue that non-emergency numbers are incorrectly displayed
+  ● Fixed the probabilistic issue that unable to make a conference call
 codename: RMX2040
-date: 3/7/2020
+date: 15/8/2020
 device: realme 6i
-download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0230_all_xdNcURB51oIc.ozip
-md5: AFE9F21B2822F2979C8C4D00D29C2930
+download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0270_all_7RxCwaEdCEFb.ozip
+md5: 13151EBB7288ADE5F9903D805AE8AD6C
 region: Pakistan
 size: 2.83GB
 system: realme UI 1.0
-version: RMX2040_11_A.23
+version: RMX2040_11.A.27

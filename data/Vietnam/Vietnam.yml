@@ -24,6 +24,20 @@
   version: RMX2061_11.A.27
 - changelog: |
     **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2040
+  date: 15/8/2020
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0270_all_7RxCwaEdCEFb.ozip
+  md5: 13151EBB7288ADE5F9903D805AE8AD6C
+  region: Vietnam
+  size: 2.83GB
+  system: realme UI 1.0
+  version: RMX2040_11_A.27
+- changelog: |
+    **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 7 năm 2020.
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
@@ -36,6 +50,34 @@
   size: 3.08GB
   system: realme UI 1.0
   version: RMX2001_11.B.41
+- changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2020
+  date: 15/8/2020
+  device: realme C3i
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
+  md5: 3AC550ADF4BCE342BFDEB482358CB9A6
+  region: Vietnam
+  size: 2.83GB
+  system: realme UI V1.0
+  version: RMX2020_11_A.39
+- changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ th
+  codename: RMX2020
+  date: 15/8/2020
+  device: realme C3
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
+  md5: 3AC550ADF4BCE342BFDEB482358CB9A6
+  region: Vietnam
+  size: 2.83GB
+  system: realme UI V1.0
+  version: RMX2020_11_A.39
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#7)

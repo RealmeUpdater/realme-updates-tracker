@@ -140,47 +140,57 @@
   system: realme UI 1.0
   version: RMX2001EU_11.A.38
 - changelog: |
-    **Optimized**:
-    ● Optimized game audio quality
-    ● Optimized system stability
-    ● Optimized probabilistic lagging issue
-    **Known issue fixed**:
-    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
-    ● Fixed the probabilistic issue that weather app failed to obtain location
-    ● Fixed the probabilistic issue that game center FPS was shown as zero
-    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
     **Security**:
-    ● Updated Android security patch（2020#6）
-  codename: RMX2040
-  date: 3/7/2020
+    ● Android Security Patch: July, 2020
+    **Language**:
+    ● Added system language: Serbian
+    **System**:
+    ● Optimized the speed of the App Startup from the recent apps
+    ● Optimized the speed of application installation
+    ● Fixed the issue that the phone cannot be woken up by pressing the power button
+    **Fingerprint**:
+    ● Optimized fingerprint recognition rate
+    **Status Bar**:
+    ● Optimized the display of battery icon when charging
+    **Camera**:
+    ● Optimized the speed of camera cold start
+    **Phone**:
+    ● Fixed the issue that non-emergency numbers are incorrectly displayed
+    ● Fixed the probabilistic issue that unable to make a conference call
+  codename: RMX2040EU
+  date: 15/8/2020
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
-  md5: 33A048134CA7BC6215EED41457CE958A
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0240_all_oIFexgF8hvl1.ozip
+  md5: 0C1545C0A5A6C01D3193354A61336E4D
   region: Europe
   size: 2.6GB
   system: realme UI 1.0
-  version: RMX2040_11_A.20
+  version: RMX2040EU_11.A.24
 - changelog: |
-    **Optimized**:
-    ● Optimized game audio quality
-    ● Optimized system stability
-    ● Optimized probabilistic lagging issue
-    **Known issue fixed**:
-    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
-    ● Fixed the probabilistic issue that weather app failed to obtain location
-    ● Fixed the probabilistic issue that game center FPS was shown as zero
-    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
     **Security**:
-    ● Updated Android security patch（2020#6）
-  codename: RMX2020
-  date: 3/7/2020
+    ● Android Security Patch: July, 2020
+    **Language**:
+    ● Added system language: Serbian
+    **System**:
+    ● Optimized the speed of the App Startup from the recent apps
+    ● Optimized the speed of application installation
+    ● Fixed the issue that the phone cannot be woken up by pressing the power button
+    **Status Bar**:
+    ● Optimized the display of battery icon when charging
+    **Camera**:
+    ● Optimized the speed of camera cold start
+    **Phone**:
+    ● Fixed the issue that non-emergency numbers are incorrectly displayed
+    ● Fixed the probabilistic issue that unable to make a conference call
+  codename: RMX2020EU
+  date: 15/8/2020
   device: realme C3
-  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0320_all_crQxH1bPiHb6.ozip'
-  md5: F811B440D5232128AE71486BA19641BE
+  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0360_all_w8T1H0cb04aW.ozip'
+  md5: FB0C10DF2D01A744D8EB479BEF045CB2
   region: Europe
   size: 2.6GB
   system: realme UI 1.0
-  version: RMX2020_11_A.32
+  version: RMX2020EU_11.A.36
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020

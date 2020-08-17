@@ -4,11 +4,11 @@ changelog: |
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
 codename: RMX2040
-date: 3/8/2020
+date: 15/8/2020
 device: realme 6i
-download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0250_all_dNsiVY2tplRJ.ozip
-md5: FE8C454D9FCBB68D2A2B29E60081613F
+download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0270_all_7RxCwaEdCEFb.ozip
+md5: 13151EBB7288ADE5F9903D805AE8AD6C
 region: Vietnam
 size: 2.83GB
 system: realme UI 1.0
-version: RMX2040_11_A.25
+version: RMX2040_11_A.27

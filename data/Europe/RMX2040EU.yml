@@ -7,6 +7,8 @@ changelog: |
   ● Optimized the speed of the App Startup from the recent apps
   ● Optimized the speed of application installation
   ● Fixed the issue that the phone cannot be woken up by pressing the power button
+  **Fingerprint**:
+  ● Optimized fingerprint recognition rate
   **Status Bar**:
   ● Optimized the display of battery icon when charging
   **Camera**:
@@ -14,12 +16,12 @@ changelog: |
   **Phone**:
   ● Fixed the issue that non-emergency numbers are incorrectly displayed
   ● Fixed the probabilistic issue that unable to make a conference call
-codename: RMX2020
+codename: RMX2040EU
 date: 15/8/2020
-device: realme C3
-download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
-md5: 3AC550ADF4BCE342BFDEB482358CB9A6
-region: India
-size: 2.83GB
-system: realme UI V1.0
-version: RMX2020_11.A.39
+device: realme 6i
+download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0240_all_oIFexgF8hvl1.ozip
+md5: 0C1545C0A5A6C01D3193354A61336E4D
+region: Europe
+size: 2.6GB
+system: realme UI 1.0
+version: RMX2040EU_11.A.24

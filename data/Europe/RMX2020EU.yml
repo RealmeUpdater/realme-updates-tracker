@@ -14,12 +14,12 @@ changelog: |
   **Phone**:
   ● Fixed the issue that non-emergency numbers are incorrectly displayed
   ● Fixed the probabilistic issue that unable to make a conference call
-codename: RMX2020
+codename: RMX2020EU
 date: 15/8/2020
 device: realme C3
-download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
-md5: 3AC550ADF4BCE342BFDEB482358CB9A6
-region: India
-size: 2.83GB
-system: realme UI V1.0
-version: RMX2020_11.A.39
+download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0360_all_w8T1H0cb04aW.ozip'
+md5: FB0C10DF2D01A744D8EB479BEF045CB2
+region: Europe
+size: 2.6GB
+system: realme UI 1.0
+version: RMX2020EU_11.A.36

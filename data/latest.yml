@@ -690,47 +690,57 @@
   system: realme UI 1.0
   version: RMX2001EU_11.A.38
 - changelog: |
-    **Optimized**:
-    ● Optimized game audio quality
-    ● Optimized system stability
-    ● Optimized probabilistic lagging issue
-    **Known issue fixed**:
-    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
-    ● Fixed the probabilistic issue that weather app failed to obtain location
-    ● Fixed the probabilistic issue that game center FPS was shown as zero
-    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
     **Security**:
-    ● Updated Android security patch（2020#6）
-  codename: RMX2040
-  date: 3/7/2020
+    ● Android Security Patch: July, 2020
+    **Language**:
+    ● Added system language: Serbian
+    **System**:
+    ● Optimized the speed of the App Startup from the recent apps
+    ● Optimized the speed of application installation
+    ● Fixed the issue that the phone cannot be woken up by pressing the power button
+    **Fingerprint**:
+    ● Optimized fingerprint recognition rate
+    **Status Bar**:
+    ● Optimized the display of battery icon when charging
+    **Camera**:
+    ● Optimized the speed of camera cold start
+    **Phone**:
+    ● Fixed the issue that non-emergency numbers are incorrectly displayed
+    ● Fixed the probabilistic issue that unable to make a conference call
+  codename: RMX2040EU
+  date: 15/8/2020
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
-  md5: 33A048134CA7BC6215EED41457CE958A
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0240_all_oIFexgF8hvl1.ozip
+  md5: 0C1545C0A5A6C01D3193354A61336E4D
   region: Europe
   size: 2.6GB
   system: realme UI 1.0
-  version: RMX2040_11_A.20
+  version: RMX2040EU_11.A.24
 - changelog: |
-    **Optimized**:
-    ● Optimized game audio quality
-    ● Optimized system stability
-    ● Optimized probabilistic lagging issue
-    **Known issue fixed**:
-    ● Fixed the probabilistic lagging issue when pressing power button to light up screen
-    ● Fixed the probabilistic issue that weather app failed to obtain location
-    ● Fixed the probabilistic issue that game center FPS was shown as zero
-    ● Fixed the probabilistic issue that phone cannot be charged in some scenarios
     **Security**:
-    ● Updated Android security patch（2020#6）
-  codename: RMX2020
-  date: 3/7/2020
+    ● Android Security Patch: July, 2020
+    **Language**:
+    ● Added system language: Serbian
+    **System**:
+    ● Optimized the speed of the App Startup from the recent apps
+    ● Optimized the speed of application installation
+    ● Fixed the issue that the phone cannot be woken up by pressing the power button
+    **Status Bar**:
+    ● Optimized the display of battery icon when charging
+    **Camera**:
+    ● Optimized the speed of camera cold start
+    **Phone**:
+    ● Fixed the issue that non-emergency numbers are incorrectly displayed
+    ● Fixed the probabilistic issue that unable to make a conference call
+  codename: RMX2020EU
+  date: 15/8/2020
   device: realme C3
-  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0320_all_crQxH1bPiHb6.ozip'
-  md5: F811B440D5232128AE71486BA19641BE
+  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0360_all_w8T1H0cb04aW.ozip'
+  md5: FB0C10DF2D01A744D8EB479BEF045CB2
   region: Europe
   size: 2.6GB
   system: realme UI 1.0
-  version: RMX2020_11_A.32
+  version: RMX2020EU_11.A.36
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
@@ -919,6 +929,20 @@
   size: 3.08GB
   system: realme UI 1.0
   version: RMX2001_11.B.41
+- changelog: |
+    **Keamanan**:
+    ● Tingkat Android Security Patch: Juli 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2020
+  date: 15/8/2020
+  device: realme C3
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
+  md5: 3AC550ADF4BCE342BFDEB482358CB9A6
+  region: Indonesia
+  size: 2.83GB
+  system: realme UI V1.0
+  version: RMX2020_11_A.39
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: Juli 2020
@@ -1158,6 +1182,58 @@
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
+    **Language**:
+    ● Added system language: Serbian
+    **System**:
+    ● Optimized the speed of the App Startup from the recent apps
+    ● Optimized the speed of application installation
+    ● Fixed the issue that the phone cannot be woken up by pressing the power button
+    **Status Bar**:
+    ● Optimized the display of battery icon when charging
+    **Camera**:
+    ● Optimized the speed of camera cold start
+    **Phone**:
+    ● Fixed the issue that non-emergency numbers are incorrectly displayed
+    ● Fixed the probabilistic issue that unable to make a conference call
+  codename: RMX2020
+  date: 15/8/2020
+  device: Narzo 10A
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
+  md5: 3AC550ADF4BCE342BFDEB482358CB9A6
+  region: India
+  size: 2.83GB
+  system: realme UI 1.0
+  version: RMX2020_11.A.39
+- changelog: |
+    **Security**:
+    ● Android Security Patch: July, 2020
+    **Language**:
+    ● Added system language: Serbian
+    **System**:
+    ● Optimized the speed of the App Startup from the recent apps
+    ● Optimized the speed of application installation
+    ● Fixed the issue that the phone cannot be woken up by pressing the power button
+    **Fingerprint**:
+    ● Optimized fingerprint recognition rate
+    **Status Bar**:
+    ● Optimized the display of battery icon when charging
+    **Camera**:
+    ● Optimized the speed of camera cold start
+    **Phone**:
+    ● Fixed the issue that non-emergency numbers are incorrectly displayed
+    ● Fixed the probabilistic issue that unable to make a conference call
+  codename: RMX2040
+  date: 15/8/2020
+  device: Narzo 10
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0270_all_7RxCwaEdCEFb.ozip
+  md5: 13151EBB7288ADE5F9903D805AE8AD6C
+  region: India
+  size: 2.83GB
+  system: realme UI 1.0
+  version: RMX2040_11.A.27
+- changelog: |
+    **Security**:
+    ● Android Security Patch: July, 2020
     **Applications**:
     ● Added realme PaySa(India)
     ● Fixed the display issue of WhatsApp video call scene
@@ -1235,6 +1311,31 @@
   size: 3.08GB
   system: realme UI 1.0
   version: RMX2001_11.B.41
+- changelog: |
+    **Security**:
+    ● Android Security Patch: July, 2020
+    **Language**:
+    ● Added system language: Serbian
+    **System**:
+    ● Optimized the speed of the App Startup from the recent apps
+    ● Optimized the speed of application installation
+    ● Fixed the issue that the phone cannot be woken up by pressing the power button
+    **Status Bar**:
+    ● Optimized the display of battery icon when charging
+    **Camera**:
+    ● Optimized the speed of camera cold start
+    **Phone**:
+    ● Fixed the issue that non-emergency numbers are incorrectly displayed
+    ● Fixed the probabilistic issue that unable to make a conference call
+  codename: RMX2020
+  date: 15/8/2020
+  device: realme C3
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
+  md5: 3AC550ADF4BCE342BFDEB482358CB9A6
+  region: India
+  size: 2.83GB
+  system: realme UI V1.0
+  version: RMX2020_11.A.39
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
@@ -2038,18 +2139,18 @@
   version: RMX2081PU_11.A.39
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: от 5 июня 2020
+    ● Патчи безопасности Android: июль 2020
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX2040
-  date: 3/7/2020
+  date: 15/8/2020
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
-  md5: 33A048134CA7BC6215EED41457CE958A
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0270_all_7RxCwaEdCEFb.ozip
+  md5: 13151EBB7288ADE5F9903D805AE8AD6C
   region: Russia
-  size: 2.6GB
+  size: 2.83GB
   system: realme UI 1.0
-  version: RMX2040_11_A.20
+  version: RMX2040_11.A.27
 - changelog: |
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
@@ -2078,29 +2179,18 @@
   version: RMX2001_11.B.41
 - changelog: |
     **Безопасность**:
-    ● Исправление для системы безопасности Android за апрель 2020 г.
-    **Камера**:
-    ● Уменьшен цветовой шум при низкой освещенности для фронтальной камеры и улучшена четкость изображения
-    ● Устранена проблема сдвига автоматического баланса белого в красную сторону при съемке фронтальной камерой в помещении
-    ● Улучшены качество и естественность снимков при съемке селфи
-    ● Улучшена контрастность снимков и уменьшено затемнение глаз при съемке селфи
-    ● Уменьшено снижение четкости фотоснимков, вызванное дрожанием фронтальной камеры
-    ● Улучшено качество съемки задней камерой при низкой освещенности
-    ● Оптимизирован автоматический баланс белого при съемке задней камерой и уменьшен сдвиг в зеленые тона при съемке вне помещения
-    **Исправлены обнаруженные проблемы**:
-    ● Улучшена скорость входа в Whatsapp и выхода из него
-    ● Устранена проблема "залипания" прокрутки в Facebook
-    ● Устранена проблема "залипания" в некоторых ситуациях в игре PUBG
-    ● Оптимизирован отклик на касание экрана и устранена проблема задержки реакции на касание в некоторых ситуациях
+    ● Патчи безопасности Android: июль 2020
+    **Система:**:
+    ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX2020
-  date: 20/4/2020
+  date: 15/8/2020
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0210_all_EzfIVATAg4cH.ozip
-  md5: C8345B8067447197DD210D4029D4E2A5
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
+  md5: 3AC550ADF4BCE342BFDEB482358CB9A6
   region: Russia
-  size: 2.82GB
+  size: 2.83GB
   system: realme UI V1.0
-  version: RMX2020_11.A.21
+  version: RMX2020_11.A.39
 - changelog: |
     **[Внешний вид]**:
     **• Обновленный пользовательский интерфейс realme**:
@@ -2373,6 +2463,20 @@
   version: RMX2061_11.A.27
 - changelog: |
     **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2040
+  date: 15/8/2020
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0270_all_7RxCwaEdCEFb.ozip
+  md5: 13151EBB7288ADE5F9903D805AE8AD6C
+  region: Vietnam
+  size: 2.83GB
+  system: realme UI 1.0
+  version: RMX2040_11_A.27
+- changelog: |
+    **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: ngày 5 tháng 7 năm 2020.
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
@@ -2385,6 +2489,34 @@
   size: 3.08GB
   system: realme UI 1.0
   version: RMX2001_11.B.41
+- changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2020
+  date: 15/8/2020
+  device: realme C3i
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
+  md5: 3AC550ADF4BCE342BFDEB482358CB9A6
+  region: Vietnam
+  size: 2.83GB
+  system: realme UI V1.0
+  version: RMX2020_11_A.39
+- changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ th
+  codename: RMX2020
+  date: 15/8/2020
+  device: realme C3
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
+  md5: 3AC550ADF4BCE342BFDEB482358CB9A6
+  region: Vietnam
+  size: 2.83GB
+  system: realme UI V1.0
+  version: RMX2020_11_A.39
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#7)

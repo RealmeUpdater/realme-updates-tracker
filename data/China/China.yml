@@ -89,34 +89,30 @@
   system: realme UI V1.0
   version: RMX2071_11.A.21
 - changelog: |
-    **音乐**:
-    ● 新增连接线控耳机后按播放键启动最近使用的音乐App功能
-    **蓝牙**:
-    ● 优化飞行模式，开启后不影响蓝牙状态
+    **设置**:
+    ● 新增夜间超强待机功能，省电更省心
+    ● 新增畅速滑屏功能，体验更流畅
+    ● 修复部分设置界面发生极低概率闪退的问题
+    **充电**:
+    ● 优化充电小数显示
     **状态栏**:
-    ● 优化状态栏时间显示
-    **文件管理**:
-    ● 修复最近视图界面下切换暗色模式分享弹窗低概率不消失问题
-    **手机搬家**:
-    ● 修复数据传输过程中的低概率卡死问题
-    **相机**:
-    ● 修复相机拍照模式变焦拍照时，预览界面低概率出现水波纹问题
-    ● 修复相机慢动作预览界面低概率闪烁问题
-    ● 修复使用前置摄像头HDR模式拍照预览低概率闪黑屏问题
-    **悬浮球**:
-    ● 修复点击菜单后低概率不回收问题
-    ● 修复点击设置后低概率闪退问题
+    ● 优化“静音-响铃-振动”图标状态显示
+    ● 修复状态栏进入相机时极低概率黑屏的问题
+    **语音助手**:
+    ● 修复语音助手低概率无法唤起的问题
+    **蓝牙**:
+    ● 修复部分场景下，蓝牙耳机播放音乐极低概率无声的问题
     **安全**:
-    ● 更新Android安全补丁（2020#7）
+    ● 更新Android安全补丁（2020#8）
   codename: RMX2051
-  date: 05/08/2020
+  date: 24/08/2020
   device: realme X50 5G
-  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0150_all_H1GYpqzWpd5u.ozip
-  md5: F4DF444A7BF1E3B76A5116D12FBB0646
+  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0160_all_4edEOJENcPcY.ozip
+  md5: BAE5D4AE0087B8E81907FBED6FAAB2D5
   region: China
-  size: 3.65GB
+  size: 3.66GB
   system: realme UI V1.0
-  version: RMX2051_11.B.15
+  version: RMX2051_11.B.16
 - changelog: |
     **截屏**:
     ● 新增长截屏自动滚动功能，操作更省心

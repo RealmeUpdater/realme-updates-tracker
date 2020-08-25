@@ -56,18 +56,18 @@
   version: RMX2061EU_11.A.22
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: junio de 2020
+    ● Parche de seguridad de Android: julio 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
-  codename: RMX2040
-  date: 3/7/2020
+  codename: RMX2040EU
+  date: 15/8/2020
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
-  md5: 33A048134CA7BC6215EED41457CE958A
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0240_all_oIFexgF8hvl1.ozip
+  md5: 0C1545C0A5A6C01D3193354A61336E4D
   region: Spain
   size: 2.6GB
   system: realmeUI V1.0
-  version: RMX2040_11_A.20
+  version: RMX2040EU_11.A.24
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:（2020#6&#7）
@@ -138,18 +138,18 @@
   version: RMX1911EU_11.C.44
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: julio 2020
+    ● Parche de seguridad de Android: agosto 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1931EX
-  date: 30/7/2020
+  date: 24/8/2020
   device: realme X2 Pro
-  download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1290_all_6Q1G7PnXC7fy.ozip'
-  md5: 19cd4579458de4e911c2735e961c5320
+  download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1310_all_C72zQ0nPd0RA.ozip'
+  md5: 5d922455cbdf9bbd8fffc1f75615e5d4
   region: Spain
-  size: 2.93GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.29
+  version: RMX1931EX_11.C.31
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: mayo de 2020

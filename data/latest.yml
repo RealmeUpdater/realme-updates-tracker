@@ -56,27 +56,48 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Security**:
-    ● Updated Android security Patch: July, 2020
-    **Game Space**:
-    ● Optimized the probabilistic crash issue in Game Space
-    ● Fixed the probabilistic setting data loss issue after update
+    ● Android Security Patch: August, 2020
+    **realme Lab**:
+    ● Added Smooth scrolling feature
+    ● Added Super nighttime standby feature
+    ● Added DC dimming feature
+    **Camera**:
+    ● Added Camera Text scanner feature
+    **Screenshot**:
+    ● Added auto scroll feature in scrolling screenshot
     **Settings**:
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    ● Fixed the probabilistic crash issue when enter settings
-    **Bluetooth**:
-    ● Fixed the voice jam issue when connected to Bluetooth headset using LDAC codec
-    ● Fixed the low minimum volume issue when connected to the Bluetooth headset
+    ● Added Super Power Saving Mode
+    ● Added default sound recording device option
+    ● Added Deep cleanup feature in Process Manager
+    ● Added return button in the screenshot preview interface
+    ● Added Multi-user feature
+    ● Added Quick guide feature in the battery setting interface
+    ● Added Quick guide feature in the security support interface
+    ● Added Quick guide feature in the other settings interface
+    ● Added long press to copy IMEI in the status information interface
+    ● Added automatic downloads option for app updates in the Wi-Fi interface
+    ● Optimized automatically hide option for floating ball in the full screen interface
+    ● Optimized status bar viewing, added second display option
+    **Status Bar**:
+    ● Added OTG Switch toggle to notification panel
+    ● Optimized viewing for system update prompt pop-up window
+    ● Optimized "Mute-Bell-Vibrate" icon state
+    **Flashlight**:
+    ● Added short press power button to turn off the flashlight while screen-off
     **System**:
-    ● Fixed some interface display issue in dark mode
+    ● Added long press to uninstall apps directly in the app drawer
+    ● Fixed font display issue for charging animation
+    ● Fixed crashing issue when opening hidden apps with access codes
+    ● Fixed the probabilistic connection issue when using Wi-Fi
   codename: RMX1931EX
-  date: 30/7/2020
+  date: 24/8/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1290_all_6Q1G7PnXC7fy.ozip
-  md5: 19cd4579458de4e911c2735e961c5320
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1310_all_C72zQ0nPd0RA.ozip
+  md5: 5d922455cbdf9bbd8fffc1f75615e5d4
   region: UAE
-  size: 2.93GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.29
+  version: RMX1931EX_11.C.31
 - changelog: |
     **状态栏**:
     ● 新增5G快捷开关
@@ -433,18 +454,18 @@
   version: RMX2061EU_11.A.22
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: junio de 2020
+    ● Parche de seguridad de Android: julio 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
-  codename: RMX2040
-  date: 3/7/2020
+  codename: RMX2040EU
+  date: 15/8/2020
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
-  md5: 33A048134CA7BC6215EED41457CE958A
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0240_all_oIFexgF8hvl1.ozip
+  md5: 0C1545C0A5A6C01D3193354A61336E4D
   region: Spain
   size: 2.6GB
   system: realmeUI V1.0
-  version: RMX2040_11_A.20
+  version: RMX2040EU_11.A.24
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:（2020#6&#7）
@@ -515,18 +536,18 @@
   version: RMX1911EU_11.C.44
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: julio 2020
+    ● Parche de seguridad de Android: agosto 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1931EX
-  date: 30/7/2020
+  date: 24/8/2020
   device: realme X2 Pro
-  download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1290_all_6Q1G7PnXC7fy.ozip'
-  md5: 19cd4579458de4e911c2735e961c5320
+  download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1310_all_C72zQ0nPd0RA.ozip'
+  md5: 5d922455cbdf9bbd8fffc1f75615e5d4
   region: Spain
-  size: 2.93GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.29
+  version: RMX1931EX_11.C.31
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: mayo de 2020
@@ -816,28 +837,39 @@
   system: realme UI 1.0
   version: RMX1911EU_11.C.44
 - changelog: |
-    **Security**:
-    ● Updated Android security Patch: July, 2020
-    **Game Space**:
-    ● Optimized the probabilistic crash issue in Game Space
-    ● Fixed the probabilistic setting data loss issue after update
     **Settings**:
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    ● Fixed the probabilistic crash issue when enter settings
-    **Bluetooth**:
-    ● Fixed the voice jam issue when connected to Bluetooth headset using LDAC codec
-    ● Fixed the low minimum volume issue when connected to the Bluetooth headset
+    ● Added Super Power Saving Mode
+    ● Added default sound recording device option
+    ● Added Deep cleanup feature in Process Manager
+    ● Added return button in the screenshot preview interface
+    ● Added Multi-user feature
+    ● Added Quick guide feature in the battery setting interface
+    ● Added Quick guide feature in the security support interface
+    ● Added Quick guide feature in the other settings interface
+    ● Added long press to copy IMEI in the status information interface
+    ● Added automatic downloads option for app updates in the Wi-Fi interface
+    ● Optimized automatically hide option for floating ball in the full screen interface
+    ● Optimized status bar viewing, added second display option
+    **Status Bar**:
+    ● Added OTG Switch toggle to notification panel
+    ● Optimized viewing for system update prompt pop-up window
+    ● Optimized "Mute-Bell-Vibrate" icon state
+    **Flashlight**:
+    ● Added short press power button to turn off the flashlight while screen-off
     **System**:
-    ● Fixed some interface display issue in dark mode
+    ● Added long press to uninstall apps directly in the app drawer
+    ● Fixed font display issue for charging animation
+    ● Fixed crashing issue when opening hidden apps with access codes
+    ● Fixed the probabilistic connection issue when using Wi-Fi
   codename: RMX1931EX
-  date: 30/7/2020
+  date: 24/8/2020
   device: realme X2 Pro
-  download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1290_all_6Q1G7PnXC7fy.ozip'
-  md5: 19cd4579458de4e911c2735e961c5320
+  download: ' https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1310_all_C72zQ0nPd0RA.ozip'
+  md5: 5d922455cbdf9bbd8fffc1f75615e5d4
   region: Europe
-  size: 2.93GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.29
+  version: RMX1931EX_11.C.31
 - changelog: |
     **Security**:
     ● Updated Andriod security patch（2020#6）
@@ -983,18 +1015,18 @@
   version: RMX2030EX_11.C.53
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: Juli 2020
+    ● Patch keamanan Android: Agustus 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1931EX
-  date: 30/7/2020
+  date: 24/8/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1290_all_6Q1G7PnXC7fy.ozip
-  md5: 19cd4579458de4e911c2735e961c5320
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1310_all_C72zQ0nPd0RA.ozip
+  md5: 5d922455cbdf9bbd8fffc1f75615e5d4
   region: Indonesia
-  size: 2.93GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.29
+  version: RMX1931EX_11.C.31
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: Juli 2020
@@ -1457,27 +1489,48 @@
   version: RMX1992AEX_11.C.11
 - changelog: |
     **Security**:
-    ● Updated Android security Patch: July, 2020
-    **Game Space**:
-    ● Optimized the probabilistic crash issue in Game Space
-    ● Fixed the probabilistic setting data loss issue after update
+    ● Android Security Patch: August, 2020
+    **realme Lab**:
+    ● Added Smooth scrolling feature
+    ● Added Super nighttime standby feature
+    ● Added DC dimming feature
+    **Camera**:
+    ● Added Camera Text scanner feature
+    **Screenshot**:
+    ● Added auto scroll feature in scrolling screenshot
     **Settings**:
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    ● Fixed the probabilistic crash issue when enter settings
-    **Bluetooth**:
-    ● Fixed the voice jam issue when connected to Bluetooth headset using LDAC codec
-    ● Fixed the low minimum volume issue when connected to the Bluetooth headset
+    ● Added Super Power Saving Mode
+    ● Added default sound recording device option
+    ● Added Deep cleanup feature in Process Manager
+    ● Added return button in the screenshot preview interface
+    ● Added Multi-user feature
+    ● Added Quick guide feature in the battery setting interface
+    ● Added Quick guide feature in the security support interface
+    ● Added Quick guide feature in the other settings interface
+    ● Added long press to copy IMEI in the status information interface
+    ● Added automatic downloads option for app updates in the Wi-Fi interface
+    ● Optimized automatically hide option for floating ball in the full screen interface
+    ● Optimized status bar viewing, added second display option
+    **Status Bar**:
+    ● Added OTG Switch toggle to notification panel
+    ● Optimized viewing for system update prompt pop-up window
+    ● Optimized "Mute-Bell-Vibrate" icon state
+    **Flashlight**:
+    ● Added short press power button to turn off the flashlight while screen-off
     **System**:
-    ● Fixed some interface display issue in dark mode
+    ● Added long press to uninstall apps directly in the app drawer
+    ● Fixed font display issue for charging animation
+    ● Fixed crashing issue when opening hidden apps with access codes
+    ● Fixed the probabilistic connection issue when using Wi-Fi
   codename: RMX1931EX
-  date: 30/7/2020
+  date: 24/8/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1290_all_6Q1G7PnXC7fy.ozip
-  md5: 19cd4579458de4e911c2735e961c5320
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1310_all_C72zQ0nPd0RA.ozip
+  md5: 5d922455cbdf9bbd8fffc1f75615e5d4
   region: India
-  size: 2.92GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.29
+  version: RMX1931EX_11.C.31
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020

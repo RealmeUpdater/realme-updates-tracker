@@ -82,18 +82,18 @@
   version: RMX2030EX_11.C.53
 - changelog: |
     **Keamanan**:
-    ● Patch keamanan Android: Juli 2020
+    ● Patch keamanan Android: Agustus 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1931EX
-  date: 30/7/2020
+  date: 24/8/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1290_all_6Q1G7PnXC7fy.ozip
-  md5: 19cd4579458de4e911c2735e961c5320
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1310_all_C72zQ0nPd0RA.ozip
+  md5: 5d922455cbdf9bbd8fffc1f75615e5d4
   region: Indonesia
-  size: 2.93GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.29
+  version: RMX1931EX_11.C.31
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: Juli 2020

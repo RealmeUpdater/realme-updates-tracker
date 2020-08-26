@@ -1205,6 +1205,31 @@
   version: RMX2185_11_A.67
 - changelog: |
     **Security**:
+    ● Android Security Patch: August, 2020
+    **realme Lab**:
+    ● Added the Super nighttime standby feature
+    ● Added the smooth scrolling feature
+    **Battery**:
+    ● Added charging decimal point feature
+    **System**:
+    ● Added independent Switch toggles of focus mode
+    ● Added long press to uninstall apps directly in the app drawer
+    **Settings**:
+    ● Added default sound recording device option
+    **Status Bar**:
+    ● Added OTG Switch toggle to notification panel
+    ● Optimized "Mute-Bell-Vibrate" icon state
+  codename: RMX2001
+  date: 26/8/2020
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0450_all_xzyZuGI1CR3f.ozip
+  md5: 66CBA451A1EA6F43EBCC59A3E3CC6442
+  region: India
+  size: 3.09GB
+  system: realme UI 1.0
+  version: RMX2001_11.B.45
+- changelog: |
+    **Security**:
     ● Updated Android Security Patch: July, 2020
     **realme Lab**:
     ● Added smooth scrolling feature
@@ -1365,22 +1390,29 @@
   version: RMX2061_11.A.29
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
+    ● Android Security Patch: August, 2020
+    **realme Lab**:
+    ● Added the Super nighttime standby feature
+    ● Added the smooth scrolling feature
+    **Battery**:
+    ● Added charging decimal point feature
     **System**:
-    ● Added system language: Serbian
-    ● Optimized the power consumption
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    **Camera**:
-    ● Fixed the probabilistic issue that the video playback sound is out of sync with the image after recording the video
+    ● Added independent Switch toggles of focus mode
+    ● Added long press to uninstall apps directly in the app drawer
+    **Settings**:
+    ● Added default sound recording device option
+    **Status Bar**:
+    ● Added OTG Switch toggle to notification panel
+    ● Optimized "Mute-Bell-Vibrate" icon state
   codename: RMX2001
-  date: 31/7/2020
+  date: 26/8/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0410_all_NMLKtGLlV9n2.ozip
-  md5: F23A6F5D31BE0AABA68112D22B90412F
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0450_all_xzyZuGI1CR3f.ozip
+  md5: 66CBA451A1EA6F43EBCC59A3E3CC6442
   region: India
-  size: 3.08GB
+  size: 3.09GB
   system: realme UI 1.0
-  version: RMX2001_11.B.41
+  version: RMX2001_11.B.45
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020

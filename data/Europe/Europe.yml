@@ -19,27 +19,38 @@
   version: RMX2144EU_11.A.11
 - changelog: |
     **Security**:
-    ● Updated Android Security Patch: July, 2020
+    ● Android Security Patch: August, 2020
     **realme Lab**:
-    ● Added smooth scrolling feature
-    **Status Bar**:
-    ● Optimized the time display issue
+    ● Added the Super nighttime standby feature
+    **Screenshot**:
+    ● Added auto scroll feature in scrolling screenshot
     **Settings**:
-    ● Optimized the default state of reduce screen brightness switch in power saving mode
-    **Bluetooth**:
-    ● Fixed the voice jam issue when connected to Bluetooth headset using LDAC codec
+    ● Added Super Power Saving Mode
+    ● Added Icon Pull-down gesture feature in launcher settings
+    ● Added return button in the screenshot preview interface
+    ● Added Multi-user feature
+    ● Added Quick guide feature in the battery setting interface
+    ● Added Quick guide feature in the security support interface
+    ● Added Quick guide feature in the other settings interface
+    ● Added automatic downloads option for app updates in the Wi-Fi interface
+    ● Optimized status bar viewing, added second display option
+    **Status Bar**:
+    ● Added independent Switch toggles of focus mode
+    ● Optimized viewing for system update prompt pop-up window
+    ● Optimized "Mute-Bell-Vibrate" icon state
     **System**:
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    ● Optimized the system power consumption
+    ● Fixed the probabilistic connection issue when using Wi-Fi
+    ● Fixed font display issue of charging animation
+    ● Fixed crashing issue when opening hidden apps with access codes
   codename: RMX2081EU
-  date: 31/7/2020
+  date: 29/8/2020
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0380_all_uNcCSPPqWHax.ozip
-  md5: 22ee7454aad89e684cf9e937efc12ca6
+  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0400_all_EX9eCU4pmuHq.ozip
+  md5: 34eea0464657c91c5805d3e73848fc1f
   region: Europe
-  size: 3.12GB
+  size: 3.19GB
   system: realme UI 1.0
-  version: RMX2081EU_11.A.38
+  version: RMX2081EU_11.A.40
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020

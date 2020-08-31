@@ -1,23 +1,34 @@
 changelog: |
   **Security**:
-  ● Updated Android Security Patch: July, 2020
+  ● Android Security Patch: August, 2020
   **realme Lab**:
-  ● Added smooth scrolling feature
-  **Status Bar**:
-  ● Optimized the time display issue
+  ● Added the Super nighttime standby feature
+  **Screenshot**:
+  ● Added auto scroll feature in scrolling screenshot
   **Settings**:
-  ● Optimized the default state of reduce screen brightness switch in power saving mode
-  **Bluetooth**:
-  ● Fixed the voice jam issue when connected to Bluetooth headset using LDAC codec
+  ● Added Super Power Saving Mode
+  ● Added Icon Pull-down gesture feature in launcher settings
+  ● Added return button in the screenshot preview interface
+  ● Added Multi-user feature
+  ● Added Quick guide feature in the battery setting interface
+  ● Added Quick guide feature in the security support interface
+  ● Added Quick guide feature in the other settings interface
+  ● Added automatic downloads option for app updates in the Wi-Fi interface
+  ● Optimized status bar viewing, added second display option
+  **Status Bar**:
+  ● Added independent Switch toggles of focus mode
+  ● Optimized viewing for system update prompt pop-up window
+  ● Optimized ""Mute-Bell-Vibrate"" icon state
   **System**:
-  ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-  ● Optimized the system power consumption
+  ● Fixed the probabilistic connection issue when using Wi-Fi
+  ● Fixed font display issue of charging animation
+  ● Fixed crashing issue when opening hidden apps with access codes
 codename: RMX2081PU
-date: 31/7/2020
+date: 29/8/2020
 device: realme X3 SuperZoom
-download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0390_all_gL1IiprDDtA2.ozip
-md5: 4890eea323399c6609b75a74c3c38db9
+download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0410_all_zwP3AZihp1fj.ozip
+md5: 8f23999bbccd122d4e6e4466a9af8c4f
 region: India
-size: 3.4GB
+size: 3.47GB
 system: realme UI 1.0
-version: RMX2081PU_11.A.39
+version: RMX2081PU_11.A.41

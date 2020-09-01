@@ -1,0 +1,22 @@
+changelog: |
+  **应用**:
+  ● 新增欢太商城APP
+  **状态栏**:
+  ● 优化“静音-响铃-振动”图标状态显示逻辑
+  **系统**:
+  ● 优化系统稳定性，提升用户体验
+  **网络**:
+  ● 修复部分场景下5G无法驻网问题
+  **充电**:
+  ● 修复部分场景下充电器保护性断充的问题
+  **安全**:
+  ● 更新Android安全补丁（2020#8）
+codename: RMX2111
+date: 31/8/2020
+device: realme  V5 5G
+download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0080_all_Z4ZThCKajyIs.ozip
+md5: FAE69886B59EFAB750C5F4D1FEA73E41
+region: China
+size: 2.93GB
+system: realme UI V1.0
+version: RMX2111_11.A.08

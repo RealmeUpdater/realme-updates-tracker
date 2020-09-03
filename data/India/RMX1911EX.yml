@@ -1,25 +1,28 @@
 changelog: |
   **Security**:
-  ● Android Security Patch: July, 2020
+  ● Android Security Patch: August, 2020
+  **realme Lab**:
+  ● Added Super nighttime standby feature
+  ● Added Smooth scrolling feature
   **Settings**:
-  ● Added rotate the guide bars with screen switch in navigation button
-  ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-  **Status Bar**:
-  ● Optimized the battery icon display while charging
-  ● Fixed the status bar not displaying Wi-Fi icon issue in special situations
+  ● Added long press to copy IMEI in the status information interface
+  ● Optimized the default display of battery percentage
   **System**:
-  ● Optimized the power cunsumption of third party apps
-  **Games**:
-  ● Fixed the black screen issue when switch to PUBG from recent interface
+  ● Added long press to uninstall apps directly in the app drawer
+  ● Fixed the issue that the split screen cannot be used after enable the third-party launcher
+  **Status Bar**:
+  ● Added independent Switch toggles of focus mode
+  ● Added OTG Switch toggle to notification panel
+  ● Optimized status bar viewing, added second display option
+  ● Optimized viewing for system update prompt pop-up window
   **Camera**:
-  ● Optimized the shooting quality in night mode
-  ● Fixed the photo greenish issue when shooting with flash on in special situations
+  ● Fixed the issue that the preview and video recording interfaces are dimmed in night scenes while using third-party applications
 codename: RMX1911EX
-date: 30/7/2020
+date: 1/9/2020
 device: realme 5
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
-md5: ECD77B77782391E39022B9684212EEF5
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1550_all_IrgW2rxqxhSb.ozip
+md5: 48A573562138B4A2E046407D36BA6773
 region: India
-size: 2.84GB
+size: 2.86GB
 system: realme UI V1.0
-version: RMX1911EX_11.C.53
+version: RMX1911EX_11.C.55

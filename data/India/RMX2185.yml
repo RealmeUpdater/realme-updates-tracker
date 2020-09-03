@@ -1,14 +1,18 @@
 changelog: |
   **Security**:
-  ● Android Security Patch: July, 2020
-  **Optimized**:
-  ● Optimized system stability
+  ● Android Security Patch: August, 2020
+  **realme Lab**:
+  ● Added Super nighttime standby feature
+  ● Added Dual-Mode Audio feature
+  **System**:
+  ● Fixed the probabilistic calling issue
+  ● Fixed the screen going off issue at incoming phone calls
 codename: RMX2185
-date: 3/8/2020
+date: 31/8/2020
 device: realme C11
-download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0670_all_FLnpCtMH2xkx.ozip
-md5: DFE3FFB8F37A18E7441C13A3A94DEBB8
+download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0710_all_Jp7riqlsJmzK.ozip
+md5: 427737B1B4A6EC6FDC62164264F51506
 region: India
 size: 3.00GB
 system: realme UI 1.0
-version: RMX2185_11_A.67
+version: RMX2185_11_A.71

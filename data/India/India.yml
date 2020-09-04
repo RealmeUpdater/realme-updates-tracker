@@ -690,34 +690,17 @@
     **And operate on following path: settings ---- ""developer options ----"" camera HAL3, and then restart the phone;**:
     **We had found a version with better compatibility for 2 Pro. It is recommended to download and install the following apk link:**:
     **https://drive.google.com/file/d/1x9xwQCNy1jPEbLkV0HLPf2HKPT3nm59T/view?usp=sharin**:
-    **Security**:
-    ● Android Security Patch: August, 2020
-    **Notification Bar**:
-    ● Added OTG Switch toggles of notification panel
-    ● Optimized the logic of flight mode, which will not affect the Bluetooth status after opening
-    **Launcher**:
-    ● Added the feature of long press the icon to uninstall the app in the drawer mode
-    **Settings**:
-    ● Added the deep cleanup feature
-    ● Optimized the default display of battery percentage
-    ● Added the feature of long press to copy IMEI
-    **Camera**:
-    ● Optimized the EIS video anti-shake performance
-    **Touch**:
-    ● Fixed the touch screen issue
     **Bug fixed**:
-    ● Fixed the probabilistic black screen issue when using the camera
-    ● Fixed the probabilistic black screen issue during standby
-    ● Fixed the probabilistic issue that flashlight cannot be used
+    ● Fixed the issue that the hidden Apps are inaccessible
   codename: RMX1801EX
-  date: 20/8/2020
+  date: 3/9/2020
   device: realme 2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_2100_all_oAjT03gY1ZrA.ozip
-  md5: 06C8A4218A1B5A92A0258F774553C918
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_2110_all_MVAN5ZsLvcJu.ozip
+  md5: BFA4E2A5D38F37C06390AB4078B7B7FC
   region: India
   size: 2.97GB
   system: realme UI V1.0
-  version: RMX1801EX_11.F.10
+  version: RMX1801EX_11.F.11
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020

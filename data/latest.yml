@@ -1535,34 +1535,6 @@
   version: RMX2020_11.A.39
 - changelog: |
     **Security**:
-    ● Android Security Patch: August, 2020
-    **realme Lab**:
-    ● Added Super nighttime standby feature
-    ● Added Smooth scrolling feature
-    **Settings**:
-    ● Added long press to copy IMEI in the status information interface
-    ● Optimized the default display of battery percentage
-    **System**:
-    ● Added long press to uninstall apps directly in the app drawer
-    ● Fixed the issue that the split screen cannot be used after enable the third-party launcher
-    **Status Bar**:
-    ● Added independent Switch toggles of focus mode
-    ● Added OTG Switch toggle to notification panel
-    ● Optimized status bar viewing, added second display option
-    ● Optimized viewing for system update prompt pop-up window
-    **Camera**:
-    ● Fixed the issue that the preview and video recording interfaces are dimmed in night scenes while using third-party applications
-  codename: RMX2030EX
-  date: 1/9/2020
-  device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1550_all_IrgW2rxqxhSb.ozip
-  md5: 48A573562138B4A2E046407D36BA6773
-  region: India
-  size: 2.86GB
-  system: realme UI V1.0
-  version: RMX2030EX_11.C.55
-- changelog: |
-    **Security**:
     ● Updated Android Security Patch: July, 2020
     **realme Lab**:
     ● Added smooth scrolling feature
@@ -1705,62 +1677,6 @@
   size: 3.15GB
   system: realme UI V1.0
   version: RMX1921EX_11.C.06
-- changelog: |
-    **Security**:
-    ● Android Security Patch: August, 2020
-    **realme Lab**:
-    ● Added Super nighttime standby feature
-    ● Added Smooth scrolling feature
-    **Settings**:
-    ● Added long press to copy IMEI in the status information interface
-    ● Optimized the default display of battery percentage
-    **System**:
-    ● Added long press to uninstall apps directly in the app drawer
-    ● Fixed the issue that the split screen cannot be used after enable the third-party launcher
-    **Status Bar**:
-    ● Added independent Switch toggles of focus mode
-    ● Added OTG Switch toggle to notification panel
-    ● Optimized status bar viewing, added second display option
-    ● Optimized viewing for system update prompt pop-up window
-    **Camera**:
-    ● Fixed the issue that the preview and video recording interfaces are dimmed in night scenes while using third-party applications
-  codename: RMX1911EX
-  date: 1/9/2020
-  device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1550_all_IrgW2rxqxhSb.ozip
-  md5: 48A573562138B4A2E046407D36BA6773
-  region: India
-  size: 2.86GB
-  system: realme UI V1.0
-  version: RMX1911EX_11.C.55
-- changelog: |
-    **Security**:
-    ● Android Security Patch: August, 2020
-    **realme Lab**:
-    ● Added Super nighttime standby feature
-    ● Added Smooth scrolling feature
-    **Settings**:
-    ● Added long press to copy IMEI in the status information interface
-    ● Optimized the default display of battery percentage
-    **System**:
-    ● Added long press to uninstall apps directly in the app drawer
-    ● Fixed the issue that the split screen cannot be used after enable the third-party launcher
-    **Status Bar**:
-    ● Added independent Switch toggles of focus mode
-    ● Added OTG Switch toggle to notification panel
-    ● Optimized status bar viewing, added second display option
-    ● Optimized viewing for system update prompt pop-up window
-    **Camera**:
-    ● Fixed the issue that the preview and video recording interfaces are dimmed in night scenes while using third-party applications
-  codename: RMX1911EX
-  date: 1/9/2020
-  device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1550_all_IrgW2rxqxhSb.ozip
-  md5: 48A573562138B4A2E046407D36BA6773
-  region: India
-  size: 2.86GB
-  system: realme UI V1.0
-  version: RMX1911EX_11.C.55
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020

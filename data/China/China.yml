@@ -1,4 +1,21 @@
 - changelog: |
+    **相机**:
+    ● 新增慢动作240FPS功能
+    ● 优化后置相机拍照效果
+    **系统**:
+    ● 优化系统性能，提升系统稳定性
+    **修复**:
+    ● 修复手机搬家不显示密码本条目问题
+  codename: RMX2175
+  date: 5/9/2020
+  device: realme X7
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0100_all_oYotx6b0NT8Z.ozip
+  md5: 27B950730A750560DE7203D157968002
+  region: China
+  size: 2.95GB
+  system: realme UI V1.0
+  version: RMX2175_11.A.10
+- changelog: |
     **应用**:
     ● 新增欢太商城APP
     **状态栏**:

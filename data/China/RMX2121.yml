@@ -1,0 +1,23 @@
+changelog: |
+  **系统**:
+  ● 改善部分场景下下拉栏亮度调节灵敏度
+  ● 优化系统性能，提升系统稳定性
+  **显示**:
+  ● 修复解锁前后屏幕亮度显示差异问题
+  **应用**:
+  ● 优化部分应用刷新率，提升高刷体验
+  **GPS**:
+  ● 提升GPS定位精度与稳定性
+  **设置**:
+  ● 改善震动强度调节效果
+  **相机**:
+  ● 优化相机部分场景拍照效果
+codename: RMX2121
+date: 07/09/2020
+device: realme X7 Pro
+download: https://download.c.realme.com/osupdate/RMX2121_11_OTA_0090_all_u2vpmkNsNmLO.ozip
+md5: 917DCA3B92402EE4597F9E5059CC77EF
+region: China
+size: 3.11GB
+system: realme UI V1.0
+version: RMX2121_11_A.09

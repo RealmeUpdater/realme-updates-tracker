@@ -199,38 +199,36 @@
   version: RMX2040_11.A.27
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Applications**:
-    ● Added realme PaySa(India)
-    ● Fixed the display issue of WhatsApp video call scene
-    **Status Bar**:
-    ● Added 5G Switch toggles of notification panel
-    **Game Space**:
-    ● Added Autoplay feature
+    ● Android security patch: August, 2020
+    **realme Lab**:
+    ● Added Smooth scrolling feature
+    ● Added Super nighttime standby feature
+    ● Added DC dimming feature: Formerly known as Low-brightness flicker-free eye comfort
+    **Screenshot**:
+    ● Added auto scroll feature in scrolling screenshot
+    **Contact**:
+    ● Added new style profile photo of contacts
     **Settings**:
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    ● Optimized the transparency of swipe back gesture style
-    ● Optimized the default brightness adjustment mechanism in Power Saving Mode
-    ● Optimized the turn off automatically mechanism when charged in Power Saving Mode
-    **Network**:
-    ● Optimized network performance to improve stability
-    **Games**:
-    ● Optimized the power consumption issue of PUBG
-    ● Optimized the heating issue of games
-    **Bluetooth**:
-    ● Fixed the uneven volume change issue of the first few levels when connected to Bluetooth headset.
-    ● Fixed the lower volume issue when connected to Airpods/Enco Free
-    **Notifications**:
-    ● Fixed the NFC file transfer ringing issue after changing NFC notification sound
+    ● Added Deep cleanup feature in Process Manager
+    ● Added return button in the screenshot preview interface
+    ● Optimized status bar viewing, added second display option
+    **Status Bar**:
+    ● Added OTG Switch toggle to notification panel
+    ● Added independent Switch toggles of focus mode
+    ● Optimized "Mute-Bell-Vibrate" icon state
+    **System**:
+    ● Added long press to uninstall apps directly in the app drawer
+    ● Supported split screen of third-party launcher
+    ● Fixed font display issue of charging animation
   codename: RMX2076PU
-  date: 3/8/2020
+  date: 1/9/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0310_all_IVSRE5t9Kq69.ozip
-  md5: ccd9e9e22a60cd04804522a2882b30ec
+  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0350_all_5SW451mWJe0J.ozip
+  md5: ac237c7fe6468d42e012509786ba0bbb
   region: India
   size: 3.78GB
   system: realmeUI V1.0
-  version: RMX2076PU_11.A.31
+  version: RMX2076PU_11.A.35
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020

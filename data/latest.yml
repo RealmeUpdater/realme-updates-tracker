@@ -114,7 +114,7 @@
     ● 优化相机部分场景拍照效果
   codename: RMX2121
   date: 07/09/2020
-  device: realme X7 Pro
+  device: realme  X7 Pro 5G
   download: https://download.c.realme.com/osupdate/RMX2121_11_OTA_0090_all_u2vpmkNsNmLO.ozip
   md5: 917DCA3B92402EE4597F9E5059CC77EF
   region: China
@@ -131,7 +131,7 @@
     ● 修复手机搬家不显示密码本条目问题
   codename: RMX2175
   date: 5/9/2020
-  device: realme X7
+  device: realme  X7 5G
   download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0100_all_oYotx6b0NT8Z.ozip
   md5: 27B950730A750560DE7203D157968002
   region: China
@@ -377,53 +377,46 @@
   system: realme UI 1.0
   version: RMX1971_11.C.06
 - changelog: |
-    **应用**:
-    ● 新增realme Link
-    **蓝牙**:
-    ● 新增蓝牙耳机(Air和Neo)弹窗功能(此功能只能配合realme耳机使用，且需要配合realme Link应用更新耳机固件才可以使用)
-    ● 修复蓝牙搜索时返回上一层，界面显示未找到蓝牙设备的问题
-    **游戏空间**:
-    ● 新增游戏显示弹幕消息的功能
-    ● 修复游戏空间屏蔽通知后，低概率电话未生效的问题
-    ● 修复游戏空间卸载后，相关功能状态异常的问题
-    **日历**:
-    ● 新增在日历中与联系人互动功能
-    ● 优化UI布局
-    **录音**:
-    ● 新增录音转文本功能
-    **便签**:
-    ● 新增便签加密功能
-    ● 新增便签待办功能
     **realme实验室**:
-    ● 新增夜间超强待机，优化夜间待机掉电快的问题
-    ● 优化畅速滑屏功能
-    **屏幕录制**:
-    ● 优化屏幕录制功能
+    ● 新增DC调光功能（原低亮无频闪护眼）
+    **应用**:
+    ● 新增即录APP
+    ● 新增欢太商城APP
+    **设置**:
+    ● 新增默认声音收录设备选项
+    ● 新增进程管理中极致清理功能，增加后台清理能力
+    ● 新增状态信息内，长按复制IMEI号功能
+    ● 新增WLAN网络下自动下载系统安装包功能
+    ● 新增其他设置的底部快捷引导功能
+    ● 优化WLAN界面连接逻辑，提升用户体验
+    ● 优化状态栏时间显示逻辑
+    **状态栏**:
+    ● 新增OTG开关快捷按钮
+    ● 优化系统更新提示弹窗显示逻辑
+    ● 优化“静音-响铃-振动”图标状态逻辑
+    **截屏**:
+    ● 新增长截屏自动滚动功能，提升操作体验
+    ● 新增截屏预览界面返回按键
+    ● 修复长截屏低概率出现拼接不全的问题
     **系统**:
-    ● 优化悬浮窗和特权应用判断方式, 修复王者荣耀游戏中点击QQ 登录低概率不退出游戏模式的问题
-    ● 修复退出儿童空间时点击返回键不灵敏的问题
-    ● 修复暗色模式下打开全屏显示对话框，切换亮色模式出现概率性异常的问题
-    **信息**:
-    ● 修复信息添加音频文件低概率卡死问题
-    **软件商店**:
-    ● 修复软件商店低概率加载数据失败问题
-    **网络**:
-    ● 修复移动网络下低概率无法使用云服务问题
-    **充电**:
-    ● 修复充电时低概率发生电量跳变的问题
+    ● 新增抽屉模式下长按桌面图标直接卸载APP的功能
+    ● 修复充电动画字体显示大小不一致的问题
+    ● 修复切换前置摄像头慢动作模式时低概率屏幕卡顿的问题
+    ● 修复多用户模式下重启后指纹名称恢复默认状态的问题
+    ● 修复点击应用列表搜索栏时极低概率出现闪退的问题
     **安全**:
-    ● 更新Android安全补丁（2020#6/2020#7
+    ● 更新Android安全补丁（2020#9）
     **提示**:
     **手机升级完毕后，手机里部分已安装应用需要适配和后台优化，相册和手机文件也将进行智能整理并再次安全扫描。为避免安全隐患，这些优化动作在后台将会增加一些额外耗电，请放心使用，2~3天会自行恢复。**:
   codename: RMX1901
-  date: 13/07/2020
+  date: 12/09/2020
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_1120_all_5fcT8erEU2dx.ozip
-  md5: 8752F7E56183BD6B3F5CB40DF77AF340
+  download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_1130_all_kCEx3ijwlnAs.ozip
+  md5: 090C851A71A886C8FED69735271B0605
   region: China
-  size: 3.04GB
+  size: 3.13GB
   system: realme UI 1.0
-  version: RMX1901_11.C.12
+  version: RMX1901_11.C.13
 - changelog: |
     **游戏空间**:
     ● 新增游戏显示弹幕消息的功能
@@ -1463,38 +1456,36 @@
   version: RMX2040_11.A.27
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Applications**:
-    ● Added realme PaySa(India)
-    ● Fixed the display issue of WhatsApp video call scene
-    **Status Bar**:
-    ● Added 5G Switch toggles of notification panel
-    **Game Space**:
-    ● Added Autoplay feature
+    ● Android security patch: August, 2020
+    **realme Lab**:
+    ● Added Smooth scrolling feature
+    ● Added Super nighttime standby feature
+    ● Added DC dimming feature: Formerly known as Low-brightness flicker-free eye comfort
+    **Screenshot**:
+    ● Added auto scroll feature in scrolling screenshot
+    **Contact**:
+    ● Added new style profile photo of contacts
     **Settings**:
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    ● Optimized the transparency of swipe back gesture style
-    ● Optimized the default brightness adjustment mechanism in Power Saving Mode
-    ● Optimized the turn off automatically mechanism when charged in Power Saving Mode
-    **Network**:
-    ● Optimized network performance to improve stability
-    **Games**:
-    ● Optimized the power consumption issue of PUBG
-    ● Optimized the heating issue of games
-    **Bluetooth**:
-    ● Fixed the uneven volume change issue of the first few levels when connected to Bluetooth headset.
-    ● Fixed the lower volume issue when connected to Airpods/Enco Free
-    **Notifications**:
-    ● Fixed the NFC file transfer ringing issue after changing NFC notification sound
+    ● Added Deep cleanup feature in Process Manager
+    ● Added return button in the screenshot preview interface
+    ● Optimized status bar viewing, added second display option
+    **Status Bar**:
+    ● Added OTG Switch toggle to notification panel
+    ● Added independent Switch toggles of focus mode
+    ● Optimized "Mute-Bell-Vibrate" icon state
+    **System**:
+    ● Added long press to uninstall apps directly in the app drawer
+    ● Supported split screen of third-party launcher
+    ● Fixed font display issue of charging animation
   codename: RMX2076PU
-  date: 3/8/2020
+  date: 1/9/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0310_all_IVSRE5t9Kq69.ozip
-  md5: ccd9e9e22a60cd04804522a2882b30ec
+  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0350_all_5SW451mWJe0J.ozip
+  md5: ac237c7fe6468d42e012509786ba0bbb
   region: India
   size: 3.78GB
   system: realmeUI V1.0
-  version: RMX2076PU_11.A.31
+  version: RMX2076PU_11.A.35
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020

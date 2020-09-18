@@ -68,6 +68,8 @@ def parse_html(html: list, region: str) -> list:
         if "真我" in title:
             title = title.replace("真我", "realme ")
         _system = clean_text(item.select_one("div.software-system").text)
+        if not _system:
+            continue
         try:
             version = re.search(r'([A-Z0-9+]+_[0-9]+(?:.|_)[A-Z]+(?:.|_)[0-9]+)',
                                 item.select("div.software-field")[0].text).group(1)

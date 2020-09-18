@@ -579,18 +579,20 @@
   version: RMX1831EX_11.C.20
 - changelog: |
     **Security**:
-    ● Android security patch: July, 2020
-    **Application**:
-    ● Added realme Link
+    ● Android Security Patch: August and September, 2020
+    **System**:
+    ● Optimized the system performance and improved system stability
+    **Settings**:
+    ● Fixed the response issue when clicking Automatically Set Date & Time after setting time
   codename: RMX1805EX
-  date: 25/7/2020
+  date: 18/9/2020
   device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0690_all_PzCcuPxmfYK0.ozip
-  md5: B965CD048A5EEC3EA76049C816DFA325
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0700_all_wz1txoQrYF4w.ozip
+  md5: 9D64E82186A57AF222CAC4C5EB0F2024
   region: India
-  size: 2.07GB
+  size: 2.08GB
   system: ColorOS 6.0
-  version: RMX1805EX_11.A.69
+  version: RMX1805EX_11.A.70
 - changelog: |
     **FAQ:**:
     **1.Why my Google key not working?**:
@@ -617,18 +619,20 @@
   version: RMX1801EX_11.F.11
 - changelog: |
     **Security**:
-    ● Android security patch: July, 2020
-    **Application**:
-    ● Added realme Link
+    ● Android Security Patch: August and September, 2020
+    **System**:
+    ● Optimized the system performance and improved system stability
+    **Settings**:
+    ● Fixed the response issue when clicking Automatically Set Date & Time after setting time
   codename: RMX1805EX
-  date: 25/7/2020
+  date: 18/9/2020
   device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0690_all_PzCcuPxmfYK0.ozip
-  md5: B965CD048A5EEC3EA76049C816DFA325
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0700_all_wz1txoQrYF4w.ozip
+  md5: 9D64E82186A57AF222CAC4C5EB0F2024
   region: India
-  size: 2.07GB
+  size: 2.08GB
   system: ColorOS 6.0
-  version: RMX1805EX_11.A.69
+  version: RMX1805EX_11.A.70
 - changelog: |
     **Security**:
     ● Android security patch: May, 2020

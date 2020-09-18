@@ -1,3 +1,23 @@
+- changelog: ''
+  codename: Unknown
+  date: Unknown
+  device: realme C12
+  download: ''
+  md5: Unknown
+  region: Indonesia
+  size: ''
+  system: ''
+  version: Unknown
+- changelog: ''
+  codename: Unknown
+  date: Unknown
+  device: realme C15
+  download: ''
+  md5: Unknown
+  region: Indonesia
+  size: ''
+  system: ''
+  version: Unknown
 - changelog: |
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
@@ -72,14 +92,14 @@
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2030EX
-  date: 30/7/2020
+  date: 1/9/2020
   device: realme 5i
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
-  md5: ECD77B77782391E39022B9684212EEF5
+  md5: 48A573562138B4A2E046407D36BA6773
   region: Indonesia
-  size: 2.84GB
+  size: 2.86GB
   system: realme UI 1.0
-  version: RMX2030EX_11.C.53
+  version: RMX2030EX_11.C.55
 - changelog: |
     **Keamanan**:
     ● Patch keamanan Android: Agustus 2020
@@ -220,16 +240,18 @@
   version: RMX1831EX_11.C.20
 - changelog: |
     **Keamanan**:
-    ● Level Android Security Patch : Juli 2020
+    ● Tingkat Android Security Patch: September 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1805EX
-  date: 25/7/2020
+  date: 18/9/2020
   device: realme C1
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0690_all_PzCcuPxmfYK0.ozip
-  md5: B965CD048A5EEC3EA76049C816DFA325
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0700_all_wz1txoQrYF4w.ozip
+  md5: 9D64E82186A57AF222CAC4C5EB0F2024
   region: Indonesia
-  size: 2.07GB
+  size: 2.08GB
   system: ColorOS 6.0
-  version: RMX1805EX_11.A.69
+  version: RMX1805EX_11.A.70
 - changelog: |
     **Keamanan**:
     ● Level patch keamanan Android: Agustus 2020
@@ -246,13 +268,15 @@
   version: RMX1801EX_11.F.10
 - changelog: |
     **Keamanan**:
-    ● Level Android Security Patch : Juli 2020
+    ● Tingkat Android Security Patch: September 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1805EX
-  date: 25/7/2020
+  date: 18/9/2020
   device: realme 2
-  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0690_all_PzCcuPxmfYK0.ozip
-  md5: B965CD048A5EEC3EA76049C816DFA325
+  download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0700_all_wz1txoQrYF4w.ozip
+  md5: 9D64E82186A57AF222CAC4C5EB0F2024
   region: Indonesia
-  size: 2.07GB
+  size: 2.08GB
   system: ColorOS 6.0
-  version: RMX1805EX_11.A.69
+  version: RMX1805EX_11.A.70

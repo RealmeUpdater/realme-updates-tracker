@@ -1,14 +1,14 @@
 changelog: |
   **Keamanan**:
-  ● patch keamanan Android: Juli 2020
+  ● patch keamanan Android: September 2020
   **Sistem**:
   ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
 codename: RMX1901EX
-date: 31/7/2020
+date: 18/9/2020
 device: realme X
-download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1050_all_E7ol9wSKNXaQ.ozip
-md5: BD7970CADECCF77D932F4A085EFCAAC9
+download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1060_all_bTwG4FpJt4Bm.ozip
+md5: BE4C8C57F55F186F707982CDE25BB843
 region: Indonesia
-size: 3.15GB
+size: 3.22GB
 system: realme UI V1.0
-version: RMX1901EX_11.C.05
+version: RMX1901EX_11.C.06

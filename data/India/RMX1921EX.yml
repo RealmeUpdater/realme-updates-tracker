@@ -1,22 +1,40 @@
 changelog: |
   **Security**:
-  ● Android security patch: July, 2020
+  ● Android Security Patch: September, 2020
   **realme Lab**:
-  ● Added the smooth scrolling feature
+  ● Added Super nighttime standby feature and improved standby performance
+  ● Added DC dimming feature: Formerly known as Low-brightness flicker-free eye comfort
+  **Applications**:
+  ● Added soloop
   **Settings**:
-  ● Added multi-user feature
-  **Screen recording**:
-  ● Optimized screen recording feature
+  ● Added default audio recording device options
+  ● Added Deep Cleanup feature and improved background cleaning ability
+  ● Added a return button in screenshot preview
+  ● Added long press to copy IMEI in the status information interface
+  ● Added automatic download option for app updates when connected to Wi-Fi
+  ● Added time display options for the status bar
+  ● Added shortcuts at the bottom of security settings
+  ● Added shortcuts at the bottom of other settings
+  ● Optimized the experience in Wi-Fi settings
+  **Status bar**:
+  ● Added the OTG switch
+  ● Optimized the pop-up window for system updates notification
+  ● Optimized ""Mute-Bell-Vibrate"" icon state
+  **Screenshot**:
+  ● Added auto scrolling feature in scrolling screenshot
+  ● Fixed the probabilistic issue in scrolling screenshot
   **System**:
-  ● Optimized the transparency of swipe back gesture style
-  ● Optimized Bluetooth being turned off when flight mode is turned on mechanisam
-  ● Fixed some known issues and improved system stability
+  ● Added the feature of long press the icon to uninstall the app in the drawer mode
+  ● Fixed the font size issue of charging animation
+  ● Fixed the probabilistic stalling issue while using front camera in SLO-MO mode
+  ● Fixed the issue that the fingerprint names are set to default when restarting the system in Multi-User mode
+  ● Fixed the crashing issue of the search field in app list
 codename: RMX1921EX
-date: 31/7/2020
+date: 18/9/2020
 device: realme XT
-download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA.ozip
-md5: 2B413CEB6C082294E3383A3FE671F957
+download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1070_all_dp8pn12XGkff.ozip
+md5: D6F6807B4A2E6B5CA6DCF6DF9E8E99B4
 region: India
-size: 3.15GB
+size: 3.22GB
 system: realme UI V1.0
-version: RMX1921EX_11.C.06
+version: RMX1921EX_11.C.07

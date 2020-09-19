@@ -11,17 +11,19 @@
   system: realme UI 1.0
   version: RMX2185_11_A.65
 - changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: tháng 8 năm 2020
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2061
-  date: 4/7/2020
+  date: 18/9/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0270_all_EmtL5ZcP1lZd.ozip
-  md5: 84979E5E9E5A3AE483FD443369B405D1
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0330_all_euWtOh1hvBco.ozip
+  md5: E2CC792038804FEA9609B577CDF76F72
   region: Vietnam
-  size: 3.38GB
+  size: 3.41GB
   system: realme UI 1.0
-  version: RMX2061_11.A.27
+  version: RMX2061_11.A.33
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#7)
@@ -94,18 +96,18 @@
   version: RMX2030EX_11.C.53
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    ● Cập nhật bản vá bảo mật Android: (2020#9)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1921EX
-  date: 31/7/2020
+  date: 18/9/2020
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA.ozip
-  md5: 2B413CEB6C082294E3383A3FE671F957
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1070_all_dp8pn12XGkff.ozip
+  md5: D6F6807B4A2E6B5CA6DCF6DF9E8E99B4
   region: Vietnam
-  size: 3.15GB
+  size: 3.22GB
   system: realme UI V1.0
-  version: RMX1921EX_11.C.06
+  version: RMX1921EX_11.C.07
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#7)

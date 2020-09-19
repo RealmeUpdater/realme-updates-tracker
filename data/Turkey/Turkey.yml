@@ -1,17 +1,27 @@
+- changelog: ''
+  codename: RMX2020EU
+  date: 15/8/2020
+  device: realme C3
+  download: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0360_all_w8T1H0cb04aW.ozip
+  md5: FB0C10DF2D01A744D8EB479BEF045CB2
+  region: Turkey
+  size: 2.6GB
+  system: realme UI 1.0
+  version: RMX2020EU_11.A.36
 - changelog: |
     **Güvenlik**:
-    ● Android güvenlik yaması(2020#7)
+    ● Android güvenlik yaması(2020#8)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2061EU
-  date: 5/8/2020
+  date: 18/9/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0220_all_OvHmjVvUt03x.ozip
-  md5: C7B1B437F2B9445F78B03CB5A8AEA248
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0260_all_lT3yU5d8rraB.ozip
+  md5: 178744DA26DA5C953BE8B573EA919104
   region: Turkey
-  size: 3.17GB
+  size: 3.14GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.22
+  version: RMX2061EU_11.A.26
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması: Nisan 2020
@@ -81,18 +91,18 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2020#7)
+    ● Güncel Android güvenlik yaması (2020#9)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX1921EX
-  date: 31/7/2020
+  date: 18/9/2020
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA.ozip
-  md5: 2B413CEB6C082294E3383A3FE671F957
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1070_all_dp8pn12XGkff.ozip
+  md5: D6F6807B4A2E6B5CA6DCF6DF9E8E99B4
   region: Turkey
-  size: 3.15GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX1921EX_11.C.06
+  version: RMX1921EX_11.C.07
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması: Temmuz 2020

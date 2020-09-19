@@ -1,19 +1,37 @@
 - changelog: |
     **Security**:
-    ● Updated Android security patch（June,2020）
-    **Application**:
-    ● Added realme Link
+    ● Android Security Patch: August 2020
+    **realme Lab**:
+    ● Added the Super nighttime standby feature
+    ● Added the smooth scrolling feature
+    **Settings**:
+    ● Added long press to copy IMEI in the status information interface
+    ● Added Deep cleanup feature in Process Manager
+    ● Optimized the default display of battery percentage
     **System**:
-    ● Fixed some known issues, and improved system stability
+    ● Added long press to uninstall apps directly in the app drawer
+    **Status Bar**:
+    ● Added OTG Switch toggle to notification panel
+    ● Added independent Switch toggles of focus mode
+    ● Optimized "Mute-Bell-Vibrate" icon state
+    ● Optimized viewing for system update prompt pop-up window
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    ● Optimized Russian translation issue of the carrier in the status bar
+    **Calculator**:
+    ● Optimized the Russian translation issue of the calculator
+    **Lock screen**:
+    ● Fixed font display issue of charging animation
+    **Camera**:
+    ● Fixed the probabilistic lagging issue of video recording after blurring the background
   codename: RMX2061
-  date: 21/6/2020
+  date: 18/9/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0250_all_FBSWOV9YlwwP.ozip
-  md5: 7ebf27ec7da21567b5465ee76bebe6f9
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0330_all_euWtOh1hvBco.ozip
+  md5: E2CC792038804FEA9609B577CDF76F72
   region: UAE
-  size: 3.38GB
+  size: 3.41GB
   system: realme UI 1.0
-  version: RMX2061_11.A.25
+  version: RMX2061_11.A.33
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020

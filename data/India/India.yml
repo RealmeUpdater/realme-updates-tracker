@@ -231,32 +231,38 @@
   version: RMX2076PU_11.A.35
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Game**:
-    ●Optimized the up-swiping gesture in the game scene
-    ●Fixed the probabilistic issue of insensitive touch in the games
+    ● Android Security Patch: August 2020
+    **realme Lab**:
+    ● Added the Super nighttime standby feature
+    ● Added the smooth scrolling feature
     **Settings**:
-    ●Optimized the switch state when the battery reaches the automatic shutdown in Power Saving Mode
-    ●Optimized power saving mode to reduce screen brightness switch state
-    ●Fixed the issue that the bottom button of the floating keyboard does not respond
-    **Launcher**:
-    ●Fixed the probabilistic desktop icon display abnormal issue
+    ● Added long press to copy IMEI in the status information interface
+    ● Added Deep cleanup feature in Process Manager
+    ● Optimized the default display of battery percentage
+    **System**:
+    ● Added long press to uninstall apps directly in the app drawer
+    **Status Bar**:
+    ● Added OTG Switch toggle to notification panel
+    ● Added independent Switch toggles of focus mode
+    ● Optimized "Mute-Bell-Vibrate" icon state
+    ● Optimized viewing for system update prompt pop-up window
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    ● Optimized Russian translation issue of the carrier in the status bar
+    **Calculator**:
+    ● Optimized the Russian translation issue of the calculator
+    **Lock screen**:
+    ● Fixed font display issue of charging animation
     **Camera**:
-    ●Fixed the probabilistic lagging issue of camera preview interface
-    ●Fixed the probabilistic lagging issue of recording video
-    **Game Space**:
-    ●Fixed the issue that Lock Screen Magazine can be added as a game application
-    **Notification Bar and Status Bar**:
-    ●Fixed the probabilistic abnormal display issue after deleting the message in the notification bar
+    ● Fixed the probabilistic lagging issue of video recording after blurring the background
   codename: RMX2061
-  date: 5/8/2020
+  date: 18/9/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0290_all_TjeZ9QLjbIsx.ozip
-  md5: 2A437939982D3469DD53AD76D3A37ABD
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0330_all_euWtOh1hvBco.ozip
+  md5: E2CC792038804FEA9609B577CDF76F72
   region: India
-  size: 3.44GB
+  size: 3.41GB
   system: realme UI 1.0
-  version: RMX2061_11.A.29
+  version: RMX2061_11.A.33
 - changelog: |
     **Security**:
     ● Android Security Patch: August, 2020
@@ -469,6 +475,34 @@
   size: 3.22GB
   system: realme UI V1.0
   version: RMX1921EX_11.C.07
+- changelog: |
+    **Security**:
+    ● Android Security Patch: August, 2020
+    **realme Lab**:
+    ● Added Super nighttime standby feature
+    ● Added Smooth scrolling feature
+    **Settings**:
+    ● Added long press to copy IMEI in the status information interface
+    ● Optimized the default display of battery percentage
+    **System**:
+    ● Added long press to uninstall apps directly in the app drawer
+    ● Fixed the issue that the split screen cannot be used after enable the third-party launcher
+    **Status Bar**:
+    ● Added independent Switch toggles of focus mode
+    ● Added OTG Switch toggle to notification panel
+    ● Optimized status bar viewing, added second display option
+    ● Optimized viewing for system update prompt pop-up window
+    **Camera**:
+    ● Fixed the issue that the preview and video recording interfaces are dimmed in night scenes while using third-party applications
+  codename: RMX1911EX
+  date: 1/9/2020
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1550_all_IrgW2rxqxhSb.ozip
+  md5: 48A573562138B4A2E046407D36BA6773
+  region: India
+  size: 2.86GB
+  system: realme UI V1.0
+  version: RMX1911EX_11.C.55
 - changelog: |
     **Security**:
     ● Android Security Patch: September, 2020

@@ -1,17 +1,32 @@
 changelog: |
   **Security**:
-  ● Updated Andriod security patch（2020#6）
-  **Optimization**:
-  ● Optimized the height of status bar
-  ● Optimized the transparency of the slide back gestures style
+  ● Android Security Patch: July and August , 2020
+  **realme Lab**:
+  ● Added Smooth scrolling feature
+  ● Added Super nighttime standby feature
+  ● Added DC dimming feature
+  **Settings**:
+  ● Added Super Power Saving Mode
+  ● Added Deep cleanup feature in Process Manager
+  ● Added long press to copy IMEI in the status information interface
+  ● Optimized the default display of battery percentage
   **System**:
-  ● Fixed some known issues and improved system stability
+  ● Added long press to uninstall apps directly in the app drawer
+  **Status Bar**:
+  ● Added independent Switch toggles of focus mode
+  ● Added OTG Switch toggle to notification panel
+  ● Optimized status bar viewing, added second display option
+  ● Optimized "Mute-Bell-Vibrate" icon state
+  ● Optimized viewing for system update prompt pop-up window
+  ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+  **Lock screen**:
+  ● Fixed font display issue for charging animation
 codename: RMX1993EX
-date: 21/6/2020
+date: 22/8/2020
 device: realme X2
-download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1050_all_loALrMDyMrbs.ozip
-md5: 1afef6b8933b58343395fa061578410e
+download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1070_all_e2S22A8beBID.ozip
+md5: C64AD27F0D9C0D7DCE28E25D0CC9AF4D
 region: Europe
-size: 2.99GB
+size: 3.08GB
 system: realme UI 1.0
-version: RMX1993EX_11.C.05
+version: RMX1993EX_11.C.07

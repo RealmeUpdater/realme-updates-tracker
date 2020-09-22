@@ -315,60 +315,94 @@
   version: RMX2020_11.A.39
 - changelog: |
     **Security**:
-    ● Updated Android Security Patch: July, 2020
+    ● Android Security Patch: August and September , 2020
     **realme Lab**:
-    ● Added smooth scrolling feature
-    **System**:
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    **Phone Manager**:
-    ● Fixed the overlapped text display issue in Phone Manager
-    **Bluetooth**:
-    ● Fixed the abnormal prompt display issue when exiting from the Bluetooth device detection interface
+    ● Added Super nighttime standby feature
+    ● Added DC dimming feature: Formerly known as Low-brightness flicker-free eye
+    **Applications**:
+    ● Added Soloop app
+    **Settings**:
+    ● Added Deep cleanup feature in Process Manager
+    ● Added return button in the screenshot preview interface
+    ● Added long press to copy IMEI in the status information interface
+    ● Added automatic download option for app updates when connected to Wi-Fi
+    ● Added time display options for the status bar
+    ● Added shortcuts at the bottom of Settings
+    ● Added Multi-user feature
+    ● Added Super Power Saving Mode
+    ● Added Icon Pull-down gesture feature in launcher settings
+    ● Added auto scroll feature in scrolling screenshot
+    ● Optimized the logic of connection in the WLAN setting interface
     **Status Bar**:
-    ● Fixed the display issue in status bar
-    **Notification Drawer**:
-    ● Fixed the probabilistic reset button failure issue when editing
-    **Game Space**:
-    ● Fixed the status bar display issue in network acceleration interface under dark mode
-    ● Fixed the probabilistic crash issue when click agree for storage permission Pop-up
-    ● Fixed the abnormal display issue when open Game Space from home screen
+    ● Added OTG Switch toggle to notification panel
+    ● Added independent Switch toggles of focus mode
+    ● Optimized viewing for system update prompt pop-up window
+    ● Optimized ""Mute-Bell-Vibrate"" icon state
+    ● Fixed the probabilistic notification fail to redirect issue
+    **Lock screen**:
+    ● Fixed font display issue of charging animation
+    ● Fixed the probabilistic flickering issue while waking the screen
+    **Camera**:
+    **Fixed the probabilistic camera shake issue in some scenarios**:
+    **System**:
+    ● Added the feature of long press the icon to uninstall the app in the drawer mode
+    ● Added sweeping effect for the icon of newly installed App
+    ● Fixed the probabilistic issue that icons are not displayed and cannot slide in some scenarios
+    ● Fixed the probabilistic lagging issue while calling up the recent apps
   codename: RMX1992EX
-  date: 3/8/2020
+  date: 21/9/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1110_all_O1NwycXjzo0v.ozip
-  md5: D69F14892D5A30FBEF2A15A51A8303B9
+  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1120_all_q0JbmUQCPRSc.ozip
+  md5: B4BB1A1E6F52CD847080577B65EAF21F
   region: India
-  size: 3.00GB
+  size: 3.12GB
   system: realme UI 1.0
-  version: RMX1992EX_11.C.11
+  version: RMX1992EX_11.C.12
 - changelog: |
     **Security**:
-    ● Updated Android Security Patch: July, 2020
+    ● Android Security Patch: August and September , 2020
     **realme Lab**:
-    ● Added smooth scrolling feature
-    **System**:
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    **Phone Manager**:
-    ● Fixed the overlapped text display issue in Phone Manager
-    **Bluetooth**:
-    ● Fixed the abnormal prompt display issue when exiting from the Bluetooth device detection interface
+    ● Added Super nighttime standby feature
+    ● Added DC dimming feature: Formerly known as Low-brightness flicker-free eye
+    **Applications**:
+    ● Added Soloop app
+    **Settings**:
+    ● Added Deep cleanup feature in Process Manager
+    ● Added return button in the screenshot preview interface
+    ● Added long press to copy IMEI in the status information interface
+    ● Added automatic download option for app updates when connected to Wi-Fi
+    ● Added time display options for the status bar
+    ● Added shortcuts at the bottom of Settings
+    ● Added Multi-user feature
+    ● Added Super Power Saving Mode
+    ● Added Icon Pull-down gesture feature in launcher settings
+    ● Added auto scroll feature in scrolling screenshot
+    ● Optimized the logic of connection in the WLAN setting interface
     **Status Bar**:
-    ● Fixed the display issue in status bar
-    **Notification Drawer**:
-    ● Fixed the probabilistic reset button failure issue when editing
-    **Game Space**:
-    ● Fixed the status bar display issue in network acceleration interface under dark mode
-    ● Fixed the probabilistic crash issue when click agree for storage permission Pop-up
-    ● Fixed the abnormal display issue when open Game Space from home screen
+    ● Added OTG Switch toggle to notification panel
+    ● Added independent Switch toggles of focus mode
+    ● Optimized viewing for system update prompt pop-up window
+    ● Optimized ""Mute-Bell-Vibrate"" icon state
+    ● Fixed the probabilistic notification fail to redirect issue
+    **Lock screen**:
+    ● Fixed font display issue of charging animation
+    ● Fixed the probabilistic flickering issue while waking the screen
+    **Camera**:
+    **Fixed the probabilistic camera shake issue in some scenarios**:
+    **System**:
+    ● Added the feature of long press the icon to uninstall the app in the drawer mode
+    ● Added sweeping effect for the icon of newly installed App
+    ● Fixed the probabilistic issue that icons are not displayed and cannot slide in some scenarios
+    ● Fixed the probabilistic lagging issue while calling up the recent apps
   codename: RMX1992AEX
-  date: 3/8/2020
+  date: 21/9/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1110_all_XRgKhmH4Jee0.ozip
-  md5: D69F14892D5A30FBEF2A15A51A8303B9
+  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1120_all_XjYmNQm8Npnn.ozip
+  md5: B2B5020FE237D26E6E3463CA30F86093
   region: India
-  size: 3.00GB
+  size: 3.12GB
   system: realme UI 1.0
-  version: RMX1992AEX_11.C.11
+  version: RMX1992AEX_11.C.12
 - changelog: |
     **Security**:
     ● Android Security Patch: August, 2020

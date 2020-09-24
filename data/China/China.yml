@@ -30,7 +30,7 @@
     **修复**:
     ● 修复手机搬家不显示密码本条目问题
   codename: RMX2175
-  date: 5/9/2020
+  date: 05/09/2020
   device: realme  X7 5G
   download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0100_all_oYotx6b0NT8Z.ozip
   md5: 27B950730A750560DE7203D157968002
@@ -52,7 +52,7 @@
     **安全**:
     ● 更新Android安全补丁（2020#8）
   codename: RMX2111
-  date: 31/8/2020
+  date: 31/08/2020
   device: realme  V5 5G
   download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0080_all_Z4ZThCKajyIs.ozip
   md5: FAE69886B59EFAB750C5F4D1FEA73E41
@@ -61,33 +61,37 @@
   system: realme UI V1.0
   version: RMX2111_11.A.08
 - changelog: |
-    **音乐**:
-    ● 新增连接线控耳机后按播放键启动最近使用的音乐App功能
-    **蓝牙**:
-    ● 优化飞行模式，开启后不影响蓝牙状态
-    **状态栏**:
-    ● 优化状态栏时间显示
-    **文件管理**:
-    ● 修复最近视图界面下切换暗色模式分享弹窗低概率不消失问题
-    **手机搬家**:
-    ● 修复数据传输过程中的低概率卡死问题
+    **应用**:
+    ● 新增即录应用
+    **设置**:
+    ● 新增状态信息内，长按复制IMEI号功能
+    ● 修复Breeno睡眠极低概率无法打开的问题
     **相机**:
-    ● 修复相机慢动作预览界面低概率闪烁问题
-    ● 修复使用前置摄像头HDR模式拍照预览低概率闪黑屏问题
-    **悬浮球**:
-    ● 修复点击菜单后低概率不回收问题
-    ● 修复点击设置后低概率闪退问题
+    ● 修复夜景模式下极低概率出现红绿点的问题
+    ● 修复专业模式切换时，极低概率卡顿的问题
+    ● 修复前置相机在暗环境下，预览界面低概率出现噪点的问题
+    ● 修复前置相机在人像模式切换到视频模式时，极低概率闪退的问题
+    **相册**:
+    ● 修复拍照后，打开相册图片极低概率变绿的问题
+    **电池**:
+    ● 修复高性能模式下通知栏极低概率不可滑动清除的问题
+    **信息**:
+    ● 修复发送新信息时极低概率闪退的问题
+    **云服务**:
+    ● 修复登录云服务账号时极低概率闪退的问题
+    **状态栏**:
+    ● 修复部分场景下低概率无法下拉状态栏的问题
     **安全**:
-    ● 更新Android安全补丁（2020#7）
+    ● 更新Android安全补丁（2020#9）
   codename: RMX2141
-  date: 29/07/2020
+  date: 17/09/2020
   device: realme X50m 5G
-  download: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0080_all_4TleBBbHokdN.ozip
-  md5: FE79161E1F4D29F01DD00CD6028A0385
+  download: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0100_all_0fsS0UlA1kpU.ozip
+  md5: 4202FE829E54160F83D3B8A33A4B2D35
   region: China
-  size: 3.78GB
+  size: 3.87GB
   system: realme UI V1.0
-  version: RMX2141_11.A.08
+  version: RMX2141_11.A.10
 - changelog: |
     **realme实验室**:
     ● 新增畅速滑屏功能
@@ -159,30 +163,38 @@
   system: realme UI V1.0
   version: RMX2071_11.A.22
 - changelog: |
+    **应用**:
+    ● 新增即录应用
     **设置**:
-    ● 新增夜间超强待机功能，省电更省心
-    ● 新增畅速滑屏功能，体验更流畅
-    ● 修复部分设置界面发生极低概率闪退的问题
-    **充电**:
-    ● 优化充电小数显示
+    ● 新增状态信息内，长按复制IMEI号功能
+    ● 修复Breeno睡眠极低概率无法打开的问题
+    **相机**:
+    ● 修复夜景模式下极低概率出现红绿点的问题
+    ● 修复64M模式下极低概率卡顿的问题
+    ● 修复专业模式切换时，极低概率卡顿的问题
+    ● 修复前置相机在暗环境下，预览界面低概率出现噪点的问题
+    ● 修复前置相机在人像模式切换到视频模式时，极低概率闪退的问题
+    **相册**:
+    ● 修复拍照后，打开相册图片极低概率变绿的问题
+    **电池**:
+    ● 修复高性能模式下通知栏极低概率不可滑动清除的问题
+    **信息**:
+    ● 修复发送新信息时极低概率闪退的问题
+    **云服务**:
+    ● 修复登录云服务账号时极低概率闪退的问题
     **状态栏**:
-    ● 优化“静音-响铃-振动”图标状态显示
-    ● 修复状态栏进入相机时极低概率黑屏的问题
-    **语音助手**:
-    ● 修复语音助手低概率无法唤起的问题
-    **蓝牙**:
-    ● 修复部分场景下，蓝牙耳机播放音乐极低概率无声的问题
+    ● 修复部分场景下低概率无法下拉状态栏的问题
     **安全**:
-    ● 更新Android安全补丁（2020#8）
+    ● 更新Android安全补丁（2020#9）
   codename: RMX2051
-  date: 24/08/2020
+  date: 17/09/2020
   device: realme X50 5G
-  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0160_all_4edEOJENcPcY.ozip
-  md5: BAE5D4AE0087B8E81907FBED6FAAB2D5
+  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0170_all_4LYSpQ411U1V.ozip
+  md5: 5C538445C879D9CE2CEC3C7739D83109
   region: China
-  size: 3.66GB
+  size: 3.75GB
   system: realme UI V1.0
-  version: RMX2051_11.B.16
+  version: RMX2051_11.B.17
 - changelog: |
     **截屏**:
     ● 新增长截屏自动滚动功能，操作更省心

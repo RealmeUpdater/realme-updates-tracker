@@ -1,44 +1,27 @@
 changelog: |
   **Security**:
-  ● Android Security Patch: August, 2020
-  **realme Lab**:
-  ● Added Smooth scrolling feature
-  ● Added Super nighttime standby feature
-  ● Added DC dimming feature
-  **Camera**:
-  ● Added Camera Text scanner feature
-  **Screenshot**:
-  ● Added auto scroll feature in scrolling screenshot
+  ● Updated Android security patch: September, 2020
+  **Applications**:
+  ● Added Soloop
+  **File Manager**:
+  ● Fixed the probabilistic crashing issue when renaming
   **Settings**:
-  ● Added Super Power Saving Mode
-  ● Added default sound recording device option
-  ● Added Deep cleanup feature in Process Manager
-  ● Added return button in the screenshot preview interface
-  ● Added Multi-user feature
-  ● Added Quick guide feature in the battery setting interface
-  ● Added Quick guide feature in the security support interface
-  ● Added Quick guide feature in the other settings interface
-  ● Added long press to copy IMEI in the status information interface
-  ● Added automatic downloads option for app updates in the Wi-Fi interface
-  ● Optimized automatically hide option for floating ball in the full screen interface
-  ● Optimized status bar viewing, added second display option
-  **Status Bar**:
-  ● Added OTG Switch toggle to notification panel
-  ● Optimized viewing for system update prompt pop-up window
-  ● Optimized "Mute-Bell-Vibrate" icon state
-  **Flashlight**:
-  ● Added short press power button to turn off the flashlight while screen-off
+  ● Fixed the display issue of the battery icon in the status bar while switching to Super power saving mode
+  ● Fixed the probabilistic issue of unable to turn down the brightness after turning on the Power saving mode
+  **Multi-user**:
+  ● Fixed the missing prompt window when swiping upward to exit in horizontal-screen games
+  **Gaming**:
+  ● Fixed the noise issue in Marvel Contest of Champion
   **System**:
-  ● Added long press to uninstall apps directly in the app drawer
-  ● Fixed font display issue for charging animation
-  ● Fixed crashing issue when opening hidden apps with access codes
-  ● Fixed the probabilistic connection issue when using Wi-Fi
+  ● Fixed the probabilistic restart issue caused by network stuck
+  ● Fixed the probabilistic noise issue of Whatsapp when playing voice messages in the background
+  ● Fixed the probabilistic issue that the fingerprint pattern is displayed when using Face unlock to enter the locked apps
 codename: RMX1931EX
-date: 24/8/2020
+date: 23/9/2020
 device: realme X2 Pro
-download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1310_all_C72zQ0nPd0RA.ozip
-md5: 5d922455cbdf9bbd8fffc1f75615e5d4
+download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1320_all_L8f64TYO0FSW.ozip
+md5: 107b907a343da4c722507c15d83e03e1
 region: India
-size: 2.99GB
+size: 3.03GB
 system: realme UI 1.0
-version: RMX1931EX_11.C.31
+version: RMX1931EX_11.C.32

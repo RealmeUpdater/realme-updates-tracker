@@ -118,27 +118,37 @@
   version: RMX1931EX_11.C.31
 - changelog: |
     **系统**:
-    ● 改善部分场景下下拉栏亮度调节灵敏度
-    ● 优化系统性能，提升系统稳定性
-    **显示**:
-    ● 修复解锁前后屏幕亮度显示差异问题
-    **应用**:
-    ● 优化部分应用刷新率，提升高刷体验
-    **GPS**:
-    ● 提升GPS定位精度与稳定性
-    **设置**:
-    ● 改善震动强度调节效果
+    ● 优化系统性能，提升高刷体验
+    ● 优化系统内存计算
+    **蓝牙**:
+    ●修复连接蓝牙设备后点击图标小三角自动锁屏问题
     **相机**:
-    ● 优化相机部分场景拍照效果
+    ●优化前置HDR拍照效果
+    ●提升手电筒和后置录像补光灯亮度
+    ●优化后置64M专业模式长曝光闪退
+    ●优化64M部分场景成像亮点噪点问题
+    ●增加夜景滤镜功能
+    **应用**:
+    ● 修复YouTube视频卡顿问题
+    ● 优化开心消消乐边缘触控体验
+    **WiFi**:
+    ● 优化双WiFi下部分场景网速
+    **内置应用**:
+    ● 增加官方欢太商城，畅快购物体验
+    ● 增加即录应用，智能剪辑新生活
+    **音效**:
+    ● 优化部分场景音效
+    **指纹**:
+    ●优化指纹固件，提升部分场景解锁体验
   codename: RMX2121
-  date: 07/09/2020
+  date: 16/09/2020
   device: realme  X7 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2121_11_OTA_0090_all_u2vpmkNsNmLO.ozip
-  md5: 917DCA3B92402EE4597F9E5059CC77EF
+  download: https://download.c.realme.com/osupdate/RMX2121_11_OTA_0100_all_mxFG4DWAwetw.ozip
+  md5: E384D4A25F541E1FB42F3D9B5731623B
   region: China
   size: 3.11GB
   system: realme UI V1.0
-  version: RMX2121_11_A.09
+  version: RMX2121_11_A.10
 - changelog: |
     **相机**:
     ● 新增慢动作240FPS功能
@@ -1998,18 +2008,18 @@
   version: RMX1901EX_11.C.06
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: Juli 2020
+    ● Tingkat Android Security Patch: September 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1851EX
-  date: 30/7/2020
+  date: 23/9/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
-  md5: 86FE0992FFFF87A331389A4977FCEE4C
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1090_all_NxECVCEXWCxd.ozip
+  md5: F072EA15F05C8DC24BE6D2AE0A064FDA
   region: Indonesia
-  size: 3.15GB
+  size: 3.22GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.07
+  version: RMX1851EX_11.C.09
 - changelog: |
     **Keamanan**:
     ● Level Android Security Patch : Juli 2020

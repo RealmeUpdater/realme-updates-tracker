@@ -1,0 +1,14 @@
+changelog: |
+  **Camera**:
+  ● Optimized the front camera effect of portrait mode when against the light
+  **System**:
+  ● Fixed the issue that Dual-Mode Audio does not support USB Headset
+codename: RMX2170PU
+date: 23/9/2020
+device: realme 7 Pro
+download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0150_all_LjDyecArrfXD.ozip
+md5: 26C6713AC593D577373FF9BEF2669F96
+region: India
+size: 3.74GB
+system: realme UI 1.0
+version: RMX2170PU_11_A.15

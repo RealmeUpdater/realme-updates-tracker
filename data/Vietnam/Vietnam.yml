@@ -110,18 +110,18 @@
   version: RMX1921EX_11.C.07
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    ● Cập nhật bản vá bảo mật Android: (2020#9)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1971EX
-  date: 30/7/2020
+  date: 21/9/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1050_all_dNjggfyXOjy3.ozip
-  md5: CC87E9CD1996ED6443EBE9EEEDEE0679
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1070_all_nNL7sTII5ht7.ozip
+  md5: 87210E7A485E871864A5083AEBC54120
   region: Vietnam
-  size: 3.14GB
+  size: 3.22GB
   system: realme UI V1.0
-  version: RMX1971EX_11.C.05
+  version: RMX1971EX_11.C.07
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#7)

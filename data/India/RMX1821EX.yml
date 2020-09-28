@@ -1,25 +1,26 @@
 changelog: |
   **Security**:
-  ● Updated Android Security Patch: July, 2020
+  ● Updated Android security patch: August and September, 2020
+  **System**:
+  ● Added long-press to delete feature for desktop icons in drawer mode
+  ● Added glowing effects of icons on the desktop/drawer after installing new applications
+  ● Added long-press to copy IMEI in the status information interface
   **Settings**:
-  ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-  ● Fixed the rename Cloned App failure issue
-  **Fingerprint**:
-  ● Fixed the probabilistic fingerprint unlock failure issue while screen-off
-  **Assistive Ball**:
-  ● Fixed the assistive ball fail to retract issue after clicking the menu
-  ● Fixed the probabilistic crash issue when select operation mode
-  **Smart Sidebar**:
-  ● Fixed the probabilistic crash issue when press and hold in smart sidebar
-  **Game Space**:
-  ● Fixed the game assistant failure issue
-  ● Fixed the setting data loss issue after update
+  ● Added Deep cleanup feature in the Process Manager of Additional settings
+  ● Added Auto-download over Wi-Fi toggle in Software Update Settings
+  **Notification drawer**:
+  ● Added OTG switch toggle of the notification drawer
+  ● Added Focus mode switch toggle of the notification drawer
+  ● Optimized Mute-Bell-Vibrate icon state
+  **realme Lab**:
+  ● Added Super nighttime standby feature
+  ● Added Smooth scrolling feature
 codename: RMX1821EX
-date: 29/7/2020
+date: 23/9/2020
 device: realme 3
-download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1140_all_mzE2KoP1ciKp.ozip
-md5: 413D0C28318844429F457BDD6FBB742D
+download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
+md5: 35284EC131F1C98128FC43EEC9FBA3A0
 region: India
-size: 2.49GB
+size: 2.56GB
 system: realme UI 1.0
-version: RMX1821EX_11.C.14
+version: RMX1821EX_11.C.16

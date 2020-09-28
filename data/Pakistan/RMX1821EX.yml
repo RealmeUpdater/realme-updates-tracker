@@ -1,25 +1,26 @@
 changelog: |
   **Security**:
-  ● Android security patch: June, 2020
-  **Application**:
-  ● Added realme Link
+  ● Updated Android security patch: August and September, 2020
   **System**:
-  ● Optimized hanging issue in low memory state
-  **Fingerprint**:
-  ● Optimized fingerprint recognition speed
-  **Touch**:
-  ● Optimized touch failure issue in some scenarios during game
-  ● Optimized the issue that no response while touching the edges and corners of the screen
-  **Known issue fixed**:
-  ● Optimized the sensitive issue of compass
-  ● Optimized video scene brightness and color saturation
-  ● Fixed the issue that without game dirac sound effect while entering some games
+  ● Added long-press to delete feature for desktop icons in drawer mode
+  ● Added glowing effects of icons on the desktop/drawer after installing new applications
+  ● Added long-press to copy IMEI in the status information interface
+  **Settings**:
+  ● Added Deep cleanup feature in the Process Manager of Additional settings
+  ● Added Auto-download over Wi-Fi toggle in Software Update Settings
+  **Notification drawer**:
+  ● Added OTG switch toggle of the notification drawer
+  ● Added Focus mode switch toggle of the notification drawer
+  ● Optimized Mute-Bell-Vibrate icon state
+  **realme Lab**:
+  ● Added Super nighttime standby feature
+  ● Added Smooth scrolling feature
 codename: RMX1821EX
-date: 29/6/2020
+date: 23/9/2020
 device: realme 3
-download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1130_all_xqusrKJXApYv.ozip
-md5: BA8A64F8ADFBDF6526A12A74DB985415
+download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
+md5: 35284EC131F1C98128FC43EEC9FBA3A0
 region: Pakistan
-size: 2.46GB
+size: 2.56GB
 system: realme UI V1.0
-version: RMX1821EX_11.C.13
+version: RMX1821EX_11.C.16

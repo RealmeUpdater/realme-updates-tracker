@@ -137,18 +137,18 @@
   version: RMX1931EX_11.C.24
 - changelog: |
     **Безопасность**:
-    ● Исправление безопасности Android: 7 мая 2020
+    ● Исправление безопасности Android: 5 сентябрь 2020
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы
   codename: RMX1921EUEX
-  date: 27/7/2020
+  date: 22/9/2020
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EUEX_11_OTA_1040_all_QZ544kll3mFR.ozip
-  md5: FDBF5202045B5EEC467698D78206C481
+  download: https://download.c.realme.com/osupdate/RMX1921EUEX_11_OTA_1060_all_rjS3XiFVLLet.ozip
+  md5: 905C2A9B3305172D94F7177724842333
   region: Russia
-  size: 3.15GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX1921EUEX_11.C.04
+  version: RMX1921EUEX_11.C.06
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android: июль 2020
@@ -192,16 +192,16 @@
   system: realme UI V1.0
   version: RMX1851EX_11.C.07
 - changelog: |
-    **Безопасность:**:
-    ● Добавлены патчи безопасности Android за июль 2020
+    **Безопасность**:
+    ● Обновлены патчи безопасности Android за сентябрь 2020
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1821EX
-  date: 29/7/2020
+  date: 23/9/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1140_all_mzE2KoP1ciKp.ozip
-  md5: 413D0C28318844429F457BDD6FBB742D
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
+  md5: 35284EC131F1C98128FC43EEC9FBA3A0
   region: Russia
-  size: 2.49GB
+  size: 2.56GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.14
+  version: RMX1821EX_11.C.16

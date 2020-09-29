@@ -1,17 +1,14 @@
 changelog: |
   **Seguridad**:
-  ● Parche de seguridad de Android: mayo de 2020
-  **Grabación de pantalla**:
-  ● Optimización de la función de grabación de pantalla
+  ● Parche de seguridad de Android(2020#9)
   **Sistema**:
-  ● Se ha actualizado la animación de carga
-  ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+  ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
 codename: RMX1993EX
-date: 20/5/2020
+date: 27/9/2020
 device: realme X2
-download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1040_all_tSZ3Sf5A77NS.ozip
-md5: 3d4776e70d388ed00fc31ba158e3fde
+download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1080_all_Gr2IwxeFFRaQ.ozip
+md5: 765A8F45E665A8CCDB297A1DE7B8695A
 region: Spain
-size: 2.97GB
+size: 3.12GB
 system: realme UI 1.0
-version: RMX1993EX_11.C.04
+version: RMX1993EX_11.C.08

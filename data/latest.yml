@@ -657,21 +657,18 @@
   version: RMX1931EX_11.C.32
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: mayo de 2020
-    **Grabación de pantalla**:
-    ● Optimización de la función de grabación de pantalla
+    ● Parche de seguridad de Android(2020#9)
     **Sistema**:
-    ● Se ha actualizado la animación de carga
-    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+    ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1993EX
-  date: 20/5/2020
+  date: 27/9/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1040_all_tSZ3Sf5A77NS.ozip
-  md5: 3d4776e70d388ed00fc31ba158e3fde
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1080_all_Gr2IwxeFFRaQ.ozip
+  md5: 765A8F45E665A8CCDB297A1DE7B8695A
   region: Spain
-  size: 2.97GB
+  size: 3.12GB
   system: realme UI 1.0
-  version: RMX1993EX_11.C.04
+  version: RMX1993EX_11.C.08
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: julio 2020
@@ -832,22 +829,20 @@
   version: RMX2061EU_11.A.26
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
+    ● Updated Android security patch: September, 2020
     **System**:
-    ● Added system language: Serbian
-    ● Optimized the power consumption
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    **Camera**:
-    ● Fixed the probabilistic issue that the video playback sound is out of sync with the image after recording the video
+    ● Optimized the system performance and improved system stability
+    **Wi-Fi**:
+    ● Fixed the display issue of scan icon in Wi-Fi menu
   codename: RMX2001EU
-  date: 31/7/2020
+  date: 25/9/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0380_all_HgmAVWfZJljL.ozip
-  md5: 8E81FAD986E0BC8E99A183F73809E576
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0420_all_BO9ezuCxh1uf.ozip
+  md5: 49370F1F10A569BABDCB8E45EF1E478D
   region: Europe
-  size: 2.80GB
+  size: 2.82GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.38
+  version: RMX2001EU_11.A.42
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
@@ -979,36 +974,28 @@
   version: RMX1931EX_11.C.32
 - changelog: |
     **Security**:
-    ● Android Security Patch: July and August , 2020
-    **realme Lab**:
-    ● Added Smooth scrolling feature
-    ● Added Super nighttime standby feature
-    ● Added DC dimming feature
+    ● Updated Android security patch: September, 2020
     **Settings**:
-    ● Added Super Power Saving Mode
-    ● Added Deep cleanup feature in Process Manager
-    ● Added long press to copy IMEI in the status information interface
-    ● Optimized the default display of battery percentage
+    ● Optimized the user experience of Wi-Fi settings
+    **Notifications & status bar**:
+    ● Fixed the probabilistic issue of unable to redirect after clicking the notifications in the notification drawer
+    ● Fixed the flickering icons on the status bar
+    **Lockscreen**:
+    ● Fixed the probabilistic screen flicker when waking the screen
+    **Camera**:
+    ● Fixed the probabilistic image distortion of camera preview
     **System**:
-    ● Added long press to uninstall apps directly in the app drawer
-    **Status Bar**:
-    ● Added independent Switch toggles of focus mode
-    ● Added OTG Switch toggle to notification panel
-    ● Optimized status bar viewing, added second display option
-    ● Optimized "Mute-Bell-Vibrate" icon state
-    ● Optimized viewing for system update prompt pop-up window
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    **Lock screen**:
-    ● Fixed font display issue for charging animation
+    ● Fixed the probabilistic issues that icons are not displayed and cannot swipe between screens in some scenarios
+    ● Fixed the probabilistic lagging issue while entering the recent tasks
   codename: RMX1993EX
-  date: 22/8/2020
+  date: 27/9/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1070_all_e2S22A8beBID.ozip
-  md5: C64AD27F0D9C0D7DCE28E25D0CC9AF4D
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1080_all_Gr2IwxeFFRaQ.ozip
+  md5: 765A8F45E665A8CCDB297A1DE7B8695A
   region: Europe
   size: 3.08GB
   system: realme UI 1.0
-  version: RMX1993EX_11.C.07
+  version: RMX1993EX_11.C.08
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020
@@ -2837,18 +2824,18 @@
   version: RMX2040_11_A.27
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 8 năm 2020
+    ● Cập nhật bản vá bảo mật Android: Tháng 9 năm 2020
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2001
-  date: 26/8/2020
+  date: 25/9/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0450_all_xzyZuGI1CR3f.ozip
-  md5: 66CBA451A1EA6F43EBCC59A3E3CC6442
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0470_all_VyuCFSQnuSSy.ozip
+  md5: 073016A9AF4BD249473695DB4ADB86C6
   region: Vietnam
-  size: 3.09GB
+  size: 3.14GB
   system: realme UI 1.0
-  version: RMX2001_11.B.45
+  version: RMX2001_11.B.47
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#7)

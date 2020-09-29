@@ -1,0 +1,15 @@
+changelog: |
+  **System**:
+  ● Fixed the probabilistic screen flicker issue in some scenarios
+  ● Fixed the probabilistic Ghost Touch issue in some scenarios
+  **Camera**:
+  ● Optimized the Over-exposure issue of front camera when against the light
+codename: RMX2151PU
+date: 28/9/2020
+device: realme 7
+download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0530_all_7fq2oiVpoIWH.ozip
+md5: 8E345F6A314B3D61C3C8D959BCF910F6
+region: India
+size: 3.34GB
+system: realme UI V1.0
+version: RMX2151PU_11.A.53

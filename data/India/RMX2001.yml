@@ -1,25 +1,16 @@
 changelog: |
   **Security**:
-  ● Android Security Patch: August, 2020
-  **realme Lab**:
-  ● Added the Super nighttime standby feature
-  ● Added the smooth scrolling feature
-  **Battery**:
-  ● Added charging decimal point feature
+  ● Updated Android security patch: September, 2020
   **System**:
-  ● Added independent Switch toggles of focus mode
-  ● Added long press to uninstall apps directly in the app drawer
-  **Settings**:
-  ● Added default sound recording device option
-  **Status Bar**:
-  ● Added OTG Switch toggle to notification panel
-  ● Optimized "Mute-Bell-Vibrate" icon state
+  ● Optimized the system performance and improved system stability
+  **Wi-Fi**:
+  ● Fixed the display issue of scan icon in Wi-Fi menu
 codename: RMX2001
-date: 26/8/2020
+date: 25/9/2020
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0450_all_xzyZuGI1CR3f.ozip
-md5: 66CBA451A1EA6F43EBCC59A3E3CC6442
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0470_all_VyuCFSQnuSSy.ozip
+md5: 073016A9AF4BD249473695DB4ADB86C6
 region: India
-size: 3.09GB
+size: 3.14GB
 system: realme UI 1.0
-version: RMX2001_11.B.45
+version: RMX2001_11.B.47

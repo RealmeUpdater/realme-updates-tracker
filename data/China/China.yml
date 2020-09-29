@@ -255,27 +255,20 @@
   system: realme UI 1.0
   version: RMX1931_11.C.28
 - changelog: |
-    **realme实验室**:
-    ● 新增夜间超强待机功能，优化夜间待机掉电快的问题
-    ● 新增畅速滑屏功能
-    **游戏空间**:
-    ● 新增弹幕消息功能
-    ● 新增游戏挂机功能
-    **存储**:
-    ● 优化存储固件，提升存储稳定性
     **系统**:
-    ● 修复极低概率自动重启问题
-    **安全**:
-    ● 更新Android安全补丁（2020#7）
+    ● 修复室外强光源环境下，极低概率触发屏幕亮度降到最低问题
+    **应用**:
+    ● 修复QQ界面按电源键息屏并指纹解锁后，QQ低概率闪退至桌面的问题
+    ● 修复欢太商城App图标低概率显示异常的问题
   codename: RMX1991
-  date: 22/07/2020
+  date: 29/09/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1200_all_oZQ7eB7EsXK3.ozip
-  md5: 9FE673DD74A880410A8F3B34EE9EB77B
+  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1220_all_yQTbUotPc6FA.ozip
+  md5: F1B47EDC92326628EAB73D99FF62A678
   region: China
-  size: 2.86GB
+  size: 2.96GB
   system: realme UI 1.0
-  version: RMX1991_11.C.20
+  version: RMX1991_11.C.22
 - changelog: |
     **应用**:
     ● 新增soloop应用APP

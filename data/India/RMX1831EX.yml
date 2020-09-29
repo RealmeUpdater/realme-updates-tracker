@@ -1,16 +1,16 @@
 changelog: |
-  **Secruity**:
-  ● Android security patch: July, 2020
-  **Applications**:
-  ● Added realme Link
+  **Security**:
+  ● Android Security Patch: August and September, 2020
+  **System**:
+  ● Optimized the system performance and improved system stability
   **Settings**:
-  ● Added Cloud Service feature
+  ● Fixed the issue that the sequence of Clock unable to adjust manually
 codename: RMX1831EX
-date: 25/7/2020
+date: 17/9/2020
 device: realme U1
-download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0200_all_QrdLEyEpDpi6.ozip
-md5: BCD93F83AA9050BCA9B5B7429090CC92
+download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0210_all_bKHofLxzTowa.ozip
+md5: 8B53F84FA8DCF302AFB3CE1194FE53FC
 region: India
 size: 2.10GB
 system: ColorOS 6.0
-version: RMX1831EX_11.C.20
+version: RMX1831EX_11.C.21

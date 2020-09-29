@@ -639,20 +639,18 @@
   version: RMX1851EX_11.C.09
 - changelog: |
     **Security**:
-    ● Android security patch: July, 2020
-    **Applications**:
-    ● Added realme Link
+    ● Android Security Patch: September, 2020
     **System**:
     ● Fixed some known issues and improved system stability
   codename: RMX1941EX
-  date: 24/7/2020
+  date: 15/9/2020
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0280_all_8kEXmFjiHsMf.ozip
-  md5: 607c31345569a0e83be57934dc3d6f69
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0290_all_szn9OcLO30uO.ozip
+  md5: 4af18f74c51336a040028503ed8c062b
   region: India
-  size: 2.01GB
+  size: 2.02GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.28
+  version: RMX1941EX_11.A.29
 - changelog: |
     **Security**:
     ● Updated Android security patch: August and September, 2020
@@ -680,21 +678,21 @@
   system: realme UI 1.0
   version: RMX1821EX_11.C.16
 - changelog: |
-    **Secruity**:
-    ● Android security patch: July, 2020
-    **Applications**:
-    ● Added realme Link
+    **Security**:
+    ● Android Security Patch: August and September, 2020
+    **System**:
+    ● Optimized the system performance and improved system stability
     **Settings**:
-    ● Added Cloud Service feature
+    ● Fixed the issue that the sequence of Clock unable to adjust manually
   codename: RMX1831EX
-  date: 25/7/2020
+  date: 17/9/2020
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0200_all_QrdLEyEpDpi6.ozip
-  md5: BCD93F83AA9050BCA9B5B7429090CC92
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0210_all_bKHofLxzTowa.ozip
+  md5: 8B53F84FA8DCF302AFB3CE1194FE53FC
   region: India
   size: 2.10GB
   system: ColorOS 6.0
-  version: RMX1831EX_11.C.20
+  version: RMX1831EX_11.C.21
 - changelog: |
     **Security**:
     ● Android Security Patch: August and September, 2020

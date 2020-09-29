@@ -1,36 +1,29 @@
 - changelog: |
-    **系统**:
-    ● 优化系统性能，提升高刷体验
-    ● 优化系统内存计算
-    **蓝牙**:
-    ●修复连接蓝牙设备后点击图标小三角自动锁屏问题
+    **NFC**:
+    ● 新增 支持NFC与SD卡传输功能
     **相机**:
-    ●优化前置HDR拍照效果
-    ●提升手电筒和后置录像补光灯亮度
-    ●优化后置64M专业模式长曝光闪退
-    ●优化64M部分场景成像亮点噪点问题
-    ●增加夜景滤镜功能
+    ● 优化 后置相机夜景清晰度
+    ● 优化 后置相机专业模式清晰度
+    ● 优化 前置相机成像清晰度
+    **系统**:
+    ● 优化 系统内存空间算法
+    ● 修复 部分场景下界面显示白色条纹的问题
+    ● 修复 部分场景极低概率的重启问题
+    ● 修复 桌面极低概率的卡顿问题
     **应用**:
-    ● 修复YouTube视频卡顿问题
-    ● 优化开心消消乐边缘触控体验
-    **WiFi**:
-    ● 优化双WiFi下部分场景网速
-    **内置应用**:
-    ● 增加官方欢太商城，畅快购物体验
-    ● 增加即录应用，智能剪辑新生活
-    **音效**:
-    ● 优化部分场景音效
-    **指纹**:
-    ●优化指纹固件，提升部分场景解锁体验
+    ● 修复 快手 低概率出现崩溃的问题
+    ● 修复 Breeno速览-快捷功能栏概率性添加微信乘车码失败的问题
+    **安全**:
+    ● 更新 Android安全补丁（2020#9）
   codename: RMX2121
-  date: 16/09/2020
+  date: 27/09/2020
   device: realme  X7 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2121_11_OTA_0100_all_mxFG4DWAwetw.ozip
-  md5: E384D4A25F541E1FB42F3D9B5731623B
+  download: https://download.c.realme.com/osupdate/RMX2121_11_OTA_0120_all_BeCbbFo7imYt.ozip
+  md5: F4F22E17B9110599C83A899E34D4A099
   region: China
-  size: 3.11GB
+  size: 3.16GB
   system: realme UI V1.0
-  version: RMX2121_11_A.10
+  version: RMX2121_11_A.12
 - changelog: |
     **相机**:
     ● 新增慢动作240FPS功能

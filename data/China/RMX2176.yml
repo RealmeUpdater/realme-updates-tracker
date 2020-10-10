@@ -1,0 +1,22 @@
+changelog: |
+  **相机**:
+  ● 优化 后置相机64M模式下的拍照效果
+  ● 优化 超级夜景拍照效果
+  ● 优化 前置相机在视频通话、人像模式下的成像效果
+  **系统**:
+  ● 优化 系统性能，提升系统稳定性
+  ● 优化 手电筒亮度，提升使用体验
+  **修复**:
+  ● 修复 部分充电场景下极低概率无法进入闪充状态的问题
+  ● 修复 Breeno速览-快捷功能栏概率性添加微信乘车码失败问题
+  **安全**:
+  ● 更新 Android安全补丁（2020#9）
+codename: RMX2176
+date: 29/09/2020
+device: realme  X7 5G
+download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0110_all_tWqCC0zoQEBZ.ozip
+md5: 09B814E6E7EEADDEB032052EE59BA075
+region: China
+size: 3.06GB
+system: realme UI V1.0
+version: RMX2176_11.A.11

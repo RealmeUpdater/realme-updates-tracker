@@ -1,4 +1,25 @@
 - changelog: |
+    **应用**:
+    ● 新增 soloop即录APP
+    **游戏**:
+    ● 优化 和平精英游戏过程中的帧率表现
+    ● 优化 王者荣耀游戏过程中的触控效果
+    **系统**:
+    ● 优化系统稳定性，提升用户体验
+    **解锁**:
+    ● 修复 使用部分非原装充电器的充电场景下，因电流干扰导致的指纹解锁失败问题
+    **安全**:
+    ● 更新 Android安全补丁（2020#9）
+  codename: RMX2200
+  date: 30/09/2020
+  device: realme V3 5G
+  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0100_all_wiVuAiOr4D5r.ozip
+  md5: 282045F43250F51910F3E50A00616FEB
+  region: China
+  size: 2.99GB
+  system: realme UI V1.0
+  version: RMX2200_11_A.10
+- changelog: |
     **NFC**:
     ● 新增 支持NFC与SD卡传输功能
     **相机**:
@@ -26,21 +47,26 @@
   version: RMX2121_11_A.12
 - changelog: |
     **相机**:
-    ● 新增慢动作240FPS功能
-    ● 优化后置相机拍照效果
+    ● 优化 后置相机64M模式下的拍照效果
+    ● 优化 超级夜景拍照效果
+    ● 优化 前置相机在视频通话、人像模式下的成像效果
     **系统**:
-    ● 优化系统性能，提升系统稳定性
+    ● 优化 系统性能，提升系统稳定性
+    ● 优化 手电筒亮度，提升使用体验
     **修复**:
-    ● 修复手机搬家不显示密码本条目问题
-  codename: RMX2175
-  date: 05/09/2020
+    ● 修复 部分充电场景下极低概率无法进入闪充状态的问题
+    ● 修复 Breeno速览-快捷功能栏概率性添加微信乘车码失败问题
+    **安全**:
+    ● 更新 Android安全补丁（2020#9）
+  codename: RMX2176
+  date: 29/09/2020
   device: realme  X7 5G
-  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0100_all_oYotx6b0NT8Z.ozip
-  md5: 27B950730A750560DE7203D157968002
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0110_all_tWqCC0zoQEBZ.ozip
+  md5: 09B814E6E7EEADDEB032052EE59BA075
   region: China
-  size: 2.95GB
+  size: 3.06GB
   system: realme UI V1.0
-  version: RMX2175_11.A.10
+  version: RMX2176_11.A.11
 - changelog: |
     **相机**:
     ● 新增 夜景滤镜：摩登/赛博朋克/燃情

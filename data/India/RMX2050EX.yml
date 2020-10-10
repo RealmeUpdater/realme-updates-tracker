@@ -1,0 +1,14 @@
+changelog: |
+  **Security**:
+  ● Android security patch: September, 2020
+  **Camera**:
+  ● Fixed the issue that maximum exposure time can only be set to 0 in Professional mode of the rear camera
+codename: RMX2050EX
+date: 10/10/2020
+device: realme narzo 20A
+download: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0150_all_O0rVNTd3Sz8m.ozip
+md5: 87AB697E97444A631931E7568AD762DF
+region: India
+size: 2.94GB
+system: realme UI 1.0
+version: RMX2050EX_11_A.15

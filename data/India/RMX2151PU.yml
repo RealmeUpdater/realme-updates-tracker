@@ -11,7 +11,6 @@ changelog: |
   ● Optimized the charging algorithm
   **System**:
   ● Added Soloop
-  ● Updated the Processor name display to Helio G95 in About phone
   ● Fixed the probabilistic screen flicker issue in some scenarios
   **Bluetooth**:
   ● Fixed the volume increase of the Bluetooth Car Kit when disconnected and connected again

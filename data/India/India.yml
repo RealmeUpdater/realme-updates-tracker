@@ -13,61 +13,29 @@
   system: realme UI 1.0
   version: RMX2050EX_11_A.15
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: September, 2020
-    **Camera**:
-    ● Fixed the probabilistic dark image issue of the Ultra-wide camera in HDR mode
-    ● Optimized the image noise of the main camera in HDR mode
-    ● Optimized the image and preview clarity of third-party applications
-    ● Optimized the image sharpness
-    ● Optimized the image clarity of the Portrait mode
-    **Charging**:
-    ● Optimized the charging algorithm
     **System**:
-    ● Added Soloop
-    ● Fixed the probabilistic screen flicker issue in some scenarios
-    **Bluetooth**:
-    ● Fixed the volume increase of the Bluetooth Car Kit when disconnected and connected again
-    ● Fixed the automatic screen lock when clicking the expand icon of the Bluetooth toggle in the control center
-    **Launcher**:
-    ● Fixed the probabilistic screen flicker when customizing the icons in Dark mode
+    ● Fixed the probabilistic screen flickering issue at a low screen brightness level
   codename: RMX2151PU
-  date: 10/10/2020
+  date: 16/10/2020
   device: realme narzo 20 Pro
-  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0590_all_rrTL8gGrd6kU.ozip
-  md5: 61D53EB0F8F2D28ED729B2B2C647823B
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0610_all_paZ4XXTxvBoR.ozip
+  md5: BC5E09CFDAB1A5F322F03F9CF0E988F2
   region: India
-  size: 3.43GB
+  size: 3.33GB
   system: realme UI V1.0
-  version: RMX2151PU_11.A.59
+  version: RMX2151PU_11.A.61
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: September, 2020
-    **Camera**:
-    ● Fixed the probabilistic dark image issue of the Ultra-wide camera in HDR mode
-    ● Optimized the image noise of the main camera in HDR mode
-    ● Optimized the image and preview clarity of third-party applications
-    ● Optimized the image sharpness
-    ● Optimized the image clarity of the Portrait mode
-    **Charging**:
-    ● Optimized the charging algorithm
     **System**:
-    ● Added Soloop
-    ● Fixed the probabilistic screen flicker issue in some scenarios
-    **Bluetooth**:
-    ● Fixed the volume increase of the Bluetooth Car Kit when disconnected and connected again
-    ● Fixed the automatic screen lock when clicking the expand icon of the Bluetooth toggle in the control center
-    **Launcher**:
-    ● Fixed the probabilistic screen flicker when customizing the icons in Dark mode
+    ● Fixed the probabilistic screen flickering issue at a low screen brightness level
   codename: RMX2151PU
-  date: 10/10/2020
+  date: 16/10/2020
   device: realme 7
-  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0590_all_rrTL8gGrd6kU.ozip
-  md5: 61D53EB0F8F2D28ED729B2B2C647823B
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0610_all_paZ4XXTxvBoR.ozip
+  md5: BC5E09CFDAB1A5F322F03F9CF0E988F2
   region: India
-  size: 3.43GB
+  size: 3.33GB
   system: realme UI V1.0
-  version: RMX2151PU_11.A.59
+  version: RMX2151PU_11.A.61
 - changelog: |
     **Camera**:
     ● Optimized the front camera effect of portrait mode when against the light

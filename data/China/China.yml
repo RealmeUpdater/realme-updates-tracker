@@ -125,75 +125,55 @@
   system: realme UI V1.0
   version: RMX2141_11.A.10
 - changelog: |
-    **realme实验室**:
-    ● 新增畅速滑屏功能
-    ● 新增DC调光功能（原低亮无频闪护眼）
+    **应用**:
+    ● 新增 Soloop 即录APP
+    ● 新增 欢太商城APP
     **截屏**:
-    ● 新增长截屏自动滚动功能，操作更省心
-    **联系人**:
-    ● 新增头像几何风格功能
+    ● 新增 截屏设置页增加物理按键截屏开关
+    ● 修复 部分场景下出现的低概率长截屏内容重复问题
+    ● 修复 横屏截屏后跳转截屏设置界面再进行长截屏时界面的布局异常问题
     **设置**:
-    ● 新增个性化定制功能
-    ● 新增WLAN界面二维码扫描功能，联网更便捷
-    ● 新增状态信息内，长按复制IMEI号功能
-    ● 新增进程管理中进程极致清理功能
-    ● 新增截屏预览界面返回按键
-    ● 优化状态栏显示，增加秒显示选项
-    **状态栏**:
-    ● 新增OTG开关快捷按钮
-    ● 新增专注模式独立快捷方式
-    ● 优化“静音-响铃-振动”图标状态显示逻辑
-    **系统**:
-    ● 新增抽屉模式下，长按桌面图标可卸载APP功能
-    ● 新增新安装APP的桌面图标支持扫光效果
-    ● 新增支持三方桌面分屏的功能
-    ● 修复充电动画字体显示问题
+    ● 优化 开启和关闭省电模式时系统响应速度
+    **网络**:
+    ● 修复 切换网络模式低概率不能连接5G网络问题
+    **游戏**:
+    ● 修复 横屏游戏时上滑手势滑动退出没有提示语的问题
     **安全**:
-    ● 更新Android安全补丁（2020/#8）
+    ● 更新 Android安全补丁（2020#9）
   codename: RMX2071
-  date: 25/08/2020
+  date: 12/10/2020
   device: realme  X50 Pro 玩家版
-  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0220_all_f6JUfc5uwP8X.ozip
-  md5: df012fce1fd294bf23fe6c036e28cc9d
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0230_all_G0zD7JcRjQ27.ozip
+  md5: 856f5df331277d80dd5460fa4fc7e424
   region: China
-  size: 3.66GB
+  size: 3.78GB
   system: realme UI V1.0
-  version: RMX2071_11.A.22
+  version: RMX2071_11.A.23
 - changelog: |
-    **realme实验室**:
-    ● 新增畅速滑屏功能
-    ● 新增DC调光功能（原低亮无频闪护眼）
+    **应用**:
+    ● 新增 Soloop 即录APP
+    ● 新增 欢太商城APP
     **截屏**:
-    ● 新增长截屏自动滚动功能，操作更省心
-    **联系人**:
-    ● 新增头像几何风格功能
+    ● 新增 截屏设置页增加物理按键截屏开关
+    ● 修复 部分场景下出现的低概率长截屏内容重复问题
+    ● 修复 横屏截屏后跳转截屏设置界面再进行长截屏时界面的布局异常问题
     **设置**:
-    ● 新增个性化定制功能
-    ● 新增WLAN界面二维码扫描功能，联网更便捷
-    ● 新增状态信息内，长按复制IMEI号功能
-    ● 新增进程管理中进程极致清理功能
-    ● 新增截屏预览界面返回按键
-    ● 优化状态栏显示，增加秒显示选项
-    **状态栏**:
-    ● 新增OTG开关快捷按钮
-    ● 新增专注模式独立快捷方式
-    ● 优化“静音-响铃-振动”图标状态显示逻辑
-    **系统**:
-    ● 新增抽屉模式下，长按桌面图标可卸载APP功能
-    ● 新增新安装APP的桌面图标支持扫光效果
-    ● 新增支持三方桌面分屏的功能
-    ● 修复充电动画字体显示问题
+    ● 优化 开启和关闭省电模式时系统响应速度
+    **网络**:
+    ● 修复 切换网络模式低概率不能连接5G网络问题
+    **游戏**:
+    ● 修复 横屏游戏时上滑手势滑动退出没有提示语的问题
     **安全**:
-    ● 更新Android安全补丁（2020/#8）
+    ● 更新 Android安全补丁（2020#9）
   codename: RMX2071
-  date: 25/08/2020
+  date: 12/10/2020
   device: realme X50 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0220_all_f6JUfc5uwP8X.ozip
-  md5: df012fce1fd294bf23fe6c036e28cc9d
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0230_all_G0zD7JcRjQ27.ozip
+  md5: 856f5df331277d80dd5460fa4fc7e424
   region: China
-  size: 3.66GB
+  size: 3.78GB
   system: realme UI V1.0
-  version: RMX2071_11.A.22
+  version: RMX2071_11.A.23
 - changelog: |
     **应用**:
     ● 新增即录应用

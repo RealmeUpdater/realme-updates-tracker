@@ -1,6 +1,18 @@
 - changelog: |
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2103PU
+  date: 12/10/2020
+  device: realme 7i
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0250_all_TdAcO7xm4fBQ.ozip
+  md5: FF5E744E52692A2E47FFBC16AA34DAEB
+  region: Indonesia
+  size: 3.24GB
+  system: realme UI 1.0
+  version: RMX2103PU_11.A.25
+- changelog: |
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2185
   date: 28/7/2020
   device: realme C11

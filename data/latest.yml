@@ -1028,6 +1028,24 @@
   system: realme UI V1.0
   version: RMX1851EX_11.C.07
 - changelog: |
+    **System**:
+    ● Optimized the noise issue of phone calls in some scenarios
+    ● Optimized the power consumption of night standby
+    ● Fixed the display issue of video call interface in some scenarios
+    **Camera**:
+    ● Added Night mode for the front camera
+    ● Added HDR for Portrait mode and improved the dynamic performance of the preview in against-light condition
+    ● Added Ultra Steady mode for the front camera in Video mode
+  codename: RMX2103PU
+  date: 12/10/2020
+  device: realme 7i
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0250_all_TdAcO7xm4fBQ.ozip
+  md5: FF5E744E52692A2E47FFBC16AA34DAEB
+  region: India
+  size: 3.23GB
+  system: realme UI 1.0
+  version: RMX2103PU_11.A.25
+- changelog: |
     **Security**:
     ● Android security patch: September, 2020
     **Camera**:
@@ -1797,6 +1815,18 @@
   size: 2.17GB
   system: ColorOS 6.0
   version: CPH1861EX_11_C.49
+- changelog: |
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2103PU
+  date: 12/10/2020
+  device: realme 7i
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0250_all_TdAcO7xm4fBQ.ozip
+  md5: FF5E744E52692A2E47FFBC16AA34DAEB
+  region: Indonesia
+  size: 3.24GB
+  system: realme UI 1.0
+  version: RMX2103PU_11.A.25
 - changelog: |
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem

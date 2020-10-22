@@ -246,36 +246,26 @@
   version: RMX2040_11.A.27
 - changelog: |
     **Security**:
-    ● Android security patch: August, 2020
-    **realme Lab**:
-    ● Added Smooth scrolling feature
-    ● Added Super nighttime standby feature
-    ● Added DC dimming feature: Formerly known as Low-brightness flicker-free eye comfort
-    **Screenshot**:
-    ● Added auto scroll feature in scrolling screenshot
-    **Contact**:
-    ● Added new style profile photo of contacts
+    ● Updated Android security patch: September, 2020
+    **Applications**:
+    ● Added Soloop
     **Settings**:
-    ● Added Deep cleanup feature in Process Manager
-    ● Added return button in the screenshot preview interface
-    ● Optimized status bar viewing, added second display option
-    **Status Bar**:
-    ● Added OTG Switch toggle to notification panel
-    ● Added independent Switch toggles of focus mode
-    ● Optimized "Mute-Bell-Vibrate" icon state
-    **System**:
-    ● Added long press to uninstall apps directly in the app drawer
-    ● Supported split screen of third-party launcher
-    ● Fixed font display issue of charging animation
+    ● Optimized the responding speed when turing power saving mode on and off
+    **Networks**:
+    ● Fixed the probabilistic issue of unable to connect to 5G network when switching network modes
+    **Screenshot**:
+    ● Added Disable physical buttons in screenshot settings
+    ● Fixed the probabilistic overlap issue of scrolling screenshot
+    ● Fixed the layout issue when scrolling screenshot in screenshot settings after a horizontal screenshot
   codename: RMX2076PU
-  date: 1/9/2020
+  date: 30/9/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0350_all_5SW451mWJe0J.ozip
-  md5: ac237c7fe6468d42e012509786ba0bbb
+  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0370_all_RpgxkBIvkZCk.ozip
+  md5: 9eea35d2411bcd446fa4ea782141df75
   region: India
-  size: 3.78GB
+  size: 3.84GB
   system: realmeUI V1.0
-  version: RMX2076PU_11.A.35
+  version: RMX2076PU_11.A.37
 - changelog: |
     **Security**:
     ● Android security patch: September, 2020

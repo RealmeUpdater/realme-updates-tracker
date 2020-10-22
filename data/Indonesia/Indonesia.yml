@@ -52,6 +52,20 @@
   version: RMX2001_11.B.47
 - changelog: |
     **Keamanan**:
+    ● Tingkat Android Security Patch: September 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2076PU
+  date: 30/9/2020
+  device: realme X50 Pro 5G
+  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0370_all_RpgxkBIvkZCk.ozip
+  md5: 9eea35d2411bcd446fa4ea782141df75
+  region: Indonesia
+  size: 3.84GB
+  system: realme UI 1.0
+  version: RMX2076PU_11.A.37
+- changelog: |
+    **Keamanan**:
     ● Android security patch: Agustus 2020
     **Sistem**:
     ● Memperbaiki beberapa masalah dan meningkatkan stabilitas sistem.

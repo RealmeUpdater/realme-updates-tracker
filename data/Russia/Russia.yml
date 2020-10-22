@@ -1,4 +1,18 @@
 - changelog: |
+    **Безопасность**:
+    ● Патчи безопасности Android за август 2020
+    **Система**:
+    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
+  codename: RMX2061
+  date: 18/9/2020
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0330_all_euWtOh1hvBco.ozip
+  md5: E2CC792038804FEA9609B577CDF76F72
+  region: Russia
+  size: 3.41GB
+  system: realme UI 1.0
+  version: RMX2061_11.A.33
+- changelog: |
     **Безопасность:**:
     ● Добавлен патч безопасности Android на сентябрь 2020 г.
     **Система:**:
@@ -40,20 +54,6 @@
   size: 3.14GB
   system: realme UI 1.0
   version: RMX2001_11.B.47
-- changelog: |
-    **Безопасность**:
-    ● Патчи безопасности Android за август 2020
-    **Система**:
-    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
-  codename: RMX2061
-  date: 18/9/2020
-  device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0330_all_euWtOh1hvBco.ozip
-  md5: E2CC792038804FEA9609B577CDF76F72
-  region: Russia
-  size: 3.41GB
-  system: realme UI 1.0
-  version: RMX2061_11.A.33
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android:сентябрь 2020

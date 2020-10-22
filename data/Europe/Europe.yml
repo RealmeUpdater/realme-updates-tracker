@@ -62,39 +62,24 @@
   version: RMX2001EU_11.A.42
 - changelog: |
     **Security**:
-    ● Android Security Patch: June&July, 2020
-    **Status Bar**:
-    ● Added 5G Switch toggles of notification panel
-    **Game Space**:
-    ● Added Autoplay feature
+    ● Updated Android security patch: September, 2020
     **Settings**:
-    ● Optimized the transparency of swipe back gesture style
-    ● Optimized the default brightness adjustment mechanism in Power Saving Mode
-    ● Optimized the turn off automatically mechanism when charged in Power Saving Mode
-    **Bluetooth**:
-    ● Fixed the uneven volume change issue of the first few levels when connected to Bluetooth headset.
-    ● Fixed the lower volume issue when connected to Airpods/Enco Free
-    **Games**:
-    ● Optimized the power consumption issue of PUBG
-    ● Optimized the heating issue of games
-    **Notifications**:
-    ● Fixed the NFC file transfer ringing issue after changing NFC notification sound
-    **Network**:
-    ● Optimized the stability and performance of the network
-    **System**:
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    ● Optimized the issue that input methods are sometimes double clicked for one tap
-    ● Optimized the compatibility of third-party applications in Dark Mode
-    ● Fixed the issue that status bar occasionally flickers when switching the Dark Mode on
+    ● Optimized the responding speed when turing power saving mode on and off
+    **Networks**:
+    ● Fixed the probabilistic issue of unable to connect to 5G network when switching network modes
+    **Screenshot**:
+    ● Added Disable physical buttons in screenshot settings
+    ● Fixed the probabilistic overlap issue of scrolling screenshot
+    ● Fixed the layout issue when scrolling screenshot in screenshot settings after a horizontal screenshot
   codename: RMX2076EU
-  date: 28/7/2020
+  date: 30/9/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0280_all_c77smiCeQgvF.ozip
-  md5: fff28d372a62572dcc134b5fd7b52453
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0340_all_9OA7Ie7Rs6gg.ozip
+  md5: ' C887C801E4CDD2E9CD60124C89B4D4BF'
   region: Europe
   size: 3.60GB
   system: realmeUI V1.0
-  version: RMX2076EU_11.A.28
+  version: RMX2076EU_11.A.34
 - changelog: |
     **Security**:
     ● Android security patch: September, 2020
@@ -208,31 +193,6 @@
   version: RMX2030EU_11.C.44
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Settings**:
-    ● Added rotate the guide bars with screen switch in navigation button
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    **Status Bar**:
-    ● Optimized the battery icon display while charging
-    ● Fixed the status bar not displaying Wi-Fi icon issue in special situations
-    **System**:
-    ● Optimized the power cunsumption of third party apps
-    **Games**:
-    ● Fixed the black screen issue when switch to PUBG from recent interface
-    **Camera**:
-    ● Optimized the shooting quality in night mode
-    ● Fixed the photo greenish issue when shooting with flash on in special situations
-  codename: RMX1911EU
-  date: 30/7/2020
-  device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
-  md5: 2917117D84E22769564A5C61959B9CB5
-  region: Europe
-  size: 2.57GB
-  system: realme UI 1.0
-  version: RMX1911EU_11.C.44
-- changelog: |
-    **Security**:
     ● Updated Android security patch: September, 2020
     **Applications**:
     ● Added Soloop
@@ -258,30 +218,6 @@
   size: 3.03GB
   system: realme UI 1.0
   version: RMX1931EX_11.C.32
-- changelog: |
-    **Security**:
-    ● Updated Android security patch: September, 2020
-    **Settings**:
-    ● Optimized the user experience of Wi-Fi settings
-    **Notifications & status bar**:
-    ● Fixed the probabilistic issue of unable to redirect after clicking the notifications in the notification drawer
-    ● Fixed the flickering icons on the status bar
-    **Lockscreen**:
-    ● Fixed the probabilistic screen flicker when waking the screen
-    **Camera**:
-    ● Fixed the probabilistic image distortion of camera preview
-    **System**:
-    ● Fixed the probabilistic issues that icons are not displayed and cannot swipe between screens in some scenarios
-    ● Fixed the probabilistic lagging issue while entering the recent tasks
-  codename: RMX1993EX
-  date: 27/9/2020
-  device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1080_all_Gr2IwxeFFRaQ.ozip
-  md5: 765A8F45E665A8CCDB297A1DE7B8695A
-  region: Europe
-  size: 3.08GB
-  system: realme UI 1.0
-  version: RMX1993EX_11.C.08
 - changelog: |
     **Security**:
     ● Android Security Patch: September, 2020
@@ -319,6 +255,55 @@
   size: 3.22GB
   system: realme UI 1.0
   version: RMX1971EX_11.C.07
+- changelog: |
+    **Security**:
+    ● Android Security Patch: July, 2020
+    **Settings**:
+    ● Added rotate the guide bars with screen switch in navigation button
+    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    **Status Bar**:
+    ● Optimized the battery icon display while charging
+    ● Fixed the status bar not displaying Wi-Fi icon issue in special situations
+    **System**:
+    ● Optimized the power cunsumption of third party apps
+    **Games**:
+    ● Fixed the black screen issue when switch to PUBG from recent interface
+    **Camera**:
+    ● Optimized the shooting quality in night mode
+    ● Fixed the photo greenish issue when shooting with flash on in special situations
+  codename: RMX1911EU
+  date: 30/7/2020
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
+  md5: 2917117D84E22769564A5C61959B9CB5
+  region: Europe
+  size: 2.57GB
+  system: realme UI 1.0
+  version: RMX1911EU_11.C.44
+- changelog: |
+    **Security**:
+    ● Updated Android security patch: September, 2020
+    **Settings**:
+    ● Optimized the user experience of Wi-Fi settings
+    **Notifications & status bar**:
+    ● Fixed the probabilistic issue of unable to redirect after clicking the notifications in the notification drawer
+    ● Fixed the flickering icons on the status bar
+    **Lockscreen**:
+    ● Fixed the probabilistic screen flicker when waking the screen
+    **Camera**:
+    ● Fixed the probabilistic image distortion of camera preview
+    **System**:
+    ● Fixed the probabilistic issues that icons are not displayed and cannot swipe between screens in some scenarios
+    ● Fixed the probabilistic lagging issue while entering the recent tasks
+  codename: RMX1993EX
+  date: 27/9/2020
+  device: realme X2
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1080_all_Gr2IwxeFFRaQ.ozip
+  md5: 765A8F45E665A8CCDB297A1DE7B8695A
+  region: Europe
+  size: 3.08GB
+  system: realme UI 1.0
+  version: RMX1993EX_11.C.08
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020

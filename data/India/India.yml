@@ -1,21 +1,17 @@
 - changelog: |
-    **System**:
-    ● Optimized the noise issue of phone calls in some scenarios
-    ● Optimized the power consumption of night standby
-    ● Fixed the display issue of video call interface in some scenarios
-    **Camera**:
-    ● Added Night mode for the front camera
-    ● Added HDR for Portrait mode and improved the dynamic performance of the preview in against-light condition
-    ● Added Ultra Steady mode for the front camera in Video mode
+    **Audio**:
+    ● Fixed the issue of muted voice channel while gaming
+    ● Fixed the issue of muted voice calls
+    ● Fixed the probabilistic issue of muted speakers
   codename: RMX2103PU
-  date: 12/10/2020
+  date: 22/10/2020
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0250_all_TdAcO7xm4fBQ.ozip
-  md5: FF5E744E52692A2E47FFBC16AA34DAEB
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0270_all_J987EmtBX99C.ozip
+  md5: 2A61547CD620BA3ACC742AFC603FA793
   region: India
-  size: 3.23GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.25
+  version: RMX2103PU_11.A.27
 - changelog: |
     **Security**:
     ● Android security patch: September, 2020
@@ -326,50 +322,17 @@
   system: realme UI V1.0
   version: RMX2020_11.A.43
 - changelog: |
-    **Security**:
-    ● Android Security Patch: August and September , 2020
-    **realme Lab**:
-    ● Added Super nighttime standby feature
-    ● Added DC dimming feature: Formerly known as Low-brightness flicker-free eye
-    **Applications**:
-    ● Added Soloop app
-    **Settings**:
-    ● Added Deep cleanup feature in Process Manager
-    ● Added return button in the screenshot preview interface
-    ● Added long press to copy IMEI in the status information interface
-    ● Added automatic download option for app updates when connected to Wi-Fi
-    ● Added time display options for the status bar
-    ● Added shortcuts at the bottom of Settings
-    ● Added Multi-user feature
-    ● Added Super Power Saving Mode
-    ● Added Icon Pull-down gesture feature in launcher settings
-    ● Added auto scroll feature in scrolling screenshot
-    ● Optimized the logic of connection in the WLAN setting interface
-    **Status Bar**:
-    ● Added OTG Switch toggle to notification panel
-    ● Added independent Switch toggles of focus mode
-    ● Optimized viewing for system update prompt pop-up window
-    ● Optimized ""Mute-Bell-Vibrate"" icon state
-    ● Fixed the probabilistic notification fail to redirect issue
-    **Lock screen**:
-    ● Fixed font display issue of charging animation
-    ● Fixed the probabilistic flickering issue while waking the screen
-    **Camera**:
-    **Fixed the probabilistic camera shake issue in some scenarios**:
     **System**:
-    ● Added the feature of long press the icon to uninstall the app in the drawer mode
-    ● Added sweeping effect for the icon of newly installed App
-    ● Fixed the probabilistic issue that icons are not displayed and cannot slide in some scenarios
-    ● Fixed the probabilistic lagging issue while calling up the recent apps
+    ● Fixed the probabilistic issue that brightness drop to the minimum under a strong light source
   codename: RMX1992EX
-  date: 21/9/2020
+  date: 21/10/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1120_all_q0JbmUQCPRSc.ozip
+  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1130_all_FIJ8DkW9wLrw.ozip
   md5: B4BB1A1E6F52CD847080577B65EAF21F
   region: India
-  size: 3.12GB
+  size: 3.11GB
   system: realme UI 1.0
-  version: RMX1992EX_11.C.12
+  version: RMX1992EX_11.C.13
 - changelog: |
     **System**:
     ● Fixed the probabilistic issue that brightness drop to the minimum under a strong light source

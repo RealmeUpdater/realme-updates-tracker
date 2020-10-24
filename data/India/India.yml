@@ -664,17 +664,32 @@
     **And operate on following path: settings ---- ""developer options ----"" camera HAL3, and then restart the phone;**:
     **We had found a version with better compatibility for 2 Pro. It is recommended to download and install the following apk link:**:
     **https://drive.google.com/file/d/1x9xwQCNy1jPEbLkV0HLPf2HKPT3nm59T/view?usp=sharin**:
-    **Bug fixed**:
-    ● Fixed the issue that the hidden Apps are inaccessible
+    **Security**:
+    ● Updated Android security patch: September/October, 2020
+    **Quick Settings**:
+    ● Added Focus mode shortcut
+    **realme Lab**:
+    ● Added Smooth scrolling
+    ● Added Super nighttime standby
+    **Applications**:
+    ● Added Soloop
+    **Game Space**:
+    ● Optimized the default settings of the brightness lock
+    **Settings**:
+    ● Added schedule time feature for Eye comfort
+    ● Added settings for default audio input devices
+    ● Added toggle for physical button screenshot in screenshot settings
+    ● Added toggle for display keyboard when entering app drawer
+    ● Optimized the customized resolution and bitrate settings of Screen recording
   codename: RMX1801EX
-  date: 3/9/2020
+  date: 23/10/2020
   device: realme 2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_2110_all_MVAN5ZsLvcJu.ozip
-  md5: BFA4E2A5D38F37C06390AB4078B7B7FC
+  download: https://download.c.realme.com/osupdate/RMX1801EX_11_OTA_2120_all_4q5L63MjpxAp.ozip
+  md5: 993AEF308DCA94E8B5E33C003342DD95
   region: India
-  size: 2.97GB
+  size: 3.04GB
   system: realme UI V1.0
-  version: RMX1801EX_11.F.11
+  version: RMX1801EX_11.F.12
 - changelog: |
     **Security**:
     ● Android Security Patch: August and September, 2020

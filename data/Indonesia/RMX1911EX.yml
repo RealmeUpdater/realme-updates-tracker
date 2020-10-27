@@ -1,14 +1,14 @@
 changelog: |
   **Keamanan**:
-  ● Tingkat Android Security Patch: Juli 2020
+  ● Android security patch: Oktober 2020
   **Sistem**:
   ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
 codename: RMX1911EX
-date: 30/7/2020
+date: 24/10/2020
 device: realme 5
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
-md5: ECD77B77782391E39022B9684212EEF5
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1590_all_XV8JSgA7anIh.ozip
+md5: F959AF54E52C75E56B6C5ABF22BC4279
 region: Indonesia
-size: 2.84GB
+size: 2.93GB
 system: realme UI 1.0
-version: RMX1911EX_11.C.53
+version: RMX1911EX_11.C.59

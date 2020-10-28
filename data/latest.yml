@@ -940,29 +940,18 @@
   version: RMX1971EX_11.C.07
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Settings**:
-    ● Added rotate the guide bars with screen switch in navigation button
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    **Status Bar**:
-    ● Optimized the battery icon display while charging
-    ● Fixed the status bar not displaying Wi-Fi icon issue in special situations
+    ● Android Security Patch: September and October , 2020
     **System**:
-    ● Optimized the power cunsumption of third party apps
-    **Games**:
-    ● Fixed the black screen issue when switch to PUBG from recent interface
-    **Camera**:
-    ● Optimized the shooting quality in night mode
-    ● Fixed the photo greenish issue when shooting with flash on in special situations
+    ● Optimized the system performance and improved system stability
   codename: RMX1911EU
-  date: 30/7/2020
+  date: 24/10/2020
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
-  md5: 2917117D84E22769564A5C61959B9CB5
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1520_all_5JNnEftoRGum.ozip
+  md5: EB789057A6B6E1C067FE87B4DCB5CC95
   region: Europe
-  size: 2.57GB
+  size: 2.61GB
   system: realme UI 1.0
-  version: RMX1911EU_11.C.44
+  version: RMX1911EU_11.C.52
 - changelog: |
     **Security**:
     ● Updated Android security patch: September, 2020

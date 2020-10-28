@@ -1,0 +1,17 @@
+changelog: |
+  **Security**:
+  ● Android security patch: October, 2020
+  **Camera**:
+  ● Optimized the front camera effect
+  ● Fixed the probabilistic overexposure issue when taking photos backlight in front Portrait mode
+  **System**:
+  ● Fixed the screen going off issue at incoming phone calls
+codename: RMX2191
+date: 28/10/2020
+device: realme narzo 20
+download: https://download.c.realme.com/osupdate/RMX2191_11_OTA_0170_all_aYmFXMzMsSS0.ozip
+md5: 5864B28FB9A3545FB3C065444824A6F1
+region: India
+size: 3.26GB
+system: realme UI 1.0
+version: RMX2191_11_A.17

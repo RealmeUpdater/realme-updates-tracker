@@ -1,14 +1,14 @@
 changelog: |
   **Security**:
-  ● Android security patch: May, 2020
+  ● Android Security Patch: September and October , 2020
   **System**:
-  ● Fixed some general bugs and improved system stability
+  ● Optimized the system performance and improved system stability
 codename: RMX1911EX
-date: 19/5/2020
+date: 24/10/2020
 device: realme 5
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0290_all_pzrJthV2sMxl.ozip
-md5: 347fcbcc4d0024b9fd57e253f6b7147a
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1590_all_XV8JSgA7anIh.ozip
+md5: F959AF54E52C75E56B6C5ABF22BC4279
 region: Pakistan
-size: 2.59GB
-system: ColorOS 6.0.1
-version: RMX1911EX_11_A.29
+size: 2.93GB
+system: realme UI 1.0
+version: RMX1911EX_11.C.59

@@ -587,18 +587,18 @@
   version: RMX2040EU_11.A.24
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: julio 2020
+    ● Actualizados los parches de seguridad de Google: Octubre 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2030EU
-  date: 30/7/2020
+  date: 24/10/2020
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
-  md5: 2917117D84E22769564A5C61959B9CB5
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1520_all_5JNnEftoRGum.ozip
+  md5: EB789057A6B6E1C067FE87B4DCB5CC95
   region: Spain
-  size: 2.57GB
+  size: 2.61GB
   system: realme UI 1.0
-  version: RMX2030EU_11.C.44
+  version: RMX2030EU_11.C.52
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: mayo de 2020
@@ -641,18 +641,18 @@
   version: RMX1971EX_11.C.07
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: julio 2020
+    ● Actualizados los parches de seguridad de Google: Octubre 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1911EU
-  date: 30/7/2020
+  date: 24/10/2020
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
-  md5: 2917117D84E22769564A5C61959B9CB5
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1520_all_5JNnEftoRGum.ozip
+  md5: EB789057A6B6E1C067FE87B4DCB5CC95
   region: Spain
-  size: 2.57GB
+  size: 2.61GB
   system: realme UI 1.0
-  version: RMX1911EU_11.C.44
+  version: RMX1911EU_11.C.52
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android(2020#9)
@@ -2134,33 +2134,6 @@
   version: RMX2081PU_11.A.43
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Language**:
-    ● Added system language: Serbian
-    **System**:
-    ● Optimized the speed of the App Startup from the recent apps
-    ● Optimized the speed of application installation
-    ● Fixed the issue that the phone cannot be woken up by pressing the power button
-    **Fingerprint**:
-    ● Optimized fingerprint recognition rate
-    **Status Bar**:
-    ● Optimized the display of battery icon when charging
-    **Camera**:
-    ● Optimized the speed of camera cold start
-    **Phone**:
-    ● Fixed the issue that non-emergency numbers are incorrectly displayed
-    ● Fixed the probabilistic issue that unable to make a conference call
-  codename: RMX2040
-  date: 15/8/2020
-  device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0270_all_7RxCwaEdCEFb.ozip
-  md5: 13151EBB7288ADE5F9903D805AE8AD6C
-  region: Pakistan
-  size: 2.83GB
-  system: realme UI 1.0
-  version: RMX2040_11.A.27
-- changelog: |
-    **Security**:
     ● Android Security Patch: August 2020
     **realme Lab**:
     ● Added the Super nighttime standby feature
@@ -2220,6 +2193,33 @@
     ● Optimized the speed of the App Startup from the recent apps
     ● Optimized the speed of application installation
     ● Fixed the issue that the phone cannot be woken up by pressing the power button
+    **Fingerprint**:
+    ● Optimized fingerprint recognition rate
+    **Status Bar**:
+    ● Optimized the display of battery icon when charging
+    **Camera**:
+    ● Optimized the speed of camera cold start
+    **Phone**:
+    ● Fixed the issue that non-emergency numbers are incorrectly displayed
+    ● Fixed the probabilistic issue that unable to make a conference call
+  codename: RMX2040
+  date: 15/8/2020
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0270_all_7RxCwaEdCEFb.ozip
+  md5: 13151EBB7288ADE5F9903D805AE8AD6C
+  region: Pakistan
+  size: 2.83GB
+  system: realme UI 1.0
+  version: RMX2040_11.A.27
+- changelog: |
+    **Security**:
+    ● Android Security Patch: July, 2020
+    **Language**:
+    ● Added system language: Serbian
+    **System**:
+    ● Optimized the speed of the App Startup from the recent apps
+    ● Optimized the speed of application installation
+    ● Fixed the issue that the phone cannot be woken up by pressing the power button
     **Status Bar**:
     ● Optimized the display of battery icon when charging
     **Camera**:
@@ -2238,20 +2238,18 @@
   version: RMX2020_11.A.39
 - changelog: |
     **Security**:
-    ● Android security patch: April, 2020
-    **Camera**:
-    ● Optimized color performance of front camera while using third-party
-    **applications**:
-    ● Optimized clarity of front camera while night environment
+    ● Android Security Patch: September and October , 2020
+    **System**:
+    ● Optimized the system performance and improved system stability
   codename: RMX2030EX
-  date: 24/4/2020
+  date: 24/10/2020
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0190_all_nrdKBLRr60zb.ozip
-  md5: 757954ADC548EBCE5B5A017F1EFE364D
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1590_all_XV8JSgA7anIh.ozip
+  md5: F959AF54E52C75E56B6C5ABF22BC4279
   region: Pakistan
-  size: 2.6GB
-  system: ColorOS 6.0
-  version: RMX2030EX_11_A.19
+  size: 2.93GB
+  system: realme UI 1.0
+  version: RMX2030EX_11_A.59
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020
@@ -2298,43 +2296,32 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Settings**:
-    ● Added rotate the guide bars with screen switch in navigation button
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    **Status Bar**:
-    ● Optimized the battery icon display while charging
-    ● Fixed the status bar not displaying Wi-Fi icon issue in special situations
+    ● Android Security Patch: September and October , 2020
     **System**:
-    ● Optimized the power cunsumption of third party apps
-    **Games**:
-    ● Fixed the black screen issue when switch to PUBG from recent interface
-    **Camera**:
-    ● Optimized the shooting quality in night mode
-    ● Fixed the photo greenish issue when shooting with flash on in special situations
+    ● Optimized the system performance and improved system stability
   codename: RMX1911EX
-  date: 30/7/2020
+  date: 24/10/2020
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
-  md5: ECD77B77782391E39022B9684212EEF5
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1590_all_XV8JSgA7anIh.ozip
+  md5: F959AF54E52C75E56B6C5ABF22BC4279
   region: Pakistan
   size: 2.84GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.53
+  version: RMX1911EX_11.C.59
 - changelog: |
     **Security**:
-    ● Android security patch: May, 2020
+    ● Android Security Patch: September and October , 2020
     **System**:
-    ● Fixed some general bugs and improved system stability
+    ● Optimized the system performance and improved system stability
   codename: RMX1911EX
-  date: 19/5/2020
+  date: 24/10/2020
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_0290_all_pzrJthV2sMxl.ozip
-  md5: 347fcbcc4d0024b9fd57e253f6b7147a
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1590_all_XV8JSgA7anIh.ozip
+  md5: F959AF54E52C75E56B6C5ABF22BC4279
   region: Pakistan
-  size: 2.59GB
-  system: ColorOS 6.0.1
-  version: RMX1911EX_11_A.29
+  size: 2.93GB
+  system: realme UI 1.0
+  version: RMX1911EX_11.C.59
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020
@@ -2580,18 +2567,18 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: июль 2020
+    ● Патчи безопасности Android: октябрь 2020
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1911EX
-  date: 30/7/2020
+  date: 24/10/2020
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1530_all_zepXuiTwB8gV.ozip
-  md5: ECD77B77782391E39022B9684212EEF5
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1590_all_XV8JSgA7anIh.ozip
+  md5: F959AF54E52C75E56B6C5ABF22BC4279
   region: Russia
-  size: 2.84GB
+  size: 2.93GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.53
+  version: RMX1911EX_11.C.59
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android: июль 2020

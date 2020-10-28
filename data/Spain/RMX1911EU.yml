@@ -1,14 +1,14 @@
 changelog: |
   **Seguridad**:
-  ● Parche de seguridad de Android: julio 2020
+  ● Actualizados los parches de seguridad de Google: Octubre 2020
   **Sistema**:
   ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
 codename: RMX1911EU
-date: 30/7/2020
+date: 24/10/2020
 device: realme 5
-download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip
-md5: 2917117D84E22769564A5C61959B9CB5
+download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1520_all_5JNnEftoRGum.ozip
+md5: EB789057A6B6E1C067FE87B4DCB5CC95
 region: Spain
-size: 2.57GB
+size: 2.61GB
 system: realme UI 1.0
-version: RMX1911EU_11.C.44
+version: RMX1911EU_11.C.52

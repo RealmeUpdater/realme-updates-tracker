@@ -1044,29 +1044,51 @@
   system: realme UI 1.0
   version: RMX2050EX_11_A.15
 - changelog: |
+    **Security**:
+    ● Updated Android security patch: October, 2020
+    **Camera**:
+    ● Optimized the image noise in the Portrait mode of the front camera
+    ● Optimized the image clarity of the front camera
+    ● Optimized the overexposure issue of the front camera
+    ● Optimized the image clarity of the rear camera
+    ● Optimized the image contrast of the rear camera in outdoor scenarios
+    **Touch**:
+    ● Optimized touch control algorithm and improved touch control experience
     **System**:
-    ● Fixed the probabilistic screen flickering issue at a low screen brightness level
+    ● Improved system fluency
+    ● Fixed the probabilistic screen flicker at a low screen brightness level
   codename: RMX2151PU
-  date: 16/10/2020
+  date: 29/10/2020
   device: realme narzo 20 Pro
-  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0610_all_paZ4XXTxvBoR.ozip
-  md5: BC5E09CFDAB1A5F322F03F9CF0E988F2
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0630_all_8Jo2FUPaLF74.ozip
+  md5: ED2A53CA9155B9BD587DA787DDC6B807
   region: India
-  size: 3.33GB
+  size: 3.34GB
   system: realme UI V1.0
-  version: RMX2151PU_11.A.61
+  version: RMX2151PU_11.A.63
 - changelog: |
+    **Security**:
+    ● Updated Android security patch: October, 2020
+    **Camera**:
+    ● Optimized the image noise in the Portrait mode of the front camera
+    ● Optimized the image clarity of the front camera
+    ● Optimized the overexposure issue of the front camera
+    ● Optimized the image clarity of the rear camera
+    ● Optimized the image contrast of the rear camera in outdoor scenarios
+    **Touch**:
+    ● Optimized touch control algorithm and improved touch control experience
     **System**:
-    ● Fixed the probabilistic screen flickering issue at a low screen brightness level
+    ● Improved system fluency
+    ● Fixed the probabilistic screen flicker at a low screen brightness level
   codename: RMX2151PU
-  date: 16/10/2020
+  date: 29/10/2020
   device: realme 7
-  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0610_all_paZ4XXTxvBoR.ozip
-  md5: BC5E09CFDAB1A5F322F03F9CF0E988F2
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0630_all_8Jo2FUPaLF74.ozip
+  md5: ED2A53CA9155B9BD587DA787DDC6B807
   region: India
-  size: 3.33GB
+  size: 3.34GB
   system: realme UI V1.0
-  version: RMX2151PU_11.A.61
+  version: RMX2151PU_11.A.63
 - changelog: |
     **Camera**:
     ● Optimized the front camera effect of portrait mode when against the light

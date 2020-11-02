@@ -1,4 +1,25 @@
 - changelog: |
+    **网络**:
+    ● 优化 网络性能，提升上网体验
+    **相机**:
+    ● 优化 前置相机拍照成像效果
+    ● 优化 后置相机在多种复杂场景下拍照的成像效果
+    **系统**:
+    ● 优化 系统性能，提升系统稳定性
+    ● 修复 极端场景下极小概率死机问题
+    ● 修复 特殊场景下极小概率屏幕闪烁问题
+    **安全**:
+    ● 更新 Android安全补丁（2020#10）
+  codename: RMX2173
+  date: 30/10/2020
+  device: realme Q2 Pro
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0160_all_IsvMFDgApPVb.ozip
+  md5: 53A31055A2C58A37A3DA6889870E8DCB
+  region: China
+  size: 3.04GB
+  system: realme UI V1.0
+  version: RMX2173_11.A.16
+- changelog: |
     **NFC**:
     ● 新增 支持NFC与SD卡传输功能
     **相机**:

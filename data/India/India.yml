@@ -755,16 +755,16 @@
   version: RMX1805EX_11.A.70
 - changelog: |
     **Security**:
-    ● Android security patch: May, 2020
+    ● Android Security Patch: September, 2020
     **System**:
-    ● Fixed some known bugs, and improved system stability
+    ● Optimized the system performance and improved system stability
     * Android version: Android 9.0
   codename: CPH1861EX
-  date: 23/5/2020
+  date: 28/10/2020
   device: realme 1
-  download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0490_all_sWtP8RDIvyoU.ozip
-  md5: dea5caac0705d8282e6ce515a7d3495f
+  download: https://download.c.realme.com/osupdate/CPH1861EX_11_OTA_0500_all_fLuS0Ipoe93t.ozip
+  md5: A9A39F39D479AACD51475CAD7A04DA17
   region: India
-  size: 2.17GB
+  size: 2.19GB
   system: ColorOS 6.0
-  version: CPH1861EX_11_C.49
+  version: CPH1861EX_11.C.50

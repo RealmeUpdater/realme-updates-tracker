@@ -1,5 +1,48 @@
 - changelog: |
     **Security**:
+    ● Updated Android security patch: October, 2020
+    **Camera**:
+    ● Optimized the overexposure of the front camera
+    ● Optimized the color shifts of the rear camera
+    ● Optimized the dynamic range of the rear camera in 64M mode
+    **System**:
+    ● Optimized the minimum brightness when playing videos
+    ● Fixed the probabilistic issue that the screen dims after fingerprint unlock in outdoor scenarios
+    ● Fixed the probabilistic issue of unable to fast charge in some scenarios
+  codename: RMX2170EU
+  date: 18/10/2020
+  device: realme 7 Pro
+  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0180_all_NcxvqYv2oAKe.ozip
+  md5: 68BAE5285787F12AEA217EC610429046
+  region: Europe
+  size: 3.49GB
+  system: realme UI V1.0
+  version: RMX2170EU_11.A.18
+- changelog: |
+    **Security**:
+    ● Updated Android security patch: October, 2020
+    **Camera**:
+    ● Optimized the image noise in the Portrait mode of the front camera
+    ● Optimized the image clarity of the front camera
+    ● Optimized the overexposure issue of the front camera
+    ● Optimized the image clarity of the rear camera
+    ● Optimized the image contrast of the rear camera in outdoor scenarios
+    **Touch**:
+    ● Optimized touch control algorithm and improved touch control experience
+    **System**:
+    ● Improved system fluency
+    ● Fixed the probabilistic screen flicker at a low screen brightness level
+  codename: RMX2151EU
+  date: 31/10/2020
+  device: realme 7
+  download: https://download.c.realme.com/osupdate/RMX2151EU_11_OTA_0620_all_thCT6NlqrMeq.ozip
+  md5: 1E82B0F376195D25E294EF8A332607EC
+  region: Europe
+  size: 3.03GB
+  system: realme UI V1.0
+  version: RMX2151EU_11.A.62
+- changelog: |
+    **Security**:
     ● Android Security Patch: July, 2020
     **Settings**:
     ● Added performance mode feature in battery settings
@@ -168,29 +211,18 @@
   version: RMX2020EU_11.A.36
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Settings**:
-    ● Added rotate the guide bars with screen switch in navigation button
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    **Status Bar**:
-    ● Optimized the battery icon display while charging
-    ● Fixed the status bar not displaying Wi-Fi icon issue in special situations
+    ● Android Security Patch: September and October , 2020
     **System**:
-    ● Optimized the power cunsumption of third party apps
-    **Games**:
-    ● Fixed the black screen issue when switch to PUBG from recent interface
-    **Camera**:
-    ● Optimized the shooting quality in night mode
-    ● Fixed the photo greenish issue when shooting with flash on in special situations
+    ● Optimized the system performance and improved system stability
   codename: RMX2030EU
-  date: 30/7/2020
+  date: 24/10/2020
   device: realme 5i
-  download: ' https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1440_all_f8AXwPbeYsQq.ozip'
-  md5: 2917117D84E22769564A5C61959B9CB5
+  download: ' https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1520_all_5JNnEftoRGum.ozip'
+  md5: EB789057A6B6E1C067FE87B4DCB5CC95
   region: Europe
-  size: 2.57GB
+  size: 2.61GB
   system: realme UI 1.0
-  version: RMX2030EU_11.C.44
+  version: RMX2030EU_11.C.52
 - changelog: |
     **Security**:
     ● Updated Android security patch: September, 2020

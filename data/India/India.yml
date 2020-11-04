@@ -394,31 +394,28 @@
   version: RMX1992AEX_11.C.13
 - changelog: |
     **Security**:
-    ● Updated Android security patch: September, 2020
-    **Applications**:
-    ● Added Soloop
-    **File Manager**:
-    ● Fixed the probabilistic crashing issue when renaming
+    ● Android security patch: October, 2020
     **Settings**:
-    ● Fixed the display issue of the battery icon in the status bar while switching to Super power saving mode
-    ● Fixed the probabilistic issue of unable to turn down the brightness after turning on the Power saving mode
-    **Multi-user**:
-    ● Fixed the missing prompt window when swiping upward to exit in horizontal-screen games
-    **Gaming**:
-    ● Fixed the noise issue in Marvel Contest of Champion
-    **System**:
-    ● Fixed the probabilistic restart issue caused by network stuck
-    ● Fixed the probabilistic noise issue of Whatsapp when playing voice messages in the background
-    ● Fixed the probabilistic issue that the fingerprint pattern is displayed when using Face unlock to enter the locked apps
+    ● Added toggle for system icons in Status bar
+    ● Added From Sunset to Sunrise toggle for eye comfort
+    ● Added toggle for display keyboard when entering app drawer
+    **Game Space**:
+    ● Optimized the logic of the default state of the Brightness lock
+    **Network**:
+    ● Fixed the network connection loss in some scenarios
+    **Album**:
+    ● Fixed the probabilistic screen flicker when entering the album
+    **Status bar**:
+    ● Fixed the display issue of the seconds display of time
   codename: RMX1931EX
-  date: 23/9/2020
+  date: 3/11/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1320_all_L8f64TYO0FSW.ozip
-  md5: 107b907a343da4c722507c15d83e03e1
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1330_all_vezkaSHtBL6K.ozip
+  md5: 0780ebfeb0ec1855cc8d23c20356ba95
   region: India
-  size: 3.03GB
+  size: 3.04GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.32
+  version: RMX1931EX_11.C.33
 - changelog: |
     **Security**:
     ● Android Security Patch: September, 2020

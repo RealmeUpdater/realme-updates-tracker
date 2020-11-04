@@ -67,30 +67,6 @@
   system: realme UI V1.0
   version: RMX2200_11_A.10
 - changelog: |
-    **设置**:
-    ● 新增 状态栏图标管理功能
-    ● 修复 状态栏图标中多余开关显示的问题
-    **相机**:
-    ● 优化 超级夜景模式亮度
-    ● 优化 超级夜景模式算法
-    ● 优化 闪光灯暗角效果
-    ● 优化 4K视频/60fps视频清晰度
-    ● 优化 后置相机室外HDR逆光场景下人脸效果
-    ● 优化 广角相机超级防抖MAX在晃动场景下的成像效果
-    ● 修复 闪光灯部分场景下偏红问题
-    ● 修复 前置相机在部分低色温场景下预览界面偏黄的问题
-    **安全**:
-    ● 更新 Android安全补丁（2020#10）
-  codename: RMX2111
-  date: 30/10/2020
-  device: realme  V5 5G
-  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0160_all_beZRdCTHtZIP.ozip
-  md5: D772F4EF451D4036A0A094F31CE11E98
-  region: China
-  size: 3.03GB
-  system: realme UI V1.0
-  version: RMX2111_11.A.16
-- changelog: |
     **网络**:
     ● 优化 网络性能，提升上网体验
     **相机**:

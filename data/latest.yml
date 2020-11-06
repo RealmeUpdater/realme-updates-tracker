@@ -1119,18 +1119,19 @@
   version: RMX2151PU_11.A.63
 - changelog: |
     **Camera**:
-    ● Optimized the front camera effect of portrait mode when against the light
+    ● Optimized the color effect of photos taken with the rear camera
+    ● Fixed color shift issue of the front camera
     **System**:
-    ● Fixed the issue that Dual-Mode Audio does not support USB Headset
+    ● Fixed some known issues and improved system stability.
   codename: RMX2170PU
-  date: 23/9/2020
+  date: 4/11/2020
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0150_all_LjDyecArrfXD.ozip
-  md5: 26C6713AC593D577373FF9BEF2669F96
+  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0190_all_iUmaVviSRBFO.ozip
+  md5: FB33C22C60D897A82B95AC92EB348250
   region: India
-  size: 3.74GB
+  size: 3.79GB
   system: realme UI 1.0
-  version: RMX2170PU_11_A.15
+  version: RMX2170PU_11.A.19
 - changelog: |
     **Security**:
     ● Android Security Patch: September, 2020

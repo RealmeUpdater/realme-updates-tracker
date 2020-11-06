@@ -1,4 +1,18 @@
 - changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: Tháng 10 năm 2020
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2103PU
+  date: 3/11/2020
+  device: realme 7i
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0290_all_T7h4k2mGD2oX.ozip
+  md5: 1ED3DB0156EFB89EC3AE6C46569DA273
+  region: Vietnam
+  size: 3.24GB
+  system: realme UI 1.0
+  version: RMX2103PU_11.A.29
+- changelog: |
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2185

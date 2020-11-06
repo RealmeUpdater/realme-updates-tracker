@@ -1795,17 +1795,19 @@
   system: ColorOS 6.0
   version: CPH1861EX_11.C.50
 - changelog: |
+    **Keamanan**:
+    ● Android security patch: Oktober 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2103PU
-  date: 12/10/2020
+  date: 3/11/2020
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0250_all_TdAcO7xm4fBQ.ozip
-  md5: FF5E744E52692A2E47FFBC16AA34DAEB
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0290_all_T7h4k2mGD2oX.ozip
+  md5: 1ED3DB0156EFB89EC3AE6C46569DA273
   region: Indonesia
   size: 3.24GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.25
+  version: RMX2103PU_11.A.29
 - changelog: |
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
@@ -2785,6 +2787,20 @@
   size: 2.01GB
   system: ColorOS 6.0
   version: RMX1941EX_11.A.28
+- changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: Tháng 10 năm 2020
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2103PU
+  date: 3/11/2020
+  device: realme 7i
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0290_all_T7h4k2mGD2oX.ozip
+  md5: 1ED3DB0156EFB89EC3AE6C46569DA273
+  region: Vietnam
+  size: 3.24GB
+  system: realme UI 1.0
+  version: RMX2103PU_11.A.29
 - changelog: |
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống

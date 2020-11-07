@@ -1,19 +1,5 @@
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android:octubre de 2020
-    **Sistema**:
-    ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
-  codename: RMX2151EU
-  date: 31/10/2020
-  device: realme 7
-  download: https://download.c.realme.com/osupdate/RMX2151EU_11_OTA_0620_all_thCT6NlqrMeq.ozip
-  md5: 1E82B0F376195D25E294EF8A332607EC
-  region: Spain
-  size: 3.03GB
-  system: realme UI V1.0
-  version: RMX2151EU_11.A.62
-- changelog: |
-    **Seguridad**:
     ● Parche de seguridad de Android（2020#7）
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema

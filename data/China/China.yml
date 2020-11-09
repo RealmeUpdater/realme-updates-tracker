@@ -1,24 +1,22 @@
 - changelog: |
     **网络**:
     ● 优化 网络性能，提升上网体验
-    **相机**:
-    ● 优化 前置相机拍照成像效果
-    ● 优化 后置相机在多种复杂场景下拍照的成像效果
     **系统**:
     ● 优化 系统性能，提升系统稳定性
+    ● 修复 连接充电器场景下小概率出现前后摄像头切换过慢的问题
     ● 修复 极端场景下极小概率死机问题
-    ● 修复 特殊场景下极小概率屏幕闪烁问题
-    **安全**:
-    ● 更新 Android安全补丁（2020#10）
+    ● 修复 极端场景下极小概率快充失效问题
+    **三方应用**:
+    ● 修复 支付宝极小概率出现计步异常现象
   codename: RMX2173
-  date: 30/10/2020
+  date: 07/11/2020
   device: realme Q2 Pro
-  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0160_all_IsvMFDgApPVb.ozip
-  md5: 53A31055A2C58A37A3DA6889870E8DCB
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0170_all_NmPjT7oDOKEn.ozip
+  md5: 1371028549A74C88BB91B0C693A2540B
   region: China
   size: 3.04GB
   system: realme UI V1.0
-  version: RMX2173_11.A.16
+  version: RMX2173_11.A.17
 - changelog: |
     **相机**:
     ● 优化 后置超级夜景成像效果
@@ -232,20 +230,36 @@
   system: realme UI 1.0
   version: RMX1931_11.C.30
 - changelog: |
-    **系统**:
-    ● 修复室外强光源环境下，极低概率触发屏幕亮度降到最低问题
+    **游戏空间**:
+    ● 优化 亮度锁定默认状态逻辑
+    **蓝牙**:
+    ●新增 蓝牙耳机来电接听图标
     **应用**:
-    ● 修复QQ界面按电源键息屏并指纹解锁后，QQ低概率闪退至桌面的问题
-    ● 修复欢太商城App图标低概率显示异常的问题
+    ●新增 Soloop 即录APP
+    ●修复 软件商店主题详情页极低概率出现崩溃的问题
+    **设置**:
+    ●新增 截屏设置页物理按键开关
+    ●新增 进入抽屉弹出输入法功能开关
+    ●新增 护眼模式日落到日出开关
+    ●新增 状态栏系统图标开关
+    ●优化 WLAN界面连接逻辑，提升用户体验
+    ●修复 超级省电模式退出后，桌面图标极低概率出现异常的问题
+    ●修复 关闭护眼模式后色温调节低概率失效的问题
+    **相册**:
+    ●修复 我的资源内置壁纸缩略图和壁纸详情界面低概率加载失败的问题
+    ●修复 进入相册时极低概率闪屏的问题
+    ●修复 浏览相册时极低概率闪退的问题
+    **安全**:
+    ●更新 Android安全补丁（2020#9/2020#10）
   codename: RMX1991
-  date: 29/09/2020
+  date: 31/10/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1220_all_yQTbUotPc6FA.ozip
-  md5: F1B47EDC92326628EAB73D99FF62A678
+  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1230_all_KpOMv8xayLKp.ozip
+  md5: 02A4E7DC424998F2B141F8CEC01F54CF
   region: China
-  size: 2.96GB
+  size: 3.01GB
   system: realme UI 1.0
-  version: RMX1991_11.C.22
+  version: RMX1991_11.C.23
 - changelog: |
     **应用**:
     ● 新增soloop应用APP

@@ -174,24 +174,22 @@
 - changelog: |
     **网络**:
     ● 优化 网络性能，提升上网体验
-    **相机**:
-    ● 优化 前置相机拍照成像效果
-    ● 优化 后置相机在多种复杂场景下拍照的成像效果
     **系统**:
     ● 优化 系统性能，提升系统稳定性
+    ● 修复 连接充电器场景下小概率出现前后摄像头切换过慢的问题
     ● 修复 极端场景下极小概率死机问题
-    ● 修复 特殊场景下极小概率屏幕闪烁问题
-    **安全**:
-    ● 更新 Android安全补丁（2020#10）
+    ● 修复 极端场景下极小概率快充失效问题
+    **三方应用**:
+    ● 修复 支付宝极小概率出现计步异常现象
   codename: RMX2176
-  date: 30/10/2020
+  date: 07/11/2020
   device: realme  X7 5G
-  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0160_all_IsvMFDgApPVb.ozip
-  md5: 53A31055A2C58A37A3DA6889870E8DCB
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0170_all_NmPjT7oDOKEn.ozip
+  md5: 1371028549A74C88BB91B0C693A2540B
   region: China
   size: 3.04GB
   system: realme UI V1.0
-  version: RMX2176_11.A.16
+  version: RMX2176_11.A.17
 - changelog: |
     **应用**:
     ● 新增 Soloop 即录APP
@@ -1022,18 +1020,19 @@
   version: RMX2191_11_A.17
 - changelog: |
     **Security**:
-    ● Android security patch: September, 2020
-    **Camera**:
-    ● Fixed the issue that maximum exposure time can only be set to 0 in Professional mode of the rear camera
+    ● Android security patch: October, 2020
+    **System**:
+    ● Optimized the system performance and improved system stability
+    ● Optimized startup and exit performance of applications
   codename: RMX2050EX
-  date: 10/10/2020
+  date: 9/11/2020
   device: realme narzo 20A
-  download: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0150_all_O0rVNTd3Sz8m.ozip
-  md5: 87AB697E97444A631931E7568AD762DF
+  download: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0170_all_av8Sp38FlgiU.ozip
+  md5: D87E22D373E4A4256094A37E4DEFE563
   region: India
-  size: 2.94GB
+  size: 2.98GB
   system: realme UI 1.0
-  version: RMX2050EX_11_A.15
+  version: RMX2050EX_11_A.17
 - changelog: |
     **Camera**:
     ● Optimized the color effect of photos taken with the rear camera

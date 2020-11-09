@@ -31,18 +31,19 @@
   version: RMX2191_11_A.17
 - changelog: |
     **Security**:
-    ● Android security patch: September, 2020
-    **Camera**:
-    ● Fixed the issue that maximum exposure time can only be set to 0 in Professional mode of the rear camera
+    ● Android security patch: October, 2020
+    **System**:
+    ● Optimized the system performance and improved system stability
+    ● Optimized startup and exit performance of applications
   codename: RMX2050EX
-  date: 10/10/2020
+  date: 9/11/2020
   device: realme narzo 20A
-  download: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0150_all_O0rVNTd3Sz8m.ozip
-  md5: 87AB697E97444A631931E7568AD762DF
+  download: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0170_all_av8Sp38FlgiU.ozip
+  md5: D87E22D373E4A4256094A37E4DEFE563
   region: India
-  size: 2.94GB
+  size: 2.98GB
   system: realme UI 1.0
-  version: RMX2050EX_11_A.15
+  version: RMX2050EX_11_A.17
 - changelog: |
     **Camera**:
     ● Optimized the color effect of photos taken with the rear camera

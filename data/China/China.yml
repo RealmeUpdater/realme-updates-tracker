@@ -73,6 +73,20 @@
   version: RMX2200_11_A.10
 - changelog: |
     **网络**:
+    ● 优化 部分场景下的网络通信表现
+    **系统**:
+    ● 修复 概率性OTA升级失败问题
+  codename: RMX2111
+  date: 07/11/2020
+  device: realme  V5 5G
+  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0180_all_5bfdTuXpA4hF.ozip
+  md5: 3E981620828D58F89F1EB62AA7680A0E
+  region: China
+  size: 3.03GB
+  system: realme UI V1.0
+  version: RMX2111_11.A.18
+- changelog: |
+    **网络**:
     ● 优化 网络性能，提升上网体验
     **系统**:
     ● 优化 系统性能，提升系统稳定性

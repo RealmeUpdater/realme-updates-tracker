@@ -171,6 +171,20 @@
   version: RMX2200_11_A.10
 - changelog: |
     **网络**:
+    ● 优化 部分场景下的网络通信表现
+    **系统**:
+    ● 修复 概率性OTA升级失败问题
+  codename: RMX2111
+  date: 07/11/2020
+  device: realme  V5 5G
+  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0180_all_5bfdTuXpA4hF.ozip
+  md5: 3E981620828D58F89F1EB62AA7680A0E
+  region: China
+  size: 3.03GB
+  system: realme UI V1.0
+  version: RMX2111_11.A.18
+- changelog: |
+    **网络**:
     ● 优化 网络性能，提升上网体验
     **系统**:
     ● 优化 系统性能，提升系统稳定性
@@ -497,18 +511,18 @@
   version: RMX2144EU_11.A.11
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: septiembre 2020
+    ● Actualizados los parches de seguridad de Google: Octubre 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2081EU
-  date: 27/9/2020
+  date: 09/11/2020
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0420_all_hsZ6h9qjTzcn.ozip
-  md5: a136ecc6fd843e297b0aa7b0d8764464
+  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0440_all_Z7OGB6hV8IMK.ozip
+  md5: 3fe51baa4feb74ebfec385054a9361f7
   region: Spain
-  size: 3.23GB
+  size: 3.21GB
   system: realme UI 1.0
-  version: RMX2081EU_11.A.42
+  version: RMX2081EU_11.A.44
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:julio de 2020

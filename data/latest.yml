@@ -1054,6 +1054,40 @@
   version: RMX2050EX_11_A.17
 - changelog: |
     **Camera**:
+    ● Optimized image quality of the main lens
+    **Touch**:
+    ● Optimized the touch control algorithm and improved touch control experience
+    **System**:
+    ● Fixed some known issues and optimized the system fluency
+    ● Fixed the probabilistic screen flicker and optimized the display quality at low brightness conditions
+  codename: RMX2151PU
+  date: 11/11/2020
+  device: realme narzo 20 Pro
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0650_all_pgGp8CNlEGlv.ozip
+  md5: 5C04610F51863331881B6D6D029C04B7
+  region: India
+  size: 3.43GB
+  system: realme UI V1.0
+  version: RMX2151PU_11.A.65
+- changelog: |
+    **Camera**:
+    ● Optimized image quality of the main lens
+    **Touch**:
+    ● Optimized the touch control algorithm and improved touch control experience
+    **System**:
+    ● Fixed some known issues and optimized the system fluency
+    ● Fixed the probabilistic screen flicker and optimized the display quality at low brightness conditions
+  codename: RMX2151PU
+  date: 11/11/2020
+  device: realme 7
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0650_all_pgGp8CNlEGlv.ozip
+  md5: 5C04610F51863331881B6D6D029C04B7
+  region: India
+  size: 3.43GB
+  system: realme UI V1.0
+  version: RMX2151PU_11.A.65
+- changelog: |
+    **Camera**:
     ● Optimized the color effect of photos taken with the rear camera
     ● Fixed color shift issue of the front camera
     **System**:

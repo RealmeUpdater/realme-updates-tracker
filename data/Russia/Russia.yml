@@ -14,18 +14,18 @@
   version: RMX2061_11.A.33
 - changelog: |
     **Безопасность:**:
-    ● Добавлен патч безопасности Android на сентябрь 2020 г.
+    ● Добавлены патчи безопасности Android за октябрь 2020
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX2081PU
-  date: 27/9/2020
+  date: 09/11/2020
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0430_all_0peGeINpSpOG.ozip
-  md5: 42556b5a50995dc5cb76266dac689e89
+  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0450_all_e54LC7DmCgBX.ozip
+  md5: ec320064b346556544f9dcaaa5e6eca5
   region: Russia
-  size: 3.56GB
+  size: 3.54GB
   system: realme UI 1.0
-  version: RMX2081PU_11.A.43
+  version: RMX2081PU_11.A.45
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android: июль 2020

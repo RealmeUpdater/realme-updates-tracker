@@ -1,14 +1,14 @@
 changelog: |
-  **Audio**:
-  ● Fixed the issue of muted voice channel while gaming
-  ● Fixed the issue of muted voice calls
-  ● Fixed the probabilistic issue of muted speakers
+  **Camera**:
+  ● Optimized the color saturation of the rear camera
+  ● Optimized the color representation of the rear camera in Portrait mode
+  ● Optimized the image brightness of the rear camera for flowers and plants
 codename: RMX2103PU
-date: 22/10/2020
+date: 12/11/2020
 device: realme 7i
-download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0270_all_J987EmtBX99C.ozip
-md5: 2A61547CD620BA3ACC742AFC603FA793
+download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0310_all_uBWU2Em6wYbj.ozip
+md5: 57C2ADFDBB6A78A8FF54F2AFA1D128D5
 region: India
-size: 3.22GB
+size: 3.24GB
 system: realme UI 1.0
-version: RMX2103PU_11.A.27
+version: RMX2103PU_11.A.31

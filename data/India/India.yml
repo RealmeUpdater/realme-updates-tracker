@@ -1,17 +1,17 @@
 - changelog: |
-    **Audio**:
-    ● Fixed the issue of muted voice channel while gaming
-    ● Fixed the issue of muted voice calls
-    ● Fixed the probabilistic issue of muted speakers
+    **Camera**:
+    ● Optimized the color saturation of the rear camera
+    ● Optimized the color representation of the rear camera in Portrait mode
+    ● Optimized the image brightness of the rear camera for flowers and plants
   codename: RMX2103PU
-  date: 22/10/2020
+  date: 12/11/2020
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0270_all_J987EmtBX99C.ozip
-  md5: 2A61547CD620BA3ACC742AFC603FA793
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0310_all_uBWU2Em6wYbj.ozip
+  md5: 57C2ADFDBB6A78A8FF54F2AFA1D128D5
   region: India
-  size: 3.22GB
+  size: 3.24GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.27
+  version: RMX2103PU_11.A.31
 - changelog: |
     **Security**:
     ● Android security patch: October, 2020
@@ -115,68 +115,64 @@
   version: RMX2195_11_A.19
 - changelog: |
     **Security**:
-    ● Android Security Patch: September, 2020
-    **Camera**:
-    ● Optimized the front camera effect
-    **System**:
-    ● Fixed the black screen issue of incoming calls
-  codename: RMX2185
-  date: 12/10/2020
-  device: realme C15
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0750_all_1iCbWOHHNxSO.ozip
-  md5: D988B04FF3C05FD1B3063F45AA2A9735
-  region: India
-  size: 3.09GB
-  system: realme UI 1.0
-  version: RMX2185_11_A.75
-- changelog: |
-    **Security**:
-    ● Android Security Patch: September, 2020
-    **Camera**:
-    ● Optimized the front camera effect
-    **System**:
-    ● Fixed the black screen issue of incoming calls
-  codename: RMX2185
-  date: 12/10/2020
-  device: realme C12
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0750_all_1iCbWOHHNxSO.ozip
-  md5: D988B04FF3C05FD1B3063F45AA2A9735
-  region: India
-  size: 3.09GB
-  system: realme UI 1.0
-  version: RMX2185_11_A.75
-- changelog: |
-    **Security**:
-    ● Android Security Patch: September, 2020
-    **Camera**:
-    ● Optimized the front camera effect
-    **System**:
-    ● Fixed the black screen issue of incoming calls
-  codename: RMX2185
-  date: 12/10/2020
-  device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0750_all_1iCbWOHHNxSO.ozip
-  md5: D988B04FF3C05FD1B3063F45AA2A9735
-  region: India
-  size: 3.09GB
-  system: realme UI 1.0
-  version: RMX2185_11_A.75
-- changelog: |
-    **Security**:
-    ● Updated Android security patch: September, 2020
+    ● Android security patch: October, 2020
     **System**:
     ● Optimized the system performance and improved system stability
-    **Wi-Fi**:
-    ● Fixed the display issue of scan icon in Wi-Fi menu
-  codename: RMX2001
-  date: 25/9/2020
-  device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0470_all_VyuCFSQnuSSy.ozip
-  md5: 073016A9AF4BD249473695DB4ADB86C6
+  codename: RMX2185
+  date: 10/11/2020
+  device: realme C15
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
+  md5: 67DF6910A8B5026EAE56025CF07572B5
   region: India
-  size: 3.14GB
+  size: 3.09GB
   system: realme UI 1.0
-  version: RMX2001_11.B.47
+  version: RMX2185_11_A.79
+- changelog: |
+    **Security**:
+    ● Android security patch: October, 2020
+    **System**:
+    ● Optimized the system performance and improved system stability
+  codename: RMX2185
+  date: 10/11/2020
+  device: realme C12
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
+  md5: 67DF6910A8B5026EAE56025CF07572B5
+  region: India
+  size: 3.09GB
+  system: realme UI 1.0
+  version: RMX2185_11_A.79
+- changelog: |
+    **Security**:
+    ● Android security patch: October, 2020
+    **System**:
+    ● Optimized the system performance and improved system stability
+  codename: RMX2185
+  date: 10/11/2020
+  device: realme C11
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
+  md5: 67DF6910A8B5026EAE56025CF07572B5
+  region: India
+  size: 3.09GB
+  system: realme UI 1.0
+  version: RMX2185_11_A.79
+- changelog: |
+    **Security**:
+    ● Android security patch: September, 2020
+    **Settings**:
+    ● Optimized the user experience of Wi-Fi settings
+    ● Fixed the entry display of Deep cleanup
+    **Bluetooth**:
+    ● Fixed the probabilistic no sound issue when playing music after hanging up calls in Bluetooth mode
+    ● Fixed the issue of unable to resume phone call after pressing the headphone button to put phone call on hold
+  codename: RMX2061
+  date: 29/9/2020
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0350_all_vxhBm0QUUleD.ozip
+  md5: 45A88580F41057B652A005218131BED7
+  region: India
+  size: 3.44GB
+  system: realme UI 1.0
+  version: RMX2061_11.A.35
 - changelog: |
     **Security**:
     ● Android security patch: October, 2020
@@ -305,38 +301,46 @@
   version: RMX2076PU_11.A.37
 - changelog: |
     **Security**:
-    ● Android security patch: September, 2020
+    ● Updated Android security patch: October, 2020
+    **System**:
+    ●Optimized the probabilistic freezing issue and improved the system stability
     **Settings**:
-    ● Optimized the user experience of Wi-Fi settings
-    ● Fixed the entry display of Deep cleanup
+    ● Added From Sunset to Sunrise toggle for eye comfort
+    ● Added a toggle for displaying keyboard when entering app drawer
     **Bluetooth**:
-    ● Fixed the probabilistic no sound issue when playing music after hanging up calls in Bluetooth mode
-    ● Fixed the issue of unable to resume phone call after pressing the headphone button to put phone call on hold
-  codename: RMX2061
-  date: 29/9/2020
-  device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0350_all_vxhBm0QUUleD.ozip
-  md5: 45A88580F41057B652A005218131BED7
+    ● Added Bluetooth earphone icon in phone call interface
+    **realme Lab**:
+    ● Optimized the interface of realme Lab
+  codename: RMX2001
+  date: 10/11/2020
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0490_all_RDMXEArQckIP.ozip
+  md5: 8D85C08C57841787F9A436B380E52400
   region: India
-  size: 3.44GB
+  size: 3.18GB
   system: realme UI 1.0
-  version: RMX2061_11.A.35
+  version: RMX2001_11.B.49
 - changelog: |
     **Security**:
-    ● Updated Android security patch: September, 2020
+    ● Updated Android security patch: October, 2020
     **System**:
-    ● Optimized the system performance and improved system stability
-    **Wi-Fi**:
-    ● Fixed the display issue of scan icon in Wi-Fi menu
+    ●Optimized the probabilistic freezing issue and improved the system stability
+    **Settings**:
+    ● Added From Sunset to Sunrise toggle for eye comfort
+    ● Added a toggle for displaying keyboard when entering app drawer
+    **Bluetooth**:
+    ● Added Bluetooth earphone icon in phone call interface
+    **realme Lab**:
+    ● Optimized the interface of realme Lab
   codename: RMX2001
-  date: 25/9/2020
+  date: 10/11/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0470_all_VyuCFSQnuSSy.ozip
-  md5: 073016A9AF4BD249473695DB4ADB86C6
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0490_all_RDMXEArQckIP.ozip
+  md5: 8D85C08C57841787F9A436B380E52400
   region: India
-  size: 3.14GB
+  size: 3.18GB
   system: realme UI 1.0
-  version: RMX2001_11.B.47
+  version: RMX2001_11.B.49
 - changelog: |
     **Security**:
     ● Android Security Patch: August, 2020

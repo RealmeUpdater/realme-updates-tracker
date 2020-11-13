@@ -1,23 +1,18 @@
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: October, 2020
     **Camera**:
-    ● Optimized the overexposure of the front camera
-    ● Optimized the color shifts of the rear camera
-    ● Optimized the dynamic range of the rear camera in 64M mode
+    ● Optimized the color effect of photos taken with the rear camera
+    ● Fixed color shift issue of the front camera
     **System**:
-    ● Optimized the minimum brightness when playing videos
-    ● Fixed the probabilistic issue that the screen dims after fingerprint unlock in outdoor scenarios
-    ● Fixed the probabilistic issue of unable to fast charge in some scenarios
+    ● Fixed some known issues and improved system stability.
   codename: RMX2170EU
-  date: 18/10/2020
+  date: 4/11/2020
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0180_all_NcxvqYv2oAKe.ozip
-  md5: 68BAE5285787F12AEA217EC610429046
+  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0200_all_pAPdILA9Pvil.ozip
+  md5: B956C5BA795934E6D45CB84F6FCA991F
   region: Europe
   size: 3.49GB
   system: realme UI V1.0
-  version: RMX2170EU_11.A.18
+  version: RMX2170EU_11_A.20
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020

@@ -1,16 +1,14 @@
 changelog: |
   **Security**:
-  ● Android Security Patch: September, 2020
-  **Camera**:
-  ● Optimized the front camera effect
+  ● Android security patch: October, 2020
   **System**:
-  ● Fixed the black screen issue of incoming calls
+  ● Optimized the system performance and improved system stability
 codename: RMX2185
-date: 12/10/2020
+date: 10/11/2020
 device: realme C11
-download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0750_all_1iCbWOHHNxSO.ozip
-md5: D988B04FF3C05FD1B3063F45AA2A9735
+download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
+md5: 67DF6910A8B5026EAE56025CF07572B5
 region: India
 size: 3.09GB
 system: realme UI 1.0
-version: RMX2185_11_A.75
+version: RMX2185_11_A.79

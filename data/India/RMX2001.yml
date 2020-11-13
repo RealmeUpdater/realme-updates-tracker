@@ -1,16 +1,21 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: September, 2020
+  ● Updated Android security patch: October, 2020
   **System**:
-  ● Optimized the system performance and improved system stability
-  **Wi-Fi**:
-  ● Fixed the display issue of scan icon in Wi-Fi menu
+  ●Optimized the probabilistic freezing issue and improved the system stability
+  **Settings**:
+  ● Added From Sunset to Sunrise toggle for eye comfort
+  ● Added a toggle for displaying keyboard when entering app drawer
+  **Bluetooth**:
+  ● Added Bluetooth earphone icon in phone call interface
+  **realme Lab**:
+  ● Optimized the interface of realme Lab
 codename: RMX2001
-date: 25/9/2020
+date: 10/11/2020
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0470_all_VyuCFSQnuSSy.ozip
-md5: 073016A9AF4BD249473695DB4ADB86C6
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0490_all_RDMXEArQckIP.ozip
+md5: 8D85C08C57841787F9A436B380E52400
 region: India
-size: 3.14GB
+size: 3.18GB
 system: realme UI 1.0
-version: RMX2001_11.B.47
+version: RMX2001_11.B.49

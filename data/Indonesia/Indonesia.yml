@@ -182,18 +182,18 @@
   version: RMX1921EX_11.C.07
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: September 2020
+    ● Tingkat Android Security Patch: November 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1971EX
-  date: 21/9/2020
+  date: 18/11/2020
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1070_all_nNL7sTII5ht7.ozip
-  md5: 87210E7A485E871864A5083AEBC54120
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1080_all_29hQ1fOMjgyl.ozip
+  md5: C8EED771C38687F8B194CD716660F9A4
   region: Indonesia
-  size: 3.22GB
+  size: 3.28GB
   system: realme UI V1.0
-  version: RMX1971EX_11.C.07
+  version: RMX1971EX_11.C.08
 - changelog: |
     **Keamanan**:
     ● Android security patch: Oktober 2020

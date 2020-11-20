@@ -165,32 +165,32 @@
   system: realme UI V1.0
   version: RMX2051_11.B.18
 - changelog: |
-    **应用**:
-    ● 新增 Soloop 即录APP
-    ● 新增 欢太商城APP
     **设置**:
-    ● 优化开启和关闭省电模式时系统响应速度
-    ● 修复切换超级省电模式，状态栏电池图标显示异常问题
-    ● 修复开启省电模式后，低概率无法降低手机亮度问题
-    **文件管理**:
-    ● 修复低概率重命名文件时闪退的问题
-    **多用户**:
-    ● 修复横屏游戏时上滑手势滑动退出没有提示语的问题
-    **系统**:
-    ● 修复人脸解锁进入加密应用时，应用界面低概率显示指纹图案的问题
-    ● 修复网络卡顿导致极低概率重启的问题
-    ● 修复微信分身弹出消息，跳转错误问题
+    ● 新增 状态栏状态图标开关
+    ● 新增 护眼模式日落到日出开关
+    ● 新增 进入抽屉模式立即弹出输入法开关的功能
+    ● 新增 视频通话美颜调节效果（支持微信）
+    **游戏空间**:
+    ● 优化 亮度锁定默认状态逻辑
+    **网络**:
+    ● 修复 部分复杂场景下的断流问题
+    **相册**:
+    ● 修复 进入相册低概率闪屏问题
+    **状态栏**:
+    ● 修复 时间显示秒低概率跳变问题
+    **负一屏**:
+    ● 修复 快捷功能低概率无法添加微信乘车码问题
     **安全**:
-    ● 更新Android安全补丁（2020#9）
+    ● 更新 Android安全补丁（2020/#10）
   codename: RMX1931
-  date: 10/10/2020
+  date: 04/11/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1300_all_QzFVhQQieINQ.ozip
-  md5: 129ac04dbbb2a2cd9dddffd27b900550
+  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1310_all_9BAOkrQ2yHRo.ozip
+  md5: 38e1bc117594c9a342ca4c9322d3c589
   region: China
-  size: 3.12GB
+  size: 3.09GB
   system: realme UI 1.0
-  version: RMX1931_11.C.30
+  version: RMX1931_11.C.31
 - changelog: |
     **游戏空间**:
     ● 优化 亮度锁定默认状态逻辑

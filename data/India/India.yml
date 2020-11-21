@@ -279,26 +279,22 @@
   version: RMX2040_11.A.27
 - changelog: |
     **Security**:
-    ● Updated Android security patch: September, 2020
-    **Applications**:
-    ● Added Soloop
+    ● Android security patch: October, 2020
     **Settings**:
-    ● Optimized the responding speed when turing power saving mode on and off
-    **Networks**:
-    ● Fixed the probabilistic issue of unable to connect to 5G network when switching network modes
-    **Screenshot**:
-    ● Added Disable physical buttons in screenshot settings
-    ● Fixed the probabilistic overlap issue of scrolling screenshot
-    ● Fixed the layout issue when scrolling screenshot in screenshot settings after a horizontal screenshot
+    ● Added toggle for system icons in Status bar
+    ● Added From Sunset to Sunrise toggle for eye comfort
+    ● Added toggle for display keyboard when entering app drawer
+    **Album**:
+    ● Fixed the probabilistic screen flicker when entering the album
   codename: RMX2076PU
-  date: 30/9/2020
+  date: 09/11/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0370_all_RpgxkBIvkZCk.ozip
-  md5: 9eea35d2411bcd446fa4ea782141df75
+  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0390_all_u4GLLSVoFmL0.ozip
+  md5: beb306f1f2acb01e1f8eca55da0c9021
   region: India
-  size: 3.84GB
+  size: 3.86GB
   system: realmeUI V1.0
-  version: RMX2076PU_11.A.37
+  version: RMX2076PU_11.A.39
 - changelog: |
     **Security**:
     ● Updated Android security patch: October, 2020
@@ -652,20 +648,20 @@
   version: RMX1821EX_11.C.16
 - changelog: |
     **Security**:
-    ● Android Security Patch: August and September, 2020
+    ● Updated Android security patch: Oct/Nov, 2020
+    **Applications**:
+    ● Added Browser
     **System**:
-    ● Optimized the system performance and improved system stability
-    **Settings**:
-    ● Fixed the issue that the sequence of Clock unable to adjust manually
+    ● Optimized system performance and improved the system stability
   codename: RMX1831EX
-  date: 17/9/2020
+  date: 19/11/2020
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0210_all_bKHofLxzTowa.ozip
-  md5: 8B53F84FA8DCF302AFB3CE1194FE53FC
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0220_all_v0SOtbbZTVVk.ozip
+  md5: B53DF7BB5A5670CD9B1A3B0DD6401127
   region: India
-  size: 2.10GB
+  size: 2.16GB
   system: ColorOS 6.0
-  version: RMX1831EX_11.C.21
+  version: RMX1831EX_11.C.22
 - changelog: |
     **Security**:
     ● Android Security Patch: August and September, 2020

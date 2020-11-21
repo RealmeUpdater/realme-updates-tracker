@@ -53,30 +53,27 @@
   system: realme UI V1.0
   version: RMX2200_11_A.10
 - changelog: |
-    **应用**:
-    ● 新增 Soloop 即录APP
-    ● 新增 欢太商城APP
-    **截屏**:
-    ● 新增 截屏设置页增加物理按键截屏开关
-    ● 修复 部分场景下出现的低概率长截屏内容重复问题
-    ● 修复 横屏截屏后跳转截屏设置界面再进行长截屏时界面的布局异常问题
     **设置**:
-    ● 优化 开启和关闭省电模式时系统响应速度
-    **网络**:
-    ● 修复 切换网络模式低概率不能连接5G网络问题
-    **游戏**:
-    ● 修复 横屏游戏时上滑手势滑动退出没有提示语的问题
+    ● 新增 状态栏状态图标开关
+    ● 新增 护眼模式日落到日出开关
+    ● 新增 进入抽屉模式立即弹出输入法开关的功能
+    **WLAN**:
+    **修复 连接华为AX3Pro路由器WiFi，玩王者荣耀低概率出现断流问题**:
+    **云服务**:
+    ● 修复 云服务极低概率同步下载出现图片错误问题
+    **相册**:
+    ● 修复 进入相册低概率闪屏问题
     **安全**:
-    ● 更新 Android安全补丁（2020#9）
+    ● 更新 Android安全补丁（2020/#10）
   codename: RMX2071
-  date: 12/10/2020
+  date: 09/11/2020
   device: realme  X50 Pro 玩家版
-  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0230_all_G0zD7JcRjQ27.ozip
-  md5: 856f5df331277d80dd5460fa4fc7e424
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0240_all_MXXoqbstjL4S.ozip
+  md5: 95b07d1186bcd45748cfdcca4fa04600
   region: China
-  size: 3.78GB
+  size: 3.80GB
   system: realme UI V1.0
-  version: RMX2071_11.A.23
+  version: RMX2071_11.A.24
 - changelog: |
     **电话本**:
     ● 新增 几何风格的默认头像

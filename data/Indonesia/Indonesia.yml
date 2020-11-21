@@ -280,18 +280,18 @@
   version: RMX1941EX_11.A.29
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: September 2020
+    ● Tingkat Android Security Patch: November 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1831EX
-  date: 17/9/2020
+  date: 19/11/2020
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0210_all_bKHofLxzTowa.ozip
-  md5: 8B53F84FA8DCF302AFB3CE1194FE53FC
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0220_all_v0SOtbbZTVVk.ozip
+  md5: B53DF7BB5A5670CD9B1A3B0DD6401127
   region: Indonesia
-  size: 2.10GB
+  size: 2.16GB
   system: ColorOS 6.0
-  version: RMX1831EX_11.C.21
+  version: RMX1831EX_11.C.22
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: September 2020

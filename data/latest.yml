@@ -159,30 +159,27 @@
   system: realme UI V1.0
   version: RMX2200_11_A.10
 - changelog: |
-    **应用**:
-    ● 新增 Soloop 即录APP
-    ● 新增 欢太商城APP
-    **截屏**:
-    ● 新增 截屏设置页增加物理按键截屏开关
-    ● 修复 部分场景下出现的低概率长截屏内容重复问题
-    ● 修复 横屏截屏后跳转截屏设置界面再进行长截屏时界面的布局异常问题
     **设置**:
-    ● 优化 开启和关闭省电模式时系统响应速度
-    **网络**:
-    ● 修复 切换网络模式低概率不能连接5G网络问题
-    **游戏**:
-    ● 修复 横屏游戏时上滑手势滑动退出没有提示语的问题
+    ● 新增 状态栏状态图标开关
+    ● 新增 护眼模式日落到日出开关
+    ● 新增 进入抽屉模式立即弹出输入法开关的功能
+    **WLAN**:
+    **修复 连接华为AX3Pro路由器WiFi，玩王者荣耀低概率出现断流问题**:
+    **云服务**:
+    ● 修复 云服务极低概率同步下载出现图片错误问题
+    **相册**:
+    ● 修复 进入相册低概率闪屏问题
     **安全**:
-    ● 更新 Android安全补丁（2020#9）
+    ● 更新 Android安全补丁（2020/#10）
   codename: RMX2071
-  date: 12/10/2020
+  date: 09/11/2020
   device: realme  X50 Pro 玩家版
-  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0230_all_G0zD7JcRjQ27.ozip
-  md5: 856f5df331277d80dd5460fa4fc7e424
+  download: https://download.c.realme.com/osupdate/RMX2071_11_OTA_0240_all_MXXoqbstjL4S.ozip
+  md5: 95b07d1186bcd45748cfdcca4fa04600
   region: China
-  size: 3.78GB
+  size: 3.80GB
   system: realme UI V1.0
-  version: RMX2071_11.A.23
+  version: RMX2071_11.A.24
 - changelog: |
     **电话本**:
     ● 新增 几何风格的默认头像
@@ -479,18 +476,18 @@
   version: RMX2001EU_11.A.42
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android:（2020#9）
+    ● Parche de seguridad de Android:（2020#10）
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2076EU
-  date: 30/9/2020
+  date: 09/11/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0340_all_9OA7Ie7Rs6gg.ozip
-  md5: ' C887C801E4CDD2E9CD60124C89B4D4BF'
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0360_all_fi4GjEO5K87w.ozip
+  md5: 063b5ba4fac7f9d6b069c5ecb5b10968
   region: Spain
-  size: 3.53GB
+  size: 3.55GB
   system: realmeUI V1.0
-  version: RMX2076EU_11.A.34
+  version: RMX2076EU_11.A.36
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android(2020#8)
@@ -1224,26 +1221,22 @@
   version: RMX2040_11.A.27
 - changelog: |
     **Security**:
-    ● Updated Android security patch: September, 2020
-    **Applications**:
-    ● Added Soloop
+    ● Android security patch: October, 2020
     **Settings**:
-    ● Optimized the responding speed when turing power saving mode on and off
-    **Networks**:
-    ● Fixed the probabilistic issue of unable to connect to 5G network when switching network modes
-    **Screenshot**:
-    ● Added Disable physical buttons in screenshot settings
-    ● Fixed the probabilistic overlap issue of scrolling screenshot
-    ● Fixed the layout issue when scrolling screenshot in screenshot settings after a horizontal screenshot
+    ● Added toggle for system icons in Status bar
+    ● Added From Sunset to Sunrise toggle for eye comfort
+    ● Added toggle for display keyboard when entering app drawer
+    **Album**:
+    ● Fixed the probabilistic screen flicker when entering the album
   codename: RMX2076PU
-  date: 30/9/2020
+  date: 09/11/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0370_all_RpgxkBIvkZCk.ozip
-  md5: 9eea35d2411bcd446fa4ea782141df75
+  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0390_all_u4GLLSVoFmL0.ozip
+  md5: beb306f1f2acb01e1f8eca55da0c9021
   region: India
-  size: 3.84GB
+  size: 3.86GB
   system: realmeUI V1.0
-  version: RMX2076PU_11.A.37
+  version: RMX2076PU_11.A.39
 - changelog: |
     **Security**:
     ● Updated Android security patch: October, 2020
@@ -1597,20 +1590,20 @@
   version: RMX1821EX_11.C.16
 - changelog: |
     **Security**:
-    ● Android Security Patch: August and September, 2020
+    ● Updated Android security patch: Oct/Nov, 2020
+    **Applications**:
+    ● Added Browser
     **System**:
-    ● Optimized the system performance and improved system stability
-    **Settings**:
-    ● Fixed the issue that the sequence of Clock unable to adjust manually
+    ● Optimized system performance and improved the system stability
   codename: RMX1831EX
-  date: 17/9/2020
+  date: 19/11/2020
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0210_all_bKHofLxzTowa.ozip
-  md5: 8B53F84FA8DCF302AFB3CE1194FE53FC
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0220_all_v0SOtbbZTVVk.ozip
+  md5: B53DF7BB5A5670CD9B1A3B0DD6401127
   region: India
-  size: 2.10GB
+  size: 2.16GB
   system: ColorOS 6.0
-  version: RMX1831EX_11.C.21
+  version: RMX1831EX_11.C.22
 - changelog: |
     **Security**:
     ● Android Security Patch: August and September, 2020
@@ -1979,18 +1972,18 @@
   version: RMX1941EX_11.A.29
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: September 2020
+    ● Tingkat Android Security Patch: November 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1831EX
-  date: 17/9/2020
+  date: 19/11/2020
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0210_all_bKHofLxzTowa.ozip
-  md5: 8B53F84FA8DCF302AFB3CE1194FE53FC
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0220_all_v0SOtbbZTVVk.ozip
+  md5: B53DF7BB5A5670CD9B1A3B0DD6401127
   region: Indonesia
-  size: 2.10GB
+  size: 2.16GB
   system: ColorOS 6.0
-  version: RMX1831EX_11.C.21
+  version: RMX1831EX_11.C.22
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: September 2020

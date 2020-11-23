@@ -1514,40 +1514,34 @@
   version: RMX1821EX_11.C.16
 - changelog: |
     **Security**:
-    ● Android Security Patch: September, 2020
-    **realme Lab**:
-    ● Added Super nighttime standby feature and improved standby performance
-    **Settings**:
-    ● Added default audio recording device options
-    ● Added Deep Cleanup feature and improved background cleaning ability
-    ● Added a return button in screenshot preview
-    ● Added long press to copy IMEI in the status information interface
-    ● Added automatic download option for app updates when connected to Wi-Fi
-    ● Added time display options for the status bar
-    ● Added shortcuts at the bottom of security settings
-    ● Added shortcuts at the bottom of other settings
-    ● Optimized the experience in Wi-Fi settings
-    **Status bar**:
-    ● Added the OTG switch
-    ● Optimized the pop-up window for system updates notification
-    ● Optimized ""Mute-Bell-Vibrate"" icon state
+    ● Android Security Patch: November, 2020
+    **Bluetooth**:
+    ● Added a new icon for phone calls with Bluetooth earphone
     **Screenshot**:
-    ● Added auto scrolling feature in scrolling screenshot
-    ● Fixed the probabilistic issue in scrolling screenshot
+    ● Added Scrolling screenshot feature in horizontal mode
+    ● Added a toggle for physical button screenshot in screenshot settings
+    **Settings**:
+    ● Added Super power saving mode
+    ● Added a toggle for displaying keyboard when entering app drawer
+    ● Added Icon pull-down gesture
+    ● Added From Sunset to Sunrise option of eye comfort
+    ● Added shortcuts at the bottom of Battery settings
+    ● Added shortcuts at the bottom of Security settings
+    ● Fixed the probabilistic issue of unable to adjust the color temperature after turning off eye comfort
+    **Album**:
+    ● Fixed the probabilistic screen flicker when entering the album
+    ● Fixed the probabilistic crash issue when browsing in the album
     **System**:
-    ● Added the feature of long press the icon to uninstall the app in the drawer mode
-    ● Fixed the font size issue of charging animation
-    ● Fixed the issue that the fingerprint names are set to default when restarting the system in Multi-User mode
-    ● Fixed the crashing issue of the search field in app list
+    ● Fixed the probabilistic freezing issue of Clone Phone
   codename: RMX1851EX
-  date: 23/9/2020
+  date: 21/11/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1090_all_NxECVCEXWCxd.ozip
-  md5: F072EA15F05C8DC24BE6D2AE0A064FDA
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+  md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
   region: India
-  size: 3.22GB
+  size: 3.26GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.09
+  version: RMX1851EX_11.C.10
 - changelog: |
     **Security**:
     ● Android Security Patch: September, 2020
@@ -1930,18 +1924,18 @@
   version: RMX1901EX_11.C.07
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: September 2020
+    ● Tingkat Android Security Patch: November 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1851EX
-  date: 23/9/2020
+  date: 21/11/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1090_all_NxECVCEXWCxd.ozip
-  md5: F072EA15F05C8DC24BE6D2AE0A064FDA
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+  md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
   region: Indonesia
-  size: 3.22GB
+  size: 3.26GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.09
+  version: RMX1851EX_11.C.10
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: September 2020

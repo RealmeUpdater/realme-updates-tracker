@@ -1,33 +1,23 @@
 changelog: |
-  **相机**:
-  ● 优化 后置超级夜景成像效果
-  ● 优化 后置相机部分场景色彩效果
-  ● 优化 后置相机部分场景成像饱和度
-  ● 优化 前置相机拍照清晰度
-  ● 修复 部分场景低概率性拍照预览闪退问题
-  **显示**:
-  ● 优化 部分场景显示效果
-  ● 修复 低概率息屏显示残影问题
-  ● 修复 部分场景点击触摸概率性不响应问题
-  **指纹**:
-  ● 优化 部分场景指纹识别率
+  **触控**:
+  ● 优化 部分场景下触控体验
   **网络**:
-  ● 优化 部分场景概率性网络连接
-  **功耗**:
-  ● 优化 部分场景功耗
-  **应用**:
-  ● 修复 爱奇艺播放视频概率性花屏问题
-  ● 修复 抖音快拍极低概率性出现模糊问题
-  **Breeno**:
-  ● 修复 Breeno语音-晨间播报概率性异常问题
-  **安全**:
-  ● 更新 Android安全补丁（2020#10）
+  ● 优化 部分场景下手机网络性能
+  **系统**:
+  ● 优化 部分场景下系统稳定性
+  **相机**:
+  ● 修复 部分场景下极低概率闪退问题
+  ● 修复 拍摄视频时极低概率卡顿问题
+  **NFC**:
+  ● 修复 部分NFC门禁功能类问题
+  **充电**:
+  ● 修复 低概率快充异常问题
 codename: RMX2121
-date: 31/10/2020
+date: 19/11/2020
 device: realme  X7 Pro 5G
-download: https://download.c.realme.com/osupdate/RMX2121_11_OTA_0140_all_5M0nOxYoJAEf.ozip
-md5: 0E4073E764AAAC7E2417CB6373874EDF
+download: https://download.c.realme.com/osupdate/RMX2121_11_OTA_0160_all_TqCvHaNV3beO.ozip
+md5: CA5014AA0184AE3799F0766E402F4D13
 region: China
 size: 3.19GB
 system: realme UI V1.0
-version: RMX2121_11_A.14
+version: RMX2121_11_A.16

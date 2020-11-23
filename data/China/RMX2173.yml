@@ -1,19 +1,14 @@
 changelog: |
-  **网络**:
-  ● 优化 网络性能，提升上网体验
   **系统**:
   ● 优化 系统性能，提升系统稳定性
-  ● 修复 连接充电器场景下小概率出现前后摄像头切换过慢的问题
-  ● 修复 极端场景下极小概率死机问题
   ● 修复 极端场景下极小概率快充失效问题
-  **三方应用**:
-  ● 修复 支付宝极小概率出现计步异常现象
+  ● 修复 未插充电器场景下极小概率出现充电图标问题
 codename: RMX2173
-date: 07/11/2020
+date: 18/11/2020
 device: realme Q2 Pro
-download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0170_all_NmPjT7oDOKEn.ozip
-md5: 1371028549A74C88BB91B0C693A2540B
+download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0190_all_4Dv3zsrUtg0a.ozip
+md5: 0199FBF487770EB5C72E1F3F36A3203C
 region: China
 size: 3.04GB
 system: realme UI V1.0
-version: RMX2173_11.A.17
+version: RMX2173_11.A.19

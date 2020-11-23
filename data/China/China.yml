@@ -1,4 +1,18 @@
 - changelog: |
+    **系统**:
+    ● 优化 系统性能，提升系统稳定性
+    ● 修复 极端场景下极小概率快充失效问题
+    ● 修复 未插充电器场景下极小概率出现充电图标问题
+  codename: RMX2173
+  date: 18/11/2020
+  device: realme Q2 Pro
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0190_all_4Dv3zsrUtg0a.ozip
+  md5: 0199FBF487770EB5C72E1F3F36A3203C
+  region: China
+  size: 3.04GB
+  system: realme UI V1.0
+  version: RMX2173_11.A.19
+- changelog: |
     **相机**:
     ● 优化 后置超级夜景成像效果
     ● 优化 后置相机部分场景色彩效果
@@ -52,6 +66,20 @@
   size: 2.99GB
   system: realme UI V1.0
   version: RMX2200_11_A.10
+- changelog: |
+    **系统**:
+    ● 优化 系统性能，提升系统稳定性
+    ● 修复 极端场景下极小概率快充失效问题
+    ● 修复 未插充电器场景下极小概率出现充电图标问题
+  codename: RMX2176
+  date: 18/11/2020
+  device: realme  X7 5G
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0190_all_4Dv3zsrUtg0a.ozip
+  md5: 0199FBF487770EB5C72E1F3F36A3203C
+  region: China
+  size: 3.04GB
+  system: realme UI V1.0
+  version: RMX2176_11.A.19
 - changelog: |
     **设置**:
     ● 新增 状态栏状态图标开关
@@ -128,36 +156,34 @@
   system: realme UI V1.0
   version: RMX2071_11.A.24
 - changelog: |
-    **电话本**:
-    ● 新增 几何风格的默认头像
-    **截屏**:
-    ● 新增 横屏长截屏功能
-    **电池**:
-    ● 新增 超级省电功能，省电更省心
-    **控制中心**:
-    ● 新增 超级省电快捷方式
-    **应用**:
-    ● 新增 欢太商城APP
-    **设置**:
-    ● 新增 多用户功能
-    ● 新增 各页面底部的快捷引导功能
-    ● 新增 护眼模式中的日出到日落功能
-    ● 新增 进入抽屉弹出输入法功能
-    ● 修复 电池页面低概率卡顿的问题
-    ● 修复 Breeno语音弹框极低概率不消失的问题
+    **手电筒**:
+    ● 新增 息屏状态下短按电源键关闭手电筒功能
+    **相机**:
+    ● 优化 变焦拍照清晰度，提升成像效果表现
+    **暗色模式**:
+    ● 修复 暗色模式下，进入密码本低概率屏幕闪烁问题
+    ● 修复 暗色模式下使用手机搬家后，日出到日落开关状态极低概率未同步问题
+    **相册**:
+    ● 修复 相册回忆和最新删除数据低概率丢失问题
+    **超级省电**:
+    ● 修复 在超级省电模式下，打开欢太商城极低概率闪退问题
+    **蓝牙**:
+    ● 修复 断开重连蓝牙耳机，极低概率通话无声问题
     **手机管家**:
-    ● 修复 切换语言过程中，手机管家低概率闪退的问题
+    ● 修复 切换语言过程中，手机管家极低概率闪退问题
+    **侧边栏**:
+    ● 修复 侧边栏启动QQ悬浮窗，点击QQ返回按钮低概率闪退问题
     **安全**:
-    ● 更新 Android安全补丁（2020#10）
+    ● 更新 Android安全补丁（2020#11）
   codename: RMX2051
-  date: 25/10/2020
+  date: 20/11/2020
   device: realme X50 5G
-  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0180_all_MTI7SYd5Hhck.ozip
-  md5: EB860938970BFAA29FF22C29CB62914D
+  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0190_all_yCz0jW0kWXHm.ozip
+  md5: 018DC23765872BD254D80AF8BFD1D0D0
   region: China
-  size: 3.62GB
+  size: 3.75GB
   system: realme UI V1.0
-  version: RMX2051_11.B.18
+  version: RMX2051_11.B.19
 - changelog: |
     **设置**:
     ● 新增 状态栏状态图标开关

@@ -614,18 +614,18 @@
   version: RMX1993EX_11.C.08
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: julio 2020
+    ● Parche de seguridad de Android: noviembre 2020
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1851EX
-  date: 30/7/2020
+  date: 21/11/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
-  md5: 86FE0992FFFF87A331389A4977FCEE4C
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+  md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
   region: Spain
-  size: 3.15GB
+  size: 3.26GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.07
+  version: RMX1851EX_11.C.10
 - changelog: |
     **Camera**:
     ● Optimized the color effect of photos taken with the rear camera
@@ -1488,30 +1488,24 @@
   version: RMX1901EX_11.C.07
 - changelog: |
     **Security**:
-    ● Updated Android security patch: August and September, 2020
-    **System**:
-    ● Added long-press to delete feature for desktop icons in drawer mode
-    ● Added glowing effects of icons on the desktop/drawer after installing new applications
-    ● Added long-press to copy IMEI in the status information interface
+    ● Updated Android security patch: Oct, 2020/Nov, 2020
+    **Bluetooth**:
+    ● Added a new icon for phone calls with Bluetooth earphone
     **Settings**:
-    ● Added Deep cleanup feature in the Process Manager of Additional settings
-    ● Added Auto-download over Wi-Fi toggle in Software Update Settings
-    **Notification drawer**:
-    ● Added OTG switch toggle of the notification drawer
-    ● Added Focus mode switch toggle of the notification drawer
-    ● Optimized Mute-Bell-Vibrate icon state
-    **realme Lab**:
-    ● Added Super nighttime standby feature
-    ● Added Smooth scrolling feature
+    ● Added From Sunset to Sunrise option of eye comfort
+    ● Added short-press the power button to turn off flashlight feature while screen-off
+    **Screenshot**:
+    ● Added a toggle for physical button in screenshot settings
+    ● Optimized the interactive mode for screenshot floating preview
   codename: RMX1821EX
-  date: 23/9/2020
+  date: 21/11/2020
   device: realme 3i
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
-  md5: 35284EC131F1C98128FC43EEC9FBA3A0
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
+  md5: 0186F0F737743A7574157CDDC3CCE424
   region: India
-  size: 2.56GB
+  size: 2.60 GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.16
+  version: RMX1821EX_11.C.17
 - changelog: |
     **Security**:
     ● Android Security Patch: November, 2020
@@ -1558,30 +1552,24 @@
   version: RMX1941EX_11.A.29
 - changelog: |
     **Security**:
-    ● Updated Android security patch: August and September, 2020
-    **System**:
-    ● Added long-press to delete feature for desktop icons in drawer mode
-    ● Added glowing effects of icons on the desktop/drawer after installing new applications
-    ● Added long-press to copy IMEI in the status information interface
+    ● Updated Android security patch: Oct, 2020/Nov, 2020
+    **Bluetooth**:
+    ● Added a new icon for phone calls with Bluetooth earphone
     **Settings**:
-    ● Added Deep cleanup feature in the Process Manager of Additional settings
-    ● Added Auto-download over Wi-Fi toggle in Software Update Settings
-    **Notification drawer**:
-    ● Added OTG switch toggle of the notification drawer
-    ● Added Focus mode switch toggle of the notification drawer
-    ● Optimized Mute-Bell-Vibrate icon state
-    **realme Lab**:
-    ● Added Super nighttime standby feature
-    ● Added Smooth scrolling feature
+    ● Added From Sunset to Sunrise option of eye comfort
+    ● Added short-press the power button to turn off flashlight feature while screen-off
+    **Screenshot**:
+    ● Added a toggle for physical button in screenshot settings
+    ● Optimized the interactive mode for screenshot floating preview
   codename: RMX1821EX
-  date: 23/9/2020
+  date: 21/11/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
-  md5: 35284EC131F1C98128FC43EEC9FBA3A0
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
+  md5: 0186F0F737743A7574157CDDC3CCE424
   region: India
-  size: 2.56GB
+  size: 2.60 GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.16
+  version: RMX1821EX_11.C.17
 - changelog: |
     **Security**:
     ● Updated Android security patch: Oct/Nov, 2020
@@ -2300,52 +2288,48 @@
   version: RMX1911EX_11.C.59
 - changelog: |
     **Security**:
-    ● Android security patch: July, 2020
-    **realme Lab**:
-    ● Added the smooth scrolling feature
+    ● Android Security Patch: November, 2020
+    **Bluetooth**:
+    ● Added a new icon for phone calls with Bluetooth earphone
+    **Screenshot**:
+    ● Added Scrolling screenshot feature in horizontal mode
+    ● Added a toggle for physical button screenshot in screenshot settings
     **Settings**:
-    ● Added multi-user feature
-    **Screen recording**:
-    ● Optimized screen recording feature
+    ● Added Super power saving mode
+    ● Added a toggle for displaying keyboard when entering app drawer
+    ● Added Icon pull-down gesture
+    ● Added From Sunset to Sunrise option of eye comfort
+    ● Added shortcuts at the bottom of Battery settings
+    ● Added shortcuts at the bottom of Security settings
+    ● Fixed the probabilistic issue of unable to adjust the color temperature after turning off eye comfort
+    **Album**:
+    ● Fixed the probabilistic screen flicker when entering the album
+    ● Fixed the probabilistic crash issue when browsing in the album
     **System**:
-    ● Optimized the transparency of swipe back gesture style
-    ● Optimized Bluetooth being turned off when flight mode is turned on mechanisam
-    ● Fixed some known issues and improved system stability
+    ● Fixed the probabilistic freezing issue of Clone Phone
   codename: RMX1851EX
-  date: 30/7/2020
+  date: 21/11/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
-  md5: 86FE0992FFFF87A331389A4977FCEE4C
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+  md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
   region: Pakistan
-  size: 3.15GB
+  size: 3.26GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.07
+  version: RMX1851EX_11.C.10
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: August and September, 2020
-    **System**:
-    ● Added long-press to delete feature for desktop icons in drawer mode
-    ● Added glowing effects of icons on the desktop/drawer after installing new applications
-    ● Added long-press to copy IMEI in the status information interface
-    **Settings**:
-    ● Added Deep cleanup feature in the Process Manager of Additional settings
-    ● Added Auto-download over Wi-Fi toggle in Software Update Settings
-    **Notification drawer**:
-    ● Added OTG switch toggle of the notification drawer
-    ● Added Focus mode switch toggle of the notification drawer
-    ● Optimized Mute-Bell-Vibrate icon state
-    **realme Lab**:
-    ● Added Super nighttime standby feature
-    ● Added Smooth scrolling feature
+    **سلامتی**:
+    ●Android سیکورٹی پیچ سطح: (2020#11)
+    **سسٹم**:
+    ● کچھ معلوم بگز حل ہو گئے، اور سسٹم کی ابیلیٹی بہتر ہو گئی ہے
   codename: RMX1821EX
-  date: 23/9/2020
+  date: 21/11/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
-  md5: 35284EC131F1C98128FC43EEC9FBA3A0
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
+  md5: 0186F0F737743A7574157CDDC3CCE424
   region: Pakistan
-  size: 2.56GB
+  size: 2.60 GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.16
+  version: RMX1821EX_11.C.17
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020
@@ -2557,32 +2541,32 @@
   version: RMX1911EX_11.C.59
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: июль 2020
+    ● Патчи безопасности Android: Ноябрь 2020
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1851EX
-  date: 30/7/2020
+  date: 21/11/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
-  md5: 86FE0992FFFF87A331389A4977FCEE4C
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+  md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
   region: Russia
-  size: 3.15GB
+  size: 3.26GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.07
+  version: RMX1851EX_11.C.10
 - changelog: |
     **Безопасность**:
-    ● Обновлены патчи безопасности Android за сентябрь 2020
+    ● Исправление для системы безопасности ОС Android: ноябрь 2020 г.
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1821EX
-  date: 23/9/2020
+  date: 21/11/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
-  md5: 35284EC131F1C98128FC43EEC9FBA3A0
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
+  md5: 0186F0F737743A7574157CDDC3CCE424
   region: Russia
-  size: 2.56GB
+  size: 2.60 GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.16
+  version: RMX1821EX_11.C.17
 - changelog: ''
   codename: RMX2020EU
   date: 15/8/2020
@@ -2886,32 +2870,32 @@
   version: RMX1911EX_11.C.59
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    ● Cập nhật bản vá bảo mật Android: (2020#11)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1851EX
-  date: 30/7/2020
+  date: 21/11/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
-  md5: 86FE0992FFFF87A331389A4977FCEE4C
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+  md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
   region: Vietnam
-  size: 3.15GB
+  size: 3.26GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.07
+  version: RMX1851EX_11.C.10
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#9)
+    ● Cập nhật bản vá bảo mật Android: (2020#11)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1821EX
-  date: 23/9/2020
+  date: 21/11/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
-  md5: 35284EC131F1C98128FC43EEC9FBA3A0
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
+  md5: 0186F0F737743A7574157CDDC3CCE424
   region: Vietnam
-  size: 2.56GB
+  size: 2.60 GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.16
+  version: RMX1821EX_11.C.17
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 7 năm 2020

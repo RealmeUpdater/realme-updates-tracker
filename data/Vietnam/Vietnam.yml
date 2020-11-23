@@ -182,32 +182,32 @@
   version: RMX1911EX_11.C.59
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    ● Cập nhật bản vá bảo mật Android: (2020#11)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1851EX
-  date: 30/7/2020
+  date: 21/11/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
-  md5: 86FE0992FFFF87A331389A4977FCEE4C
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+  md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
   region: Vietnam
-  size: 3.15GB
+  size: 3.26GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.07
+  version: RMX1851EX_11.C.10
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#9)
+    ● Cập nhật bản vá bảo mật Android: (2020#11)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1821EX
-  date: 23/9/2020
+  date: 21/11/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
-  md5: 35284EC131F1C98128FC43EEC9FBA3A0
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
+  md5: 0186F0F737743A7574157CDDC3CCE424
   region: Vietnam
-  size: 2.56GB
+  size: 2.60 GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.16
+  version: RMX1821EX_11.C.17
 - changelog: |
     **Bảo mật**:
     ● Bản vá bảo mật Android: Tháng 7 năm 2020

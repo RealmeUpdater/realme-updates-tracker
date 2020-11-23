@@ -1,14 +1,14 @@
 changelog: |
   **Seguridad**:
-  ● Parche de seguridad de Android: julio 2020
+  ● Parche de seguridad de Android: noviembre 2020
   **Sistema**:
   ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
 codename: RMX1851EX
-date: 30/7/2020
+date: 21/11/2020
 device: realme 3 Pro
-download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
-md5: 86FE0992FFFF87A331389A4977FCEE4C
+download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
 region: Spain
-size: 3.15GB
+size: 3.26GB
 system: realme UI V1.0
-version: RMX1851EX_11.C.07
+version: RMX1851EX_11.C.10

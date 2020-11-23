@@ -1,22 +1,30 @@
 changelog: |
   **Security**:
-  ● Android security patch: July, 2020
-  **realme Lab**:
-  ● Added the smooth scrolling feature
+  ● Android Security Patch: November, 2020
+  **Bluetooth**:
+  ● Added a new icon for phone calls with Bluetooth earphone
+  **Screenshot**:
+  ● Added Scrolling screenshot feature in horizontal mode
+  ● Added a toggle for physical button screenshot in screenshot settings
   **Settings**:
-  ● Added multi-user feature
-  **Screen recording**:
-  ● Optimized screen recording feature
+  ● Added Super power saving mode
+  ● Added a toggle for displaying keyboard when entering app drawer
+  ● Added Icon pull-down gesture
+  ● Added From Sunset to Sunrise option of eye comfort
+  ● Added shortcuts at the bottom of Battery settings
+  ● Added shortcuts at the bottom of Security settings
+  ● Fixed the probabilistic issue of unable to adjust the color temperature after turning off eye comfort
+  **Album**:
+  ● Fixed the probabilistic screen flicker when entering the album
+  ● Fixed the probabilistic crash issue when browsing in the album
   **System**:
-  ● Optimized the transparency of swipe back gesture style
-  ● Optimized Bluetooth being turned off when flight mode is turned on mechanisam
-  ● Fixed some known issues and improved system stability
+  ● Fixed the probabilistic freezing issue of Clone Phone
 codename: RMX1851EX
-date: 30/7/2020
+date: 21/11/2020
 device: realme 3 Pro
-download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
-md5: 86FE0992FFFF87A331389A4977FCEE4C
+download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
 region: Pakistan
-size: 3.15GB
+size: 3.26GB
 system: realme UI V1.0
-version: RMX1851EX_11.C.07
+version: RMX1851EX_11.C.10

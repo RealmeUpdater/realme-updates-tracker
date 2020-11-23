@@ -1,26 +1,20 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: August and September, 2020
-  **System**:
-  ● Added long-press to delete feature for desktop icons in drawer mode
-  ● Added glowing effects of icons on the desktop/drawer after installing new applications
-  ● Added long-press to copy IMEI in the status information interface
+  ● Updated Android security patch: Oct, 2020/Nov, 2020
+  **Bluetooth**:
+  ● Added a new icon for phone calls with Bluetooth earphone
   **Settings**:
-  ● Added Deep cleanup feature in the Process Manager of Additional settings
-  ● Added Auto-download over Wi-Fi toggle in Software Update Settings
-  **Notification drawer**:
-  ● Added OTG switch toggle of the notification drawer
-  ● Added Focus mode switch toggle of the notification drawer
-  ● Optimized Mute-Bell-Vibrate icon state
-  **realme Lab**:
-  ● Added Super nighttime standby feature
-  ● Added Smooth scrolling feature
+  ● Added From Sunset to Sunrise option of eye comfort
+  ● Added short-press the power button to turn off flashlight feature while screen-off
+  **Screenshot**:
+  ● Added a toggle for physical button in screenshot settings
+  ● Optimized the interactive mode for screenshot floating preview
 codename: RMX1821EX
-date: 23/9/2020
+date: 21/11/2020
 device: realme 3
-download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
-md5: 35284EC131F1C98128FC43EEC9FBA3A0
+download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
+md5: 0186F0F737743A7574157CDDC3CCE424
 region: India
-size: 2.56GB
+size: 2.60 GB
 system: realme UI 1.0
-version: RMX1821EX_11.C.16
+version: RMX1821EX_11.C.17

@@ -193,29 +193,29 @@
   version: RMX1911EX_11.C.59
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: июль 2020
+    ● Патчи безопасности Android: Ноябрь 2020
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1851EX
-  date: 30/7/2020
+  date: 21/11/2020
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1070_all_aCLe4CQDys6T.ozip
-  md5: 86FE0992FFFF87A331389A4977FCEE4C
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
+  md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
   region: Russia
-  size: 3.15GB
+  size: 3.26GB
   system: realme UI V1.0
-  version: RMX1851EX_11.C.07
+  version: RMX1851EX_11.C.10
 - changelog: |
     **Безопасность**:
-    ● Обновлены патчи безопасности Android за сентябрь 2020
+    ● Исправление для системы безопасности ОС Android: ноябрь 2020 г.
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1821EX
-  date: 23/9/2020
+  date: 21/11/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
-  md5: 35284EC131F1C98128FC43EEC9FBA3A0
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
+  md5: 0186F0F737743A7574157CDDC3CCE424
   region: Russia
-  size: 2.56GB
+  size: 2.60 GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.16
+  version: RMX1821EX_11.C.17

@@ -1,37 +1,30 @@
 - changelog: |
     **Security**:
-    ● Android Security Patch: August 2020
-    **realme Lab**:
-    ● Added the Super nighttime standby feature
-    ● Added the smooth scrolling feature
+    ● Updated Android security patch: October, 2020
+    **Game Space**:
+    ● Optimized the logic of the default state of the brightness lock
+    **Call**:
+    ● Optimized the layout of call setting interface
+    ● Fixed the probabilistic issue of the Reject With SMS feature
     **Settings**:
-    ● Added long press to copy IMEI in the status information interface
-    ● Added Deep cleanup feature in Process Manager
-    ● Optimized the default display of battery percentage
-    **System**:
-    ● Added long press to uninstall apps directly in the app drawer
-    **Status Bar**:
-    ● Added OTG Switch toggle to notification panel
-    ● Added independent Switch toggles of focus mode
-    ● Optimized "Mute-Bell-Vibrate" icon state
-    ● Optimized viewing for system update prompt pop-up window
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    ● Optimized Russian translation issue of the carrier in the status bar
-    **Calculator**:
-    ● Optimized the Russian translation issue of the calculator
-    **Lock screen**:
-    ● Fixed font display issue of charging animation
-    **Camera**:
-    ● Fixed the probabilistic lagging issue of video recording after blurring the background
+    ● Added physical toggle on the setting interface of Screenshot
+    ● Added toggle for display keyboard when entering app drawer
+    ● Added From Sunset to Sunrise toggle for eye comfort
+    ● Added toggle for system icons in Status bar
+    ● Added Super Power Saving Mode
+    ● Added Multi-user feature
+    ● Optimized the language display issue of HeyTap in some scenarios
+    **Album**:
+    **Fixed the issue of the abnormal preview of the recording video interface when filming in 1080P/60 frames**:
   codename: RMX2061
-  date: 18/9/2020
+  date: 18/11/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0330_all_euWtOh1hvBco.ozip
-  md5: E2CC792038804FEA9609B577CDF76F72
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0390_all_RfmTA1Flkeqv.ozip
+  md5: 000E44F46D316D2D934582313C5B556F
   region: UAE
-  size: 3.41GB
+  size: 3.49GB
   system: realme UI 1.0
-  version: RMX2061_11.A.33
+  version: RMX2061_11.A.39
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
@@ -1113,22 +1106,31 @@
   version: RMX2185_11_A.79
 - changelog: |
     **Security**:
-    ● Android security patch: September, 2020
+    ● Updated Android security patch: October, 2020
+    **Game Space**:
+    ● Optimized the logic of the default state of the brightness lock
+    **Call**:
+    ● Optimized the layout of call setting interface
+    ● Fixed the probabilistic issue of the Reject With SMS feature
     **Settings**:
-    ● Optimized the user experience of Wi-Fi settings
-    ● Fixed the entry display of Deep cleanup
-    **Bluetooth**:
-    ● Fixed the probabilistic no sound issue when playing music after hanging up calls in Bluetooth mode
-    ● Fixed the issue of unable to resume phone call after pressing the headphone button to put phone call on hold
+    ● Added physical toggle on the setting interface of Screenshot
+    ● Added toggle for display keyboard when entering app drawer
+    ● Added From Sunset to Sunrise toggle for eye comfort
+    ● Added toggle for system icons in Status bar
+    ● Added Super Power Saving Mode
+    ● Added Multi-user feature
+    ● Optimized the language display issue of HeyTap in some scenarios
+    **Album**:
+    **Fixed the issue of the abnormal preview of the recording video interface when filming in 1080P/60 frames**:
   codename: RMX2061
-  date: 29/9/2020
+  date: 18/11/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0350_all_vxhBm0QUUleD.ozip
-  md5: 45A88580F41057B652A005218131BED7
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0390_all_RfmTA1Flkeqv.ozip
+  md5: 000E44F46D316D2D934582313C5B556F
   region: India
-  size: 3.44GB
+  size: 3.49GB
   system: realme UI 1.0
-  version: RMX2061_11.A.35
+  version: RMX2061_11.A.39
 - changelog: |
     **Security**:
     ● Android security patch: October, 2020
@@ -1786,18 +1788,18 @@
   version: RMX2076PU_11.A.37
 - changelog: |
     **Keamanan**:
-    ● Android security patch: Agustus 2020
+    ● Tingkat Android Security Patch: Oktober 2020
     **Sistem**:
-    ● Memperbaiki beberapa masalah dan meningkatkan stabilitas sistem.
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2061
-  date: 18/9/2020
+  date: 18/11/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0330_all_euWtOh1hvBco.ozip
-  md5: E2CC792038804FEA9609B577CDF76F72
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0390_all_RfmTA1Flkeqv.ozip
+  md5: 000E44F46D316D2D934582313C5B556F
   region: Indonesia
-  size: 3.41GB
+  size: 3.49GB
   system: realme UI 1.0
-  version: RMX2061_11.A.33
+  version: RMX2061_11.A.39
 - changelog: |
     **Keamanan**:
     ● Android security patch: Oktober 2020
@@ -1940,18 +1942,18 @@
   version: RMX1851EX_11.C.10
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: September 2020
+    ● Tingkat Android Security Patch: November 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1821EX
-  date: 23/9/2020
+  date: 21/11/2020
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1160_all_nvdqHN4w55Z1.ozip
-  md5: 35284EC131F1C98128FC43EEC9FBA3A0
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
+  md5: 0186F0F737743A7574157CDDC3CCE424
   region: Indonesia
-  size: 2.56GB
+  size: 2.60 GB
   system: realme UI V1.0
-  version: RMX1821EX_11.C.16
+  version: RMX1821EX_11.C.17
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: September 2020
@@ -2104,38 +2106,31 @@
   version: RMX2081PU_11.A.45
 - changelog: |
     **Security**:
-    ● Android Security Patch: August 2020
-    **realme Lab**:
-    ● Added the Super nighttime standby feature
-    ● Added the smooth scrolling feature
+    ● Updated Android security patch: October, 2020
+    **Game Space**:
+    ● Optimized the logic of the default state of the brightness lock
+    **Call**:
+    ● Optimized the layout of call setting interface
+    ● Fixed the probabilistic issue of the Reject With SMS feature
     **Settings**:
-    ● Added long press to copy IMEI in the status information interface
-    ● Added Deep cleanup feature in Process Manager
-    ● Optimized the default display of battery percentage
-    **System**:
-    ● Added long press to uninstall apps directly in the app drawer
-    **Status Bar**:
-    ● Added OTG Switch toggle to notification panel
-    ● Added independent Switch toggles of focus mode
-    ● Optimized "Mute-Bell-Vibrate" icon state
-    ● Optimized viewing for system update prompt pop-up window
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
-    ● Optimized Russian translation issue of the carrier in the status bar
-    **Calculator**:
-    ● Optimized the Russian translation issue of the calculator
-    **Lock screen**:
-    ● Fixed font display issue of charging animation
-    **Camera**:
-    ● Fixed the probabilistic lagging issue of video recording after blurring the background
+    ● Added physical toggle on the setting interface of Screenshot
+    ● Added toggle for display keyboard when entering app drawer
+    ● Added From Sunset to Sunrise toggle for eye comfort
+    ● Added toggle for system icons in Status bar
+    ● Added Super Power Saving Mode
+    ● Added Multi-user feature
+    ● Optimized the language display issue of HeyTap in some scenarios
+    **Album**:
+    **Fixed the issue of the abnormal preview of the recording video interface when filming in 1080P/60 frames**:
   codename: RMX2061
-  date: 18/9/2020
+  date: 18/11/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0330_all_euWtOh1hvBco.ozip
-  md5: E2CC792038804FEA9609B577CDF76F72
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0390_all_RfmTA1Flkeqv.ozip
+  md5: 000E44F46D316D2D934582313C5B556F
   region: Pakistan
-  size: 3.41GB
+  size: 3.49GB
   system: realme UI 1.0
-  version: RMX2061_11.A.33
+  version: RMX2061_11.A.39
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
@@ -2362,18 +2357,18 @@
   version: RMX1941EX_11.A.28
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android за август 2020
+    ● Обновлены патчи безопасности Android за октябрь 2020
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
   codename: RMX2061
-  date: 18/9/2020
+  date: 18/11/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0330_all_euWtOh1hvBco.ozip
-  md5: E2CC792038804FEA9609B577CDF76F72
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0390_all_RfmTA1Flkeqv.ozip
+  md5: 000E44F46D316D2D934582313C5B556F
   region: Russia
-  size: 3.41GB
+  size: 3.49GB
   system: realme UI 1.0
-  version: RMX2061_11.A.33
+  version: RMX2061_11.A.39
 - changelog: |
     **Безопасность:**:
     ● Добавлены патчи безопасности Android за октябрь 2020
@@ -2744,18 +2739,18 @@
   version: RMX2185_11_A.79
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: tháng 8 năm 2020
+    ● Cập nhật bản vá bảo mật Android: tháng 10 năm 2020
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2061
-  date: 18/9/2020
+  date: 18/11/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0330_all_euWtOh1hvBco.ozip
-  md5: E2CC792038804FEA9609B577CDF76F72
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0390_all_RfmTA1Flkeqv.ozip
+  md5: 000E44F46D316D2D934582313C5B556F
   region: Vietnam
-  size: 3.41GB
+  size: 3.49GB
   system: realme UI 1.0
-  version: RMX2061_11.A.33
+  version: RMX2061_11.A.39
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#7)

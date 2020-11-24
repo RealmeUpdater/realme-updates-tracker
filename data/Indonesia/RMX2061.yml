@@ -1,14 +1,14 @@
 changelog: |
   **Keamanan**:
-  ● Android security patch: Agustus 2020
+  ● Tingkat Android Security Patch: Oktober 2020
   **Sistem**:
-  ● Memperbaiki beberapa masalah dan meningkatkan stabilitas sistem.
+  ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
 codename: RMX2061
-date: 18/9/2020
+date: 18/11/2020
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0330_all_euWtOh1hvBco.ozip
-md5: E2CC792038804FEA9609B577CDF76F72
+download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0390_all_RfmTA1Flkeqv.ozip
+md5: 000E44F46D316D2D934582313C5B556F
 region: Indonesia
-size: 3.41GB
+size: 3.49GB
 system: realme UI 1.0
-version: RMX2061_11.A.33
+version: RMX2061_11.A.39

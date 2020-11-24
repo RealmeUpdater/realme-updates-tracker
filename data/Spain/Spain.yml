@@ -68,18 +68,18 @@
   version: RMX2076EU_11.A.36
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android(2020#8)
+    ● Parche de seguridad de Android(2020#10)
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2061EU
-  date: 18/9/2020
+  date: 18/11/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0260_all_lT3yU5d8rraB.ozip
-  md5: 178744DA26DA5C953BE8B573EA919104
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0320_all_Ed8bvkv0Jw3V.ozip
+  md5: 7426CE33A5DD76B3B39FAE7C6921D668
   region: Spain
-  size: 3.14GB
+  size: 3.18GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.26
+  version: RMX2061EU_11.A.32
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:septiembre de 2020

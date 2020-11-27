@@ -2,14 +2,14 @@
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2170EU
-  date: 4/11/2020
+  date: 14/11/2020
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0200_all_pAPdILA9Pvil.ozip
-  md5: B956C5BA795934E6D45CB84F6FCA991F
+  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0220_all_513zRCJvhNJG.ozip
+  md5: 18B15B3487729E1F6D94A547984B7400
   region: Spain
-  size: 3.49GB
-  system: realme UI V1.0
-  version: RMX2170EU_11_A.20
+  size: 3.50GB
+  system: ColorOS 7.2
+  version: RMX2170EU_11_A.22
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android（2020#7）

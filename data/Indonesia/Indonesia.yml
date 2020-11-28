@@ -136,7 +136,7 @@
   md5: 3AC550ADF4BCE342BFDEB482358CB9A6
   region: Indonesia
   size: 2.83GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2020_11_A.39
 - changelog: |
     **Keamanan**:
@@ -178,7 +178,7 @@
   md5: RMX1921EX_11.C.08
   region: Indonesia
   size: 3.13GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX1921EX_11.C.08
 - changelog: |
     **Keamanan**:
@@ -192,7 +192,7 @@
   md5: C8EED771C38687F8B194CD716660F9A4
   region: Indonesia
   size: 3.28GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX1971EX_11.C.08
 - changelog: |
     **Keamanan**:
@@ -234,7 +234,7 @@
   md5: 44ECF088A7CBFCF7CF8B7321FF445CE5
   region: Indonesia
   size: 3.28GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX1901EX_11.C.07
 - changelog: |
     **Keamanan**:
@@ -248,7 +248,7 @@
   md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
   region: Indonesia
   size: 3.26GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX1851EX_11.C.10
 - changelog: |
     **Keamanan**:
@@ -262,7 +262,7 @@
   md5: 0186F0F737743A7574157CDDC3CCE424
   region: Indonesia
   size: 2.60 GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX1821EX_11.C.17
 - changelog: |
     **Keamanan**:
@@ -318,7 +318,7 @@
   md5: 993AEF308DCA94E8B5E33C003342DD95
   region: Indonesia
   size: 3.04GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX1801EX_11.F.12
 - changelog: |
     **Keamanan**:

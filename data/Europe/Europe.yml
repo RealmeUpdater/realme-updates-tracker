@@ -93,7 +93,7 @@
   md5: ' C887C801E4CDD2E9CD60124C89B4D4BF'
   region: Europe
   size: 3.60GB
-  system: realmeUI V1.0
+  system: realmeUI 1.0
   version: RMX2076EU_11.A.34
 - changelog: |
     **Security**:
@@ -310,5 +310,5 @@
   md5: 86FE0992FFFF87A331389A4977FCEE4C
   region: Europe
   size: 3.15GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX1851EX_11.C.07

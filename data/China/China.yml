@@ -10,7 +10,7 @@
   md5: 0199FBF487770EB5C72E1F3F36A3203C
   region: China
   size: 3.04GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2173_11.A.19
 - changelog: |
     **触控**:
@@ -33,7 +33,7 @@
   md5: CA5014AA0184AE3799F0766E402F4D13
   region: China
   size: 3.19GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2121_11_A.16
 - changelog: |
     **应用**:
@@ -54,7 +54,7 @@
   md5: 282045F43250F51910F3E50A00616FEB
   region: China
   size: 2.99GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2200_11_A.10
 - changelog: |
     **系统**:
@@ -68,7 +68,7 @@
   md5: 0199FBF487770EB5C72E1F3F36A3203C
   region: China
   size: 3.04GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2176_11.A.19
 - changelog: |
     **设置**:
@@ -90,7 +90,7 @@
   md5: 95b07d1186bcd45748cfdcca4fa04600
   region: China
   size: 3.80GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2071_11.A.24
 - changelog: |
     **手电筒**:
@@ -119,7 +119,7 @@
   md5: D9AD48800CA26E8D428BD0C8F900A6A8
   region: China
   size: 3.75GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2141_11.A.12
 - changelog: |
     **设置**:
@@ -141,7 +141,7 @@
   md5: 95b07d1186bcd45748cfdcca4fa04600
   region: China
   size: 3.80GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2071_11.A.24
 - changelog: |
     **手电筒**:
@@ -170,7 +170,7 @@
   md5: 018DC23765872BD254D80AF8BFD1D0D0
   region: China
   size: 3.75GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2051_11.B.19
 - changelog: |
     **设置**:

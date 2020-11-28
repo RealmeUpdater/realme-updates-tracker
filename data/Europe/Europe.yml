@@ -1,18 +1,19 @@
 - changelog: |
     **Camera**:
-    ● Optimized the color effect of photos taken with the rear camera
-    ● Fixed color shift issue of the front camera
+    ● Optimized the image clarity of the Night mode
+    ● Optimized the image clarity and dynamic range of the front camera in HDR mode
+    ● Fixed the image noise in handheld shooting conditions
     **System**:
-    ● Fixed some known issues and improved system stability.
+    ● Fixed the recording issue while setting up the default audio recorder
   codename: RMX2170EU
-  date: 4/11/2020
+  date: 14/11/2020
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0200_all_pAPdILA9Pvil.ozip
-  md5: B956C5BA795934E6D45CB84F6FCA991F
+  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0220_all_513zRCJvhNJG.ozip
+  md5: 18B15B3487729E1F6D94A547984B7400
   region: Europe
   size: 3.49GB
-  system: realme UI V1.0
-  version: RMX2170EU_11_A.20
+  system: realme UI 1.0
+  version: RMX2170EU_11_A.22
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020

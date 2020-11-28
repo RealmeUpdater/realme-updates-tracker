@@ -109,7 +109,7 @@
   md5: 0199FBF487770EB5C72E1F3F36A3203C
   region: China
   size: 3.04GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2173_11.A.19
 - changelog: |
     **触控**:
@@ -132,7 +132,7 @@
   md5: CA5014AA0184AE3799F0766E402F4D13
   region: China
   size: 3.19GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2121_11_A.16
 - changelog: |
     **应用**:
@@ -153,7 +153,7 @@
   md5: 282045F43250F51910F3E50A00616FEB
   region: China
   size: 2.99GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2200_11_A.10
 - changelog: |
     **系统**:
@@ -167,7 +167,7 @@
   md5: 0199FBF487770EB5C72E1F3F36A3203C
   region: China
   size: 3.04GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2176_11.A.19
 - changelog: |
     **设置**:
@@ -189,7 +189,7 @@
   md5: 95b07d1186bcd45748cfdcca4fa04600
   region: China
   size: 3.80GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2071_11.A.24
 - changelog: |
     **手电筒**:
@@ -218,7 +218,7 @@
   md5: D9AD48800CA26E8D428BD0C8F900A6A8
   region: China
   size: 3.75GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2141_11.A.12
 - changelog: |
     **设置**:
@@ -240,7 +240,7 @@
   md5: 95b07d1186bcd45748cfdcca4fa04600
   region: China
   size: 3.80GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2071_11.A.24
 - changelog: |
     **手电筒**:
@@ -269,7 +269,7 @@
   md5: 018DC23765872BD254D80AF8BFD1D0D0
   region: China
   size: 3.75GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX2051_11.B.19
 - changelog: |
     **设置**:
@@ -437,7 +437,7 @@
   md5: 18B15B3487729E1F6D94A547984B7400
   region: Spain
   size: 3.50GB
-  system: ColorOS 7.2
+  system: realme UI 1.0
   version: RMX2170EU_11_A.22
 - changelog: |
     **Seguridad**:
@@ -635,19 +635,20 @@
   version: RMX1851EX_11.C.10
 - changelog: |
     **Camera**:
-    ● Optimized the color effect of photos taken with the rear camera
-    ● Fixed color shift issue of the front camera
+    ● Optimized the image clarity of the Night mode
+    ● Optimized the image clarity and dynamic range of the front camera in HDR mode
+    ● Fixed the image noise in handheld shooting conditions
     **System**:
-    ● Fixed some known issues and improved system stability.
+    ● Fixed the recording issue while setting up the default audio recorder
   codename: RMX2170EU
-  date: 4/11/2020
+  date: 14/11/2020
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0200_all_pAPdILA9Pvil.ozip
-  md5: B956C5BA795934E6D45CB84F6FCA991F
+  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0220_all_513zRCJvhNJG.ozip
+  md5: 18B15B3487729E1F6D94A547984B7400
   region: Europe
   size: 3.49GB
-  system: realme UI V1.0
-  version: RMX2170EU_11_A.20
+  system: realme UI 1.0
+  version: RMX2170EU_11_A.22
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
@@ -2324,7 +2325,7 @@
   md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
   region: Pakistan
   size: 3.26GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX1851EX_11.C.10
 - changelog: |
     **سلامتی**:
@@ -2338,7 +2339,7 @@
   md5: 0186F0F737743A7574157CDDC3CCE424
   region: Pakistan
   size: 2.60 GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX1821EX_11.C.17
 - changelog: |
     **Security**:
@@ -2561,7 +2562,7 @@
   md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
   region: Russia
   size: 3.26GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX1851EX_11.C.10
 - changelog: |
     **Безопасность**:
@@ -2575,7 +2576,7 @@
   md5: 0186F0F737743A7574157CDDC3CCE424
   region: Russia
   size: 2.60 GB
-  system: realme UI V1.0
+  system: realme UI 1.0
   version: RMX1821EX_11.C.17
 - changelog: ''
   codename: RMX2020EU

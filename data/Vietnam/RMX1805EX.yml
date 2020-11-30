@@ -1,14 +1,14 @@
 changelog: |
   **Bảo mật**:
-  ● Cập nhật bản vá bảo mật Android: (2020#9)
+  ● Cập nhật bản vá bảo mật Android: (2020#11)
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
 codename: RMX1805EX
-date: 18/9/2020
+date: 25/11/2020
 device: realme 2
-download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0700_all_wz1txoQrYF4w.ozip
-md5: 9D64E82186A57AF222CAC4C5EB0F2024
+download: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0710_all_i3cdf6V7tk6F.ozip
+md5: 1736EEC88C9AE35D5C211B803BE3B386
 region: Vietnam
 size: 2.08GB
 system: ColorOS 6.0
-version: RMX1805EX_11.A.70
+version: RMX1805EX_11.A.71

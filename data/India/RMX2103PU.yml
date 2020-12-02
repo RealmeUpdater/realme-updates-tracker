@@ -1,14 +1,19 @@
 changelog: |
+  **System**:
+  ● Optimized the camera freezing issue when shooting in some specific scenarios
+  ● Optimized the lagging issue of candy crash game in specific scenarios
+  ● Fixed the crashing issue of Photos in some scenarios
+  ● Fixed the issue that the power button does not respond during call in some scenarios
   **Camera**:
-  ● Optimized the color saturation of the rear camera
-  ● Optimized the color representation of the rear camera in Portrait mode
-  ● Optimized the image brightness of the rear camera for flowers and plants
+  ● Optimized the image clarity of the rear 64M camera
+  **Clock**:
+  ● Fixed the issue of Clock text in some languages are displayed in Chinese in specific scenarios
 codename: RMX2103PU
-date: 12/11/2020
+date: 30/11/2020
 device: realme 7i
-download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0310_all_uBWU2Em6wYbj.ozip
-md5: 57C2ADFDBB6A78A8FF54F2AFA1D128D5
+download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0330_all_A0hpWUTDfu8T.ozip
+md5: 4F2C40BBC08360253687EE3F1CABAB86
 region: India
 size: 3.24GB
 system: realme UI 1.0
-version: RMX2103PU_11.A.31
+version: RMX2103PU_11.A.33

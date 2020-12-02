@@ -949,19 +949,24 @@
   system: realme UI 1.0
   version: RMX1851EX_11.C.07
 - changelog: |
+    **System**:
+    ● Optimized the camera freezing issue when shooting in some specific scenarios
+    ● Optimized the lagging issue of candy crash game in specific scenarios
+    ● Fixed the crashing issue of Photos in some scenarios
+    ● Fixed the issue that the power button does not respond during call in some scenarios
     **Camera**:
-    ● Optimized the color saturation of the rear camera
-    ● Optimized the color representation of the rear camera in Portrait mode
-    ● Optimized the image brightness of the rear camera for flowers and plants
+    ● Optimized the image clarity of the rear 64M camera
+    **Clock**:
+    ● Fixed the issue of Clock text in some languages are displayed in Chinese in specific scenarios
   codename: RMX2103PU
-  date: 12/11/2020
+  date: 30/11/2020
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0310_all_uBWU2Em6wYbj.ozip
-  md5: 57C2ADFDBB6A78A8FF54F2AFA1D128D5
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0330_all_A0hpWUTDfu8T.ozip
+  md5: 4F2C40BBC08360253687EE3F1CABAB86
   region: India
   size: 3.24GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.31
+  version: RMX2103PU_11.A.33
 - changelog: |
     **Security**:
     ● Android security patch: October, 2020
@@ -1695,19 +1700,31 @@
   system: ColorOS 6.0
   version: CPH1861EX_11.C.50
 - changelog: |
-    **Keamanan**:
-    ● Android security patch: Oktober 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2103PU
-  date: 3/11/2020
+  date: 30/11/2020
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0290_all_T7h4k2mGD2oX.ozip
-  md5: 1ED3DB0156EFB89EC3AE6C46569DA273
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0330_all_A0hpWUTDfu8T.ozip
+  md5: 4F2C40BBC08360253687EE3F1CABAB86
   region: Indonesia
   size: 3.24GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.29
+  version: RMX2103PU_11.A.33
+- changelog: |
+    **Keamanan**:
+    ● Android security patch: November 2020
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2101PU
+  date: 30/11/2020
+  device: realme C17
+  download: https://download.c.realme.com/osupdate/RMX2101PU_11_OTA_0250_all_2mSMA5shl0LA.ozip
+  md5: 2C8A34953C32CB00A4FC10C2DA1510F5
+  region: Indonesia
+  size: 3.24GB
+  system: realme UI 1.0
+  version: RMX2101PU_11.A.25
 - changelog: |
     **Keamanan**:
     ● Android security patch: Oktober 2020
@@ -2702,19 +2719,17 @@
   system: ColorOS 6.0
   version: RMX1941EX_11.A.28
 - changelog: |
-    **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 10 năm 2020
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2103PU
-  date: 3/11/2020
+  date: 30/11/2020
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0290_all_T7h4k2mGD2oX.ozip
-  md5: 1ED3DB0156EFB89EC3AE6C46569DA273
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0330_all_A0hpWUTDfu8T.ozip
+  md5: 4F2C40BBC08360253687EE3F1CABAB86
   region: Vietnam
   size: 3.24GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.29
+  version: RMX2103PU_11.A.33
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: Tháng 10 năm 2020

@@ -1,8 +1,18 @@
 changelog: |
-  **سیکیورٹیسیکیورٹی**:
-  ●Android سیکورٹی پیچ سطح: (2020#10)
-  **سسٹم**:
-  ● کچھ معلوم مسائل حل ہو گئے اور سسٹم کے استحکام کو بہتر کر دیا گیا
+  **Settings**:
+  ● Added toggle for system icons in Status bar
+  ● Added From Sunset to Sunrise toggle for eye comfort
+  ● Added toggle for display keyboard when entering app drawer
+  **Game Space**:
+  ● Optimized the display effect of the screen brightness lock
+  **Network**:
+  ● Fixed the network connection loss in some scenarios
+  **Album**:
+  ● Fixed the probabilistic screen flicker when entering the album
+  **Status bar**:
+  ● Fixed the probabilistic time display issue
+  **System**:
+  ● Fixed the probabilistic Lagging issue with use of Instagram to switch video
 codename: RMX2081PU
 date: 09/11/2020
 device: realme X3 SuperZoom

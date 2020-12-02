@@ -1,4 +1,23 @@
 - changelog: |
+    **Security**:
+    ● Updated Android security patch: Nov, 2020
+    **System**:
+    ● Optimized the lagging issue of camera shooting in some specific scenarios
+    ● Optimized the lagging issue of candy crash game in some specific scenarios
+    ● Fixed the crashing issue of Photos in some scenarios
+    ● Fixed the issue that the power button does not respond during call in some scenarios
+    **Clock**:
+    ● Fixed the issue of Clock text in some languages are displayed in Chinese in specific scenarios
+  codename: RMX2101PU
+  date: 30/11/2020
+  device: realme C17
+  download: https://download.c.realme.com/osupdate/RMX2101PU_11_OTA_0250_all_2mSMA5shl0LA.ozip
+  md5: 2C8A34953C32CB00A4FC10C2DA1510F5
+  region: Pakistan
+  size: 3.24GB
+  system: realme UI 1.0
+  version: RMX2101PU_11.A.25
+- changelog: |
     **Optimized**:
     ● Optimized system stability
   codename: RMX2185
@@ -11,10 +30,20 @@
   system: realme UI 1.0
   version: RMX2185_11_A.65
 - changelog: |
-    **سیکیورٹیسیکیورٹی**:
-    ●Android سیکورٹی پیچ سطح: (2020#10)
-    **سسٹم**:
-    ● کچھ معلوم مسائل حل ہو گئے اور سسٹم کے استحکام کو بہتر کر دیا گیا
+    **Settings**:
+    ● Added toggle for system icons in Status bar
+    ● Added From Sunset to Sunrise toggle for eye comfort
+    ● Added toggle for display keyboard when entering app drawer
+    **Game Space**:
+    ● Optimized the display effect of the screen brightness lock
+    **Network**:
+    ● Fixed the network connection loss in some scenarios
+    **Album**:
+    ● Fixed the probabilistic screen flicker when entering the album
+    **Status bar**:
+    ● Fixed the probabilistic time display issue
+    **System**:
+    ● Fixed the probabilistic Lagging issue with use of Instagram to switch video
   codename: RMX2081PU
   date: 09/11/2020
   device: realme X3 SuperZoom
@@ -245,20 +274,6 @@
   size: 3.26GB
   system: realme UI 1.0
   version: RMX1851EX_11.C.10
-- changelog: |
-    **سلامتی**:
-    ●Android سیکورٹی پیچ سطح: (2020#11)
-    **سسٹم**:
-    ● کچھ معلوم بگز حل ہو گئے، اور سسٹم کی ابیلیٹی بہتر ہو گئی ہے
-  codename: RMX1821EX
-  date: 21/11/2020
-  device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
-  md5: 0186F0F737743A7574157CDDC3CCE424
-  region: Pakistan
-  size: 2.60 GB
-  system: realme UI 1.0
-  version: RMX1821EX_11.C.17
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020

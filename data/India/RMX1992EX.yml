@@ -13,10 +13,10 @@ changelog: |
   **Alarm**:
   ● Fixed the probabilistic issue when clicking "More Settings" in the alarm details page after switching off the ringing alarm
 codename: RMX1992EX
-date: 2/12/2020
+date: 24/11/2020
 device: realme X2
 download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1140_all_m6EovjdmO6LL.ozip
-md5: 2F2E66B1596BA957325EC0518B0CCE6D
+md5: FA59D1ACF5B0D0FDA8576B817481BC37
 region: India
 size: 3.01GB
 system: realme UI 1.0

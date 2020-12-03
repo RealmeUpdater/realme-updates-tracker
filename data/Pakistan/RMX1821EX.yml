@@ -1,8 +1,14 @@
 changelog: |
-  **سلامتی**:
-  ●Android سیکورٹی پیچ سطح: (2020#11)
-  **سسٹم**:
-  ● کچھ معلوم بگز حل ہو گئے، اور سسٹم کی ابیلیٹی بہتر ہو گئی ہے
+  **Security**:
+  ● Updated Android security patch: Oct, 2020/Nov, 2020
+  **Bluetooth**:
+  ● Added a new icon for phone calls with Bluetooth earphone
+  **Settings**:
+  ● Added From Sunset to Sunrise option of eye comfort
+  ● Added short-press the power button to turn off flashlight feature while screen-off
+  **Screenshot**:
+  ● Added a toggle for physical button in screenshot settings
+  ● Optimized the interactive mode for screenshot floating preview
 codename: RMX1821EX
 date: 21/11/2020
 device: realme 3

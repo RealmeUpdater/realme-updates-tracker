@@ -276,6 +276,26 @@
   version: RMX1851EX_11.C.10
 - changelog: |
     **Security**:
+    ● Updated Android security patch: Oct, 2020/Nov, 2020
+    **Bluetooth**:
+    ● Added a new icon for phone calls with Bluetooth earphone
+    **Settings**:
+    ● Added From Sunset to Sunrise option of eye comfort
+    ● Added short-press the power button to turn off flashlight feature while screen-off
+    **Screenshot**:
+    ● Added a toggle for physical button in screenshot settings
+    ● Optimized the interactive mode for screenshot floating preview
+  codename: RMX1821EX
+  date: 21/11/2020
+  device: realme 3
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
+  md5: 0186F0F737743A7574157CDDC3CCE424
+  region: Pakistan
+  size: 2.60 GB
+  system: realme UI 1.0
+  version: RMX1821EX_11.C.17
+- changelog: |
+    **Security**:
     ● Android security patch: July, 2020
     **Applications**:
     ● Added realme Link

@@ -1,23 +1,12 @@
 changelog: |
-  **Security**:
-  ● Updated Android security patch: Oct, 2020/Nov, 2020
-  **Game Space**:
-  ● Optimized the logic of the default state of the Brightness lock
-  **Settings**:
-  ● Added a toggle for displaying keyboard function when entering app drawer
-  ● Added a toggle for From Sunset to Sunrise option of Eye comfort
-  ● Added a toggle for the system icons in the statuts bar
-  ● Optimized the interactive mode for screenshot floating preview
-  ● Optimized the data package limit
-  ● Fixed the probabilistic issue of the screen-off gesture feature in some scenarios
-  **Alarm**:
-  ● Fixed the probabilistic issue when clicking "More Settings" in the alarm details page after switching off the ringing alarm
+  **System**:
+  ● Fixed the probabilistic issue that brightness drop to the minimum under a strong light source
 codename: RMX1992AEX
-date: 2/12/2020
+date: 21/10/2020
 device: realme X2
-download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1140_all_4R5z6O3IetOC.ozip
-md5: FA59D1ACF5B0D0FDA8576B817481BC37
+download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1130_all_FIJ8DkW9wLrw.ozip
+md5: DBAF69E0B7CC748F59AFA9E69EB7455F
 region: India
-size: 3.14GB
+size: 3.11GB
 system: realme UI 1.0
-version: RMX1992AEX_11.C.14
+version: RMX1992AEX_11.C.13

@@ -92,21 +92,23 @@
   system: realme UI 1.0
   version: RMX2151PU_11.A.69
 - changelog: |
+    **Security**:
+    ● Updated Android security patch: Nov, 2020
     **Camera**:
-    ● Optimized the image clarity of the Night mode
-    ● Optimized the image clarity and dynamic range of the front camera in HDR mode
-    ● Fixed the image noise in handheld shooting conditions
+    ● Fixed the probabilistic issue of the sound not synchronized with the video recorded by front camera
+    ● Optimized probabilistic issue of camera image distortion of video recording
     **System**:
-    ● Fixed the recording issue while setting up the default audio recorder
+    ● Fixed the issue of flickering screen in some scenarios
+    ● Fixed some known issues of system stability
   codename: RMX2170PU
-  date: 14/11/2020
+  date: 30/11/2020
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0210_all_9TCILUGwkUqO.ozip
-  md5: 6BF999A2361822D0EC5C29E2A2ACCDD9
+  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0230_all_NdCMU2kIa9km.ozip
+  md5: A81AC0849AA353683AE1FC3E5BE328A0
   region: India
   size: 3.81GB
   system: realme UI 1.0
-  version: RMX2170PU_11_A.21
+  version: RMX2170PU_11_A.23
 - changelog: |
     **Security**:
     ● Updated Android security patch: October, 2020
@@ -413,29 +415,6 @@
     ● Fixed the probabilistic issue of the screen-off gesture feature in some scenarios
     **Alarm**:
     ● Fixed the probabilistic issue when clicking "More Settings" in the alarm details page after switching off the ringing alarm
-  codename: RMX1992EX
-  date: 2/12/2020
-  device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1140_all_m6EovjdmO6LL.ozip
-  md5: 2F2E66B1596BA957325EC0518B0CCE6D
-  region: India
-  size: 3.01GB
-  system: realme UI 1.0
-  version: RMX1992EX_11.C.14
-- changelog: |
-    **Security**:
-    ● Updated Android security patch: Oct, 2020/Nov, 2020
-    **Game Space**:
-    ● Optimized the logic of the default state of the Brightness lock
-    **Settings**:
-    ● Added a toggle for displaying keyboard function when entering app drawer
-    ● Added a toggle for From Sunset to Sunrise option of Eye comfort
-    ● Added a toggle for the system icons in the statuts bar
-    ● Optimized the interactive mode for screenshot floating preview
-    ● Optimized the data package limit
-    ● Fixed the probabilistic issue of the screen-off gesture feature in some scenarios
-    **Alarm**:
-    ● Fixed the probabilistic issue when clicking "More Settings" in the alarm details page after switching off the ringing alarm
   codename: RMX1992AEX
   date: 2/12/2020
   device: realme X2
@@ -445,6 +424,18 @@
   size: 3.14GB
   system: realme UI 1.0
   version: RMX1992AEX_11.C.14
+- changelog: |
+    **System**:
+    ● Fixed the probabilistic issue that brightness drop to the minimum under a strong light source
+  codename: RMX1992AEX
+  date: 21/10/2020
+  device: realme X2
+  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1130_all_FIJ8DkW9wLrw.ozip
+  md5: DBAF69E0B7CC748F59AFA9E69EB7455F
+  region: India
+  size: 3.11GB
+  system: realme UI 1.0
+  version: RMX1992AEX_11.C.13
 - changelog: |
     **Security**:
     ● Android security patch: October, 2020

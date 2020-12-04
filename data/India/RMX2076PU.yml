@@ -1,18 +1,18 @@
 changelog: |
   **Security**:
-  ● Android security patch: October, 2020
-  **Settings**:
-  ● Added toggle for system icons in Status bar
-  ● Added From Sunset to Sunrise toggle for eye comfort
-  ● Added toggle for display keyboard when entering app drawer
-  **Album**:
-  ● Fixed the probabilistic screen flicker when entering the album
+  ● Updated Android security patch: Nov, 2020
+  **Flashlight**:
+  ● Added short-press the power button to turn off flashlight feature while screen-off
+  **Privacy Safe**:
+  ● Fixed the probabilistic issue of being required to enter password twice to log into Privacy Safe
+  **Screenshot**:
+  ● Fixed the issue of a screenshot floating toggle flashing on the screenshot setting page
 codename: RMX2076PU
-date: 09/11/2020
+date: 1/12/2020
 device: realme X50 Pro
-download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0390_all_u4GLLSVoFmL0.ozip
-md5: beb306f1f2acb01e1f8eca55da0c9021
+download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0410_all_2rHJeJBmtJF0.ozip
+md5: 61588f226e7c02e603ac7383233474c2
 region: India
-size: 3.86GB
+size: 3.92GB
 system: realmeUI 1.0
-version: RMX2076PU_11.A.39
+version: RMX2076PU_11.A.41

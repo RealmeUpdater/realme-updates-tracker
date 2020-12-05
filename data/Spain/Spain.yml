@@ -1,15 +1,17 @@
 - changelog: |
+    **Seguridad**:
+    ● Parche de seguridad de Android:noviembre de 2020
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2170EU
-  date: 14/11/2020
+  date: 5/12/2020
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0220_all_513zRCJvhNJG.ozip
-  md5: 18B15B3487729E1F6D94A547984B7400
+  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0260_all_Ic4pLghXSFda.ozip
+  md5: 341AD2F215D3DC6EB4474614A45C977E
   region: Spain
-  size: 3.50GB
+  size: 3.51GB
   system: realme UI 1.0
-  version: RMX2170EU_11_A.22
+  version: RMX2170EU_11_A.26
 - changelog: |
     **Sécurité**:
     ● Correctif de sécurité Android（2020#11）

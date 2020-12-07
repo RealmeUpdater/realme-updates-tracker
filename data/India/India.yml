@@ -51,6 +51,48 @@
   version: RMX2050EX_11_A.17
 - changelog: |
     **Security**:
+    ● Updated Android security patch: November, 2020
+    **Camera**:
+    ● Optimized image quality of the main lens
+    ● Optimized the low portrait clarity issue of the front camera
+    ● Optimized the image effect of Super night scape
+    **Touch**:
+    ● Optimized the touch control algorithm and improved touch control experience
+    **System**:
+    ● Fixed some known issues and optimized the system fluency
+    ● Fixed the probabilistic screen flicker and optimized the display quality at low brightness conditions
+  codename: RMX2151PU
+  date: 5/12/2020
+  device: realme narzo 20 Pro
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0710_all_ybwVKLp8S7lZ.ozip
+  md5: EFA90A545B7126BFBE02BB3C2179164A
+  region: India
+  size: 3.45GB
+  system: realme UI 1.0
+  version: RMX2151PU_11.A.71
+- changelog: |
+    **Security**:
+    ● Updated Android security patch: November, 2020
+    **Camera**:
+    ● Optimized image quality of the main lens
+    ● Optimized the low portrait clarity issue of the front camera
+    ● Optimized the image effect of Super night scape
+    **Touch**:
+    ● Optimized the touch control algorithm and improved touch control experience
+    **System**:
+    ● Fixed some known issues and optimized the system fluency
+    ● Fixed the probabilistic screen flicker and optimized the display quality at low brightness conditions
+  codename: RMX2151PU
+  date: 5/12/2020
+  device: realme 7
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0710_all_ybwVKLp8S7lZ.ozip
+  md5: EFA90A545B7126BFBE02BB3C2179164A
+  region: India
+  size: 3.45GB
+  system: realme UI 1.0
+  version: RMX2151PU_11.A.71
+- changelog: |
+    **Security**:
     ● Updated Android security patch: Nov, 2020
     **Camera**:
     ● Fixed the probabilistic issue of the sound not synchronized with the video recorded by front camera

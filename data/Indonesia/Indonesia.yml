@@ -54,46 +54,46 @@
   version: RMX2101PU_11.A.25
 - changelog: |
     **Keamanan**:
-    ● Android security patch: Oktober 2020
+    ● Tingkat Android Security Patch: November 2020
     **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2185
-  date: 10/11/2020
+  date: 8/12/2020
   device: realme C15
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
-  md5: 67DF6910A8B5026EAE56025CF07572B5
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
+  md5: 134798EB119CC6694AED3960E15BCC29
   region: Indonesia
-  size: 3.09GB
+  size: 3.17GB
   system: realme UI 1.0
-  version: RMX2185_11_A.79
+  version: RMX2185_11_A.81
 - changelog: |
     **Keamanan**:
-    ● Android security patch: Oktober 2020
+    ● Tingkat Android Security Patch: November 2020
     **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2185
-  date: 10/11/2020
+  date: 8/12/2020
   device: realme C12
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
-  md5: 67DF6910A8B5026EAE56025CF07572B5
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
+  md5: 134798EB119CC6694AED3960E15BCC29
   region: Indonesia
-  size: 3.09GB
+  size: 3.17GB
   system: realme UI 1.0
-  version: RMX2185_11_A.79
+  version: RMX2185_11_A.81
 - changelog: |
     **Keamanan**:
-    ● Android security patch: Oktober 2020
+    ● Tingkat Android Security Patch: November 2020
     **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2185
-  date: 10/11/2020
+  date: 8/12/2020
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
-  md5: 67DF6910A8B5026EAE56025CF07572B5
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
+  md5: 134798EB119CC6694AED3960E15BCC29
   region: Indonesia
-  size: 3.09GB
+  size: 3.17GB
   system: realme UI 1.0
-  version: RMX2185_11_A.79
+  version: RMX2185_11_A.81
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: Oktober 2020

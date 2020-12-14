@@ -9,10 +9,23 @@
   system: realme UI 1.0
   version: RMX2020EU_11.A.36
 - changelog: |
-    **Güvenlik**:
-    ● Android güvenlik yaması(2020#10)
-    **Sistem**:
-    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
+    **Security**:
+    ● Updated Android security patch: October, 2020
+    **Game Space**:
+    ● Optimized the logic of the default state of the brightness lock
+    **Settings**:
+    ● Added physical toggle on the setting interface of Screenshot
+    ● Added toggle for display keyboard when entering app drawer
+    ● Added From Sunset to Sunrise toggle for eye comfort
+    ● Added toggle for system icons in Status bar
+    ● Added Super Power Saving Mode
+    ● Added Multi-user feature
+    ● Optimized the language display issue of HeyTap in some scenarios
+    **Call**:
+    ● Optimized the layout of call setting interface
+    ● Fixed the probabilistic issue of the Reject With SMS feature
+    **Album**:
+    **Fixed the issue of the abnormal preview of the recording video interface when filming in 1080P/60 frames**:
   codename: RMX2061EU
   date: 18/11/2020
   device: realme 6 Pro
@@ -48,19 +61,18 @@
   version: RMX2040_11_A.14
 - changelog: |
     **Güvenlik**:
-    ● Android güvenlik yaması: Nisan 2020
-    **Kamera**:
-    ● Üçüncü taraf uygulamaları kullanırken ön kameranın renk performansı iyileştirildi
-    ● Gece ortamında ön kameranın netliği iyileştirildi
-  codename: RMX2030EX
-  date: 24/4/2020
+    ● Güncel Android güvenlik yaması (2020#11)
+    **Sistem**:
+    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
+  codename: RMX2030EU
+  date: 10/12/2020
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX2030EX_11_OTA_0190_all_nrdKBLRr60zb.ozip
-  md5: 757954ADC548EBCE5B5A017F1EFE364D
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1560_all_5UTLGOnu3T9M.ozip
+  md5: A289C1FC30F1C2FA24A5985C78DFA253
   region: Turkey
-  size: 2.6GB
-  system: ColorOS 6.0.1
-  version: RMX2030EX_11_A.19
+  size: 2.66GB
+  system: realme UI 1.0
+  version: RMX2030EU_11.C.56
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#9)

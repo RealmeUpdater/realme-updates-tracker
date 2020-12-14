@@ -1,8 +1,21 @@
 changelog: |
-  **Güvenlik**:
-  ● Android güvenlik yaması(2020#10)
-  **Sistem**:
-  ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
+  **Security**:
+  ● Updated Android security patch: October, 2020
+  **Game Space**:
+  ● Optimized the logic of the default state of the brightness lock
+  **Settings**:
+  ● Added physical toggle on the setting interface of Screenshot
+  ● Added toggle for display keyboard when entering app drawer
+  ● Added From Sunset to Sunrise toggle for eye comfort
+  ● Added toggle for system icons in Status bar
+  ● Added Super Power Saving Mode
+  ● Added Multi-user feature
+  ● Optimized the language display issue of HeyTap in some scenarios
+  **Call**:
+  ● Optimized the layout of call setting interface
+  ● Fixed the probabilistic issue of the Reject With SMS feature
+  **Album**:
+  **Fixed the issue of the abnormal preview of the recording video interface when filming in 1080P/60 frames**:
 codename: RMX2061EU
 date: 18/11/2020
 device: realme 6 Pro

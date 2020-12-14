@@ -1,14 +1,14 @@
 changelog: |
-  **Bảo mật**:
-  ● Cập nhật bản vá bảo mật Android: (2020#11)
-  **Hệ thống**:
-  ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  **الأمان**:
+  ●معامل تصحيح أمان أندرويد : شهر نوفمبر ,2020
+  **النظام**:
+  ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
 codename: RMX1911EX
 date: 04/12/2020
 device: realme 5
 download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
 md5: CA58688AADFEBA6E566EC4F43151EA1F
-region: Vietnam
+region: Iraq
 size: 2.97GB
 system: realme UI 1.0
 version: RMX1911EX_11.C.61

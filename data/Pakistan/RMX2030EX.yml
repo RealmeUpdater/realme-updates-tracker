@@ -1,14 +1,19 @@
 changelog: |
   **Security**:
-  ● Android Security Patch: September and October , 2020
-  **System**:
-  ● Optimized the system performance and improved system stability
+  ● Updated Android security patch: Nov, 2020
+  **Settigns**:
+  ● Added a toggle for displaying keyboard when entering app drawer
+  ● Added From Sunset to Sunrise option of eye comfort
+  ● Added short-press the power button to turn off flashlight feature while screen-off
+  **Screenshot**:
+  ● Added a toggle for physical button in screenshot setting page
+  ● Optimized the interactive mode for screenshot floating preview
 codename: RMX2030EX
-date: 24/10/2020
+date: 04/12/2020
 device: realme 5i
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1590_all_XV8JSgA7anIh.ozip
-md5: F959AF54E52C75E56B6C5ABF22BC4279
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
+md5: CA58688AADFEBA6E566EC4F43151EA1F
 region: Pakistan
-size: 2.93GB
+size: 2.97GB
 system: realme UI 1.0
-version: RMX2030EX_11_A.59
+version: RMX2030EX_11.C.61

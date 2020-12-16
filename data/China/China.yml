@@ -57,6 +57,30 @@
   system: realme UI 1.0
   version: RMX2200_11_A.10
 - changelog: |
+    **网络**:
+    ● 优化 网络信号稳定性
+    **设置**:
+    ● 优化 每日流量上限设置界面
+    ● 修复 设置搜索智能判断路径显示错误的问题
+    **相机**:
+    ● 优化 前置相机在用户戴口罩场景下的成像亮度
+    ● 修复 闪光灯拍照低概率出现异常噪点的问题
+    ● 修复 部分模式切换过程中低概率卡顿的问题
+    ● 修复 多人合影的时候极低概率闪退的问题
+    **系统**:
+    ● 修复 未插充电器场景下极小概率出现充电图标问题
+    **安全**:
+    ● 更新 Android安全补丁（2020#11）
+  codename: RMX2111
+  date: 02/12/2020
+  device: realme  V5 5G
+  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0220_all_m3JrDuHCd9y2.ozip
+  md5: 1DC5819E7CCB319EE01A7104AC86D1C6
+  region: China
+  size: 3.06GB
+  system: realme UI 1.0
+  version: RMX2111_11.A.22
+- changelog: |
     **系统**:
     ● 优化 系统性能，提升系统稳定性
     ● 修复 极端场景下极小概率快充失效问题
@@ -175,32 +199,33 @@
   system: realme UI 1.0
   version: RMX2051_11.B.19
 - changelog: |
-    **设置**:
-    ● 新增 状态栏状态图标开关
-    ● 新增 护眼模式日落到日出开关
-    ● 新增 进入抽屉模式立即弹出输入法开关的功能
-    ● 新增 视频通话美颜调节效果（支持微信）
-    **游戏空间**:
-    ● 优化 亮度锁定默认状态逻辑
-    **网络**:
-    ● 修复 部分复杂场景下的断流问题
+    **联系人**:
+    ● 新增 扫名片界面支持二维码扫描功能
+    ● 新增 联系人详情界面二维码分享功能
+    **蓝牙**:
+    ● 新增 蓝牙耳机来电接听图标
+    **解锁**:
+    ● 优化 指纹面部组合解锁逻辑
     **相册**:
-    ● 修复 进入相册低概率闪屏问题
-    **状态栏**:
-    ● 修复 时间显示秒低概率跳变问题
-    **负一屏**:
-    ● 修复 快捷功能低概率无法添加微信乘车码问题
+    ● 修复 相册编辑时极低概率闪退问题
+    **闹钟**:
+    ● 修复 进入闹钟详情界面低概率闪退问题
+    **超级省电**:
+    ● 修复 在超级省电模式下，打开欢太商城APP极低概率闪退问题
+    **暗色模式**:
+    ● 修复 暗色模式下进入密码本低概率屏幕闪烁问题
+    ● 修复 暗色模式下使用手机搬家后，日出到日落开关状态极低概率未同步问题
     **安全**:
-    ● 更新 Android安全补丁（2020/#10）
+    ● 更新 Android安全补丁（2020#11/2020#12）
   codename: RMX1931
-  date: 04/11/2020
+  date: 11/12/2020
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1310_all_9BAOkrQ2yHRo.ozip
-  md5: 38e1bc117594c9a342ca4c9322d3c589
+  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1320_all_aS9hWdxloxXO.ozip
+  md5: ddf845aec7ed7cd0a6ff3507b698d242
   region: China
-  size: 3.09GB
+  size: 3.11GB
   system: realme UI 1.0
-  version: RMX1931_11.C.31
+  version: RMX1931_11.C.32
 - changelog: |
     **游戏空间**:
     ● 优化 亮度锁定默认状态逻辑

@@ -1,14 +1,24 @@
 changelog: |
   **网络**:
-  ● 优化 部分场景下的网络通信表现
+  ● 优化 网络信号稳定性
+  **设置**:
+  ● 优化 每日流量上限设置界面
+  ● 修复 设置搜索智能判断路径显示错误的问题
+  **相机**:
+  ● 优化 前置相机在用户戴口罩场景下的成像亮度
+  ● 修复 闪光灯拍照低概率出现异常噪点的问题
+  ● 修复 部分模式切换过程中低概率卡顿的问题
+  ● 修复 多人合影的时候极低概率闪退的问题
   **系统**:
-  ● 修复 概率性OTA升级失败问题
+  ● 修复 未插充电器场景下极小概率出现充电图标问题
+  **安全**:
+  ● 更新 Android安全补丁（2020#11）
 codename: RMX2111
-date: 07/11/2020
+date: 02/12/2020
 device: realme  V5 5G
-download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0180_all_5bfdTuXpA4hF.ozip
-md5: 3E981620828D58F89F1EB62AA7680A0E
+download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0220_all_m3JrDuHCd9y2.ozip
+md5: 1DC5819E7CCB319EE01A7104AC86D1C6
 region: China
-size: 3.03GB
-system: realme UI V1.0
-version: RMX2111_11.A.18
+size: 3.06GB
+system: realme UI 1.0
+version: RMX2111_11.A.22

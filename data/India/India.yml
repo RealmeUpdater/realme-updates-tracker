@@ -19,21 +19,24 @@
   version: RMX2103PU_11.A.33
 - changelog: |
     **Security**:
-    ● Android security patch: October, 2020
+    ● Updated Android security patch: Nov, 2020
+    **Flashlight**:
+    ● Added short-press the power button to turn off flashlight feature while screen-off
     **Camera**:
-    ● Optimized the front camera effect
-    ● Fixed the probabilistic overexposure issue when taking photos backlight in front Portrait mode
+    ● Fixed the probabilistic issue of greenish image shooted by the rear camera
+    ● Fixed the issue of reddish image shooted by the front camera in some scenarios
     **System**:
-    ● Fixed the screen going off issue at incoming phone calls
-  codename: RMX2191
-  date: 28/10/2020
+    ● Optimized the system performance and improved system stability
+    ● Fixed the black screen issue of incoming calls
+  codename: RMX2193
+  date: 16/12/2020
   device: realme narzo 20
-  download: https://download.c.realme.com/osupdate/RMX2191_11_OTA_0170_all_aYmFXMzMsSS0.ozip
-  md5: 5864B28FB9A3545FB3C065444824A6F1
+  download: https://download.c.realme.com/osupdate/RMX2191_11_OTA_0230_all_ftDqmugMM9Ym.ozip
+  md5: 4BD682B5AA020E2377F4F5D66F0DDD45
   region: India
-  size: 3.26GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2191_11_A.17
+  version: RMX2193_11_A.23
 - changelog: |
     **Security**:
     ● Android security patch: October, 2020

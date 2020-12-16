@@ -87,11 +87,13 @@ def parse_html(html: list, region: str) -> list:
         if size.endswith('G'):
             size = size.replace('G', 'GB')
         try:
-            md5 = item.select("div.software-field")[3].text.strip().split(": ")[1]
+            md5 = item.select("div.software-field")[3].text.strip().split(": ")[1].strip()
         except IndexError:
             md5 = "Unknown"
         download = item.select_one("div.software-download").select_one(
             "a.software-button")["data-href"]
+        if download == "https://download.c.realme.com/osupdate/":
+            continue
         changelog = item.select_one("div.software-log").get_text("\n", strip=True)
         changelog_text = ""
         for line in changelog.splitlines():

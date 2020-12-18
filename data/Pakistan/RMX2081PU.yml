@@ -1,24 +1,23 @@
 changelog: |
+  **Security**:
+  ● Updated Android security patch: Nov/Dec, 2020
+  **Bluetooth**:
+  ● Added a new icon for phone calls with Bluetooth earphone
   **Settings**:
-  ● Added toggle for system icons in Status bar
-  ● Added From Sunset to Sunrise toggle for eye comfort
-  ● Added toggle for display keyboard when entering app drawer
-  **Game Space**:
-  ● Optimized the display effect of the screen brightness lock
-  **Network**:
-  ● Fixed the network connection loss in some scenarios
-  **Album**:
-  ● Fixed the probabilistic screen flicker when entering the album
-  **Status bar**:
-  ● Fixed the probabilistic time display issue
-  **System**:
-  ● Fixed the probabilistic Lagging issue with use of Instagram to switch video
+  ● Optimized the experience when using the combination of fingerprint and face to unlock
+  **Photos**:
+  ● Fixed the probabilistic screen flicker when editing the album
+  **Alarm**:
+  ● Fixed the probabilistic crashing issue in alarm detail interface
+  **Dark Mode**:
+  ● Fixed the probabilistic screen flicker when entering passwords entries in Dark mode
+  ● Fixed when using Clone Phone in Dark mode, the probabilistic issue that From Sunset to Sunrise status is out of sync
 codename: RMX2081PU
-date: 09/11/2020
+date: 14/12/2020
 device: realme X3 SuperZoom
-download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0450_all_e54LC7DmCgBX.ozip
-md5: ec320064b346556544f9dcaaa5e6eca5
+download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0470_all_toQRj2xOrCq3.ozip
+md5: 3567031c04ddc1b1027416fc8ff2cc58
 region: Pakistan
-size: 3.54GB
+size: 3.58GB
 system: realme UI 1.0
-version: RMX2081PU_11.A.45
+version: RMX2081PU_11.A.47

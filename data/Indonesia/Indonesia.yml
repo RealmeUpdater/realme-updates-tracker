@@ -110,18 +110,18 @@
   version: RMX2185_11_A.81
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: Oktober 2020
+    ● Android security patch: Desember 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2081PU
-  date: 09/11/2020
+  date: 14/12/2020
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0450_all_e54LC7DmCgBX.ozip
-  md5: ec320064b346556544f9dcaaa5e6eca5
+  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0470_all_toQRj2xOrCq3.ozip
+  md5: 3567031c04ddc1b1027416fc8ff2cc58
   region: Indonesia
-  size: 3.54GB
+  size: 3.58GB
   system: realme UI 1.0
-  version: RMX2081PU_11.A.45
+  version: RMX2081PU_11.A.47
 - changelog: |
     **Keamanan**:
     ● Android security patch: Oktober 2020

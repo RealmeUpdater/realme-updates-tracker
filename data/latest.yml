@@ -113,6 +113,28 @@
   system: realme UI 1.0
   version: RMX2173_11.A.19
 - changelog: |
+    **系统**:
+    ● 优化 桌面底部搜索栏显示逻辑，调整为默认关闭（如需要可在设置“桌面与乐划锁屏”里重新打开）
+    ● 优化 系统稳定性，提升用户体验
+    **相机**:
+    ● 优化 后置相机在用户戴口罩场景下的成像效果
+    **网络**:
+    ● 优化 网络信号稳定性
+    ● 修复 OTA升级后副卡5G功能概率性不生效问题
+    **快充**:
+    ● 修复 未插充电器场景下极小概率出现充电图标问题
+    **安全**:
+    ● 更新 Android安全补丁（2020#11）
+  codename: RMX2111
+  date: 16/12/2020
+  device: realme Q2 5G
+  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0250_all_QCL6bnmURQKU.ozip
+  md5: 4FC950F01C4F91940E414839FFCF9912
+  region: China
+  size: 3.06GB
+  system: realme UI 1.0
+  version: RMX2111_11.A.25
+- changelog: |
     **触控**:
     ● 优化 部分场景下触控体验
     **网络**:

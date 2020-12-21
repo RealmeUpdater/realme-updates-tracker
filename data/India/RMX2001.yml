@@ -1,21 +1,19 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: October, 2020
-  **System**:
-  ●Optimized the probabilistic freezing issue and improved the system stability
+  ● Updated Android security patch: Dec, 2020
   **Settings**:
-  ● Added From Sunset to Sunrise toggle for eye comfort
-  ● Added a toggle for displaying keyboard when entering app drawer
-  **Bluetooth**:
-  ● Added Bluetooth earphone icon in phone call interface
-  **realme Lab**:
-  ● Optimized the interface of realme Lab
+  ● Added short-press the power button to turn off flashlight feature while screen-off
+  **Camera**:
+  ● Fixed the probabilistic display error issue when playing videos
+  **System**:
+  ● Optimized system performance and improved system stability
+  ● Fixed the probabilistic flicker issue
 codename: RMX2001
-date: 10/11/2020
+date: 18/12/2020
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0490_all_RDMXEArQckIP.ozip
-md5: 8D85C08C57841787F9A436B380E52400
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
+md5: 53EB904F387D18003AC601919D02E1FC
 region: India
-size: 3.18GB
+size: 3.19GB
 system: realme UI 1.0
-version: RMX2001_11.B.49
+version: RMX2001_11.B.53

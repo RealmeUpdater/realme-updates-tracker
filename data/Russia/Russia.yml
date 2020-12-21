@@ -42,18 +42,18 @@
   version: RMX2040_11.A.27
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android:октябрь 2020
+    ● Исправление для системы безопасности ОС Android: Декабрь, 2020 г.
     **Система:**:
     ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2001
-  date: 10/11/2020
+  date: 18/12/2020
   device: realme 6s
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0490_all_RDMXEArQckIP.ozip
-  md5: 8D85C08C57841787F9A436B380E52400
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
+  md5: 53EB904F387D18003AC601919D02E1FC
   region: Russia
-  size: 3.18GB
+  size: 3.19GB
   system: realme UI 1.0
-  version: RMX2001_11.B.49
+  version: RMX2001_11.B.53
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android:сентябрь 2020

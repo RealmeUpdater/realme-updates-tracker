@@ -534,18 +534,18 @@
   version: RMX2081EU_11.A.44
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android:julio de 2020
+    ● Parche de seguridad de Android:diciembre de 2020
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2001EU
-  date: 25/9/2020
+  date: 18/12/2020
   device: realme 6s
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0420_all_BO9ezuCxh1uf.ozip
-  md5: 49370F1F10A569BABDCB8E45EF1E478D
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0480_all_CigU2UMDb3UP.ozip
+  md5: 1861F80E621C5FA15307B4EC4F6B6FFA
   region: Spain
-  size: 2.82GB
+  size: 2.86GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.42
+  version: RMX2001EU_11.A.48
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:（2020#10）
@@ -576,18 +576,18 @@
   version: RMX2061EU_11.A.32
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android:septiembre de 2020
+    ● Parche de seguridad de Android:diciembre de 2020
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2001EU
-  date: 25/9/2020
+  date: 18/12/2020
   device: realme 6
-  download: ' https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0420_all_BO9ezuCxh1uf.ozip'
-  md5: 49370F1F10A569BABDCB8E45EF1E478D
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0480_all_CigU2UMDb3UP.ozip
+  md5: 1861F80E621C5FA15307B4EC4F6B6FFA
   region: Spain
-  size: 2.82GB
+  size: 2.86GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.42
+  version: RMX2001EU_11.A.48
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: julio 2020
@@ -2881,18 +2881,18 @@
   version: RMX2030EU_11.C.56
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2020#9)
+    ● Güncel Android güvenlik yaması (2020#12)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2001EU
-  date: 9/10/2020
+  date: 18/12/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0440_all_b0wz0R9VY43F.ozip
-  md5: 6ABBFA589F2B0D9B956BCA82A19D3C62
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0480_all_CigU2UMDb3UP.ozip
+  md5: 1861F80E621C5FA15307B4EC4F6B6FFA
   region: Turkey
-  size: 2.82GB
+  size: 2.86GB
   system: realme UI 1.0
-  version: RMX2001EU_11_A.44
+  version: RMX2001EU_11.A.48
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#7)

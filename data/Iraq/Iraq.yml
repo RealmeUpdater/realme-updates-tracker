@@ -1,17 +1,17 @@
 - changelog: |
     **الأمان**:
-    ●معامل تصحيح أمان أندرويد : 5 يونيو ,2020
+    ● تصحيح الأمان لنظام أندرويد: ديسمبر 2020
     **النظام**:
     ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
   codename: RMX2001
-  date: 28/6/2020
+  date: 18/12/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
-  md5: 7F29D0A855213C2D84F0C55DEF067262
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
+  md5: 53EB904F387D18003AC601919D02E1FC
   region: Iraq
-  size: 3.05GB
+  size: 3.19GB
   system: realme UI 1.0
-  version: RMX2001_11.B.37
+  version: RMX2001_11.B.53
 - changelog: |
     **الأمان**:
     ●معامل تصحيح أمان أندرويد : شهر نوفمبر ,2020

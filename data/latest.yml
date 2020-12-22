@@ -27,22 +27,23 @@
   version: RMX2061_11.A.39
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **System**:
-    ● Added system language: Serbian
-    ● Optimized the power consumption
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    ● Updated Android security patch: Dec, 2020
+    **Settings**:
+    ● Added short-press the power button to turn off flashlight feature while screen-off
     **Camera**:
-    ● Fixed the probabilistic issue that the video playback sound is out of sync with the image after recording the video
+    ● Fixed the probabilistic display error issue when playing videos
+    **System**:
+    ● Optimized system performance and improved system stability
+    ● Fixed the probabilistic flicker issue
   codename: RMX2001
-  date: 31/7/2020
+  date: 18/12/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0410_all_NMLKtGLlV9n2.ozip
-  md5: F23A6F5D31BE0AABA68112D22B90412F
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
+  md5: 53EB904F387D18003AC601919D02E1FC
   region: UAE
-  size: 3.08GB
+  size: 3.19GB
   system: realme UI 1.0
-  version: RMX2001_11.B.41
+  version: RMX2001_11.B.53
 - changelog: |
     **Security**:
     ● Android Security Patch: November, 2020
@@ -1357,15 +1358,10 @@
   system: realme UI 1.0
   version: RMX2001_11.B.53
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: Dec, 2020
-    **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Camera**:
-    ● Fixed the probabilistic display error issue when playing videos
-    **System**:
-    ● Optimized system performance and improved system stability
-    ● Fixed the probabilistic flicker issue
+    **Безопасность**:
+    ● Исправление для системы безопасности ОС Android: Декабрь, 2020 г.
+    **Система:**:
+    ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2001
   date: 18/12/2020
   device: realme 6
@@ -2194,18 +2190,18 @@
   version: RMX1805EX_11.A.71
 - changelog: |
     **الأمان**:
-    ●معامل تصحيح أمان أندرويد : 5 يونيو ,2020
+    ● تصحيح الأمان لنظام أندرويد: ديسمبر 2020
     **النظام**:
     ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
   codename: RMX2001
-  date: 28/6/2020
+  date: 18/12/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0370_all_qWZPtbFNY6zM.ozip
-  md5: 7F29D0A855213C2D84F0C55DEF067262
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
+  md5: 53EB904F387D18003AC601919D02E1FC
   region: Iraq
-  size: 3.05GB
+  size: 3.19GB
   system: realme UI 1.0
-  version: RMX2001_11.B.37
+  version: RMX2001_11.B.53
 - changelog: |
     **الأمان**:
     ●معامل تصحيح أمان أندرويد : شهر نوفمبر ,2020
@@ -2343,22 +2339,23 @@
   version: RMX2061_11.A.39
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **System**:
-    ● Added system language: Serbian
-    ● Optimized the power consumption
-    ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+    ● Updated Android security patch: Dec, 2020
+    **Settings**:
+    ● Added short-press the power button to turn off flashlight feature while screen-off
     **Camera**:
-    ● Fixed the probabilistic issue that the video playback sound is out of sync with the image after recording the video
+    ● Fixed the probabilistic display error issue when playing videos
+    **System**:
+    ● Optimized system performance and improved system stability
+    ● Fixed the probabilistic flicker issue
   codename: RMX2001
-  date: 31/7/2020
+  date: 18/12/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0410_all_NMLKtGLlV9n2.ozip
-  md5: F23A6F5D31BE0AABA68112D22B90412F
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
+  md5: 53EB904F387D18003AC601919D02E1FC
   region: Pakistan
-  size: 3.08GB
+  size: 3.19GB
   system: realme UI 1.0
-  version: RMX2001_11.B.41
+  version: RMX2001_11.B.53
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
@@ -2644,18 +2641,18 @@
   version: RMX2001_11.B.53
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android:сентябрь 2020
+    ● Исправление для системы безопасности ОС Android: Декабрь, 2020 г.
     **Система:**:
-    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
+    ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2001
-  date: 25/9/2020
+  date: 18/12/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0470_all_VyuCFSQnuSSy.ozip
-  md5: 073016A9AF4BD249473695DB4ADB86C6
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
+  md5: 53EB904F387D18003AC601919D02E1FC
   region: Russia
-  size: 3.14GB
+  size: 3.19GB
   system: realme UI 1.0
-  version: RMX2001_11.B.47
+  version: RMX2001_11.B.53
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android: июль 2020
@@ -3022,18 +3019,18 @@
   version: RMX2040_11_A.27
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 10 năm 2020
+    ● Cập nhật bản vá bảo mật Android: Tháng 12 năm 2020
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2001
-  date: 10/11/2020
+  date: 18/12/2020
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0490_all_RDMXEArQckIP.ozip
-  md5: 8D85C08C57841787F9A436B380E52400
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
+  md5: 53EB904F387D18003AC601919D02E1FC
   region: Vietnam
-  size: 3.18GB
+  size: 3.19GB
   system: realme UI 1.0
-  version: RMX2001_11.B.49
+  version: RMX2001_11.B.53
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#7)

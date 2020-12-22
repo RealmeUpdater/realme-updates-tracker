@@ -1,18 +1,19 @@
 changelog: |
   **Security**:
-  ● Android Security Patch: July, 2020
-  **System**:
-  ● Added system language: Serbian
-  ● Optimized the power consumption
-  ● Optimized flight mode, Bluetooth status will not be affected after flight mode is turned on
+  ● Updated Android security patch: Dec, 2020
+  **Settings**:
+  ● Added short-press the power button to turn off flashlight feature while screen-off
   **Camera**:
-  ● Fixed the probabilistic issue that the video playback sound is out of sync with the image after recording the video
+  ● Fixed the probabilistic display error issue when playing videos
+  **System**:
+  ● Optimized system performance and improved system stability
+  ● Fixed the probabilistic flicker issue
 codename: RMX2001
-date: 31/7/2020
+date: 18/12/2020
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0410_all_NMLKtGLlV9n2.ozip
-md5: F23A6F5D31BE0AABA68112D22B90412F
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
+md5: 53EB904F387D18003AC601919D02E1FC
 region: UAE
-size: 3.08GB
+size: 3.19GB
 system: realme UI 1.0
-version: RMX2001_11.B.41
+version: RMX2001_11.B.53

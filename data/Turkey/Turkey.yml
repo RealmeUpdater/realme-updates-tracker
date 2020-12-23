@@ -37,28 +37,18 @@
   version: RMX2061EU_11.A.32
 - changelog: |
     **Güvenlik**:
-    ● Android güvenlik yaması: Nisan 2020
-    **kamera**:
-    ● Arka kamerayla çekilmiş dikey resimleri önizleme netliği optimize edildi
-    ● Geniş açıda bulutlu havada çekilmiş fotoğraflarda mavi efekt sorunu optimize edildi
-    ● Geniş açıda gece sahnesindeki karlanma optimize edildi
-    ● Ana kamerada gece sahnesindeki karlanma optimize edildi, yakınlaştırma karlanmasında optimizasyon yapıldı
-    ● Arka ana kamerada sahne renk üstünlüğü optimize edildi.
-    ● Üçüncü taraf uygulamaları kullanırken flaşın karanlıkta düzgün şekilde çalışmaması sorunu düzeltildi
-    **Bilinen sorun düzeltildi**:
-    ● Özel zil sesi ayarlanmasından sonra listenin görüntülenmemesi sorunu düzeltildi
-    ● Mesafe sensöründe hataya neden olan olası sorun düzeltildi
-    ● Ekrana yansıtma hatası sorunu düzeltildi
-    ● Teman fontlarını başarıyla indirdikten ve ayarladıktan sonra ana sayfada etkinleşmemesi sorunu düzeltildi
-  codename: RMX2040
-  date: 16/04/2020
+    ● Güncel Android güvenlik yaması (2020#11)
+    **Sistem**:
+    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
+  codename: RMX2040EU
+  date: 21/12/2020
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0140_all_4GClBvEoPfXD.ozip
-  md5: BB37CC9C3C450C27EB9D48B72ACAEDEA
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0340_all_oufTUO4rq3D2.ozip
+  md5: 729723501BB3A551BF8270657E1D9E15
   region: Turkey
-  size: 2.70GB
+  size: 2.67GB
   system: realme UI V1.0
-  version: RMX2040_11_A.14
+  version: RMX2040EU_11.A.34
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#11)

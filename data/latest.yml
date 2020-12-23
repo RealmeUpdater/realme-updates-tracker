@@ -2804,16 +2804,20 @@
   size: 2.60 GB
   system: realme UI 1.0
   version: RMX1821EX_11.C.17
-- changelog: ''
+- changelog: |
+    **Güvenlik**:
+    ● Güncel Android güvenlik yaması (2020#11)
+    **Sistem**:
+    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2020EU
-  date: 15/8/2020
+  date: 19/12/2020
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0360_all_w8T1H0cb04aW.ozip
-  md5: FB0C10DF2D01A744D8EB479BEF045CB2
+  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0480_all_QR9Q7evhLt96.ozip'
+  md5: 2B9EF6DE48806AA3D27DA98D82857274
   region: Turkey
-  size: 2.6GB
+  size: 2.67GB
   system: realme UI 1.0
-  version: RMX2020EU_11.A.36
+  version: RMX2020EU_11.A.48
 - changelog: |
     **Security**:
     ● Updated Android security patch: October, 2020

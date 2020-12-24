@@ -1,25 +1,18 @@
 changelog: |
   **Security**:
-  ● Android Security Patch: July, 2020
-  **Language**:
-  ● Added system language: Serbian
-  **System**:
-  ● Optimized the speed of the App Startup from the recent apps
-  ● Optimized the speed of application installation
-  ● Fixed the issue that the phone cannot be woken up by pressing the power button
-  **Status Bar**:
-  ● Optimized the display of battery icon when charging
+  ● Updated Android security patch: Nov, 2020
+  **Settings**:
+  ● Added short-press the power button to turn off flashlight feature while screen-off
+  **Bluetooth**:
+  ● Added a new icon for phone calls with Bluetooth earphone
   **Camera**:
-  ● Optimized the speed of camera cold start
-  **Phone**:
-  ● Fixed the issue that non-emergency numbers are incorrectly displayed
-  ● Fixed the probabilistic issue that unable to make a conference call
+  ● Optimized the image quality in some scenarios
 codename: RMX2020
-date: 15/8/2020
+date: 19/12/2020
 device: realme C3
-download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
-md5: 3AC550ADF4BCE342BFDEB482358CB9A6
+download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
+md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
 region: Pakistan
-size: 2.83GB
+size: 3.03GB
 system: realme UI V1.0
-version: RMX2020_11.A.39
+version: RMX2020_11.A.55

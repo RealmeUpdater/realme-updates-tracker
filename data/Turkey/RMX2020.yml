@@ -1,14 +1,14 @@
 changelog: |
-  **Keamanan**:
-  ● Android security patch: November 2020
+  **Güvenlik**:
+  ● Güncel Android güvenlik yaması (2020#11)
   **Sistem**:
-  ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+  ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
 codename: RMX2020
 date: 19/12/2020
-device: realme C3
+device: realme C3i
 download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
 md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
-region: Indonesia
+region: Turkey
 size: 3.03GB
 system: realme UI 1.0
 version: RMX2020_11.A.55

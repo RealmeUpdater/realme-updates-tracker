@@ -3,12 +3,12 @@ changelog: |
   ● Cập nhật bản vá bảo mật Android: Tháng 12 năm 2020
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
-codename: RMX2103PU
-date: 10/12/2020
-device: realme 7i
-download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
-md5: 5C7E043C603C9BB32A5B74D6D5150676
+codename: RMX2101PU
+date: 21/12/2020
+device: realme C17
+download: https://download.c.realme.com/osupdate/RMX2101PU_11_OTA_0270_all_jo2SBgcSlyBT.ozip
+md5: 69BF836D9574C885677FD63F50C284A3
 region: Vietnam
-size: 3.26GB
+size: 3.25GB
 system: realme UI 1.0
-version: RMX2103PU_11.A.35
+version: RMX2101PU_11.A.27

@@ -1,19 +1,16 @@
 changelog: |
+  **Security**:
+  ● Updated Android security patch: Nov&Dec, 2020
   **System**:
-  ● Optimized the camera freezing issue when shooting in some specific scenarios
-  ● Optimized the lagging issue of candy crash game in specific scenarios
-  ● Fixed the crashing issue of Photos in some scenarios
-  ● Fixed the issue that the power button does not respond during call in some scenarios
+  ● Optimized the issue that the power button no response during phone calls
   **Camera**:
-  ● Optimized the image clarity of the rear 64M camera
-  **Clock**:
-  ● Fixed the issue of Clock text in some languages are displayed in Chinese in specific scenarios
+  ● Fix the issue that the rear lens lags when switching in 64M mode
 codename: RMX2103PU
-date: 30/11/2020
+date: 10/12/2020
 device: realme 7i
-download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0330_all_A0hpWUTDfu8T.ozip
-md5: 4F2C40BBC08360253687EE3F1CABAB86
+download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
+md5: 5C7E043C603C9BB32A5B74D6D5150676
 region: India
-size: 3.24GB
+size: 3.26GB
 system: realme UI 1.0
-version: RMX2103PU_11.A.33
+version: RMX2103PU_11.A.35

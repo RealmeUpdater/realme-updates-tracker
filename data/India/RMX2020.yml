@@ -1,25 +1,18 @@
 changelog: |
   **Security**:
-  ● Android Security Patch: August, 2020
-  **realme Lab**:
-  ● Added Super nighttime standby feature
-  ● Added Smooth scrolling feature
+  ● Updated Android security patch: Nov, 2020
   **Settings**:
-  ● Added long press to copy IMEI in the status information interface
-  ● Optimized the default display of battery percentage
-  **System**:
-  ● Added long press to uninstall apps directly in the app drawer
-  ● Fixed the issue that the split screen cannot be used after enable the third-party launcher
-  **Status Bar**:
-  ● Added independent Switch toggles of focus mode
-  ● Added OTG Switch toggle to notification panel
-  ● Optimized viewing for system update prompt pop-up window
+  ● Added short-press the power button to turn off flashlight feature while screen-off
+  **Bluetooth**:
+  ● Added a new icon for phone calls with Bluetooth earphone
+  **Camera**:
+  ● Optimized the image quality in some scenarios
 codename: RMX2020
-date: 13/9/2020
+date: 19/12/2020
 device: realme C3
-download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0430_all_OILD8kycyQrM.ozip
-md5: FB7F938B11AEF17522226567357AC685
+download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
+md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
 region: India
-size: 2.88GB
+size: 3.03GB
 system: realme UI 1.0
-version: RMX2020_11.A.43
+version: RMX2020_11.A.55

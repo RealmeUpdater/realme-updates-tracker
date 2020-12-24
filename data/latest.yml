@@ -1016,24 +1016,21 @@
   system: realme UI 1.0
   version: RMX1851EX_11.C.07
 - changelog: |
+    **Security**:
+    ● Updated Android security patch: Nov&Dec, 2020
     **System**:
-    ● Optimized the camera freezing issue when shooting in some specific scenarios
-    ● Optimized the lagging issue of candy crash game in specific scenarios
-    ● Fixed the crashing issue of Photos in some scenarios
-    ● Fixed the issue that the power button does not respond during call in some scenarios
+    ● Optimized the issue that the power button no response during phone calls
     **Camera**:
-    ● Optimized the image clarity of the rear 64M camera
-    **Clock**:
-    ● Fixed the issue of Clock text in some languages are displayed in Chinese in specific scenarios
+    ● Fix the issue that the rear lens lags when switching in 64M mode
   codename: RMX2103PU
-  date: 30/11/2020
+  date: 10/12/2020
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0330_all_A0hpWUTDfu8T.ozip
-  md5: 4F2C40BBC08360253687EE3F1CABAB86
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
+  md5: 5C7E043C603C9BB32A5B74D6D5150676
   region: India
-  size: 3.24GB
+  size: 3.26GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.33
+  version: RMX2103PU_11.A.35
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020
@@ -1366,29 +1363,22 @@
   version: RMX2001_11.B.53
 - changelog: |
     **Security**:
-    ● Android Security Patch: August, 2020
-    **realme Lab**:
-    ● Added Super nighttime standby feature
-    ● Added Smooth scrolling feature
+    ● Updated Android security patch: Nov, 2020
     **Settings**:
-    ● Added long press to copy IMEI in the status information interface
-    ● Optimized the default display of battery percentage
-    **System**:
-    ● Added long press to uninstall apps directly in the app drawer
-    ● Fixed the issue that the split screen cannot be used after enable the third-party launcher
-    **Status Bar**:
-    ● Added independent Switch toggles of focus mode
-    ● Added OTG Switch toggle to notification panel
-    ● Optimized viewing for system update prompt pop-up window
+    ● Added short-press the power button to turn off flashlight feature while screen-off
+    **Bluetooth**:
+    ● Added a new icon for phone calls with Bluetooth earphone
+    **Camera**:
+    ● Optimized the image quality in some scenarios
   codename: RMX2020
-  date: 13/9/2020
+  date: 19/12/2020
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0430_all_OILD8kycyQrM.ozip
-  md5: FB7F938B11AEF17522226567357AC685
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
+  md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
   region: India
-  size: 2.88GB
+  size: 3.03GB
   system: realme UI 1.0
-  version: RMX2020_11.A.43
+  version: RMX2020_11.A.55
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020
@@ -1820,17 +1810,19 @@
   system: realme UI 1.0
   version: RMX2170EU_11_A.23
 - changelog: |
+    **Keamanan**:
+    ● Android security patch: Desember 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2103PU
-  date: 30/11/2020
+  date: 10/12/2020
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0330_all_A0hpWUTDfu8T.ozip
-  md5: 4F2C40BBC08360253687EE3F1CABAB86
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
+  md5: 5C7E043C603C9BB32A5B74D6D5150676
   region: Indonesia
-  size: 3.24GB
+  size: 3.26GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.33
+  version: RMX2103PU_11.A.35
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: November 2020
@@ -1847,18 +1839,18 @@
   version: RMX2151PU_11.A.69
 - changelog: |
     **Keamanan**:
-    ● Android security patch: November 2020
+    ● Android security patch: Desember 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2101PU
-  date: 30/11/2020
+  date: 21/12/2020
   device: realme C17
-  download: https://download.c.realme.com/osupdate/RMX2101PU_11_OTA_0250_all_2mSMA5shl0LA.ozip
-  md5: 2C8A34953C32CB00A4FC10C2DA1510F5
+  download: https://download.c.realme.com/osupdate/RMX2101PU_11_OTA_0270_all_jo2SBgcSlyBT.ozip
+  md5: 69BF836D9574C885677FD63F50C284A3
   region: Indonesia
-  size: 3.24GB
+  size: 3.25GB
   system: realme UI 1.0
-  version: RMX2101PU_11.A.25
+  version: RMX2101PU_11.A.27
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: November 2020
@@ -2641,18 +2633,18 @@
   version: RMX2001_11.B.53
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: июль 2020
+    ● Патчи безопасности Android:ноябрь 2020
     **Система:**:
-    ● исправлено несколько известных проблем, улучшена стабильность системы.
+    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
   codename: RMX2020
-  date: 15/8/2020
+  date: 19/12/2020
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
-  md5: 3AC550ADF4BCE342BFDEB482358CB9A6
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
+  md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
   region: Russia
-  size: 2.83GB
+  size: 3.03GB
   system: realme UI V1.0
-  version: RMX2020_11.A.39
+  version: RMX2020_11.A.55
 - changelog: |
     **[Внешний вид]**:
     **• Обновленный пользовательский интерфейс realme**:
@@ -3041,18 +3033,18 @@
   version: RMX2020_11.A.55
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#7)
+    ● Cập nhật bản vá bảo mật Android: (2020#11)
     **Hệ thống**:
-    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ th
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2020
-  date: 15/8/2020
+  date: 19/12/2020
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
-  md5: 3AC550ADF4BCE342BFDEB482358CB9A6
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
+  md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
   region: Vietnam
-  size: 2.83GB
+  size: 3.03GB
   system: realme UI 1.0
-  version: RMX2020_11_A.39
+  version: RMX2020_11.A.55
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#11)

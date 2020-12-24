@@ -1,14 +1,14 @@
 changelog: |
   **Безопасность**:
-  ● Патчи безопасности Android: июль 2020
+  ● Патчи безопасности Android:ноябрь 2020
   **Система:**:
-  ● исправлено несколько известных проблем, улучшена стабильность системы.
+  ● Исправлено несколько известных ошибок, улучшена стабильность системы.
 codename: RMX2020
-date: 15/8/2020
+date: 19/12/2020
 device: realme C3
-download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0390_all_jGwrI3WQs1oA.ozip
-md5: 3AC550ADF4BCE342BFDEB482358CB9A6
+download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
+md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
 region: Russia
-size: 2.83GB
+size: 3.03GB
 system: realme UI V1.0
-version: RMX2020_11.A.39
+version: RMX2020_11.A.55

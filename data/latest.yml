@@ -546,18 +546,18 @@
   version: RMX2001EU_11.A.48
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android:（2020#10）
+    ● Parche de seguridad de Android:（2020#11）
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2076EU
-  date: 09/11/2020
+  date: 01/12/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0360_all_fi4GjEO5K87w.ozip
-  md5: 063b5ba4fac7f9d6b069c5ecb5b10968
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0380_all_ffBqeq0j06so.ozip
+  md5: d70c0938b4bf6ef2de6a38734a62a340
   region: Spain
-  size: 3.55GB
+  size: 3.60GB
   system: realmeUI V1.0
-  version: RMX2076EU_11.A.36
+  version: RMX2076EU_11.A.38
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android(2020#10)

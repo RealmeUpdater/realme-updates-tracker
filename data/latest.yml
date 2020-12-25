@@ -492,6 +492,18 @@
 - changelog: |
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+  codename: RMX2111EU
+  date: 22/12/2020
+  device: realme 7 5G
+  download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0200_all_3t1JCHM3fLp4.ozip
+  md5: D340F15A31094DACF19101F79FE4E156
+  region: Spain
+  size: 3.00GB
+  system: realme UI 1.0
+  version: RMX2111EU_11.A.20
+- changelog: |
+    **Sistema**:
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2111
   date: 7/12/2020
   device: realme 7
@@ -696,6 +708,18 @@
   system: realme UI V1.0
   version: RMX1851EX_11.C.10
 - changelog: |
+    **Display**:
+    ● Optimized the adaptation of some apps to support 120Hz refresh rate
+  codename: RMX2111EU
+  date: 22/12/2020
+  device: realme 7 5G
+  download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0200_all_3t1JCHM3fLp4.ozip
+  md5: D340F15A31094DACF19101F79FE4E156
+  region: Europe
+  size: 3.00GB
+  system: realme UI 1.0
+  version: RMX2111EU_11.A.20
+- changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020
     **Camera**:
@@ -713,6 +737,46 @@
   size: 3.51GB
   system: realme UI 1.0
   version: RMX2170EU_11_A.26
+- changelog: |
+    **Security**:
+    ● Updated Android security patch: October, 2020
+    **Camera**:
+    ● Optimized the image noise in the Portrait mode of the front camera
+    ● Optimized the image clarity of the front camera
+    ● Optimized the overexposure issue of the front camera
+    ● Optimized the image clarity of the rear camera
+    ● Optimized the image contrast of the rear camera in outdoor scenarios
+    **Touch**:
+    ● Optimized touch control algorithm and improved touch control experience
+    **System**:
+    ● Improved system fluency
+    ● Fixed the probabilistic screen flicker at a low screen brightness level
+  codename: RMX2151EU
+  date: 2/10/2020
+  device: realme 7
+  download: https://download.c.realme.com/osupdate/RMX2151EU_11_OTA_0620_all_thCT6NlqrMeq.ozip
+  md5: BFE58037EDC8B4B61547F5D730E0F2F4
+  region: Europe
+  size: 3.03GB
+  system: realme UI 1.0
+  version: RMX2151EU_11.A.74
+- changelog: |
+    **Security**:
+    ● Updated Android security patch: Nov, 2020
+    **Flashlight**:
+    ● Added short-press the power button to turn off flashlight feature while screen-off
+    **System**:
+    ● Optimized the system performance and improved system stability
+    ● Fixed the black screen issue of incoming calls
+  codename: RMX2185EU
+  date: 8/12/2020
+  device: realme C11
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
+  md5: 18341496A177C557FCA82A18AA07913C
+  region: Europe
+  size: 2.83GB
+  system: realme UI 1.0
+  version: RMX2185EU_11_A.50
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020
@@ -1065,46 +1129,48 @@
   version: RMX2050EX_11_A.17
 - changelog: |
     **Security**:
-    ● Updated Android security patch: November, 2020
+    ● Updated Security patch: Dec, 2020
     **Camera**:
-    ● Optimized image quality of the main lens
-    ● Optimized the low portrait clarity issue of the front camera
-    ● Optimized the image effect of Super night scape
-    **Touch**:
-    ● Optimized the touch control algorithm and improved touch control experience
-    **System**:
-    ● Fixed some known issues and optimized the system fluency
-    ● Fixed the probabilistic screen flicker and optimized the display quality at low brightness conditions
+    ● Optimized the reddish issue in certain scenarios of the rear camera
+    ● Optimized the noise issue of the rear camera
+    ● Optimized the ultra-HD mode quality of the rear camera
+    ● Optimized the issue of low saturation and lack of redness of the front camera
+    ● Optimized the issue of high sharpness and noise of the front camera in certain scenarios
+    **Touch Control**:
+    ● Optimized the touch control algorithm and improved control smoothness
+    **Photos**:
+    ● Fixed certain known issues of the Photos
   codename: RMX2151PU
-  date: 5/12/2020
+  date: 25/12/2020
   device: realme narzo 20 Pro
-  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0710_all_ybwVKLp8S7lZ.ozip
-  md5: EFA90A545B7126BFBE02BB3C2179164A
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0750_all_P8oZH4WLmegj.ozip
+  md5: 195884974C1B276E0DCD6C48C26D2D72
   region: India
-  size: 3.45GB
+  size: 3.57GB
   system: realme UI 1.0
-  version: RMX2151PU_11.A.71
+  version: RMX2151PU_11.A.75
 - changelog: |
     **Security**:
-    ● Updated Android security patch: November, 2020
+    ● Updated Security patch: Dec, 2020
     **Camera**:
-    ● Optimized image quality of the main lens
-    ● Optimized the low portrait clarity issue of the front camera
-    ● Optimized the image effect of Super night scape
-    **Touch**:
-    ● Optimized the touch control algorithm and improved touch control experience
-    **System**:
-    ● Fixed some known issues and optimized the system fluency
-    ● Fixed the probabilistic screen flicker and optimized the display quality at low brightness conditions
+    ● Optimized the reddish issue in certain scenarios of the rear camera
+    ● Optimized the noise issue of the rear camera
+    ● Optimized the ultra-HD mode quality of the rear camera
+    ● Optimized the issue of low saturation and lack of redness of the front camera
+    ● Optimized the issue of high sharpness and noise of the front camera in certain scenarios
+    **Touch Control**:
+    ● Optimized the touch control algorithm and improved control smoothness
+    **Photos**:
+    ● Fixed certain known issues of the Photos
   codename: RMX2151PU
-  date: 5/12/2020
+  date: 25/12/2020
   device: realme 7
-  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0710_all_ybwVKLp8S7lZ.ozip
-  md5: EFA90A545B7126BFBE02BB3C2179164A
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0750_all_P8oZH4WLmegj.ozip
+  md5: 195884974C1B276E0DCD6C48C26D2D72
   region: India
-  size: 3.45GB
+  size: 3.57GB
   system: realme UI 1.0
-  version: RMX2151PU_11.A.71
+  version: RMX2151PU_11.A.75
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020

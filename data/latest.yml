@@ -467,14 +467,14 @@
     **安全**:
     ● 更新Android安全补丁（2020#11/2020#12）
   codename: RMX1851
-  date: 19/12/2020
+  date: 27/12/2020
   device: realme X青春版
-  download: https://download.c.realme.com/osupdate/RMX1851_11_OTA_1100_all_eIjcwh4PJnp7.ozip
-  md5: 8FB37967CFDD1E9C1025C072346F3132
+  download: https://download.c.realme.com/osupdate/RMX1851_11_OTA_1110_all_mvJ20n1zmvS1.ozip
+  md5: 488C35A0C372A0A995AC1D44CF8195AF
   region: China
   size: 3.17GB
   system: realme UI 1.0
-  version: RMX1851_11.C.10
+  version: RMX1851_11.C.11
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:noviembre de 2020

@@ -1,14 +1,14 @@
 changelog: |
   **Bảo mật**:
-  ● Cập nhật bản vá bảo mật Android: (2020#11)
+  ● Cập nhật bản vá bảo mật Android: Tháng 12 năm 2020
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
 codename: RMX2151PU
-date: 30/11/2020
+date: 25/12/2020
 device: realme 7
-download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0690_all_JQQxavaskb23.ozip
-md5: BDC324E6BC275271B73EADE89EF9C8C8
+download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0750_all_P8oZH4WLmegj.ozip
+md5: 195884974C1B276E0DCD6C48C26D2D72
 region: Vietnam
-size: 3.45GB
-system: realme UI V1.0
-version: RMX2151PU_11.A.69
+size: 3.57GB
+system: realme UI 1.0
+version: RMX2151PU_11.A.75

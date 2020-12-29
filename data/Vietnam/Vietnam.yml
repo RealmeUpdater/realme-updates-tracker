@@ -31,6 +31,20 @@
     ● Cập nhật bản vá bảo mật Android: Tháng 12 năm 2020
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2151PU
+  date: 25/12/2020
+  device: realme 7
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0750_all_P8oZH4WLmegj.ozip
+  md5: 195884974C1B276E0DCD6C48C26D2D72
+  region: Vietnam
+  size: 3.57GB
+  system: realme UI 1.0
+  version: RMX2151PU_11.A.75
+- changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: Tháng 12 năm 2020
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2101PU
   date: 21/12/2020
   device: realme C17
@@ -40,20 +54,6 @@
   size: 3.25GB
   system: realme UI 1.0
   version: RMX2101PU_11.A.27
-- changelog: |
-    **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 11 năm 2020
-    **Hệ thống**:
-    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
-  codename: RMX2185
-  date: 8/12/2020
-  device: realme C15
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
-  md5: 134798EB119CC6694AED3960E15BCC29
-  region: Vietnam
-  size: 3.17GB
-  system: realme UI 1.0
-  version: RMX2185_11_A.81
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: Tháng 11 năm 2020

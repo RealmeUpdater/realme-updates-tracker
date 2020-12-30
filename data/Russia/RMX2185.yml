@@ -1,0 +1,14 @@
+changelog: |
+  **Безопасность**:
+  ● Исправление для системы безопасности ОС Android: ноябрь 2020 г.
+  **Система:**:
+  ● исправлено несколько известных проблем, улучшена стабильность системы.
+codename: RMX2185
+date: 8/12/2020
+device: realme C11
+download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
+md5: 134798EB119CC6694AED3960E15BCC29
+region: Russia
+size: 3.17GB
+system: realme UI 1.0
+version: RMX2185_11_A.81

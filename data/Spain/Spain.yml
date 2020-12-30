@@ -25,18 +25,6 @@
   system: realme UI 1.0
   version: RMX2111EU_11.A.20
 - changelog: |
-    **Sistema**:
-    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
-  codename: RMX2111
-  date: 7/12/2020
-  device: realme 7
-  download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0180_all_G1DcPuDgWNIH.ozip
-  md5: FA737F8B99554BA176828A3A926467CC
-  region: Spain
-  size: 2.96GB
-  system: realme UI V1.0
-  version: RMX2111_11_A.18
-- changelog: |
     **Sécurité**:
     ● Correctif de sécurité Android（2020#11）
     **Système**:

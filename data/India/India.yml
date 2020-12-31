@@ -95,22 +95,22 @@
   version: RMX2151PU_11.A.75
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
+    ● Android security patch: December, 2020
     **Camera**:
-    ● Fixed the probabilistic issue of the sound not synchronized with the video recorded by front camera
-    ● Optimized probabilistic issue of camera image distortion of video recording
+    ● Optimized the clarity of the front camera
     **System**:
-    ● Fixed the issue of flickering screen in some scenarios
-    ● Fixed some known issues of system stability
+    ● Updated Game Space
+    ● Fixed the issue that importing contacts via Bluetooth sharing fails in some scenarios
+    ● Fixed the issue that the volume cannot be adjusted when connected to a Bluetooth headset in some scenarios
   codename: RMX2170PU
-  date: 30/11/2020
+  date: 30/12/2020
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0230_all_NdCMU2kIa9km.ozip
-  md5: A81AC0849AA353683AE1FC3E5BE328A0
+  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0250_all_MsShTDdtOGAi.ozip
+  md5: F41C0F883C5114BF386A56016EA16146
   region: India
-  size: 3.81GB
+  size: 3.83GB
   system: realme UI 1.0
-  version: RMX2170PU_11_A.23
+  version: RMX2170PU_11_A.25
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020

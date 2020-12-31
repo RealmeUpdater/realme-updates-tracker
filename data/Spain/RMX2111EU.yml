@@ -1,12 +1,14 @@
 changelog: |
+  **Seguridad**:
+  ●Parche de seguridad de Android: diciembre de 2020
   **Sistema**:
-  ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+  ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
 codename: RMX2111EU
-date: 22/12/2020
+date: 28/12/2020
 device: realme 7 5G
-download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0200_all_3t1JCHM3fLp4.ozip
-md5: D340F15A31094DACF19101F79FE4E156
+download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0220_all_nKwSGnBIm6OJ.ozip
+md5: 71ED092C891DACB5CA932DCCA39FDEBA
 region: Spain
-size: 3.00GB
+size: 3.03GB
 system: realme UI 1.0
-version: RMX2111EU_11.A.20
+version: RMX2111EU_11.A.22

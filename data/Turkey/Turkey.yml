@@ -13,32 +13,19 @@
   system: realme UI 1.0
   version: RMX2020_11.A.55
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: October, 2020
-    **Game Space**:
-    ● Optimized the logic of the default state of the brightness lock
-    **Settings**:
-    ● Added physical toggle on the setting interface of Screenshot
-    ● Added toggle for display keyboard when entering app drawer
-    ● Added From Sunset to Sunrise toggle for eye comfort
-    ● Added toggle for system icons in Status bar
-    ● Added Super Power Saving Mode
-    ● Added Multi-user feature
-    ● Optimized the language display issue of HeyTap in some scenarios
-    **Call**:
-    ● Optimized the layout of call setting interface
-    ● Fixed the probabilistic issue of the Reject With SMS feature
-    **Album**:
-    **Fixed the issue of the abnormal preview of the recording video interface when filming in 1080P/60 frames**:
+    **Güvenlik**:
+    ● Android güvenlik yaması(2020#12)
+    **Sistem**:
+    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2061EU
-  date: 18/11/2020
+  date: 29/12/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0320_all_Ed8bvkv0Jw3V.ozip
-  md5: 7426CE33A5DD76B3B39FAE7C6921D668
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0340_all_ql6nDSb9zuMv.ozip
+  md5: 4CBD6179609E28BD9E2A9E588893D678
   region: Turkey
-  size: 3.18GB
+  size: 3.26GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.32
+  version: RMX2061EU_11.A.34
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#11)

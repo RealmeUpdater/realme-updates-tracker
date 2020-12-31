@@ -1,14 +1,14 @@
 changelog: |
   **Seguridad**:
-  ● Parche de seguridad de Android(2020#10)
+  ● Parche de seguridad de Android(2020#12)
   **Sistema**:
   ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
 codename: RMX2061EU
-date: 18/11/2020
+date: 29/12/2020
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0320_all_Ed8bvkv0Jw3V.ozip
-md5: 7426CE33A5DD76B3B39FAE7C6921D668
+download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0340_all_ql6nDSb9zuMv.ozip
+md5: 4CBD6179609E28BD9E2A9E588893D678
 region: Spain
-size: 3.18GB
+size: 3.26GB
 system: realme UI 1.0
-version: RMX2061EU_11.A.32
+version: RMX2061EU_11.A.34

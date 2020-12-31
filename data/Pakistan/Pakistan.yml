@@ -76,31 +76,28 @@
   version: RMX2081PU_11.A.47
 - changelog: |
     **Security**:
-    ● Updated Android security patch: October, 2020
-    **Game Space**:
-    ● Optimized the logic of the default state of the brightness lock
-    **Call**:
-    ● Optimized the layout of call setting interface
-    ● Fixed the probabilistic issue of the Reject With SMS feature
+    ● Updated Android security patch: Nov/Dec, 2020
+    **Bluetooth**:
+    ● Added a new incoming call icon for Bluetooth earphones
     **Settings**:
-    ● Added physical toggle on the setting interface of Screenshot
-    ● Added toggle for display keyboard when entering app drawer
-    ● Added From Sunset to Sunrise toggle for eye comfort
-    ● Added toggle for system icons in Status bar
-    ● Added Super Power Saving Mode
-    ● Added Multi-user feature
-    ● Optimized the language display issue of HeyTap in some scenarios
-    **Album**:
-    **Fixed the issue of the abnormal preview of the recording video interface when filming in 1080P/60 frames**:
+    ● Added short-press the power button to turn off flashlight feature while screen-off
+    ● Added a tutorial for swipe gestures from both sides
+    ● Fixed the probabilistic overlapping issue of the pulled-down icons and the navigation bar
+    ● Fixed the issue that exiting the information page requires tapping twice in the Super power saving mode
+    ● Fixed the abnormal popup issue when tapping the avatar multiple times in the Contacts editting page in Multi-user mode
+    **Status Bar**:
+    ● Optimized the display of status bar system icons
+    **Unlock**:
+    ● Optimized the experience when using the combination of fingerprint and face to unlock
   codename: RMX2061
-  date: 18/11/2020
+  date: 29/12/2020
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0390_all_RfmTA1Flkeqv.ozip
-  md5: 000E44F46D316D2D934582313C5B556F
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0410_all_Gp1raFebeuAb.ozip
+  md5: A50E5E0DC5972BA25E459661E6EF0AB0
   region: Pakistan
-  size: 3.49GB
+  size: 3.62GB
   system: realme UI 1.0
-  version: RMX2061_11.A.39
+  version: RMX2061_11.A.41
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec, 2020

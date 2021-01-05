@@ -13,27 +13,30 @@
   system: realme UI 1.0
   version: RMX2173_11.A.19
 - changelog: |
-    **系统**:
-    ● 优化 桌面底部搜索栏显示逻辑，调整为默认关闭（如需要可在设置“桌面与乐划锁屏”里重新打开）
-    ● 优化 系统稳定性，提升用户体验
+    **蓝牙**:
+    ● 新增 蓝牙耳机接听图标
+    **便签**:
+    ● 新增 录音文本导出到便签功能
     **相机**:
-    ● 优化 后置相机在用户戴口罩场景下的成像效果
-    **网络**:
-    ● 优化 网络信号稳定性
-    ● 修复 OTA升级后副卡5G功能概率性不生效问题
-    **快充**:
-    ● 修复 未插充电器场景下极小概率出现充电图标问题
+    ● 优化 后置摄像头闪光灯成像效果
+    ● 优化 前置摄像头夜景人脸成像效果
+    ● 优化 前置摄像头美颜效果
+    ● 修复 特殊场景下极低概率人脸及天空对焦异常问题
+    **充电**:
+    ● 优化 充电小数点显示逻辑
+    **状态栏**:
+    ● 修复 频繁调节亮度时低概率调节失效的问题
     **安全**:
-    ● 更新 Android安全补丁（2020#11）
+    ● 更新 Android安全补丁（2020#12）
   codename: RMX2111
-  date: 16/12/2020
+  date: 04/01/2021
   device: realme Q2 5G
-  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0250_all_QCL6bnmURQKU.ozip
-  md5: 4FC950F01C4F91940E414839FFCF9912
+  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0270_all_BvDO0UMfTIg7.ozip
+  md5: 1C6CF67651805C926DBA91970057D9E1
   region: China
-  size: 3.06GB
+  size: 3.07GB
   system: realme UI 1.0
-  version: RMX2111_11.A.25
+  version: RMX2111_11.A.27
 - changelog: |
     **系统**:
     ● 优化 系统稳定性，提升用户体验

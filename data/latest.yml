@@ -97,19 +97,35 @@
   system: realme UI 1.0
   version: RMX1931EX_11.C.34
 - changelog: |
-    **系统**:
-    ● 优化 系统性能，提升系统稳定性
-    ● 修复 极端场景下极小概率快充失效问题
-    ● 修复 未插充电器场景下极小概率出现充电图标问题
+    **蓝牙**:
+    ● 新增 蓝牙耳机接听图标
+    **状态栏**:
+    ● 优化 控制中心振动开关切换逻辑
+    **相机**:
+    ● 优化 前置相机在戴口罩场景下成像亮度
+    ● 修复 部分相机模式切换过程中极低概率卡顿的问题
+    ● 修复 全景模式拍照后预览极低概率卡顿的问题
+    ● 修复 下拉状态下前置摄像头漏光问题
+    **设置**:
+    ● 修复 搜索智能判断路径显示错误的问题
+    **截屏**:
+    ● 修复 长截屏通话录音界面极低概率页面重复问题
+    **手机管家**:
+    ● 修复 手机管家云搬迁时视频留驻问题
+    **便签**:
+    ● 修复 便签皮肤区域低概率显示不全的问题
+    ● 修复 便签新建笔记后低概率无法切换笔记的问题
+    **安全**:
+    ● 更新 Android安全补丁（2020#12）
   codename: RMX2173
-  date: 18/11/2020
+  date: 31/12/2020
   device: realme Q2 Pro
-  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0190_all_4Dv3zsrUtg0a.ozip
-  md5: 0199FBF487770EB5C72E1F3F36A3203C
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0220_all_q1GWHCosaxcd.ozip
+  md5: A13F2E8BFA97CF14195382C180D2670E
   region: China
-  size: 3.04GB
+  size: 3.08GB
   system: realme UI 1.0
-  version: RMX2173_11.A.19
+  version: RMX2173_11.A.22
 - changelog: |
     **蓝牙**:
     ● 新增 蓝牙耳机接听图标
@@ -203,19 +219,35 @@
   system: realme UI 1.0
   version: RMX2111_11.A.24
 - changelog: |
-    **系统**:
-    ● 优化 系统性能，提升系统稳定性
-    ● 修复 极端场景下极小概率快充失效问题
-    ● 修复 未插充电器场景下极小概率出现充电图标问题
-  codename: RMX2176
-  date: 18/11/2020
+    **蓝牙**:
+    ● 新增 蓝牙耳机接听图标
+    **状态栏**:
+    ● 优化 控制中心振动开关切换逻辑
+    **相机**:
+    ● 优化 前置相机在戴口罩场景下成像亮度
+    ● 修复 部分相机模式切换过程中极低概率卡顿的问题
+    ● 修复 全景模式拍照后预览极低概率卡顿的问题
+    ● 修复 下拉状态下前置摄像头漏光问题
+    **设置**:
+    ● 修复 搜索智能判断路径显示错误的问题
+    **截屏**:
+    ● 修复 长截屏通话录音界面极低概率页面重复问题
+    **手机管家**:
+    ● 修复 手机管家云搬迁时视频留驻问题
+    **便签**:
+    ● 修复 便签皮肤区域低概率显示不全的问题
+    ● 修复 便签新建笔记后低概率无法切换笔记的问题
+    **安全**:
+    ● 更新 Android安全补丁（2020#12）
+  codename: RMX2173
+  date: 31/12/2020
   device: realme  X7 5G
-  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0190_all_4Dv3zsrUtg0a.ozip
-  md5: 0199FBF487770EB5C72E1F3F36A3203C
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0220_all_q1GWHCosaxcd.ozip
+  md5: A13F2E8BFA97CF14195382C180D2670E
   region: China
-  size: 3.04GB
+  size: 3.08GB
   system: realme UI 1.0
-  version: RMX2176_11.A.19
+  version: RMX2173_11.A.22
 - changelog: |
     **手电筒**:
     ● 新增  息屏状态下短按电源键关闭手电筒功能
@@ -1561,36 +1593,17 @@
   system: realme UI 1.0
   version: RMX1971EX_11.C.08
 - changelog: |
-    **Security**:
-    ● Android Security Patch: November, 2020
-    **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
-    **Screenshot**:
-    ● Added Scrolling screenshot feature in horizontal mode
-    ● Added a toggle for physical button screenshot in screenshot settings
-    **Settings**:
-    ● Added Super power saving mode
-    ● Added a toggle for displaying keyboard when entering app drawer
-    ● Added Icon pull-down gesture
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added shortcuts at the bottom of Battery settings
-    ● Added shortcuts at the bottom of Security settings
-    ● Fixed the probabilistic issue of unable to adjust the color temperature after turning off eye comfort
-    **Album**:
-    ● Added Create feature which enables video editing in Soloop
-    ● Fixed the probabilistic screen flicker when entering the album
-    ● Fixed the probabilistic crash issue when browsing in the album
-    **System**:
-    ● Fixed the probabilistic freezing issue of Clone Phone
+    **Network**:
+    **Fixed the probabilistic issue of Volte failing to register**:
   codename: RMX1921EX
-  date: 18/11/2020
+  date: 05/01/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1080_all_r5uAbqYYEwTo.ozip
-  md5: FDA313432E53CF737C89E41FD1A57B7C
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1080_all_qtavXWgd9vw0.ozip
+  md5: D39B1AB4AE4B18C5D76EB93E57E010E7
   region: India
-  size: 3.13GB
+  size: 3.28GB
   system: realme UI 1.0
-  version: RMX1921EX_11.C.08
+  version: RMX1921EX_11.C.09
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020
@@ -1630,36 +1643,17 @@
   system: realme UI 1.0
   version: RMX1911EX_11.C.61
 - changelog: |
-    **Security**:
-    ● Android Security Patch: November, 2020
-    **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
-    **Screenshot**:
-    ● Added Scrolling screenshot feature in horizontal mode
-    ● Added a toggle for physical button screenshot in screenshot settings
-    **Settings**:
-    ● Added Super power saving mode
-    ● Added a toggle for displaying keyboard when entering app drawer
-    ● Added Icon pull-down gesture
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added shortcuts at the bottom of Battery settings
-    ● Added shortcuts at the bottom of Security settings
-    ● Fixed the probabilistic issue of unable to adjust the color temperature after turning off eye comfort
-    **Album**:
-    ● Added Create feature which enables video editing in Soloop
-    ● Fixed the probabilistic screen flicker when entering the album
-    ● Fixed the probabilistic crash issue when browsing in the album
-    **System**:
-    ● Fixed the probabilistic freezing issue of Clone Phone
+    **Network**:
+    **Fixed the probabilistic issue of Volte failing to register**:
   codename: RMX1901EX
-  date: 14/11/2020
+  date: 05/01/2021
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1070_all_OgEJ5tuKMbbc.ozip
-  md5: 44ECF088A7CBFCF7CF8B7321FF445CE5
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
+  md5: 1E17BC08F8A9FE2BD5461FBED98401C2
   region: India
-  size: 3.28GB
+  size: 3.13GB
   system: realme UI 1.0
-  version: RMX1901EX_11.C.07
+  version: RMX1901EX_11.C.08
 - changelog: |
     **Security**:
     ● Updated Android security patch: Oct, 2020/Nov, 2020
@@ -2137,19 +2131,17 @@
   system: realme UI 1.0
   version: RMX1911EX_11.C.61
 - changelog: |
-    **Keamanan**:
-    ● patch keamanan Android: November 2020
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1901EX
-  date: 14/11/2020
+  date: 05/01/2021
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1070_all_OgEJ5tuKMbbc.ozip
-  md5: 44ECF088A7CBFCF7CF8B7321FF445CE5
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
+  md5: 1E17BC08F8A9FE2BD5461FBED98401C2
   region: Indonesia
-  size: 3.28GB
+  size: 3.13GB
   system: realme UI 1.0
-  version: RMX1901EX_11.C.07
+  version: RMX1901EX_11.C.08
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: November 2020

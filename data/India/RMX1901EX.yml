@@ -1,31 +1,12 @@
 changelog: |
-  **Security**:
-  ● Android Security Patch: November, 2020
-  **Bluetooth**:
-  ● Added a new icon for phone calls with Bluetooth earphone
-  **Screenshot**:
-  ● Added Scrolling screenshot feature in horizontal mode
-  ● Added a toggle for physical button screenshot in screenshot settings
-  **Settings**:
-  ● Added Super power saving mode
-  ● Added a toggle for displaying keyboard when entering app drawer
-  ● Added Icon pull-down gesture
-  ● Added From Sunset to Sunrise option of eye comfort
-  ● Added shortcuts at the bottom of Battery settings
-  ● Added shortcuts at the bottom of Security settings
-  ● Fixed the probabilistic issue of unable to adjust the color temperature after turning off eye comfort
-  **Album**:
-  ● Added Create feature which enables video editing in Soloop
-  ● Fixed the probabilistic screen flicker when entering the album
-  ● Fixed the probabilistic crash issue when browsing in the album
-  **System**:
-  ● Fixed the probabilistic freezing issue of Clone Phone
+  **Network**:
+  **Fixed the probabilistic issue of Volte failing to register**:
 codename: RMX1901EX
-date: 14/11/2020
+date: 05/01/2021
 device: realme X
-download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1070_all_OgEJ5tuKMbbc.ozip
-md5: 44ECF088A7CBFCF7CF8B7321FF445CE5
+download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
+md5: 1E17BC08F8A9FE2BD5461FBED98401C2
 region: India
-size: 3.28GB
+size: 3.13GB
 system: realme UI 1.0
-version: RMX1901EX_11.C.07
+version: RMX1901EX_11.C.08

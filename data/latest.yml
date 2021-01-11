@@ -97,6 +97,20 @@
   system: realme UI 1.0
   version: RMX1931EX_11.C.34
 - changelog: |
+    **相机**:
+    ● 优化后置相机拍照效果
+    **系统**:
+    ● 优化系统性能，提升系统稳定性
+  codename: RMX3092
+  date: 04/01/2021
+  device: realme V15 5G
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0230_all_TD9KCc22G2GN.ozip
+  md5: E3033CB4D259441A3BBD2452E17891DB
+  region: China
+  size: 3.08GB
+  system: realme UI 1.0
+  version: RMX3092_11.A.23
+- changelog: |
     **蓝牙**:
     ● 新增 蓝牙耳机接听图标
     **状态栏**:
@@ -1704,6 +1718,20 @@
   size: 3.26GB
   system: realme UI 1.0
   version: RMX1851EX_11.C.10
+- changelog: |
+    **Security**:
+    ● Android Security Patch: November, 2020
+    **System**:
+    ● Fixed some known issues and improved system stability
+  codename: RMX1941EX
+  date: 20/11/2020
+  device: realme C2
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0300_all_SH6mrZiXYctk.ozip
+  md5: 68a7f0218612a3cd0f8295cc19a2defe
+  region: India
+  size: 2.02GB
+  system: ColorOS 6.0
+  version: RMX1941EX_11.A.30
 - changelog: |
     **Security**:
     ● Updated Android security patch: Oct, 2020/Nov, 2020

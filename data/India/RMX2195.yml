@@ -1,15 +1,16 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: Nov, 2020
+  ● Android security patch: December, 2020
+  **Camera**:
+  ● Optimized the clarity of the rear camera
   **System**:
-  ● Optimized the system performance and improved system stability
-  ● Fixed the black screen issue of incoming calls
+  ● Optimized system stability
 codename: RMX2195
-date: 7/12/2020
+date: 11/1/2021
 device: realme C15 Qualcomm Edition
-download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0210_all_kGzvIGUec445.ozip
-md5: BF1D65E7C7FF5D1738FDEAB0D268FEFE
+download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0230_all_grul0BICfSaC.ozip
+md5: 20F4F440CE1EB431EA91A4E701B087AB
 region: India
 size: 3.28GB
 system: realme UI 1.0
-version: RMX2195_11_A.21
+version: RMX2195_11_A.23

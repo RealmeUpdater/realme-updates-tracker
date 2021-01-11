@@ -1238,19 +1238,20 @@
   version: RMX2170PU_11_A.25
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
+    ● Android security patch: December, 2020
+    **Camera**:
+    ● Optimized the clarity of the rear camera
     **System**:
-    ● Optimized the system performance and improved system stability
-    ● Fixed the black screen issue of incoming calls
+    ● Optimized system stability
   codename: RMX2195
-  date: 7/12/2020
+  date: 11/1/2021
   device: realme C15 Qualcomm Edition
-  download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0210_all_kGzvIGUec445.ozip
-  md5: BF1D65E7C7FF5D1738FDEAB0D268FEFE
+  download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0230_all_grul0BICfSaC.ozip
+  md5: 20F4F440CE1EB431EA91A4E701B087AB
   region: India
   size: 3.28GB
   system: realme UI 1.0
-  version: RMX2195_11_A.21
+  version: RMX2195_11_A.23
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020
@@ -1392,31 +1393,22 @@
   version: RMX2020_11.A.55
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Language**:
-    ● Added system language: Serbian
-    **System**:
-    ● Optimized the speed of the App Startup from the recent apps
-    ● Optimized the speed of application installation
-    ● Fixed the issue that the phone cannot be woken up by pressing the power button
-    **Fingerprint**:
-    ● Optimized fingerprint recognition rate
-    **Status Bar**:
-    ● Optimized the display of battery icon when charging
+    ● Updated Android security patch: Nov, 2020
+    **Settings**:
+    ● Added short-press the power button to turn off flashlight feature while screen-off
+    **Bluetooth**:
+    ● Added a new icon for phone calls with Bluetooth earphone
     **Camera**:
-    ● Optimized the speed of camera cold start
-    **Phone**:
-    ● Fixed the issue that non-emergency numbers are incorrectly displayed
-    ● Fixed the probabilistic issue that unable to make a conference call
+    ● Optimized the image quality in some scenarios
   codename: RMX2040
-  date: 15/8/2020
+  date: 21/12/2020
   device: realme Narzo 10
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0270_all_7RxCwaEdCEFb.ozip
-  md5: 13151EBB7288ADE5F9903D805AE8AD6C
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0370_all_WV7weRBmVUhw.ozip
+  md5: 8854B46A385738D9D74672A045458C63
   region: India
-  size: 2.83GB
+  size: 2.94GB
   system: realme UI 1.0
-  version: RMX2040_11.A.27
+  version: RMX2040_11.A.37
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020

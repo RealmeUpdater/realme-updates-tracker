@@ -239,7 +239,7 @@
     ● 修复 便签新建笔记后低概率无法切换笔记的问题
     **安全**:
     ● 更新 Android安全补丁（2020#12）
-  codename: RMX2173
+  codename: RMX2176
   date: 31/12/2020
   device: realme  X7 5G
   download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0220_all_q1GWHCosaxcd.ozip
@@ -247,7 +247,7 @@
   region: China
   size: 3.08GB
   system: realme UI 1.0
-  version: RMX2173_11.A.22
+  version: RMX2176_11.A.22
 - changelog: |
     **手电筒**:
     ● 新增  息屏状态下短按电源键关闭手电筒功能
@@ -1706,20 +1706,6 @@
   version: RMX1851EX_11.C.10
 - changelog: |
     **Security**:
-    ● Android Security Patch: November, 2020
-    **System**:
-    ● Fixed some known issues and improved system stability
-  codename: RMX1941EX
-  date: 20/11/2020
-  device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0300_all_SH6mrZiXYctk.ozip
-  md5: 68a7f0218612a3cd0f8295cc19a2defe
-  region: India
-  size: 2.02GB
-  system: ColorOS 6.0
-  version: RMX1941EX_11.A.30
-- changelog: |
-    **Security**:
     ● Updated Android security patch: Oct, 2020/Nov, 2020
     **Bluetooth**:
     ● Added a new icon for phone calls with Bluetooth earphone
@@ -2281,19 +2267,17 @@
   system: realme UI V1.0
   version: RMX1971EX_11.C.08
 - changelog: |
-    **الأمان**:
-    ●معامل تصحيح أمان أندرويد : سبتمبر ,2020
     **النظام**:
     ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
   codename: RMX1921EX
-  date: 18/9/2020
+  date: 05/01/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1070_all_dp8pn12XGkff.ozip
-  md5: D6F6807B4A2E6B5CA6DCF6DF9E8E99B4
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
+  md5: D39B1AB4AE4B18C5D76EB93E57E010E7
   region: Iraq
-  size: 3.22GB
+  size: 3.13GB
   system: realme UI V1.0
-  version: RMX1921EX_11.C.07
+  version: RMX1921EX_11.C.09
 - changelog: |
     **Security**:
     ● Android Security Patch Level: February 5, 2019.
@@ -2481,27 +2465,17 @@
   system: realme UI 1.0
   version: RMX2030EX_11.C.61
 - changelog: |
-    **Security**:
-    ● Android security patch: July, 2020
-    **realme Lab**:
-    ● Added the smooth scrolling feature
-    **Settings**:
-    ● Added multi-user feature
-    **Screen recording**:
-    ● Optimized screen recording feature
-    **System**:
-    ● Optimized the transparency of swipe back gesture style
-    ● Optimized Bluetooth being turned off when flight mode is turned on mechanisam
-    ● Fixed some known issues and improved system stability
+    **Network**:
+    **Fixed the probabilistic issue of Volte failing to register**:
   codename: RMX1921EX
-  date: 31/7/2020
+  date: 05/01/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1060_all_3in8Z5H1YUlA.ozip
-  md5: 2B413CEB6C082294E3383A3FE671F957
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
+  md5: D39B1AB4AE4B18C5D76EB93E57E010E7
   region: Pakistan
-  size: 3.15GB
+  size: 3.13GB
   system: realme UI V1.0
-  version: RMX1921EX_11.C.06
+  version: RMX1921EX_11.C.09
 - changelog: |
     **Security**:
     ● Android Security Patch: November, 2020
@@ -2970,19 +2944,17 @@
   system: realme UI 1.0
   version: RMX1971EX_11.C.05
 - changelog: |
-    **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2020#9)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX1921EX
-  date: 18/9/2020
+  date: 05/01/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1070_all_dp8pn12XGkff.ozip
-  md5: D6F6807B4A2E6B5CA6DCF6DF9E8E99B4
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
+  md5: D39B1AB4AE4B18C5D76EB93E57E010E7
   region: Turkey
-  size: 3.22GB
+  size: 3.13GB
   system: realme UI 1.0
-  version: RMX1921EX_11.C.07
+  version: RMX1921EX_11.C.09
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması: Temmuz 2020
@@ -3194,19 +3166,17 @@
   system: realme UI 1.0
   version: RMX2030EX_11.C.61
 - changelog: |
-    **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#11)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1921EX
-  date: 18/11/2020
+  date: 05/01/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1080_all_r5uAbqYYEwTo.ozip
-  md5: FDA313432E53CF737C89E41FD1A57B7C
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
+  md5: D39B1AB4AE4B18C5D76EB93E57E010E7
   region: Vietnam
   size: 3.13GB
   system: realme UI 1.0
-  version: RMX1921EX_11.C.08
+  version: RMX1921EX_11.C.09
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#11)

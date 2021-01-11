@@ -1,14 +1,12 @@
 changelog: |
-  **الأمان**:
-  ●معامل تصحيح أمان أندرويد : سبتمبر ,2020
   **النظام**:
   ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
 codename: RMX1921EX
-date: 18/9/2020
+date: 05/01/2021
 device: realme XT
-download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1070_all_dp8pn12XGkff.ozip
-md5: D6F6807B4A2E6B5CA6DCF6DF9E8E99B4
+download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
+md5: D39B1AB4AE4B18C5D76EB93E57E010E7
 region: Iraq
-size: 3.22GB
+size: 3.13GB
 system: realme UI V1.0
-version: RMX1921EX_11.C.07
+version: RMX1921EX_11.C.09

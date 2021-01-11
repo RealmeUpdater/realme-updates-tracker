@@ -141,7 +141,7 @@
     ● 修复 便签新建笔记后低概率无法切换笔记的问题
     **安全**:
     ● 更新 Android安全补丁（2020#12）
-  codename: RMX2173
+  codename: RMX2176
   date: 31/12/2020
   device: realme  X7 5G
   download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0220_all_q1GWHCosaxcd.ozip
@@ -149,7 +149,7 @@
   region: China
   size: 3.08GB
   system: realme UI 1.0
-  version: RMX2173_11.A.22
+  version: RMX2176_11.A.22
 - changelog: |
     **手电筒**:
     ● 新增  息屏状态下短按电源键关闭手电筒功能

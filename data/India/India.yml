@@ -240,7 +240,7 @@
     ● Fixed the probabilistic screen flicker when entering passwords entries in Dark mode
     ● Fixed when using Clone Phone in Dark mode, the probabilistic issue that From Sunset to Sunrise status is out of sync
   codename: RMX2081PU
-  date: 12/14/2020
+  date: 14/12/2020
   device: realme X3 SuperZoom
   download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0470_all_toQRj2xOrCq3.ozip
   md5: 3567031c04ddc1b1027416fc8ff2cc58

@@ -68,26 +68,26 @@
   system: realme UI 1.0
   version: RMX2111_11.A.27
 - changelog: |
-    **系统**:
-    ● 优化 系统稳定性，提升用户体验
-    **续航**:
-    ● 修复 部分场景待机掉电快的问题
-    **相机**:
-    ● 修复 极低 概率相机功能异常问题
-    ● 修复 部分场景相机效果类问题
     **充电**:
-    ● 修复 部分场景下极小概率出现充电图标问题
+    ● 优化 快充协议支持更多QC和PD充电
+    **相机**:
+    ● 优化 人像、普通、64M等模式下的对焦功能
+    ● 优化 后置相机64M的室外成像效果
+    ● 优化 后置64M拍照稳定性
+    ● 优化 超级夜景模式下室外夜拍时的成像亮度表现
+    **显示**:
+    ● 修复 低概率性息屏显示误触显示不动问题
     **安全**:
-    ● 更新 Android安全补丁（2020#11）
+    ● 更新 Android安全补丁（2020#12）
   codename: RMX2121
-  date: 20/12/2020
+  date: 08/01/2021
   device: realme  X7 Pro 5G
   download: https://download.c.realme.com/osupdate/RMX2121_11_OTA_0170_all_IrbQNx72829t.ozip
-  md5: 56A7045E8614D1431739BAA38B63998F
+  md5: 7DB0501FF303971C32E803F969B23040
   region: China
-  size: 3.24GB
+  size: 3.23GB
   system: realme UI 1.0
-  version: RMX2121_11_A.17
+  version: RMX2121_11_A.18
 - changelog: |
     **应用**:
     ● 新增 soloop即录APP

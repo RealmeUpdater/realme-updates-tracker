@@ -1,8 +1,10 @@
 changelog: |
-  **Безопасность**:
-  ● Исправление для системы безопасности ОС Android: Декабрь, 2020 г.
-  **Система:**:
-  ● Исправлено известных ошибок, улучшена стабильность системы.
+  **Security**:
+  ● Updated Android security patch: Dec, 2020 Settings
+  ● Added short-press the power button to turn off flashlight feature while screen-off Camera
+  ● Fixed the probabilistic display error issue when playing videos System
+  ● Optimized system performance and improved system stability
+  ● Fixed the probabilistic flicker issue
 codename: RMX2001
 date: 18/12/2020
 device: realme 6

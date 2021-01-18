@@ -141,6 +141,18 @@
   system: realme UI 1.0
   version: RMX2173_11.A.22
 - changelog: |
+    **系统**:
+    ● 优化 系统性能，提升系统稳定性
+  codename: RMX2200
+  date: 12/01/2021
+  device: realme Q2i 5G
+  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0150_all_3L6FxzsyFgpH.ozip
+  md5: 90101E0A2AF2287AEADB5ACA1034F53A
+  region: China
+  size: 2.99GB
+  system: realme UI 1.0
+  version: RMX2200_11.A.15
+- changelog: |
     **蓝牙**:
     ● 新增 蓝牙耳机接听图标
     **便签**:
@@ -187,26 +199,17 @@
   system: realme UI 1.0
   version: RMX2121_11_A.18
 - changelog: |
-    **应用**:
-    ● 新增 soloop即录APP
-    **游戏**:
-    ● 优化 和平精英游戏过程中的帧率表现
-    ● 优化 王者荣耀游戏过程中的触控效果
     **系统**:
-    ● 优化系统稳定性，提升用户体验
-    **解锁**:
-    ● 修复 使用部分非原装充电器的充电场景下，因电流干扰导致的指纹解锁失败问题
-    **安全**:
-    ● 更新 Android安全补丁（2020#9）
+    ● 优化 系统性能，提升系统稳定性
   codename: RMX2200
-  date: 30/09/2020
+  date: 12/01/2021
   device: realme V3 5G
-  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0100_all_wiVuAiOr4D5r.ozip
-  md5: 282045F43250F51910F3E50A00616FEB
+  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0150_all_3L6FxzsyFgpH.ozip
+  md5: 90101E0A2AF2287AEADB5ACA1034F53A
   region: China
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX2200_11_A.10
+  version: RMX2200_11_A.15
 - changelog: |
     **便签**:
     ● 新增 录音文本导出到便签功能

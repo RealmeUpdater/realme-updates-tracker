@@ -303,40 +303,31 @@
   system: realmeUI 1.0
   version: RMX2076PU_11.A.41
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: Dec, 2020
-    **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Camera**:
-    ● Fixed the probabilistic display error issue when playing videos
     **System**:
-    ● Optimized system performance and improved system stability
-    ● Fixed the probabilistic flicker issue
+    ● Optimized system performance
+    ● Optimized system stability
   codename: RMX2001
-  date: 18/12/2020
+  date: 21/1/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
-  md5: 53EB904F387D18003AC601919D02E1FC
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0550_all_ubNu4e0rETCq.ozip
+  md5: 64A43D1D2F96A798EC72719E56102FE8
   region: India
   size: 3.19GB
   system: realme UI 1.0
-  version: RMX2001_11.B.53
+  version: RMX2001_11.B.55
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: Dec, 2020 Settings
-    ● Added short-press the power button to turn off flashlight feature while screen-off Camera
-    ● Fixed the probabilistic display error issue when playing videos System
-    ● Optimized system performance and improved system stability
-    ● Fixed the probabilistic flicker issue
+    **System**:
+    ● Optimized system performance
+    ● Optimized system stability
   codename: RMX2001
-  date: 18/12/2020
+  date: 21/1/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
-  md5: 53EB904F387D18003AC601919D02E1FC
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0550_all_ubNu4e0rETCq.ozip
+  md5: 64A43D1D2F96A798EC72719E56102FE8
   region: India
   size: 3.19GB
   system: realme UI 1.0
-  version: RMX2001_11.B.53
+  version: RMX2001_11.B.55
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020

@@ -1,14 +1,14 @@
 changelog: |
-  **Seguridad**:
-  ● Parche de seguridad de Android: diciembre 2020 & enero 2021
-  **Sistema**:
-  ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+  **Güvenlik**:
+  ● Güncel Android güvenlik yaması (2020#12 & 2021#1)
+  **Sistem**:
+  ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
 codename: RMX1911EU
 date: 24/01/2021
-device: realme 5
+device: realme 5i
 download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1580_all_sutP2HGcuFjX.ozip
 md5: 0F3470C14EA83744257E20E564B36089
-region: Spain
+region: Turkey
 size: 2.65GB
 system: realme UI 1.0
 version: RMX1911EU_11_C.58

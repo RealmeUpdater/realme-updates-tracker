@@ -1,14 +1,14 @@
 changelog: |
   **الأمان**:
-  ●معامل تصحيح أمان أندرويد : شهر نوفمبر ,2020
+  ●معامل تصحيح أمان أندرويد : ديسمبر ,2020 & كانون الثاني 2021
   **النظام**:
   ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
 codename: RMX1911EX
-date: 04/12/2020
+date: 24/01/2021
 device: realme 5
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-md5: CA58688AADFEBA6E566EC4F43151EA1F
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+md5: 04215D2E3F2F1621AB8A8713BC9E7451
 region: Iraq
-size: 2.97GB
+size: 2.99GB
 system: realme UI 1.0
-version: RMX1911EX_11.C.61
+version: RMX1911EX_11_C.63

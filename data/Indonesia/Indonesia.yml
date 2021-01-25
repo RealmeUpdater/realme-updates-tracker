@@ -210,18 +210,18 @@
   version: RMX2020_11.A.55
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: November 2020
+    ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
-  codename: RMX2030EX
-  date: 04/12/2020
+  codename: RMX1911EX
+  date: 24/01/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Indonesia
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX2030EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Keamanan**:
     ● Android security patch: Desember 2020
@@ -264,32 +264,32 @@
   version: RMX1971EX_11.C.08
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: November 2020
+    ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Indonesia
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: November 2020
+    ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Indonesia
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem

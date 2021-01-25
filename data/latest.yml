@@ -657,18 +657,18 @@
   version: RMX2040EU_11.A.24
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: noviembre 2020
+    ● Parche de seguridad de Android: diciembre 2020 & enero 2021
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
-  codename: RMX2030EU
-  date: 10/12/2020
+  codename: RMX1911EU
+  date: 24/01/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1560_all_5UTLGOnu3T9M.ozip
-  md5: A289C1FC30F1C2FA24A5985C78DFA253
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1580_all_sutP2HGcuFjX.ozip
+  md5: 0F3470C14EA83744257E20E564B36089
   region: Spain
-  size: 2.66GB
+  size: 2.65GB
   system: realme UI 1.0
-  version: RMX2030EU_11.C.56
+  version: RMX1911EU_11_C.58
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: mayo de 2020
@@ -711,18 +711,18 @@
   version: RMX1971EX_11.C.07
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: noviembre 2020
+    ● Parche de seguridad de Android: diciembre 2020 & enero 2021
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1911EU
-  date: 10/12/2020
+  date: 24/01/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1560_all_5UTLGOnu3T9M.ozip
-  md5: A289C1FC30F1C2FA24A5985C78DFA253
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1580_all_sutP2HGcuFjX.ozip
+  md5: 0F3470C14EA83744257E20E564B36089
   region: Spain
-  size: 2.66GB
+  size: 2.65GB
   system: realme UI 1.0
-  version: RMX1911EU_11.C.56
+  version: RMX1911EU_11_C.58
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android(2020#11)
@@ -1471,23 +1471,20 @@
   version: RMX2020_11.A.55
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Settigns**:
-    ● Added a toggle for displaying keyboard when entering app drawer
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Screenshot**:
-    ● Added a toggle for physical button in screenshot setting page
-    ● Optimized the interactive mode for screenshot floating preview
-  codename: RMX2030EX
-  date: 04/12/2020
+    ● Updated Android security patch: Dec, 2020/Jan, 2021
+    **Camera**:
+    ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
+    **Tools**:
+    ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
+  codename: RMX1911EX
+  date: 24/01/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: India
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX2030EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Security**:
     ● Updated Android security patch: Oct, 2020/Nov, 2020
@@ -1603,42 +1600,36 @@
   version: RMX1921EX_11.C.09
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Settigns**:
-    ● Added a toggle for displaying keyboard when entering app drawer
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Screenshot**:
-    ● Added a toggle for physical button in screenshot setting page
-    ● Optimized the interactive mode for screenshot floating preview
+    ● Updated Android security patch: Dec, 2020/Jan, 2021
+    **Camera**:
+    ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
+    **Tools**:
+    ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: India
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Settigns**:
-    ● Added a toggle for displaying keyboard when entering app drawer
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Screenshot**:
-    ● Added a toggle for physical button in screenshot setting page
-    ● Optimized the interactive mode for screenshot floating preview
+    ● Updated Android security patch: Dec, 2020/Jan, 2021
+    **Camera**:
+    ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
+    **Tools**:
+    ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: India
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Network**:
     **Fixed the probabilistic issue of Volte failing to register**:
@@ -2045,18 +2036,18 @@
   version: RMX2020_11.A.55
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: November 2020
+    ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
-  codename: RMX2030EX
-  date: 04/12/2020
+  codename: RMX1911EX
+  date: 24/01/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Indonesia
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX2030EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Keamanan**:
     ● Android security patch: Desember 2020
@@ -2099,32 +2090,32 @@
   version: RMX1971EX_11.C.08
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: November 2020
+    ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Indonesia
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: November 2020
+    ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Indonesia
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
@@ -2251,18 +2242,18 @@
   version: RMX2001_11.B.53
 - changelog: |
     **الأمان**:
-    ●معامل تصحيح أمان أندرويد : شهر نوفمبر ,2020
+    ●معامل تصحيح أمان أندرويد : ديسمبر ,2020 & كانون الثاني 2021
     **النظام**:
     ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Iraq
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **الأمان**:
     ●معامل تصحيح أمان أندرويد : شهر نوفمبر ,2020
@@ -2458,23 +2449,20 @@
   version: RMX2020_11.A.55
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Settigns**:
-    ● Added a toggle for displaying keyboard when entering app drawer
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Screenshot**:
-    ● Added a toggle for physical button in screenshot setting page
-    ● Optimized the interactive mode for screenshot floating preview
-  codename: RMX2030EX
-  date: 04/12/2020
+    ● Updated Android security patch: Dec, 2020/Jan, 2021
+    **Camera**:
+    ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
+    **Tools**:
+    ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
+  codename: RMX1911EX
+  date: 24/01/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Pakistan
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX2030EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Network**:
     **Fixed the probabilistic issue of Volte failing to register**:
@@ -2519,42 +2507,36 @@
   version: RMX1971EX_11.C.08
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Settigns**:
-    ● Added a toggle for displaying keyboard when entering app drawer
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Screenshot**:
-    ● Added a toggle for physical button in screenshot setting page
-    ● Optimized the interactive mode for screenshot floating preview
+    ● Updated Android security patch: Dec, 2020/Jan, 2021
+    **Camera**:
+    ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
+    **Tools**:
+    ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Pakistan
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Settigns**:
-    ● Added a toggle for displaying keyboard when entering app drawer
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Screenshot**:
-    ● Added a toggle for physical button in screenshot setting page
-    ● Optimized the interactive mode for screenshot floating preview
+    ● Updated Android security patch: Dec, 2020/Jan, 2021
+    **Camera**:
+    ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
+    **Tools**:
+    ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Pakistan
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Security**:
     ● Android Security Patch: November, 2020
@@ -2830,18 +2812,18 @@
   version: RMX1971EX_11.C.05
 - changelog: |
     **Безопасность**:
-    ● Исправление для системы безопасности ОС Android: ноябрь 2020 г.
+    ● Патчи безопасности Android: Декабрь 2020 # Январь 2021
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Russia
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android: Ноябрь 2020
@@ -2914,18 +2896,18 @@
   version: RMX2040EU_11.A.34
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2020#11)
+    ● Güncel Android güvenlik yaması (2020#12 & 2021#1)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
-  codename: RMX2030EU
-  date: 10/12/2020
+  codename: RMX1911EU
+  date: 24/01/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1560_all_5UTLGOnu3T9M.ozip
-  md5: A289C1FC30F1C2FA24A5985C78DFA253
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1580_all_sutP2HGcuFjX.ozip
+  md5: 0F3470C14EA83744257E20E564B36089
   region: Turkey
-  size: 2.66GB
+  size: 2.65GB
   system: realme UI 1.0
-  version: RMX2030EU_11.C.56
+  version: RMX1911EU_11_C.58
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#12)
@@ -3164,18 +3146,18 @@
   version: RMX2020_11.A.55
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#11)
+    ● Cập nhật bản vá bảo mật Android: (2020#12 & 2021#1)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
-  codename: RMX2030EX
-  date: 04/12/2020
+  codename: RMX1911EX
+  date: 24/01/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Vietnam
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX2030EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
@@ -3204,32 +3186,32 @@
   version: RMX1971EX_11.C.08
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#11)
+    ● Cập nhật bản vá bảo mật Android: (2020#12 & 2021#1)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Vietnam
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#11)
+    ● Cập nhật bản vá bảo mật Android: (2020#12 & 2021#1)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1911EX
-  date: 04/12/2020
+  date: 24/01/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-  md5: CA58688AADFEBA6E566EC4F43151EA1F
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+  md5: 04215D2E3F2F1621AB8A8713BC9E7451
   region: Vietnam
-  size: 2.97GB
+  size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11.C.61
+  version: RMX1911EX_11_C.63
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#11)

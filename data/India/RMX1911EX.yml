@@ -1,19 +1,16 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: Nov, 2020
-  **Settigns**:
-  ● Added a toggle for displaying keyboard when entering app drawer
-  ● Added From Sunset to Sunrise option of eye comfort
-  ● Added short-press the power button to turn off flashlight feature while screen-off
-  **Screenshot**:
-  ● Added a toggle for physical button in screenshot setting page
-  ● Optimized the interactive mode for screenshot floating preview
+  ● Updated Android security patch: Dec, 2020/Jan, 2021
+  **Camera**:
+  ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
+  **Tools**:
+  ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
 codename: RMX1911EX
-date: 04/12/2020
+date: 24/01/2021
 device: realme 5
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1610_all_qom4EBEvsckf.ozip
-md5: CA58688AADFEBA6E566EC4F43151EA1F
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
+md5: 04215D2E3F2F1621AB8A8713BC9E7451
 region: India
-size: 2.97GB
+size: 2.99GB
 system: realme UI 1.0
-version: RMX1911EX_11.C.61
+version: RMX1911EX_11_C.63

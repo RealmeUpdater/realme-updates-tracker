@@ -160,7 +160,7 @@
     ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
     **Tools**:
     ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
-  codename: RMX1911EX
+  codename: RMX2030EX
   date: 24/01/2021
   device: realme 5i
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
@@ -168,7 +168,7 @@
   region: Pakistan
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.63
+  version: RMX2030EX_11_C.63
 - changelog: |
     **Network**:
     **Fixed the probabilistic issue of Volte failing to register**:

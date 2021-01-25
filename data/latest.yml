@@ -660,7 +660,7 @@
     ● Parche de seguridad de Android: diciembre 2020 & enero 2021
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
-  codename: RMX1911EU
+  codename: RMX2030EU
   date: 24/01/2021
   device: realme 5i
   download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1580_all_sutP2HGcuFjX.ozip
@@ -668,7 +668,7 @@
   region: Spain
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX1911EU_11_C.58
+  version: RMX2030EU_11_C.58
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: mayo de 2020
@@ -1476,7 +1476,7 @@
     ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
     **Tools**:
     ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
-  codename: RMX1911EX
+  codename: RMX2030EX
   date: 24/01/2021
   device: realme 5i
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
@@ -1484,7 +1484,7 @@
   region: India
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.63
+  version: RMX2030EX_11_C.63
 - changelog: |
     **Security**:
     ● Updated Android security patch: Oct, 2020/Nov, 2020
@@ -1728,20 +1728,19 @@
   version: RMX1821EX_11.C.17
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Oct/Nov, 2020
-    **Applications**:
-    ● Added Browser
+    ● Updated Android security patch: Dec,2020 & Jan,2021
     **System**:
-    ● Optimized system performance and improved the system stability
+    ● Optimized system performance
+    ● Improved system stability
   codename: RMX1831EX
-  date: 19/11/2020
+  date: 24/01/2021
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0220_all_v0SOtbbZTVVk.ozip
-  md5: B53DF7BB5A5670CD9B1A3B0DD6401127
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0230_all_zpeSGPPH3Lhp.ozip
+  md5: 118E21050EDA69B23F371A4EA4536603
   region: India
-  size: 2.16GB
+  size: 2.18GB
   system: ColorOS 6.0
-  version: RMX1831EX_11.C.22
+  version: RMX1831EX_11_C.23
 - changelog: |
     **Security**:
     ● Updated Android security patch: Oct/Nov, 2020
@@ -2039,7 +2038,7 @@
     ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
-  codename: RMX1911EX
+  codename: RMX2030EX
   date: 24/01/2021
   device: realme 5i
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
@@ -2047,7 +2046,7 @@
   region: Indonesia
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.63
+  version: RMX2030EX_11_C.63
 - changelog: |
     **Keamanan**:
     ● Android security patch: Desember 2020
@@ -2172,18 +2171,18 @@
   version: RMX1941EX_11.A.30
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: November 2020
+    ● Tambalan keamanan Android: Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1831EX
-  date: 19/11/2020
+  date: 24/01/2021
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0220_all_v0SOtbbZTVVk.ozip
-  md5: B53DF7BB5A5670CD9B1A3B0DD6401127
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0230_all_zpeSGPPH3Lhp.ozip
+  md5: 118E21050EDA69B23F371A4EA4536603
   region: Indonesia
-  size: 2.16GB
+  size: 2.18GB
   system: ColorOS 6.0
-  version: RMX1831EX_11.C.22
+  version: RMX1831EX_11_C.23
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: November 2020
@@ -2454,7 +2453,7 @@
     ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
     **Tools**:
     ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
-  codename: RMX1911EX
+  codename: RMX2030EX
   date: 24/01/2021
   device: realme 5i
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
@@ -2462,7 +2461,7 @@
   region: Pakistan
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.63
+  version: RMX2030EX_11_C.63
 - changelog: |
     **Network**:
     **Fixed the probabilistic issue of Volte failing to register**:
@@ -2899,7 +2898,7 @@
     ● Güncel Android güvenlik yaması (2020#12 & 2021#1)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
-  codename: RMX1911EU
+  codename: RMX2030EU
   date: 24/01/2021
   device: realme 5i
   download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1580_all_sutP2HGcuFjX.ozip
@@ -2907,7 +2906,7 @@
   region: Turkey
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX1911EU_11_C.58
+  version: RMX2030EU_11_C.58
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#12)
@@ -3149,7 +3148,7 @@
     ● Cập nhật bản vá bảo mật Android: (2020#12 & 2021#1)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
-  codename: RMX1911EX
+  codename: RMX2030EX
   date: 24/01/2021
   device: realme 5i
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
@@ -3157,7 +3156,7 @@
   region: Vietnam
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.63
+  version: RMX2030EX_11_C.63
 - changelog: |
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống

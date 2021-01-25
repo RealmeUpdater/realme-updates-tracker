@@ -353,7 +353,7 @@
     ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
     **Tools**:
     ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
-  codename: RMX1911EX
+  codename: RMX2030EX
   date: 24/01/2021
   device: realme 5i
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
@@ -361,7 +361,7 @@
   region: India
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.63
+  version: RMX2030EX_11_C.63
 - changelog: |
     **Security**:
     ● Updated Android security patch: Oct, 2020/Nov, 2020
@@ -605,20 +605,19 @@
   version: RMX1821EX_11.C.17
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Oct/Nov, 2020
-    **Applications**:
-    ● Added Browser
+    ● Updated Android security patch: Dec,2020 & Jan,2021
     **System**:
-    ● Optimized system performance and improved the system stability
+    ● Optimized system performance
+    ● Improved system stability
   codename: RMX1831EX
-  date: 19/11/2020
+  date: 24/01/2021
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0220_all_v0SOtbbZTVVk.ozip
-  md5: B53DF7BB5A5670CD9B1A3B0DD6401127
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0230_all_zpeSGPPH3Lhp.ozip
+  md5: 118E21050EDA69B23F371A4EA4536603
   region: India
-  size: 2.16GB
+  size: 2.18GB
   system: ColorOS 6.0
-  version: RMX1831EX_11.C.22
+  version: RMX1831EX_11_C.23
 - changelog: |
     **Security**:
     ● Updated Android security patch: Oct/Nov, 2020

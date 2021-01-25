@@ -7,8 +7,8 @@ RMX1851: realme X青春版
 RMX1851EX: realme 3 Pro
 RMX1901: realme X
 RMX1901EX: realme X
-RMX1911EU: realme 5i/realme 5
-RMX1911EX: realme 5i/realme 5s/realme 5
+RMX1911EU: realme 5
+RMX1911EX: realme 5s/realme 5
 RMX1921EUEX: realme XT
 RMX1921EX: realme XT
 RMX1931: realme X2 Pro
@@ -25,6 +25,7 @@ RMX2001EU: realme 6s/realme 6
 RMX2020: realme Narzo 10A/realme C3/realme C3i
 RMX2020EU: realme C3
 RMX2030EU: realme 5i
+RMX2030EX: realme 5i
 RMX2040: realme Narzo 10/realme 6i
 RMX2040EU: realme 6i
 RMX2050EX: realme narzo 20A

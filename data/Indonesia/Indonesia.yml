@@ -213,7 +213,7 @@
     ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
-  codename: RMX1911EX
+  codename: RMX2030EX
   date: 24/01/2021
   device: realme 5i
   download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
@@ -221,7 +221,7 @@
   region: Indonesia
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.63
+  version: RMX2030EX_11_C.63
 - changelog: |
     **Keamanan**:
     ● Android security patch: Desember 2020
@@ -346,18 +346,18 @@
   version: RMX1941EX_11.A.30
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: November 2020
+    ● Tambalan keamanan Android: Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1831EX
-  date: 19/11/2020
+  date: 24/01/2021
   device: realme U1
-  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0220_all_v0SOtbbZTVVk.ozip
-  md5: B53DF7BB5A5670CD9B1A3B0DD6401127
+  download: https://download.c.realme.com/osupdate/RMX1831EX_11_OTA_0230_all_zpeSGPPH3Lhp.ozip
+  md5: 118E21050EDA69B23F371A4EA4536603
   region: Indonesia
-  size: 2.16GB
+  size: 2.18GB
   system: ColorOS 6.0
-  version: RMX1831EX_11.C.22
+  version: RMX1831EX_11_C.23
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: November 2020

@@ -1644,24 +1644,27 @@
   version: RMX1901EX_11.C.08
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Oct, 2020/Nov, 2020
-    **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
-    **Settings**:
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added short-press the power button to turn off flashlight feature while screen-off
+    ● Updated Android security patch: December, 2020 & January, 2021
+    **Launcher**:
+    ● Added Lock Home screen layout
     **Screenshot**:
-    ● Added a toggle for physical button in screenshot settings
-    ● Optimized the interactive mode for screenshot floating preview
+    ● Added horizontal scrolling screenshot
+    ● Added "Back" button on the screenshot preview interface
+    **Camera**:
+    ● Added a quick start camera icon on the lock screen interface
+    **Settings**:
+    ● Added Multi-User Mode
+    ● Added Super power saving mode
+    ● Added Icon pull-down gesture
   codename: RMX1821EX
-  date: 21/11/2020
+  date: 26/01/2021
   device: realme 3i
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
-  md5: 0186F0F737743A7574157CDDC3CCE424
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
+  md5: 5B6235085065B15F9B9680722E9C2C01
   region: India
-  size: 2.60 GB
+  size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.17
+  version: RMX1821EX_11_C.19
 - changelog: |
     **Security**:
     ● Android Security Patch: November, 2020
@@ -1694,38 +1697,42 @@
   version: RMX1851EX_11.C.10
 - changelog: |
     **Security**:
-    ● Android Security Patch: November, 2020
+    ● Updated Android security patch: December, 2020, January, 2021
     **System**:
-    ● Fixed some known issues and improved system stability
+    ● Optimized system performance
+    ● Improved system stability
   codename: RMX1941EX
-  date: 20/11/2020
+  date: 21/01/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0300_all_SH6mrZiXYctk.ozip
-  md5: 68a7f0218612a3cd0f8295cc19a2defe
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
+  md5: AEF848C1A483C21987F5DAF1CACB4F0E
   region: India
-  size: 2.02GB
+  size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.30
+  version: RMX1941EX_11_A.32
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Oct, 2020/Nov, 2020
-    **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
-    **Settings**:
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added short-press the power button to turn off flashlight feature while screen-off
+    ● Updated Android security patch: December, 2020 & January, 2021
+    **Launcher**:
+    ● Added Lock Home screen layout
     **Screenshot**:
-    ● Added a toggle for physical button in screenshot settings
-    ● Optimized the interactive mode for screenshot floating preview
+    ● Added horizontal scrolling screenshot
+    ● Added "Back" button on the screenshot preview interface
+    **Camera**:
+    ● Added a quick start camera icon on the lock screen interface
+    **Settings**:
+    ● Added Multi-User Mode
+    ● Added Super power saving mode
+    ● Added Icon pull-down gesture
   codename: RMX1821EX
-  date: 21/11/2020
+  date: 26/01/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
-  md5: 0186F0F737743A7574157CDDC3CCE424
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
+  md5: 5B6235085065B15F9B9680722E9C2C01
   region: India
-  size: 2.60 GB
+  size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.17
+  version: RMX1821EX_11_C.19
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec,2020 & Jan,2021
@@ -2143,32 +2150,32 @@
   version: RMX1851EX_11.C.10
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: November 2020
+    ● Tambalan keamanan Android: Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1821EX
-  date: 21/11/2020
+  date: 26/01/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
-  md5: 0186F0F737743A7574157CDDC3CCE424
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
+  md5: 5B6235085065B15F9B9680722E9C2C01
   region: Indonesia
-  size: 2.60 GB
+  size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.17
+  version: RMX1821EX_11_C.19
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: November 2020
+    ● Tambalan keamanan Android: Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1941EX
-  date: 20/11/2020
+  date: 21/01/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0300_all_SH6mrZiXYctk.ozip
-  md5: 68a7f0218612a3cd0f8295cc19a2defe
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
+  md5: AEF848C1A483C21987F5DAF1CACB4F0E
   region: Indonesia
-  size: 2.02GB
+  size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.30
+  version: RMX1941EX_11_A.32
 - changelog: |
     **Keamanan**:
     ● Tambalan keamanan Android: Januari 2021
@@ -2280,17 +2287,19 @@
   system: realme UI V1.0
   version: RMX1921EX_11.C.09
 - changelog: |
-    **Security**:
-    ● Android Security Patch Level: February 5, 2019.
+    **الأمان**:
+    ● تصحيح أمان Android: يناير 2021
+    **النظام**:
+    ● تم إصلاح بعض المشكلات المعروفة، وتحسين استقرار النظام
   codename: RMX1941EX
-  date: 27/7/2020
+  date: 21/01/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0280_all_8kEXmFjiHsMf.ozip
-  md5: 607c31345569a0e83be57934dc3d6f69
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
+  md5: AEF848C1A483C21987F5DAF1CACB4F0E
   region: Iraq
-  size: 2.01GB
+  size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.28
+  version: RMX1941EX_11_A.32
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020
@@ -2568,40 +2577,42 @@
   version: RMX1851EX_11.C.10
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Oct, 2020/Nov, 2020
-    **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
-    **Settings**:
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added short-press the power button to turn off flashlight feature while screen-off
+    ● Updated Android security patch: December, 2020 & January, 2021
+    **Launcher**:
+    ● Added Lock Home screen layout
     **Screenshot**:
-    ● Added a toggle for physical button in screenshot settings
-    ● Optimized the interactive mode for screenshot floating preview
+    ● Added horizontal scrolling screenshot
+    ● Added "Back" button on the screenshot preview interface
+    **Camera**:
+    ● Added a quick start camera icon on the lock screen interface
+    **Settings**:
+    ● Added Multi-User Mode
+    ● Added Super power saving mode
+    ● Added Icon pull-down gesture
   codename: RMX1821EX
-  date: 21/11/2020
+  date: 26/01/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
-  md5: 0186F0F737743A7574157CDDC3CCE424
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
+  md5: 5B6235085065B15F9B9680722E9C2C01
   region: Pakistan
-  size: 2.60 GB
+  size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.17
+  version: RMX1821EX_11_C.19
 - changelog: |
     **Security**:
-    ● Android security patch: July, 2020
-    **Applications**:
-    ● Added realme Link
+    ● Updated Android security patch: December, 2020, January, 2021
     **System**:
-    ● Fixed some known issues and improved system stability
+    ● Optimized system performance
+    ● Improved system stability
   codename: RMX1941EX
-  date: 24/7/2020
+  date: 21/01/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0280_all_8kEXmFjiHsMf.ozip
-  md5: 607c31345569a0e83be57934dc3d6f69
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
+  md5: AEF848C1A483C21987F5DAF1CACB4F0E
   region: Pakistan
-  size: 2.01GB
+  size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.28
+  version: RMX1941EX_11_A.32
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности ОС Android: Декабрь, 2020 г.
@@ -2852,6 +2863,20 @@
   system: realme UI 1.0
   version: RMX1821EX_11.C.17
 - changelog: |
+    **Безопасность:**:
+    ● Исправление для системы безопасности Android: Январь 2021 г.
+    **Система:**:
+    ● исправлено несколько известных проблем, улучшена стабильность системы.
+  codename: RMX1941EX
+  date: 21/01/2021
+  device: realme C2
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
+  md5: AEF848C1A483C21987F5DAF1CACB4F0E
+  region: Russia
+  size: 2.05GB
+  system: ColorOS 6.0
+  version: RMX1941EX_11_A.32
+- changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#11)
     **Sistem**:
@@ -2949,18 +2974,18 @@
   version: RMX1921EX_11.C.09
 - changelog: |
     **Güvenlik**:
-    ● Android güvenlik yaması: Temmuz 2020
+    ● Güncel Android güvenlik yaması (2021#01)
     **Sistem**:
     ● Bazı bilinmeyen sorunlar düzeltildi ve sistem kararlılığı artırıldı
   codename: RMX1941EX
-  date: 24/7/2020
+  date: 21/01/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0280_all_8kEXmFjiHsMf.ozip
-  md5: 607c31345569a0e83be57934dc3d6f69
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
+  md5: AEF848C1A483C21987F5DAF1CACB4F0E
   region: Turkey
-  size: 2.01GB
+  size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.28
+  version: RMX1941EX_11_A.32
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#11)
@@ -3227,32 +3252,32 @@
   version: RMX1851EX_11.C.10
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#11)
+    ● Cập nhật bản vá bảo mật Android: (2021#01)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1821EX
-  date: 21/11/2020
+  date: 26/01/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
-  md5: 0186F0F737743A7574157CDDC3CCE424
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
+  md5: 5B6235085065B15F9B9680722E9C2C01
   region: Vietnam
-  size: 2.60 GB
+  size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.17
+  version: RMX1821EX_11_C.19
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#11)
+    ● Cập nhật bản vá bảo mật Android: (2021#01)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1941EX
-  date: 20/11/2020
+  date: 21/01/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0300_all_SH6mrZiXYctk.ozip
-  md5: 68a7f0218612a3cd0f8295cc19a2defe
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
+  md5: AEF848C1A483C21987F5DAF1CACB4F0E
   region: Vietnam
-  size: 2.04GB
+  size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.30
+  version: RMX1941EX_11_A.32
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#11)

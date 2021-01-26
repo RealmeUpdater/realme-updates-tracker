@@ -1,14 +1,14 @@
 changelog: |
   **Bảo mật**:
-  ● Cập nhật bản vá bảo mật Android: (2020#11)
+  ● Cập nhật bản vá bảo mật Android: (2021#01)
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
 codename: RMX1821EX
-date: 21/11/2020
+date: 26/01/2021
 device: realme 3
-download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
-md5: 0186F0F737743A7574157CDDC3CCE424
+download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
+md5: 5B6235085065B15F9B9680722E9C2C01
 region: Vietnam
-size: 2.60 GB
+size: 2.62GB
 system: realme UI 1.0
-version: RMX1821EX_11.C.17
+version: RMX1821EX_11_C.19

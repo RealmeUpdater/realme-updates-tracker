@@ -53,14 +53,16 @@
   system: realme UI V1.0
   version: RMX1921EX_11.C.09
 - changelog: |
-    **Security**:
-    ● Android Security Patch Level: February 5, 2019.
+    **الأمان**:
+    ● تصحيح أمان Android: يناير 2021
+    **النظام**:
+    ● تم إصلاح بعض المشكلات المعروفة، وتحسين استقرار النظام
   codename: RMX1941EX
-  date: 27/7/2020
+  date: 21/01/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0280_all_8kEXmFjiHsMf.ozip
-  md5: 607c31345569a0e83be57934dc3d6f69
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
+  md5: AEF848C1A483C21987F5DAF1CACB4F0E
   region: Iraq
-  size: 2.01GB
+  size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.28
+  version: RMX1941EX_11_A.32

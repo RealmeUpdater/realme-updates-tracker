@@ -1,20 +1,23 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: Oct, 2020/Nov, 2020
-  **Bluetooth**:
-  ● Added a new icon for phone calls with Bluetooth earphone
-  **Settings**:
-  ● Added From Sunset to Sunrise option of eye comfort
-  ● Added short-press the power button to turn off flashlight feature while screen-off
+  ● Updated Android security patch: December, 2020 & January, 2021
+  **Launcher**:
+  ● Added Lock Home screen layout
   **Screenshot**:
-  ● Added a toggle for physical button in screenshot settings
-  ● Optimized the interactive mode for screenshot floating preview
+  ● Added horizontal scrolling screenshot
+  ● Added "Back" button on the screenshot preview interface
+  **Camera**:
+  ● Added a quick start camera icon on the lock screen interface
+  **Settings**:
+  ● Added Multi-User Mode
+  ● Added Super power saving mode
+  ● Added Icon pull-down gesture
 codename: RMX1821EX
-date: 21/11/2020
+date: 26/01/2021
 device: realme 3
-download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
-md5: 0186F0F737743A7574157CDDC3CCE424
+download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
+md5: 5B6235085065B15F9B9680722E9C2C01
 region: India
-size: 2.60 GB
+size: 2.62GB
 system: realme UI 1.0
-version: RMX1821EX_11.C.17
+version: RMX1821EX_11_C.19

@@ -275,37 +275,39 @@
   version: RMX1851EX_11.C.10
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Oct, 2020/Nov, 2020
-    **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
-    **Settings**:
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added short-press the power button to turn off flashlight feature while screen-off
+    ● Updated Android security patch: December, 2020 & January, 2021
+    **Launcher**:
+    ● Added Lock Home screen layout
     **Screenshot**:
-    ● Added a toggle for physical button in screenshot settings
-    ● Optimized the interactive mode for screenshot floating preview
+    ● Added horizontal scrolling screenshot
+    ● Added "Back" button on the screenshot preview interface
+    **Camera**:
+    ● Added a quick start camera icon on the lock screen interface
+    **Settings**:
+    ● Added Multi-User Mode
+    ● Added Super power saving mode
+    ● Added Icon pull-down gesture
   codename: RMX1821EX
-  date: 21/11/2020
+  date: 26/01/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1170_all_elkYdP71C4ve.ozip
-  md5: 0186F0F737743A7574157CDDC3CCE424
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
+  md5: 5B6235085065B15F9B9680722E9C2C01
   region: Pakistan
-  size: 2.60 GB
+  size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.17
+  version: RMX1821EX_11_C.19
 - changelog: |
     **Security**:
-    ● Android security patch: July, 2020
-    **Applications**:
-    ● Added realme Link
+    ● Updated Android security patch: December, 2020, January, 2021
     **System**:
-    ● Fixed some known issues and improved system stability
+    ● Optimized system performance
+    ● Improved system stability
   codename: RMX1941EX
-  date: 24/7/2020
+  date: 21/01/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0280_all_8kEXmFjiHsMf.ozip
-  md5: 607c31345569a0e83be57934dc3d6f69
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
+  md5: AEF848C1A483C21987F5DAF1CACB4F0E
   region: Pakistan
-  size: 2.01GB
+  size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.28
+  version: RMX1941EX_11_A.32

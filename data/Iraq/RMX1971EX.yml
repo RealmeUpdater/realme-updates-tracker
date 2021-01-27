@@ -1,14 +1,14 @@
 changelog: |
   **الأمان**:
-  ●معامل تصحيح أمان أندرويد : شهر نوفمبر ,2020
+  ●معامل تصحيح أمان أندرويد : ديسمبر ,2020 & كانون الثاني 2021
   **النظام**:
-  ● تم إصلاح بعض المشكلات المعروفة، وتحسين استقرار النظام
+  ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
 codename: RMX1971EX
-date: 18/11/2020
+date: 25/1/2021
 device: realme 5 Pro
-download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1080_all_29hQ1fOMjgyl.ozip
-md5: C8EED771C38687F8B194CD716660F9A4
+download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1110_all_LeFsBKpJi9Wh.ozip
+md5: 16290E3C55D450782663E4D57C8C9599
 region: Iraq
-size: 3.28GB
+size: 3.26GB
 system: realme UI V1.0
-version: RMX1971EX_11.C.08
+version: RMX1971EX_11.C.11

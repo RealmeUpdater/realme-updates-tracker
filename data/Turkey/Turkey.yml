@@ -70,18 +70,18 @@
   version: RMX2001EU_11.A.48
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2020#7)
+    ● Güncel Android güvenlik yaması (2020#12 & 2021#1)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX1971EX
-  date: 30/7/2020
+  date: 25/1/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1050_all_dNjggfyXOjy3.ozip
-  md5: CC87E9CD1996ED6443EBE9EEEDEE0679
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1110_all_LeFsBKpJi9Wh.ozip
+  md5: 16290E3C55D450782663E4D57C8C9599
   region: Turkey
-  size: 3.14GB
+  size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.05
+  version: RMX1971EX_11.C.11
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#12 &2021#1)

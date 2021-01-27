@@ -1569,17 +1569,30 @@
   system: realme UI 1.0
   version: RMX1971EX_11.C.08
 - changelog: |
-    **Network**:
-    **Fixed the probabilistic issue of Volte failing to register**:
+    **Security**:
+    ● Updated Android security patch: December, 2020, January, 2021
+    **Settings**:
+    ● Added short-press the power button to turn off flashlight feature while screen-off
+    **Apps**:
+    ● Fixed the issue that two cancel buttons appear when the input box is clicked multiple times in the weather
+    ● Fixed the issue of abnormal system permission acquisition when the radio is turned on
+    **Bluetooth**:
+    ● Fixed the probabilistic issue of failure to open Bluetooth scanning
+    **Photos**:
+    ● Fixed the probabilistic issue that Photos cannot play HDR videos
+    **Alarm**:
+    ● Fixed the probabilistic issue of crashing when entering the alarm details
+    **Networks**:
+    ● Fixed the probabilistic issue that VOLTE be registered
   codename: RMX1921EX
-  date: 05/01/2021
+  date: 25/1/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
-  md5: D39B1AB4AE4B18C5D76EB93E57E010E7
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1100_all_880tYw16SmBy.ozip
+  md5: F7D6012199BF2A2A4AC77D0D88BB09D7
   region: India
-  size: 3.13GB
+  size: 3.26GB
   system: realme UI 1.0
-  version: RMX1921EX_11.C.09
+  version: RMX1921EX_11.C.10
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec, 2020/Jan, 2021
@@ -1613,17 +1626,29 @@
   system: realme UI 1.0
   version: RMX1911EX_11_C.63
 - changelog: |
-    **Network**:
-    **Fixed the probabilistic issue of Volte failing to register**:
+    **Security**:
+    ● Updated Android security patch: December, 2020, January, 2021
+    **Settings**:
+    ● Added short-press the power button to turn off flashlight feature while screen-off
+    **Apps**:
+    ● Fixed the issue that two cancel buttons appear when the input box is clicked multiple times in the weather
+    **Bluetooth**:
+    ● Fixed the probabilistic issue of failure to open Bluetooth scanning
+    **Photos**:
+    ● Fixed the probabilistic issue that Photos cannot play HDR videos
+    **Alarm**:
+    ● Fixed the probabilistic issue of crashing when entering the alarm details
+    **Networks**:
+    ● Fixed the probabilistic issue that VOLTE be registered
   codename: RMX1901EX
-  date: 05/01/2021
+  date: 25/1/2021
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1080_all_qtavXWgd9vw0.ozip
-  md5: 1E17BC08F8A9FE2BD5461FBED98401C2
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1090_all_uC9UYcJPI9Yi.ozip
+  md5: 96E612BA50A0F0A3915854CBFD65140A
   region: India
-  size: 3.28GB
+  size: 3.27GB
   system: realme UI 1.0
-  version: RMX1901EX_11.C.08
+  version: RMX1901EX_11.C.09
 - changelog: |
     **Security**:
     ● Updated Android security patch: December, 2020 & January, 2021
@@ -1649,34 +1674,29 @@
   version: RMX1821EX_11_C.19
 - changelog: |
     **Security**:
-    ● Android Security Patch: November, 2020
-    **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
-    **Screenshot**:
-    ● Added Scrolling screenshot feature in horizontal mode
-    ● Added a toggle for physical button screenshot in screenshot settings
+    ● Updated Android security patch: December, 2020, January, 2021
     **Settings**:
-    ● Added Super power saving mode
-    ● Added a toggle for displaying keyboard when entering app drawer
-    ● Added Icon pull-down gesture
-    ● Added From Sunset to Sunrise option of eye comfort
-    ● Added shortcuts at the bottom of Battery settings
-    ● Added shortcuts at the bottom of Security settings
-    ● Fixed the probabilistic issue of unable to adjust the color temperature after turning off eye comfort
-    **Album**:
-    ● Fixed the probabilistic screen flicker when entering the album
-    ● Fixed the probabilistic crash issue when browsing in the album
-    **System**:
-    ● Fixed the probabilistic freezing issue of Clone Phone
+    ● Added short-press the power button to turn off flashlight feature while screen-off
+    **Apps**:
+    ● Fixed the issue that two cancel buttons appear when the input box is clicked multiple times in the weather
+    ● Fixed the issue of abnormal system permission acquisition when the radio is turned on
+    **Bluetooth**:
+    ● Fixed the probabilistic issue of failure to open Bluetooth scanning
+    **Photos**:
+    ● Fixed the probabilistic issue that Photos cannot play HDR videos
+    **Alarm**:
+    ● Fixed the probabilistic issue of crashing when entering the alarm details
+    **Networks**:
+    ● Fixed the probabilistic issue that VOLTE be registered
   codename: RMX1851EX
-  date: 21/11/2020
+  date: 25/1/2021
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
-  md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1140_all_r2G1igJtTlW1.ozip
+  md5: CCB091CFBE5EA7AE15A7EBDD35FCE451
   region: India
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1851EX_11.C.10
+  version: RMX1851EX_11.C.14
 - changelog: |
     **Security**:
     ● Updated Android security patch: December, 2020, January, 2021
@@ -2051,17 +2071,19 @@
   system: realme UI 1.0
   version: RMX1931EX_11.C.34
 - changelog: |
+    **Keamanan**:
+    ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1921EX
-  date: 05/01/2021
+  date: 25/1/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
-  md5: D39B1AB4AE4B18C5D76EB93E57E010E7
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1100_all_880tYw16SmBy.ozip
+  md5: F7D6012199BF2A2A4AC77D0D88BB09D7
   region: Indonesia
-  size: 3.13GB
+  size: 3.26GB
   system: realme UI 1.0
-  version: RMX1921EX_11.C.09
+  version: RMX1921EX_11.C.10
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: November 2020
@@ -2105,17 +2127,19 @@
   system: realme UI 1.0
   version: RMX1911EX_11_C.63
 - changelog: |
+    **Keamanan**:
+    ● patch keamanan Android: Desember 2020 & Januari 2021
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1901EX
-  date: 05/01/2021
+  date: 25/1/2021
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1080_all_qtavXWgd9vw0.ozip
-  md5: 1E17BC08F8A9FE2BD5461FBED98401C2
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1090_all_uC9UYcJPI9Yi.ozip
+  md5: 96E612BA50A0F0A3915854CBFD65140A
   region: Indonesia
-  size: 3.28GB
+  size: 3.27GB
   system: realme UI 1.0
-  version: RMX1901EX_11.C.08
+  version: RMX1901EX_11.C.09
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: November 2020
@@ -2257,17 +2281,19 @@
   system: realme UI V1.0
   version: RMX1971EX_11.C.08
 - changelog: |
+    **الأمان**:
+    ●معامل تصحيح أمان أندرويد : ديسمبر ,2020 & كانون الثاني 2021
     **النظام**:
     ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
   codename: RMX1921EX
-  date: 05/01/2021
+  date: 25/1/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
-  md5: D39B1AB4AE4B18C5D76EB93E57E010E7
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1100_all_880tYw16SmBy.ozip
+  md5: F7D6012199BF2A2A4AC77D0D88BB09D7
   region: Iraq
-  size: 3.13GB
+  size: 3.26GB
   system: realme UI V1.0
-  version: RMX1921EX_11.C.09
+  version: RMX1921EX_11.C.10
 - changelog: |
     **الأمان**:
     ● تصحيح أمان Android: يناير 2021
@@ -2454,17 +2480,30 @@
   system: realme UI 1.0
   version: RMX2030EX_11_C.63
 - changelog: |
-    **Network**:
-    **Fixed the probabilistic issue of Volte failing to register**:
+    **Security**:
+    ● Updated Android security patch: December, 2020, January, 2021
+    **Settings**:
+    ● Added short-press the power button to turn off flashlight feature while screen-off
+    **Apps**:
+    ● Fixed the issue that two cancel buttons appear when the input box is clicked multiple times in the weather
+    ● Fixed the issue of abnormal system permission acquisition when the radio is turned on
+    **Bluetooth**:
+    ● Fixed the probabilistic issue of failure to open Bluetooth scanning
+    **Photos**:
+    ● Fixed the probabilistic issue that Photos cannot play HDR videos
+    **Alarm**:
+    ● Fixed the probabilistic issue of crashing when entering the alarm details
+    **Networks**:
+    ● Fixed the probabilistic issue that VOLTE be registered
   codename: RMX1921EX
-  date: 05/01/2021
+  date: 25/1/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
-  md5: D39B1AB4AE4B18C5D76EB93E57E010E7
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1100_all_880tYw16SmBy.ozip
+  md5: F7D6012199BF2A2A4AC77D0D88BB09D7
   region: Pakistan
-  size: 3.13GB
+  size: 3.26GB
   system: realme UI V1.0
-  version: RMX1921EX_11.C.09
+  version: RMX1921EX_11.C.10
 - changelog: |
     **Security**:
     ● Android Security Patch: November, 2020
@@ -2776,18 +2815,18 @@
   version: RMX1931EX_11.C.24
 - changelog: |
     **Безопасность**:
-    ● Исправление безопасности Android: 5 лістапада 2020
+    ● Патчи безопасности Android: Декабрь 2020 & Январь 2021
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы
   codename: RMX1921EUEX
-  date: 18/11/2020
+  date: 25/1/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EUEX_11_OTA_1070_all_Y8pRCmtCNp5J.ozip
-  md5: 51C26EABFAE2673F1A2ED0B4CFF5F81C
+  download: https://download.c.realme.com/osupdate/RMX1921EUEX_11_OTA_1090_all_iiKyt0IdtkT4.ozip
+  md5: A1254947CB37A29419249F40E3172E48
   region: Russia
-  size: 3.27GB
+  size: 3.25GB
   system: realme UI 1.0
-  version: RMX1921EUEX_11.C.07
+  version: RMX1921EUEX_11.C.09
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android: июль 2020
@@ -2943,17 +2982,19 @@
   system: realme UI 1.0
   version: RMX1971EX_11.C.05
 - changelog: |
+    **Güvenlik**:
+    ● Güncel Android güvenlik yaması (2020#12 &2021#1)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX1921EX
-  date: 05/01/2021
+  date: 25/1/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
-  md5: D39B1AB4AE4B18C5D76EB93E57E010E7
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1100_all_880tYw16SmBy.ozip
+  md5: F7D6012199BF2A2A4AC77D0D88BB09D7
   region: Turkey
-  size: 3.13GB
+  size: 3.26GB
   system: realme UI 1.0
-  version: RMX1921EX_11.C.09
+  version: RMX1921EX_11.C.10
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#01)
@@ -3165,17 +3206,19 @@
   system: realme UI 1.0
   version: RMX2030EX_11_C.63
 - changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2020#12 & 2021#1)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1921EX
-  date: 05/01/2021
+  date: 25/1/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1090_all_Pru8QK91VlAx.ozip
-  md5: D39B1AB4AE4B18C5D76EB93E57E010E7
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1100_all_880tYw16SmBy.ozip
+  md5: F7D6012199BF2A2A4AC77D0D88BB09D7
   region: Vietnam
-  size: 3.13GB
+  size: 3.26GB
   system: realme UI 1.0
-  version: RMX1921EX_11.C.09
+  version: RMX1921EX_11.C.10
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#11)

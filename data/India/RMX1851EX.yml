@@ -1,30 +1,25 @@
 changelog: |
   **Security**:
-  ● Android Security Patch: November, 2020
-  **Bluetooth**:
-  ● Added a new icon for phone calls with Bluetooth earphone
-  **Screenshot**:
-  ● Added Scrolling screenshot feature in horizontal mode
-  ● Added a toggle for physical button screenshot in screenshot settings
+  ● Updated Android security patch: December, 2020, January, 2021
   **Settings**:
-  ● Added Super power saving mode
-  ● Added a toggle for displaying keyboard when entering app drawer
-  ● Added Icon pull-down gesture
-  ● Added From Sunset to Sunrise option of eye comfort
-  ● Added shortcuts at the bottom of Battery settings
-  ● Added shortcuts at the bottom of Security settings
-  ● Fixed the probabilistic issue of unable to adjust the color temperature after turning off eye comfort
-  **Album**:
-  ● Fixed the probabilistic screen flicker when entering the album
-  ● Fixed the probabilistic crash issue when browsing in the album
-  **System**:
-  ● Fixed the probabilistic freezing issue of Clone Phone
+  ● Added short-press the power button to turn off flashlight feature while screen-off
+  **Apps**:
+  ● Fixed the issue that two cancel buttons appear when the input box is clicked multiple times in the weather
+  ● Fixed the issue of abnormal system permission acquisition when the radio is turned on
+  **Bluetooth**:
+  ● Fixed the probabilistic issue of failure to open Bluetooth scanning
+  **Photos**:
+  ● Fixed the probabilistic issue that Photos cannot play HDR videos
+  **Alarm**:
+  ● Fixed the probabilistic issue of crashing when entering the alarm details
+  **Networks**:
+  ● Fixed the probabilistic issue that VOLTE be registered
 codename: RMX1851EX
-date: 21/11/2020
+date: 25/1/2021
 device: realme 3 Pro
-download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1100_all_afysQxXkAd0p.ozip
-md5: 9785CCBE2C5E1793EE25E51E55FDF8BD
+download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1140_all_r2G1igJtTlW1.ozip
+md5: CCB091CFBE5EA7AE15A7EBDD35FCE451
 region: India
 size: 3.26GB
 system: realme UI 1.0
-version: RMX1851EX_11.C.10
+version: RMX1851EX_11.C.14

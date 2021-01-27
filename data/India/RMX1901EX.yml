@@ -1,12 +1,24 @@
 changelog: |
-  **Network**:
-  **Fixed the probabilistic issue of Volte failing to register**:
+  **Security**:
+  ● Updated Android security patch: December, 2020, January, 2021
+  **Settings**:
+  ● Added short-press the power button to turn off flashlight feature while screen-off
+  **Apps**:
+  ● Fixed the issue that two cancel buttons appear when the input box is clicked multiple times in the weather
+  **Bluetooth**:
+  ● Fixed the probabilistic issue of failure to open Bluetooth scanning
+  **Photos**:
+  ● Fixed the probabilistic issue that Photos cannot play HDR videos
+  **Alarm**:
+  ● Fixed the probabilistic issue of crashing when entering the alarm details
+  **Networks**:
+  ● Fixed the probabilistic issue that VOLTE be registered
 codename: RMX1901EX
-date: 05/01/2021
+date: 25/1/2021
 device: realme X
-download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1080_all_qtavXWgd9vw0.ozip
-md5: 1E17BC08F8A9FE2BD5461FBED98401C2
+download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1090_all_uC9UYcJPI9Yi.ozip
+md5: 96E612BA50A0F0A3915854CBFD65140A
 region: India
-size: 3.28GB
+size: 3.27GB
 system: realme UI 1.0
-version: RMX1901EX_11.C.08
+version: RMX1901EX_11.C.09

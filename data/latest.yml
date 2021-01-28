@@ -148,30 +148,25 @@
   system: realme UI 1.0
   version: RMX2200_11.A.15
 - changelog: |
-    **蓝牙**:
-    ● 新增 蓝牙耳机接听图标
-    **便签**:
-    ● 新增 录音文本导出到便签功能
-    **相机**:
-    ● 优化 后置摄像头闪光灯成像效果
-    ● 优化 前置摄像头夜景人脸成像效果
-    ● 优化 前置摄像头美颜效果
-    ● 修复 特殊场景下极低概率人脸及天空对焦异常问题
-    **充电**:
-    ● 优化 充电小数点显示逻辑
-    **状态栏**:
-    ● 修复 频繁调节亮度时低概率调节失效的问题
+    **相册**:
+    ● 新增 打印服务中保存为PDF功能
+    **系统**:
+    ● 优化 系统性能，提升系统稳定性
+    ● 修复 手机极低概率自动重启问题
+    **设置**:
+    ● 优化 多用户模式下黑屏手势显示开关逻辑
+    ● 修复 手机在线铃声退出后，铃声默认错误问题
     **安全**:
-    ● 更新 Android安全补丁（2020#12）
+    ● 更新 Android安全补丁（2021#1）
   codename: RMX2111
-  date: 04/01/2021
+  date: 25/01/2021
   device: realme Q2 5G
-  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0270_all_BvDO0UMfTIg7.ozip
-  md5: 1C6CF67651805C926DBA91970057D9E1
+  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0290_all_SPWCkIR28bC9.ozip
+  md5: 4ABA7F0E0F8717143BA535BE96CAA161
   region: China
-  size: 3.07GB
+  size: 3.08GB
   system: realme UI 1.0
-  version: RMX2111_11.A.27
+  version: RMX2111_11.A.29
 - changelog: |
     **充电**:
     ● 优化 快充协议支持更多QC和PD充电

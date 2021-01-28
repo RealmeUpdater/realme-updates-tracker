@@ -128,56 +128,47 @@
   system: realme UI 1.0
   version: RMX2195_11_A.23
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Flashlight**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
     **System**:
-    ● Optimized the system performance and improved system stability
-    ● Fixed the black screen issue of incoming calls
+    ● Fix some known issues
+    ● Optimized ​​system performance
+    ● Optimized ​​system stability
   codename: RMX2185
-  date: 8/12/2020
+  date: 27/1/2021
   device: realme C15
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
-  md5: 134798EB119CC6694AED3960E15BCC29
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0830_all_uLcb7GHvVHvP.ozip
+  md5: 36DE9E462CC56B25BAF9F34680FB5E77
   region: India
-  size: 3.17GB
+  size: 3.10GB
   system: realme UI 1.0
-  version: RMX2185_11_A.81
+  version: RMX2185_11_A.83
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Flashlight**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
     **System**:
-    ● Optimized the system performance and improved system stability
-    ● Fixed the black screen issue of incoming calls
+    ● Fix some known issues
+    ● Optimized ​​system performance
+    ● Optimized ​​system stability
   codename: RMX2185
-  date: 8/12/2020
+  date: 27/1/2021
   device: realme C12
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
-  md5: 134798EB119CC6694AED3960E15BCC29
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0830_all_uLcb7GHvVHvP.ozip
+  md5: 36DE9E462CC56B25BAF9F34680FB5E77
   region: India
-  size: 3.17GB
+  size: 3.10GB
   system: realme UI 1.0
-  version: RMX2185_11_A.81
+  version: RMX2185_11_A.83
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Flashlight**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
     **System**:
-    ● Optimized the system performance and improved system stability
-    ● Fixed the black screen issue of incoming calls
+    ● Fix some known issues
+    ● Optimized ​​system performance
+    ● Optimized ​​system stability
   codename: RMX2185
-  date: 8/12/2020
+  date: 27/1/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
-  md5: 134798EB119CC6694AED3960E15BCC29
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0830_all_uLcb7GHvVHvP.ozip
+  md5: 36DE9E462CC56B25BAF9F34680FB5E77
   region: India
-  size: 3.17GB
+  size: 3.10GB
   system: realme UI 1.0
-  version: RMX2185_11_A.81
+  version: RMX2185_11_A.83
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov/Dec, 2020

@@ -83,19 +83,17 @@
   system: realme UI 1.0
   version: RMX2001EU_11.A.48
 - changelog: |
-    **Seguridad**:
-    ● Parche de seguridad de Android:（2020#11）
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2076EU
-  date: 01/12/2020
+  date: 23/01/2021
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0380_all_ffBqeq0j06so.ozip
-  md5: d70c0938b4bf6ef2de6a38734a62a340
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0420_all_CzQ779yq9fLp.ozip
+  md5: 0477bd3605d9f0ca3c0f8839cf0dc3b9
   region: Spain
   size: 3.60GB
   system: realmeUI V1.0
-  version: RMX2076EU_11.A.38
+  version: RMX2076EU_11.A.42
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android(2020#12)
@@ -208,18 +206,18 @@
   version: RMX1911EU_11_C.58
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android(2020#11)
+    ● Parche de seguridad de Android(2021#1)
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1993EX
-  date: 2/12/2020
+  date: 1/30/2021
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1100_all_tjdd4ts5zbj3.ozip
-  md5: 2AF147FCCA5203FF4A1A19C8A43B1086
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1120_all_cfuJQOMyUjeK.ozip
+  md5: D41D721FE6467D3BA27BB7ED102EAD75
   region: Spain
   size: 3.14GB
   system: realme UI 1.0
-  version: RMX1993EX_11.C.10
+  version: RMX1993EX_11.C.12
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: diciembre 2020 # enero 2021

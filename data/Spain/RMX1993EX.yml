@@ -1,14 +1,14 @@
 changelog: |
   **Seguridad**:
-  ● Parche de seguridad de Android(2020#11)
+  ● Parche de seguridad de Android(2021#1)
   **Sistema**:
   ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
 codename: RMX1993EX
-date: 2/12/2020
+date: 1/30/2021
 device: realme X2
-download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1100_all_tjdd4ts5zbj3.ozip
-md5: 2AF147FCCA5203FF4A1A19C8A43B1086
+download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1120_all_cfuJQOMyUjeK.ozip
+md5: D41D721FE6467D3BA27BB7ED102EAD75
 region: Spain
 size: 3.14GB
 system: realme UI 1.0
-version: RMX1993EX_11.C.10
+version: RMX1993EX_11.C.12

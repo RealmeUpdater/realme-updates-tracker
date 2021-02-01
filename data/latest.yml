@@ -556,19 +556,17 @@
   system: realme UI 1.0
   version: RMX2001EU_11.A.48
 - changelog: |
-    **Seguridad**:
-    ● Parche de seguridad de Android:（2020#11）
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2076EU
-  date: 01/12/2020
+  date: 23/01/2021
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0380_all_ffBqeq0j06so.ozip
-  md5: d70c0938b4bf6ef2de6a38734a62a340
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0420_all_CzQ779yq9fLp.ozip
+  md5: 0477bd3605d9f0ca3c0f8839cf0dc3b9
   region: Spain
   size: 3.60GB
   system: realmeUI V1.0
-  version: RMX2076EU_11.A.38
+  version: RMX2076EU_11.A.42
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android(2020#12)
@@ -681,18 +679,18 @@
   version: RMX1911EU_11_C.58
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android(2020#11)
+    ● Parche de seguridad de Android(2021#1)
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1993EX
-  date: 2/12/2020
+  date: 1/30/2021
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1100_all_tjdd4ts5zbj3.ozip
-  md5: 2AF147FCCA5203FF4A1A19C8A43B1086
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1120_all_cfuJQOMyUjeK.ozip
+  md5: D41D721FE6467D3BA27BB7ED102EAD75
   region: Spain
   size: 3.14GB
   system: realme UI 1.0
-  version: RMX1993EX_11.C.10
+  version: RMX1993EX_11.C.12
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: diciembre 2020 # enero 2021
@@ -1426,50 +1424,50 @@
   version: RMX2030EX_11_C.63
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Oct, 2020/Nov, 2020
-    **Game Space**:
-    ● Optimized the logic of the default state of the Brightness lock
-    **Settings**:
-    ● Added a toggle for displaying keyboard function when entering app drawer
-    ● Added a toggle for From Sunset to Sunrise option of Eye comfort
-    ● Added a toggle for the system icons in the statuts bar
-    ● Optimized the interactive mode for screenshot floating preview
-    ● Optimized the data package limit
-    ● Fixed the probabilistic issue of the screen-off gesture feature in some scenarios
+    ● Updated Android security patch: Dec, 2020/Jan, 2021
+    **Bluetooth**:
+    ● Added a new icon for phone calls when Bluetooth earphone is connected
+    ● Fixed the probabilistic scanning failure when turning on Bluetooth
+    **Unlock**:
+    ● Optimized the experience when using the combination of fingerprint and face to unlock
+    **Photos**:
+    ● Fixed the probabilistic issue that HDR videos fail to play in Photos
     **Alarm**:
-    ● Fixed the probabilistic issue when clicking "More Settings" in the alarm details page after switching off the ringing alarm
+    ● Fixed the probabilistic crashing issue when entering the alarm details page
+    **Weather**:
+    ● Fixed the probabilistic display error of the cancel button when the input box is clicked multiple times in Weather
   codename: RMX1992EX
-  date: 24/11/2020
+  date: 1/30/2020
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1140_all_m6EovjdmO6LL.ozip
-  md5: FA59D1ACF5B0D0FDA8576B817481BC37
-  region: India
-  size: 3.01GB
-  system: realme UI 1.0
-  version: RMX1992EX_11.C.14
-- changelog: |
-    **Security**:
-    ● Updated Android security patch: Oct, 2020/Nov, 2020
-    **Game Space**:
-    ● Optimized the logic of the default state of the Brightness lock
-    **Settings**:
-    ● Added a toggle for displaying keyboard function when entering app drawer
-    ● Added a toggle for From Sunset to Sunrise option of Eye comfort
-    ● Added a toggle for the system icons in the statuts bar
-    ● Optimized the interactive mode for screenshot floating preview
-    ● Optimized the data package limit
-    ● Fixed the probabilistic issue of the screen-off gesture feature in some scenarios
-    **Alarm**:
-    ● Fixed the probabilistic issue when clicking "More Settings" in the alarm details page after switching off the ringing alarm
-  codename: RMX1992AEX
-  date: 24/11/2020
-  device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1140_all_4R5z6O3IetOC.ozip
-  md5: FA59D1ACF5B0D0FDA8576B817481BC37
+  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1160_all_AfF6ZNzdzdka.ozip
+  md5: B415A03C162822D54EFDB53045437470
   region: India
   size: 3.14GB
   system: realme UI 1.0
-  version: RMX1992AEX_11.C.14
+  version: RMX1992EX_11.C.16
+- changelog: |
+    **Security**:
+    ● Updated Android security patch: Dec, 2020/Jan, 2021
+    **Bluetooth**:
+    ● Added a new icon for phone calls when Bluetooth earphone is connected
+    ● Fixed the probabilistic scanning failure when turning on Bluetooth
+    **Unlock**:
+    ● Optimized the experience when using the combination of fingerprint and face to unlock
+    **Photos**:
+    ● Fixed the probabilistic issue that HDR videos fail to play in Photos
+    **Alarm**:
+    ● Fixed the probabilistic crashing issue when entering the alarm details page
+    **Weather**:
+    ● Fixed the probabilistic display error of the cancel button when the input box is clicked multiple times in Weather
+  codename: RMX1992AEX
+  date: 1/30/2020
+  device: realme X2
+  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1160_all_atLCea2NItQD.ozip
+  md5: 237A104B022170290F65309CF5A40D89
+  region: India
+  size: 3.13GB
+  system: realme UI 1.0
+  version: RMX1992AEX_11.C.16
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020/Dec, 2020

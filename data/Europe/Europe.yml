@@ -53,22 +53,19 @@
   system: realme UI 1.0
   version: RMX2151EU_11.A.74
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Flashlight**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
     **System**:
-    ● Optimized the system performance and improved system stability
-    ● Fixed the black screen issue of incoming calls
+    ● Fix some known issues
+    ● Optimized ​​system performance
+    ● Optimized ​​system stability
   codename: RMX2185EU
-  date: 8/12/2020
+  date: 27/1/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
-  md5: 18341496A177C557FCA82A18AA07913C
+  download: https://download.c.realme.com/osupdate/RMX2185EU_11_OTA_0520_all_UO3HT0XIvdkZ.ozip
+  md5: 472E3A290B3A1E48CDB5CE3EEB24CDCB
   region: Europe
   size: 2.83GB
   system: realme UI 1.0
-  version: RMX2185EU_11_A.50
+  version: RMX2185EU_11_A.52
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020

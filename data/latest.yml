@@ -1105,19 +1105,24 @@
   version: RMX2193_11_A.25
 - changelog: |
     **Security**:
-    ● Android security patch: October, 2020
+    ● Updated Android security patch: Jan, 2021
+    **Bluetooth**:
+    ● Added Bluetooth headset answer icon
+    **Settings**:
+    ● Optimized the logic of data plan limit
+    **Apps**:
+    ● Updated Photos
     **System**:
-    ● Optimized the system performance and improved system stability
-    ● Optimized startup and exit performance of applications
+    ● Fixed some known issues and improved stability
   codename: RMX2050EX
-  date: 9/11/2020
+  date: 28/1/2021
   device: realme narzo 20A
-  download: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0170_all_av8Sp38FlgiU.ozip
-  md5: D87E22D373E4A4256094A37E4DEFE563
+  download: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0230_all_bOlXIMAaa2jj.ozip
+  md5: 2C452FE81FB907A7B4F14420E4DDE033
   region: India
-  size: 2.98GB
+  size: 3.19GB
   system: realme UI 1.0
-  version: RMX2050EX_11_A.17
+  version: RMX2050EX_11_A.23
 - changelog: |
     **Security**:
     ● Updated Security patch: Dec, 2020

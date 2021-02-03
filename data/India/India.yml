@@ -56,48 +56,40 @@
   version: RMX2050EX_11_A.23
 - changelog: |
     **Security**:
-    ● Updated Security patch: Dec, 2020
+    ● Updated Android security patch: Jan, 2021
     **Camera**:
-    ● Optimized the reddish issue in certain scenarios of the rear camera
-    ● Optimized the noise issue of the rear camera
-    ● Optimized the ultra-HD mode quality of the rear camera
-    ● Optimized the issue of low saturation and lack of redness of the front camera
-    ● Optimized the issue of high sharpness and noise of the front camera in certain scenarios
-    **Touch Control**:
-    ● Optimized the touch control algorithm and improved control smoothness
-    **Photos**:
-    ● Fixed certain known issues of the Photos
+    ● Optimized the noise problem of the front camera
+    ● Fixed the probabilistic issue that camera crash during fast shooting
+    **System**:
+    ● Fixed some known issues and improved the fluency of some apps and games
+    ● Fixed the probabilistic issue that the mouse icon is not displayed on the horizontal screen after OTG is connected to the mouse
   codename: RMX2151PU
-  date: 25/12/2020
+  date: 2/2/2021
   device: realme narzo 20 Pro
-  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0750_all_P8oZH4WLmegj.ozip
-  md5: 195884974C1B276E0DCD6C48C26D2D72
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0830_all_AFFrwZpAzh0Z.ozip
+  md5: 7F2B0AB175DA846B5633AD0CFF5337BB
   region: India
-  size: 3.57GB
+  size: 3.58GB
   system: realme UI 1.0
-  version: RMX2151PU_11.A.75
+  version: RMX2151PU_11.A.83
 - changelog: |
     **Security**:
-    ● Updated Security patch: Dec, 2020
+    ● Updated Android security patch: Jan, 2021
     **Camera**:
-    ● Optimized the reddish issue in certain scenarios of the rear camera
-    ● Optimized the noise issue of the rear camera
-    ● Optimized the ultra-HD mode quality of the rear camera
-    ● Optimized the issue of low saturation and lack of redness of the front camera
-    ● Optimized the issue of high sharpness and noise of the front camera in certain scenarios
-    **Touch Control**:
-    ● Optimized the touch control algorithm and improved control smoothness
-    **Photos**:
-    ● Fixed certain known issues of the Photos
+    ● Optimized the noise problem of the front camera
+    ● Fixed the probabilistic issue that camera crash during fast shooting
+    **System**:
+    ● Fixed some known issues and improved the fluency of some apps and games
+    ● Fixed the probabilistic issue that the mouse icon is not displayed on the horizontal screen after OTG is connected to the mouse
   codename: RMX2151PU
-  date: 25/12/2020
+  date: 2/2/2021
   device: realme 7
-  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0750_all_P8oZH4WLmegj.ozip
-  md5: 195884974C1B276E0DCD6C48C26D2D72
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0830_all_AFFrwZpAzh0Z.ozip
+  md5: 7F2B0AB175DA846B5633AD0CFF5337BB
   region: India
-  size: 3.57GB
+  size: 3.58GB
   system: realme UI 1.0
-  version: RMX2151PU_11.A.75
+  version: RMX2151PU_11.A.83
 - changelog: |
     **Security**:
     ● Android security patch: December, 2020
@@ -373,7 +365,7 @@
     **Weather**:
     ● Fixed the probabilistic display error of the cancel button when the input box is clicked multiple times in Weather
   codename: RMX1992EX
-  date: 1/30/2020
+  date: 30/1/2021
   device: realme X2
   download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1160_all_AfF6ZNzdzdka.ozip
   md5: B415A03C162822D54EFDB53045437470

@@ -68,29 +68,24 @@
   version: RMX1971EX_11.C.11
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020/Dec, 2020
+    ● Updated Android security patch: Jan, 2021
     **Bluetooth**:
-    ● Added icon of phone call bluetooth earphone
-    **Settings**:
-    ● Added new feature of short-pressing the power button to turn off flashlight while screen-off
-    ● Optimize the unlock logic
-    **when using the combination of fingerprint and face to unlock**:
-    **Photos**:
-    ● Fixed the probabilistic crashing issue when edit photos
-    **Alarm**:
-    ● Fixed the probabilistic crashing issue of the alarm page
-    **Dark Mode**:
-    ● Fixed the probabilistic screen blinking while access Passwords box issue in dark mode
-    ● Fixed the probabilistic issue that after using Clone Phone the From Sunset to Sunrise status is not synchronized
+    ● Fixed the probabilistic issue that reconnecting the Bluetooth headset during a call caused loud sound
+    **Clone Phone**:
+    ● Fixed the probabilistic issue that data migration failure
+    **Recording**:
+    ● Fixed the probabilistic issue that Recording displays abnormally when the recording file is deleted
+    **System**:
+    ● Optimized system performance and improved system stability
   codename: RMX1931EX
-  date: 11/12/2020
+  date: 03/02/2021
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1340_all_pTyjDCOSS5sD.ozip
-  md5: 5995b7f398965df41100490168239cc6
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1350_all_eydXtmNsdigK.ozip
+  md5: 77cda1381b48a9a3be7a8ea0fefedcb0
   region: UAE
   size: 3.06GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.34
+  version: RMX1931EX_11.C.35
 - changelog: |
     **相机**:
     ● 优化后置相机拍照效果
@@ -321,33 +316,27 @@
   system: realme UI 1.0
   version: RMX2051_11.B.19
 - changelog: |
-    **联系人**:
-    ● 新增 扫名片界面支持二维码扫描功能
-    ● 新增 联系人详情界面二维码分享功能
-    **蓝牙**:
-    ● 新增 蓝牙耳机来电接听图标
-    **解锁**:
-    ● 优化 指纹面部组合解锁逻辑
-    **相册**:
-    ● 修复 相册编辑时极低概率闪退问题
-    **闹钟**:
-    ● 修复 进入闹钟详情界面低概率闪退问题
-    **超级省电**:
-    ● 修复 在超级省电模式下，打开欢太商城APP极低概率闪退问题
-    **暗色模式**:
-    ● 修复 暗色模式下进入密码本低概率屏幕闪烁问题
-    ● 修复 暗色模式下使用手机搬家后，日出到日落开关状态极低概率未同步问题
+    **系统**:
+    ● 优化 系统性能，提升系统稳定性
+    **应用**:
+    ● 修复 酷狗音乐切换歌曲出现卡顿的问题
+    ● 修复 和平精英游戏在部分场景下低概率不显示闪回键的问题
+    **便签**:
+    ● 修复 便签皮肤区域低概率显示不全的问题
+    ● 修复 便签新建笔记后低概率无法切换笔记的问题
+    **截屏**:
+    ● 修复 长截屏通话录音界面极低概率页面重复的问题
     **安全**:
-    ● 更新 Android安全补丁（2020#11/2020#12）
+    ● 更新 Android安全补丁（2021#1）
   codename: RMX1931
-  date: 11/12/2020
+  date: 03/02/2021
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1320_all_aS9hWdxloxXO.ozip
-  md5: ddf845aec7ed7cd0a6ff3507b698d242
+  download: https://download.c.realme.com/osupdate/RMX1931_11_OTA_1330_all_sgVacScUYMkf.ozip
+  md5: e589683d3376c48d3d538a3297f593d7
   region: China
   size: 3.11GB
   system: realme UI 1.0
-  version: RMX1931_11.C.32
+  version: RMX1931_11.C.33
 - changelog: |
     **联系人**:
     ● 新增 联系人详情界面二维码分享功能
@@ -637,18 +626,18 @@
   version: RMX2020EU_11.A.24
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: diciembre de 2020
+    ● Parche de seguridad de Android: enero 2021
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1931EX
-  date: 11/12/2020
+  date: 03/02/2021
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1340_all_pTyjDCOSS5sD.ozip
-  md5: 5995b7f398965df41100490168239cc6
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1350_all_eydXtmNsdigK.ozip
+  md5: 77cda1381b48a9a3be7a8ea0fefedcb0
   region: Spain
   size: 3.06GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.34
+  version: RMX1931EX_11.C.35
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: diciembre 2020 # enero 2021
@@ -1457,7 +1446,7 @@
     **Weather**:
     ● Fixed the probabilistic display error of the cancel button when the input box is clicked multiple times in Weather
   codename: RMX1992AEX
-  date: 1/30/2020
+  date: 30/1/2021
   device: realme X2
   download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1160_all_atLCea2NItQD.ozip
   md5: 237A104B022170290F65309CF5A40D89
@@ -1467,29 +1456,24 @@
   version: RMX1992AEX_11.C.16
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020/Dec, 2020
+    ● Updated Android security patch: Jan, 2021
     **Bluetooth**:
-    ● Added icon of phone call bluetooth earphone
-    **Settings**:
-    ● Added new feature of short-pressing the power button to turn off flashlight while screen-off
-    ● Optimize the unlock logic
-    **when using the combination of fingerprint and face to unlock**:
-    **Photos**:
-    ● Fixed the probabilistic crashing issue when edit photos
-    **Alarm**:
-    ● Fixed the probabilistic crashing issue of the alarm page
-    **Dark Mode**:
-    ● Fixed the probabilistic screen blinking while access Passwords box issue in dark mode
-    ● Fixed the probabilistic issue that after using Clone Phone the From Sunset to Sunrise status is not synchronized
+    ● Fixed the probabilistic issue that reconnecting the Bluetooth headset during a call caused loud sound
+    **Clone Phone**:
+    ● Fixed the probabilistic issue that data migration failure
+    **Recording**:
+    ● Fixed the probabilistic issue that Recording displays abnormally when the recording file is deleted
+    **System**:
+    ● Optimized system performance and improved system stability
   codename: RMX1931EX
-  date: 11/12/2020
+  date: 03/02/2021
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1340_all_pTyjDCOSS5sD.ozip
-  md5: 5995b7f398965df41100490168239cc6
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1350_all_eydXtmNsdigK.ozip
+  md5: 77cda1381b48a9a3be7a8ea0fefedcb0
   region: India
   size: 3.06GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.34
+  version: RMX1931EX_11.C.35
 - changelog: |
     **Security**:
     ● Updated Android security patch: December, 2020, January, 2021
@@ -1999,18 +1983,18 @@
   version: RMX2030EX_11_C.63
 - changelog: |
     **Keamanan**:
-    ● Android security patch: Desember 2020
+    ● Tingkat Android Security Patch: Januari 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1931EX
-  date: 11/12/2020
+  date: 03/02/2021
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1340_all_pTyjDCOSS5sD.ozip
-  md5: 5995b7f398965df41100490168239cc6
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1350_all_eydXtmNsdigK.ozip
+  md5: 77cda1381b48a9a3be7a8ea0fefedcb0
   region: Indonesia
   size: 3.06GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.34
+  version: RMX1931EX_11.C.35
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: Desember 2020 & Januari 2021

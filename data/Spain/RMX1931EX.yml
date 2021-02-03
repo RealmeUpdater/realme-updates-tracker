@@ -1,14 +1,14 @@
 changelog: |
   **Seguridad**:
-  ● Parche de seguridad de Android: diciembre de 2020
+  ● Parche de seguridad de Android: enero 2021
   **Sistema**:
   ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
 codename: RMX1931EX
-date: 11/12/2020
+date: 03/02/2021
 device: realme X2 Pro
-download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1340_all_pTyjDCOSS5sD.ozip
-md5: 5995b7f398965df41100490168239cc6
+download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1350_all_eydXtmNsdigK.ozip
+md5: 77cda1381b48a9a3be7a8ea0fefedcb0
 region: Spain
 size: 3.06GB
 system: realme UI 1.0
-version: RMX1931EX_11.C.34
+version: RMX1931EX_11.C.35

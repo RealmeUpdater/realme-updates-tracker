@@ -1,25 +1,20 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: Nov, 2020/Dec, 2020
+  ● Updated Android security patch: Jan, 2021
   **Bluetooth**:
-  ● Added icon of phone call bluetooth earphone
-  **Settings**:
-  ● Added new feature of short-pressing the power button to turn off flashlight while screen-off
-  ● Optimize the unlock logic
-  **when using the combination of fingerprint and face to unlock**:
-  **Photos**:
-  ● Fixed the probabilistic crashing issue when edit photos
-  **Alarm**:
-  ● Fixed the probabilistic crashing issue of the alarm page
-  **Dark Mode**:
-  ● Fixed the probabilistic screen blinking while access Passwords box issue in dark mode
-  ● Fixed the probabilistic issue that after using Clone Phone the From Sunset to Sunrise status is not synchronized
+  ● Fixed the probabilistic issue that reconnecting the Bluetooth headset during a call caused loud sound
+  **Clone Phone**:
+  ● Fixed the probabilistic issue that data migration failure
+  **Recording**:
+  ● Fixed the probabilistic issue that Recording displays abnormally when the recording file is deleted
+  **System**:
+  ● Optimized system performance and improved system stability
 codename: RMX1931EX
-date: 11/12/2020
+date: 03/02/2021
 device: realme X2 Pro
-download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1340_all_pTyjDCOSS5sD.ozip
-md5: 5995b7f398965df41100490168239cc6
+download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1350_all_eydXtmNsdigK.ozip
+md5: 77cda1381b48a9a3be7a8ea0fefedcb0
 region: India
 size: 3.06GB
 system: realme UI 1.0
-version: RMX1931EX_11.C.34
+version: RMX1931EX_11.C.35

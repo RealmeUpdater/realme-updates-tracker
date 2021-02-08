@@ -1,5 +1,19 @@
 - changelog: |
     **Güvenlik**:
+    ● Güncel Android güvenlik yaması (2021#1)
+    **Sistem**:
+    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
+  codename: RMX2151EU
+  date: 7/2/2021
+  device: realme 7
+  download: ' https://download.c.realme.com/osupdate/RMX2151EU_11_OTA_0780_all_Dv4Xb6pXg6Jp.ozip'
+  md5: 933A593376E079A4C7CBC43F2BDFE132
+  region: Turkey
+  size: 3.23GB
+  system: realme UI V1.0
+  version: RMX2151EU_11.A.78
+- changelog: |
+    **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#11)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı

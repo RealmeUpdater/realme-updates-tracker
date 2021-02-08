@@ -123,17 +123,19 @@
   system: realme UI 1.0
   version: RMX2173_11.A.24
 - changelog: |
+    **网络**:
+    ● 优化 部分场景下的网络通信表现
     **系统**:
     ● 优化 系统性能，提升系统稳定性
   codename: RMX2200
-  date: 12/01/2021
+  date: 04/02/2021
   device: realme Q2i 5G
-  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0150_all_3L6FxzsyFgpH.ozip
-  md5: 90101E0A2AF2287AEADB5ACA1034F53A
+  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0160_all_UQo9aev0nQFi.ozip
+  md5: F883EBFA4919DF6CBC3ED5BFCC52A107
   region: China
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX2200_11.A.15
+  version: RMX2200_11.A.16
 - changelog: |
     **相册**:
     ● 新增 打印服务中保存为PDF功能
@@ -173,17 +175,19 @@
   system: realme UI 1.0
   version: RMX2121_11_A.19
 - changelog: |
+    **网络**:
+    ● 优化 部分场景下的网络通信表现
     **系统**:
     ● 优化 系统性能，提升系统稳定性
   codename: RMX2200
-  date: 12/01/2021
+  date: 04/02/2021
   device: realme V3 5G
-  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0150_all_3L6FxzsyFgpH.ozip
-  md5: 90101E0A2AF2287AEADB5ACA1034F53A
+  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0160_all_UQo9aev0nQFi.ozip
+  md5: F883EBFA4919DF6CBC3ED5BFCC52A107
   region: China
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX2200_11_A.15
+  version: RMX2200_11.A.16
 - changelog: |
     **相册**:
     ● 新增 打印服务中保存为PDF功能
@@ -2809,6 +2813,20 @@
   size: 2.05GB
   system: ColorOS 6.0
   version: RMX1941EX_11_A.32
+- changelog: |
+    **Güvenlik**:
+    ● Güncel Android güvenlik yaması (2021#1)
+    **Sistem**:
+    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
+  codename: RMX2151EU
+  date: 7/2/2021
+  device: realme 7
+  download: ' https://download.c.realme.com/osupdate/RMX2151EU_11_OTA_0780_all_Dv4Xb6pXg6Jp.ozip'
+  md5: 933A593376E079A4C7CBC43F2BDFE132
+  region: Turkey
+  size: 3.23GB
+  system: realme UI V1.0
+  version: RMX2151EU_11.A.78
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#11)

@@ -519,18 +519,18 @@
   version: RMX2144EU_11.A.20
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: diciembre de 2020
+    ● Parche de seguridad de Android: enero 2021
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2081EU
-  date: 14/12/2020
+  date: 05/02/2021
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0460_all_u10snHrV43Ze.ozip
-  md5: baaa3c7dd2fe48dde4476657437afbc9
+  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0480_all_yPFR7FZwRhoE.ozip
+  md5: bfb9f4c59d43418003a6f47434bd1b7
   region: Spain
   size: 3.27GB
   system: realme UI 1.0
-  version: RMX2081EU_11.A.46
+  version: RMX2081EU_11.A.48
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:diciembre de 2020
@@ -673,7 +673,7 @@
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1993EX
-  date: 1/30/2021
+  date: 30/01/2021
   device: realme X2
   download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1120_all_cfuJQOMyUjeK.ozip
   md5: D41D721FE6467D3BA27BB7ED102EAD75
@@ -687,7 +687,7 @@
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1851EX
-  date: 25/1/2021
+  date: 25/01/2021
   device: realme 3 Pro
   download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1140_all_r2G1igJtTlW1.ozip
   md5: CCB091CFBE5EA7AE15A7EBDD35FCE451

@@ -463,18 +463,18 @@
   version: RMX1851_11.C.11
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android:noviembre de 2020
+    ● Parche de seguridad de Android:(2021#01)
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2170EU
-  date: 5/12/2020
+  date: 6/2/2020
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0260_all_Ic4pLghXSFda.ozip
-  md5: 341AD2F215D3DC6EB4474614A45C977E
+  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0300_all_r65B0b2xK8YC.ozip
+  md5: 84DEE5BA73C34DCA0A02B31AE60D7B6F
   region: Spain
-  size: 3.51GB
+  size: 3.5GB
   system: realme UI 1.0
-  version: RMX2170EU_11_A.26
+  version: RMX2170EU_11_A.30
 - changelog: |
     **Seguridad**:
     ●Parche de seguridad de Android: diciembre de 2020
@@ -711,22 +711,18 @@
   version: RMX2111EU_11.A.22
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Camera**:
-    ● Fixed the probabilistic issue of the sound not synchronized with the video recorded by front camera
-    ● Optimized probabilistic issue of camera image distortion of video recording
+    ● Android security patch: Jan, 2021
     **System**:
-    ● Fixed the issue of flickering screen in some scenarios
-    ● Fixed some known issues of system stability
+    ● Fixed some known issues and improved system stability
   codename: RMX2170EU
-  date: 5/12/2020
+  date: 6/2/2021
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0260_all_Ic4pLghXSFda.ozip
-  md5: 341AD2F215D3DC6EB4474614A45C977E
+  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0300_all_r65B0b2xK8YC.ozip
+  md5: 84DEE5BA73C34DCA0A02B31AE60D7B6F
   region: Europe
   size: 3.51GB
   system: realme UI 1.0
-  version: RMX2170EU_11_A.26
+  version: RMX2170EU_11_A.30
 - changelog: |
     **Security**:
     ● Updated Security patch: Dec, 2020
@@ -1247,50 +1243,44 @@
   version: RMX2061_11.A.41
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov/Dec, 2020
+    ● Updated Android security patch: Jan, 2021
     **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
-    **Settings**:
-    ● Optimized the experience when using the combination of fingerprint and face to unlock
-    **Photos**:
-    ● Fixed the probabilistic screen flicker when editing the album
-    **Alarm**:
-    ● Fixed the probabilistic crashing issue in alarm detail interface
-    **Dark Mode**:
-    ● Fixed the probabilistic screen flicker when entering passwords entries in Dark mode
-    ● Fixed when using Clone Phone in Dark mode, the probabilistic issue that From Sunset to Sunrise status is out of sync
+    ● Fixed the probabilistic issue that reconnecting the Bluetooth headset during a call caused loud sound
+    **Clone Phone**:
+    ● Fixed the probabilistic issue that data migration failure
+    **Recording**:
+    ● Fixed the probabilistic issue that Recording displays abnormally when the recording file is deleted
+    **System**:
+    ● Optimized system performance and improved system stability
   codename: RMX2081PU
-  date: 14/12/2020
+  date: 05/02/2021
   device: realme X3
-  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0470_all_toQRj2xOrCq3.ozip
-  md5: 3567031c04ddc1b1027416fc8ff2cc58
+  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0490_all_8xdtaWbVYaOz.ozip
+  md5: 468adf435b38607c81c52f24fb34e938
   region: India
   size: 3.58GB
   system: realme UI 1.0
-  version: RMX2081PU_11.A.47
+  version: RMX2081PU_11.A.49
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov/Dec, 2020
+    ● Updated Android security patch: Jan, 2021
     **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
-    **Settings**:
-    ● Optimized the experience when using the combination of fingerprint and face to unlock
-    **Photos**:
-    ● Fixed the probabilistic screen flicker when editing the album
-    **Alarm**:
-    ● Fixed the probabilistic crashing issue in alarm detail interface
-    **Dark Mode**:
-    ● Fixed the probabilistic screen flicker when entering passwords entries in Dark mode
-    ● Fixed when using Clone Phone in Dark mode, the probabilistic issue that From Sunset to Sunrise status is out of sync
+    ● Fixed the probabilistic issue that reconnecting the Bluetooth headset during a call caused loud sound
+    **Clone Phone**:
+    ● Fixed the probabilistic issue that data migration failure
+    **Recording**:
+    ● Fixed the probabilistic issue that Recording displays abnormally when the recording file is deleted
+    **System**:
+    ● Optimized system performance and improved system stability
   codename: RMX2081PU
-  date: 14/12/2020
+  date: 05/02/2021
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0470_all_toQRj2xOrCq3.ozip
-  md5: 3567031c04ddc1b1027416fc8ff2cc58
+  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0490_all_8xdtaWbVYaOz.ozip
+  md5: 468adf435b38607c81c52f24fb34e938
   region: India
   size: 3.58GB
   system: realme UI 1.0
-  version: RMX2081PU_11.A.47
+  version: RMX2081PU_11.A.49
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020
@@ -2232,6 +2222,20 @@
   version: RMX1941EX_11_A.32
 - changelog: |
     **Security**:
+    ● Android security patch: Jan, 2021
+    **System**:
+    ● Fixed some known issues and improved system stability
+  codename: RMX2170PU
+  date: 31/1/2021
+  device: realme 7 Pro
+  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0330_all_gtjL6QJe25sL.ozip
+  md5: A8A6F6033B057851D6603156C57395E4
+  region: Pakistan
+  size: 3.83GB
+  system: realme UI 1.0
+  version: RMX2170PU_11_A.33
+- changelog: |
+    **Security**:
     ● Updated Android security patch: Nov, 2020
     **System**:
     ● Optimized the lagging issue of camera shooting in some specific scenarios
@@ -2546,6 +2550,20 @@
   size: 2.05GB
   system: ColorOS 6.0
   version: RMX1941EX_11_A.32
+- changelog: |
+    **Безопасность**:
+    ● Патчи безопасности Android:(2021#01)
+    **Система:**:
+    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
+  codename: RMX2170PU
+  date: 31/1/2021
+  device: realme 7 Pro
+  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0330_all_gtjL6QJe25sL.ozip
+  md5: A8A6F6033B057851D6603156C57395E4
+  region: Russia
+  size: 3.83GB
+  system: realme UI 1.0
+  version: RMX2170PU_11_A.33
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности ОС Android: Декабрь, 2020 г.

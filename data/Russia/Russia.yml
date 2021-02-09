@@ -1,5 +1,19 @@
 - changelog: |
     **Безопасность**:
+    ● Патчи безопасности Android:(2021#01)
+    **Система:**:
+    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
+  codename: RMX2170PU
+  date: 31/1/2021
+  device: realme 7 Pro
+  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0330_all_gtjL6QJe25sL.ozip
+  md5: A8A6F6033B057851D6603156C57395E4
+  region: Russia
+  size: 3.83GB
+  system: realme UI 1.0
+  version: RMX2170PU_11_A.33
+- changelog: |
+    **Безопасность**:
     ● Исправление для системы безопасности ОС Android: Декабрь, 2020 г.
     **Система:**:
     ● Исправлено известных ошибок, улучшена стабильность системы.

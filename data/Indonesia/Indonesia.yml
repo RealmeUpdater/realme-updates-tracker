@@ -14,18 +14,18 @@
   version: RMX2193_11_A.23
 - changelog: |
     **Keamanan**:
-    ● Android security patch: (2020#12)
+    ● Android security patch: (2021#01)
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2170EU
-  date: 30/12/2020
+  date: 31/1/2021
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0250_all_MsShTDdtOGAi.ozip
-  md5: F41C0F883C5114BF386A56016EA16146
+  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0330_all_gtjL6QJe25sL.ozip
+  md5: A8A6F6033B057851D6603156C57395E4
   region: Indonesia
   size: 3.83GB
   system: realme UI 1.0
-  version: RMX2170EU_11_A.25
+  version: RMX2170EU_11_A.33
 - changelog: |
     **Keamanan**:
     ● Android security patch: Desember 2020

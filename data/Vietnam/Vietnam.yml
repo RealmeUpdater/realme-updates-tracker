@@ -1,17 +1,17 @@
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#12)
+    ● Cập nhật bản vá bảo mật Android: (2021#01)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2170PU
-  date: 30/12/2020
+  date: 31/1/2021
   device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0250_all_MsShTDdtOGAi.ozip
-  md5: F41C0F883C5114BF386A56016EA16146
+  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0330_all_gtjL6QJe25sL.ozip
+  md5: A8A6F6033B057851D6603156C57395E4
   region: Vietnam
   size: 3.83GB
   system: realme UI 1.0
-  version: RMX2170PU_11_A.25
+  version: RMX2170PU_11_A.33
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: Tháng 12 năm 2020

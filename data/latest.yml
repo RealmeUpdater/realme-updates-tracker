@@ -2829,6 +2829,20 @@
   version: RMX1941EX_11_A.32
 - changelog: |
     **Güvenlik**:
+    ● Güncel Android güvenlik yaması (2021#01)
+    **Sistem**:
+    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
+  codename: RMX2170EU
+  date: 6/2/2021
+  device: realme 7 Pro
+  download: ' https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0300_all_r65B0b2xK8YC.ozip'
+  md5: 84DEE5BA73C34DCA0A02B31AE60D7B6F
+  region: Turkey
+  size: 3.5GB
+  system: realme UI 1.0
+  version: RMX2170EU_11_A.30
+- changelog: |
+    **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#1)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı

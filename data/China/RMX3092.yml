@@ -1,14 +1,21 @@
 changelog: |
-  **相机**:
-  ● 优化后置相机拍照效果
   **系统**:
   ● 优化系统性能，提升系统稳定性
+  **相机**:
+  ● 优化 前置相机拍照效果
+  **设置**:
+  ● 优化 儿童空间响应黑屏手势逻辑
+  ● 优化 多用户模式下黑屏手势显示开关逻辑
+  **应用**:
+  ● 修复 和平精英APP在部分场景下低概率不显示闪回键的问题
+  **安全**:
+  ● 更新 Android安全补丁（2021＃1）
 codename: RMX3092
-date: 04/01/2021
+date: 30/01/2021
 device: realme V15 5G
-download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0230_all_TD9KCc22G2GN.ozip
-md5: E3033CB4D259441A3BBD2452E17891DB
+download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0250_all_bxbZUlnp4aMK.ozip
+md5: 2BF1DBA7B5934AB6A3BBB594F567ECB7
 region: China
 size: 3.08GB
 system: realme UI 1.0
-version: RMX3092_11.A.23
+version: RMX3092_11.A.25

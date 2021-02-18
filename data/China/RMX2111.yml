@@ -1,20 +1,14 @@
 changelog: |
-  **相册**:
-  ● 新增 打印服务中保存为PDF功能
+  **网络**:
+  ● 优化 网络信号稳定性
   **系统**:
-  ● 优化 系统性能，提升系统稳定性
-  ● 修复 手机极低概率自动重启问题
-  **设置**:
-  ● 优化 多用户模式下黑屏手势显示开关逻辑
-  ● 修复 手机在线铃声退出后，铃声默认错误问题
-  **安全**:
-  ● 更新 Android安全补丁（2021#1）
+  ● 优化 系统稳定性
 codename: RMX2111
-date: 21/01/2021
+date: 08/02/2021
 device: realme  V5 5G
-download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0280_all_bbjZxaJQWKaU.ozip
-md5: F78A4D7C268385767AE2F2A422011C48
+download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0300_all_bJRowbrIvv35.ozip
+md5: E3908D54809E7456C1038E56F9ABB5C9
 region: China
 size: 3.08GB
 system: realme UI 1.0
-version: RMX2111_11.A.28
+version: RMX2111_11.A.30

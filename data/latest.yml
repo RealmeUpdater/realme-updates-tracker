@@ -144,25 +144,19 @@
   system: realme UI 1.0
   version: RMX2200_11.A.16
 - changelog: |
-    **相册**:
-    ● 新增 打印服务中保存为PDF功能
+    **网络**:
+    ● 优化 网络信号稳定性
     **系统**:
-    ● 优化 系统性能，提升系统稳定性
-    ● 修复 手机极低概率自动重启问题
-    **设置**:
-    ● 优化 多用户模式下黑屏手势显示开关逻辑
-    ● 修复 手机在线铃声退出后，铃声默认错误问题
-    **安全**:
-    ● 更新 Android安全补丁（2021#1）
+    ● 优化 系统稳定性
   codename: RMX2111
-  date: 25/01/2021
+  date: 16/02/2021
   device: realme Q2 5G
-  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0290_all_SPWCkIR28bC9.ozip
-  md5: 4ABA7F0E0F8717143BA535BE96CAA161
+  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0310_all_JEmU4E3I6V6a.ozip
+  md5: AD5A34E899D162D104721212F368E05A
   region: China
   size: 3.08GB
   system: realme UI 1.0
-  version: RMX2111_11.A.29
+  version: RMX2111_11.A.31
 - changelog: |
     **系统**:
     ● 优化 系统稳定性，提升用户体验
@@ -196,25 +190,19 @@
   system: realme UI 1.0
   version: RMX2200_11.A.16
 - changelog: |
-    **相册**:
-    ● 新增 打印服务中保存为PDF功能
+    **网络**:
+    ● 优化 网络信号稳定性
     **系统**:
-    ● 优化 系统性能，提升系统稳定性
-    ● 修复 手机极低概率自动重启问题
-    **设置**:
-    ● 优化 多用户模式下黑屏手势显示开关逻辑
-    ● 修复 手机在线铃声退出后，铃声默认错误问题
-    **安全**:
-    ● 更新 Android安全补丁（2021#1）
+    ● 优化 系统稳定性
   codename: RMX2111
-  date: 21/01/2021
+  date: 08/02/2021
   device: realme  V5 5G
-  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0280_all_bbjZxaJQWKaU.ozip
-  md5: F78A4D7C268385767AE2F2A422011C48
+  download: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0300_all_bJRowbrIvv35.ozip
+  md5: E3908D54809E7456C1038E56F9ABB5C9
   region: China
   size: 3.08GB
   system: realme UI 1.0
-  version: RMX2111_11.A.28
+  version: RMX2111_11.A.30
 - changelog: |
     **系统**:
     ● 优化 系统性能，提升系统稳定性

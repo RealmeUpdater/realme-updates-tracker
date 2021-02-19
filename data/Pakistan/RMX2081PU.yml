@@ -1,23 +1,20 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: Nov/Dec, 2020
+  ● Updated Android security patch: Jan, 2021
   **Bluetooth**:
-  ● Added a new icon for phone calls with Bluetooth earphone
-  **Settings**:
-  ● Optimized the experience when using the combination of fingerprint and face to unlock
-  **Photos**:
-  ● Fixed the probabilistic screen flicker when editing the album
-  **Alarm**:
-  ● Fixed the probabilistic crashing issue in alarm detail interface
-  **Dark Mode**:
-  ● Fixed the probabilistic screen flicker when entering passwords entries in Dark mode
-  ● Fixed when using Clone Phone in Dark mode, the probabilistic issue that From Sunset to Sunrise status is out of sync
+  ● Fixed the probabilistic issue that reconnecting the Bluetooth headset during a call caused loud sound
+  **Clone Phone**:
+  ● Fixed the probabilistic issue that data migration failure
+  **Recording**:
+  ● Fixed the probabilistic issue that Recording displays abnormally when the recording file is deleted
+  **System**:
+  ● Optimized system performance and improved system stability
 codename: RMX2081PU
-date: 14/12/2020
+date: 05/02/2021
 device: realme X3 SuperZoom
-download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0470_all_toQRj2xOrCq3.ozip
-md5: 3567031c04ddc1b1027416fc8ff2cc58
+download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0490_all_8xdtaWbVYaOz.ozip
+md5: 468adf435b38607c81c52f24fb34e938
 region: Pakistan
 size: 3.58GB
 system: realme UI 1.0
-version: RMX2081PU_11.A.47
+version: RMX2081PU_11.A.49

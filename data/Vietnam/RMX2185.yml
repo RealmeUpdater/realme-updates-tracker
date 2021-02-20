@@ -1,12 +1,14 @@
 changelog: |
+  **Bảo mật**:
+  ● Cập nhật bản vá bảo mật Android: Tháng 1 năm 2021
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
 codename: RMX2185
-date: 27/1/2021
+date: 18/2/2021
 device: realme C11
-download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0830_all_uLcb7GHvVHvP.ozip
-md5: 36DE9E462CC56B25BAF9F34680FB5E77
+download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0850_all_7NoWh6WgJDW4.ozip
+md5: 48112499530A4DBE3ABC1EFA77D2F338
 region: Vietnam
-size: 3.10GB
+size: 3.18GB
 system: realme UI 1.0
-version: RMX2185_11_A.83
+version: RMX2185_11_A.85

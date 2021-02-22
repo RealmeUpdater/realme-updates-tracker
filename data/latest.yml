@@ -578,16 +578,18 @@
   version: RMX2030EU_11_C.58
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: mayo de 2020
+    ● Parche de seguridad de Android:enero de 2021
+    **Sistema**:
+    ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2020EU
-  date: 16/5/2020
+  date: 27/01/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0240_all_F1M0j7Q3pH1A.ozip
-  md5: C0F68247951AF5EC40985F8FAD84AAE2
+  download: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0500_all_HcsQIz56taqS.ozip
+  md5: EB46F28A0A94FA09BA7E58F3CFC5BD91
   region: Spain
-  size: 2.69GB
+  size: 2.67GB
   system: realme UI V1.0
-  version: RMX2020EU_11.A.24
+  version: RMX2020EU_11.A.50
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: enero 2021
@@ -858,29 +860,22 @@
   version: RMX2040EU_11.A.38
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Language**:
-    ● Added system language: Serbian
-    **System**:
-    ● Optimized the speed of the App Startup from the recent apps
-    ● Optimized the speed of application installation
-    ● Fixed the issue that the phone cannot be woken up by pressing the power button
-    **Status Bar**:
-    ● Optimized the display of battery icon when charging
+    ● Updated Android security patch: Jan, 2021
+    **Settings**:
+    ● Optimized the logic of Mobile data limit feature
     **Camera**:
-    ● Optimized the speed of camera cold start
-    **Phone**:
-    ● Fixed the issue that non-emergency numbers are incorrectly displayed
-    ● Fixed the probabilistic issue that unable to make a conference call
+    ● Optimized the image quality in some scenarios
+    **System**:
+    ● Fixed the noise issue during gaming
   codename: RMX2020EU
-  date: 15/8/2020
+  date: 27/01/2021
   device: realme C3
-  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0360_all_w8T1H0cb04aW.ozip'
-  md5: FB0C10DF2D01A744D8EB479BEF045CB2
+  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0500_all_HcsQIz56taqS.ozip'
+  md5: EB46F28A0A94FA09BA7E58F3CFC5BD91
   region: Europe
-  size: 2.6GB
+  size: 2.67GB
   system: realme UI 1.0
-  version: RMX2020EU_11.A.36
+  version: RMX2020EU_11.A.50
 - changelog: |
     **Security**:
     ● Android Security Patch: September and October , 2020
@@ -1920,18 +1915,18 @@
   version: RMX2001_11.B.53
 - changelog: |
     **Keamanan**:
-    ● Android security patch: November 2020
+    ● Android security patch: Januari 2021
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2020
-  date: 19/12/2020
+  date: 27/01/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
-  md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
+  md5: 0D2862611E7EB21D47287CC0C8F73E90
   region: Indonesia
-  size: 3.03GB
+  size: 2.95GB
   system: realme UI 1.0
-  version: RMX2020_11.A.55
+  version: RMX2020_11.A.57
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
@@ -2348,22 +2343,22 @@
   version: RMX2040_11.A.39
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
+    ● Updated Android security patch: Jan, 2021
     **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
+    ● Optimized the logic of Mobile data limit feature
     **Camera**:
     ● Optimized the image quality in some scenarios
+    **System**:
+    ● Fixed the noise issue during gaming
   codename: RMX2020
-  date: 19/12/2020
+  date: 27/01/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
-  md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
+  md5: 0D2862611E7EB21D47287CC0C8F73E90
   region: Pakistan
-  size: 3.03GB
+  size: 2.95GB
   system: realme UI V1.0
-  version: RMX2020_11.A.55
+  version: RMX2020_11.A.57
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec, 2020/Jan, 2021
@@ -2639,18 +2634,18 @@
   version: RMX2001_11.B.53
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android:ноябрь 2020
+    ● Исправление для системы безопасности ОС Android: Январь 2021 г.
     **Система:**:
-    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
+    ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2020
-  date: 19/12/2020
+  date: 27/01/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
-  md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
+  md5: 0D2862611E7EB21D47287CC0C8F73E90
   region: Russia
-  size: 3.03GB
+  size: 2.95GB
   system: realme UI V1.0
-  version: RMX2020_11.A.55
+  version: RMX2020_11.A.57
 - changelog: |
     **[Внешний вид]**:
     **• Обновленный пользовательский интерфейс realme**:
@@ -2832,18 +2827,18 @@
   version: RMX2151EU_11.A.78
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2020#11)
+    ● Güncel Android güvenlik yaması (2021#1)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
-  codename: RMX2020
-  date: 19/12/2020
+  codename: RMX2020EU
+  date: 27/01/2021
   device: realme C3
-  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0480_all_QR9Q7evhLt96.ozip'
-  md5: 2B9EF6DE48806AA3D27DA98D82857274
+  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0500_all_HcsQIz56taqS.ozip'
+  md5: EB46F28A0A94FA09BA7E58F3CFC5BD91
   region: Turkey
   size: 2.67GB
   system: realme UI 1.0
-  version: RMX2020_11.A.55
+  version: RMX2020EU_11.A.50
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması(2020#12)
@@ -3098,32 +3093,32 @@
   version: RMX2001_11.B.53
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#11)
+    ● Cập nhật bản vá bảo mật Android: (2021#1)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2020
-  date: 19/12/2020
+  date: 27/01/2021
   device: realme C3i
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
-  md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
+  md5: 0D2862611E7EB21D47287CC0C8F73E90
   region: Vietnam
-  size: 3.03GB
+  size: 2.95GB
   system: realme UI 1.0
-  version: RMX2020_11.A.55
+  version: RMX2020_11.A.57
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#11)
+    ● Cập nhật bản vá bảo mật Android: (2021#1)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2020
-  date: 19/12/2020
+  date: 27/01/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
-  md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
+  md5: 0D2862611E7EB21D47287CC0C8F73E90
   region: Vietnam
-  size: 3.03GB
+  size: 2.95GB
   system: realme UI 1.0
-  version: RMX2020_11.A.55
+  version: RMX2020_11.A.57
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#12 & 2021#1)

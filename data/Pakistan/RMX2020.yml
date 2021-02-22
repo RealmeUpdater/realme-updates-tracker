@@ -1,18 +1,18 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: Nov, 2020
+  ● Updated Android security patch: Jan, 2021
   **Settings**:
-  ● Added short-press the power button to turn off flashlight feature while screen-off
-  **Bluetooth**:
-  ● Added a new icon for phone calls with Bluetooth earphone
+  ● Optimized the logic of Mobile data limit feature
   **Camera**:
   ● Optimized the image quality in some scenarios
+  **System**:
+  ● Fixed the noise issue during gaming
 codename: RMX2020
-date: 19/12/2020
+date: 27/01/2021
 device: realme C3
-download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
-md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
+download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
+md5: 0D2862611E7EB21D47287CC0C8F73E90
 region: Pakistan
-size: 3.03GB
+size: 2.95GB
 system: realme UI V1.0
-version: RMX2020_11.A.55
+version: RMX2020_11.A.57

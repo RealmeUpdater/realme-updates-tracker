@@ -1,25 +1,18 @@
 changelog: |
   **Security**:
-  ● Android Security Patch: July, 2020
-  **Language**:
-  ● Added system language: Serbian
-  **System**:
-  ● Optimized the speed of the App Startup from the recent apps
-  ● Optimized the speed of application installation
-  ● Fixed the issue that the phone cannot be woken up by pressing the power button
-  **Status Bar**:
-  ● Optimized the display of battery icon when charging
+  ● Updated Android security patch: Jan, 2021
+  **Settings**:
+  ● Optimized the logic of Mobile data limit feature
   **Camera**:
-  ● Optimized the speed of camera cold start
-  **Phone**:
-  ● Fixed the issue that non-emergency numbers are incorrectly displayed
-  ● Fixed the probabilistic issue that unable to make a conference call
+  ● Optimized the image quality in some scenarios
+  **System**:
+  ● Fixed the noise issue during gaming
 codename: RMX2020EU
-date: 15/8/2020
+date: 27/01/2021
 device: realme C3
-download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0360_all_w8T1H0cb04aW.ozip'
-md5: FB0C10DF2D01A744D8EB479BEF045CB2
+download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0500_all_HcsQIz56taqS.ozip'
+md5: EB46F28A0A94FA09BA7E58F3CFC5BD91
 region: Europe
-size: 2.6GB
+size: 2.67GB
 system: realme UI 1.0
-version: RMX2020EU_11.A.36
+version: RMX2020EU_11.A.50

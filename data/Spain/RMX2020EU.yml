@@ -1,12 +1,14 @@
 changelog: |
   **Seguridad**:
-  ● Parche de seguridad de Android: mayo de 2020
+  ● Parche de seguridad de Android:enero de 2021
+  **Sistema**:
+  ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
 codename: RMX2020EU
-date: 16/5/2020
+date: 27/01/2021
 device: realme C3
-download: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0240_all_F1M0j7Q3pH1A.ozip
-md5: C0F68247951AF5EC40985F8FAD84AAE2
+download: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0500_all_HcsQIz56taqS.ozip
+md5: EB46F28A0A94FA09BA7E58F3CFC5BD91
 region: Spain
-size: 2.69GB
+size: 2.67GB
 system: realme UI V1.0
-version: RMX2020EU_11.A.24
+version: RMX2020EU_11.A.50

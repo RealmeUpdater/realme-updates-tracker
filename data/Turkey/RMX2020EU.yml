@@ -1,14 +1,14 @@
 changelog: |
   **Güvenlik**:
-  ● Güncel Android güvenlik yaması (2020#11)
+  ● Güncel Android güvenlik yaması (2021#1)
   **Sistem**:
   ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
 codename: RMX2020EU
-date: 19/12/2020
+date: 27/01/2021
 device: realme C3
-download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0480_all_QR9Q7evhLt96.ozip'
-md5: 2B9EF6DE48806AA3D27DA98D82857274
+download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0500_all_HcsQIz56taqS.ozip'
+md5: EB46F28A0A94FA09BA7E58F3CFC5BD91
 region: Turkey
 size: 2.67GB
 system: realme UI 1.0
-version: RMX2020EU_11.A.48
+version: RMX2020EU_11.A.50

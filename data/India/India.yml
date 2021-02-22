@@ -246,40 +246,40 @@
   version: RMX2081PU_11.A.49
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
+    ● Updated Android security patch: Jan, 2021
     **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
+    ● Optimized the logic of Mobile data limit feature
     **Camera**:
     ● Optimized the image quality in some scenarios
+    **System**:
+    ● Fixed the noise issue during gaming
   codename: RMX2020
-  date: 19/12/2020
+  date: 27/01/2021
   device: realme Narzo 10A
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
-  md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
+  md5: 0D2862611E7EB21D47287CC0C8F73E90
   region: India
-  size: 3.03GB
+  size: 2.95GB
   system: realme UI 1.0
-  version: RMX2020_11.A.55
+  version: RMX2020_11.A.57
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
+    ● Updated Android security patch: Jan, 2021
     **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
+    ● Optimized the logic of Mobile data limit feature
     **Camera**:
     ● Optimized the image quality in some scenarios
+    **System**:
+    ● Fixed the noise issue during gaming
   codename: RMX2040
-  date: 21/12/2020
+  date: 27/01/2021
   device: realme Narzo 10
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0370_all_WV7weRBmVUhw.ozip
-  md5: 8854B46A385738D9D74672A045458C63
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0390_all_fTiyph3KmBYd.ozip
+  md5: E17A18FCBD1EEDE1F88F8F996357685F
   region: India
-  size: 2.94GB
+  size: 2.95GB
   system: realme UI 1.0
-  version: RMX2040_11.A.37
+  version: RMX2040_11.A.39
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020

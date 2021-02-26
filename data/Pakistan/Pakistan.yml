@@ -33,6 +33,22 @@
   version: RMX2101PU_11.A.25
 - changelog: |
     **Security**:
+    ● Updated Android security patch Jan, 2021
+    **System**:
+    ● Fix some known issues
+    ● Optimized ​​system performance
+    ● Optimized ​​system stability
+  codename: RMX2195
+  date: 31/1/2021
+  device: realme C15 Qualcomm Edition
+  download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0250_all_aEAE5ybxBGK1.ozip
+  md5: 80A12AAB23FE25097A35CBCC15AE85ED
+  region: Pakistan
+  size: 3.33GB
+  system: realme UI 1.0
+  version: RMX2195_11_A.25
+- changelog: |
+    **Security**:
     ● Updated Android security patch: Nov, 2020
     **Flashlight**:
     ● Added short-press the power button to turn off flashlight feature while screen-off

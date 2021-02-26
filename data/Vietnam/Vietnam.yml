@@ -56,18 +56,18 @@
   version: RMX2101PU_11.A.27
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 11 năm 2020
+    ● Cập nhật bản vá bảo mật Android: Tháng 1 năm 2021
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2195
-  date: 7/12/2020
+  date: 30/1/2021
   device: realme C15 Qualcomm Edition
-  download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0210_all_kGzvIGUec445.ozip
-  md5: BF1D65E7C7FF5D1738FDEAB0D268FEFE
+  download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0250_all_aEAE5ybxBGK1.ozip
+  md5: 80A12AAB23FE25097A35CBCC15AE85ED
   region: Vietnam
-  size: 3.28GB
+  size: 3.33GB
   system: realme UI 1.0
-  version: RMX2195_11_A.21
+  version: RMX2195_11_A.25
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: Tháng 1 năm 2021

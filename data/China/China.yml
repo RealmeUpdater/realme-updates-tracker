@@ -226,32 +226,23 @@
   system: realme UI 1.0
   version: RMX1931_11.C.33
 - changelog: |
-    **联系人**:
-    ● 新增 联系人详情界面二维码分享功能
-    **蓝牙**:
-    ● 修复 打开蓝牙极低概率扫描失败的问题
+    **系统**:
+    ● 优化 系统性能，提升系统稳定性
     **设置**:
-    ● 新增 息屏状态下短按电源键关闭手电筒功能
-    ● 修复 在超级省电模式下，打开欢太商城APP极低概率闪退问题
-    **解锁**:
-    ● 优化 指纹面部组合解锁逻辑
-    **相册**:
-    ● 修复 相册低概率无法播放HDR视频的问题
-    **闹钟**:
-    ● 修复 进入闹钟详情界面极低概率闪退问题
-    **应用**:
-    ● 修复 打开天气时多次点击输入框低概率出现两个取消按钮的问题
+    ● 优化 控制中心开关逻辑
+    ● 优化 部分场景录入面部实现方式
+    ● 修复 电话铃音低概率恢复默认铃音的问题
     **安全**:
-    ● 更新Android安全补丁（2020#12）
+    ● 更新Android安全补丁（2021#1/2021#2）
   codename: RMX1991
-  date: 28/12/2020
+  date: 01/03/2021
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1250_all_02N5zHcZkloB.ozip
-  md5: 02A4E7DC424998F2B141F8CEC01F54CF
+  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1260_all_7hyihIDBA0QQ.ozip
+  md5: CBB88691F0C411BC333CE2C826F26E37
   region: China
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1991_11.C.25
+  version: RMX1991_11.C.26
 - changelog: |
     **系统**:
     ● 优化 系统性能，提升系统稳定性

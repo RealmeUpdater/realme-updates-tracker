@@ -482,18 +482,18 @@
   version: RMX2076EU_11.A.42
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android(2020#12)
+    ● Parche de seguridad de Android(2021#1/2021#2)
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2061EU
-  date: 29/12/2020
+  date: 27/2/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0340_all_ql6nDSb9zuMv.ozip
-  md5: 4CBD6179609E28BD9E2A9E588893D678
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0360_all_npjBoygkJflb.ozip
+  md5: 17134CE2847A4F930F8321B924C73059
   region: Spain
-  size: 3.26GB
+  size: 3.3GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.34
+  version: RMX2061EU_11.A.36
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:diciembre de 2020
@@ -768,22 +768,25 @@
   version: RMX2076EU_11.A.34
 - changelog: |
     **Security**:
-    ● Android security patch: September, 2020
+    ● Android security patch: February, 2021
     **Settings**:
-    ● Optimized the user experience of Wi-Fi settings
-    ● Fixed the entry display of Deep cleanup
-    **Bluetooth**:
-    ● Fixed the probabilistic no sound issue when playing music after hanging up calls in Bluetooth mode
-    ● Fixed the issue of unable to resume phone call after pressing the headphone button to put phone call on hold
+    ● Optimized the settings of mobile data limit
+    ● Fixed the probabilistic screen flicker when tapping the Recent button in Dark mode
+    ● Fixed the extra splitting line between Display size and Screen display in Display & brightness settings
+    ● Optimized the probabilistic fail to adjust the volume after using earphones for a long time
+    **Alarm**:
+    ● Fixed the probabilistic crash when tapping More on the alarm editing page
+    **System**:
+    ● Optimized the system performance and improved the system stability
   codename: RMX2061EU
-  date: 29/9/2020
+  date: 27/2/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0280_all_xIfztlKpb8Pw.ozip
-  md5: 6F5DC332639283586A5A6140AC203FBA
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0360_all_npjBoygkJflb.ozip
+  md5: 17134CE2847A4F930F8321B924C73059
   region: Europe
-  size: 3.14GB
+  size: 3.30GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.28
+  version: RMX2061EU_11.A.36
 - changelog: |
     **Security**:
     ● Updated Android security patch: September, 2020

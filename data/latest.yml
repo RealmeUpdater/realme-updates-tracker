@@ -482,20 +482,6 @@
   version: RMX2076EU_11.A.42
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android(2021#1/2021#2)
-    **Sistema**:
-    ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
-  codename: RMX2061EU
-  date: 27/2/2021
-  device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0360_all_npjBoygkJflb.ozip
-  md5: 17134CE2847A4F930F8321B924C73059
-  region: Spain
-  size: 3.3GB
-  system: realme UI 1.0
-  version: RMX2061EU_11.A.36
-- changelog: |
-    **Seguridad**:
     ● Parche de seguridad de Android:diciembre de 2020
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
@@ -766,27 +752,6 @@
   size: 3.60GB
   system: realmeUI 1.0
   version: RMX2076EU_11.A.34
-- changelog: |
-    **Security**:
-    ● Android security patch: February, 2021
-    **Settings**:
-    ● Optimized the settings of mobile data limit
-    ● Fixed the probabilistic screen flicker when tapping the Recent button in Dark mode
-    ● Fixed the extra splitting line between Display size and Screen display in Display & brightness settings
-    ● Optimized the probabilistic fail to adjust the volume after using earphones for a long time
-    **Alarm**:
-    ● Fixed the probabilistic crash when tapping More on the alarm editing page
-    **System**:
-    ● Optimized the system performance and improved the system stability
-  codename: RMX2061EU
-  date: 27/2/2021
-  device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0360_all_npjBoygkJflb.ozip
-  md5: 17134CE2847A4F930F8321B924C73059
-  region: Europe
-  size: 3.30GB
-  system: realme UI 1.0
-  version: RMX2061EU_11.A.36
 - changelog: |
     **Security**:
     ● Updated Android security patch: September, 2020
@@ -1141,27 +1106,6 @@
   size: 3.18GB
   system: realme UI 1.0
   version: RMX2185_11_A.85
-- changelog: |
-    **Security**:
-    ● Android security patch: February, 2021
-    **Settings**:
-    ● Optimized the settings of mobile data limit
-    ● Fixed the probabilistic screen flicker when tapping the Recent button in Dark mode
-    ● Fixed the extra splitting line between Display size and Screen display in Display & brightness settings
-    ● Optimized the probabilistic fail to adjust the volume after using earphones for a long time
-    **Alarm**:
-    ● Fixed the probabilistic crash when tapping More on the alarm editing page
-    **System**:
-    ● Optimized the system performance and improved the system stability
-  codename: RMX2061
-  date: 27/2/2021
-  device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0430_all_evvOG5cXr7h5.ozip
-  md5: C8C81303D43A4D61ABCF98C6AACF7832
-  region: India
-  size: 3.63GB
-  system: realme UI 1.0
-  version: RMX2061_11.A.43
 - changelog: |
     **Security**:
     ● Updated Android security patch: Jan, 2021
@@ -1857,20 +1801,6 @@
   size: 3.84GB
   system: realme UI 1.0
   version: RMX2076PU_11.A.37
-- changelog: |
-    **Sicherheit**:
-    ● Android-Sicherheits-Patch(2021#1/2021#2)
-    **System**:
-    ● Korrektur einiger bekannter Probleme und verbesserte Systemstabilität
-  codename: RMX2061
-  date: 27/2/2021
-  device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0430_all_evvOG5cXr7h5.ozip
-  md5: C8C81303D43A4D61ABCF98C6AACF7832
-  region: Indonesia
-  size: 3.63GB
-  system: realme UI 1.0
-  version: RMX2061_11.A.43
 - changelog: |
     **Keamanan**:
     ● Android security patch: Desember 2020
@@ -3037,20 +2967,6 @@
   size: 3.18GB
   system: realme UI 1.0
   version: RMX2185_11_A.85
-- changelog: |
-    **Segurança**:
-    ● Patch de segurança do Android(2021#1/2021#2)
-    **Sistema**:
-    ● Foram solucionados alguns problemas conhecidos e melhorada a estabilidade do sistema
-  codename: RMX2061
-  date: 27/2/2021
-  device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0430_all_evvOG5cXr7h5.ozip
-  md5: C8C81303D43A4D61ABCF98C6AACF7832
-  region: Vietnam
-  size: 3.63GB
-  system: realme UI 1.0
-  version: RMX2061_11.A.43
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#1)

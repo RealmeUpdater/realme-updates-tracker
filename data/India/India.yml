@@ -176,27 +176,6 @@
   version: RMX2185_11_A.85
 - changelog: |
     **Security**:
-    ● Android security patch: February, 2021
-    **Settings**:
-    ● Optimized the settings of mobile data limit
-    ● Fixed the probabilistic screen flicker when tapping the Recent button in Dark mode
-    ● Fixed the extra splitting line between Display size and Screen display in Display & brightness settings
-    ● Optimized the probabilistic fail to adjust the volume after using earphones for a long time
-    **Alarm**:
-    ● Fixed the probabilistic crash when tapping More on the alarm editing page
-    **System**:
-    ● Optimized the system performance and improved the system stability
-  codename: RMX2061
-  date: 27/2/2021
-  device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0430_all_evvOG5cXr7h5.ozip
-  md5: C8C81303D43A4D61ABCF98C6AACF7832
-  region: India
-  size: 3.63GB
-  system: realme UI 1.0
-  version: RMX2061_11.A.43
-- changelog: |
-    **Security**:
     ● Updated Android security patch: Jan, 2021
     **Bluetooth**:
     ● Fixed the probabilistic issue that reconnecting the Bluetooth headset during a call caused loud sound

@@ -1,21 +1,23 @@
 changelog: |
+  **截屏**:
+  ● 新增 图形裁剪模式
+  ● 修复 添加世界时钟界面长截屏滑动不流畅的问题
   **系统**:
-  ● 优化系统性能，提升系统稳定性
-  **相机**:
-  ● 优化 前置相机拍照效果
-  **设置**:
-  ● 优化 儿童空间响应黑屏手势逻辑
-  ● 优化 多用户模式下黑屏手势显示开关逻辑
-  **应用**:
-  ● 修复 和平精英APP在部分场景下低概率不显示闪回键的问题
+  ● 优化 系统性能，提升系统稳定性
+  **状态栏**:
+  ● 优化 VoLTE状态显示逻辑
+  **Wi-Fi**:
+  ● 修复 连接部分热点时WLAN自动关闭的问题
+  **显示**:
+  ● 修复 息屏时钟低概率出现闪屏的问题
   **安全**:
-  ● 更新 Android安全补丁（2021＃1）
+  ● 更新 Android安全补丁（2021#2）
 codename: RMX3092
-date: 30/01/2021
+date: 02/03/2021
 device: realme V15 5G
-download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0250_all_bxbZUlnp4aMK.ozip
-md5: 2BF1DBA7B5934AB6A3BBB594F567ECB7
+download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0270_all_oj8s02hdWUjd.ozip
+md5: 8D0BE66277A528DC12F69AC764381B17
 region: China
 size: 3.08GB
 system: realme UI 1.0
-version: RMX3092_11.A.25
+version: RMX3092_11_A.27

@@ -1,21 +1,12 @@
 changelog: |
-  **Security**:
-  ● Android security patch: February, 2021
-  **Settings**:
-  ● Optimized the settings of mobile data limit
-  ● Fixed the probabilistic screen flicker when tapping the Recent button in Dark mode
-  ● Fixed the extra splitting line between Display size and Screen display in Display & brightness settings
-  ● Optimized the probabilistic fail to adjust the volume after using earphones for a long time
-  **Alarm**:
-  ● Fixed the probabilistic crash when tapping More on the alarm editing page
-  **System**:
-  ● Optimized the system performance and improved the system stability
+  **Fingerprints**:
+  ● Fixed the probabilistic issue of unable to identify fingerprints
 codename: RMX2061EU
-date: 27/2/2021
+date: 5/3/2021
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0360_all_npjBoygkJflb.ozip
-md5: 17134CE2847A4F930F8321B924C73059
+download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0380_all_EIeguy5zqMib.ozip
+md5: 16524DFCFD1F1F42FF0AC0CB31395B5F
 region: Europe
 size: 3.30GB
 system: realme UI 1.0
-version: RMX2061EU_11.A.36
+version: RMX2061EU_11.A.38

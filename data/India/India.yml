@@ -22,6 +22,30 @@
   version: RMX2111PU_11.A.29
 - changelog: |
     **Security**:
+    ● Updated Android security patch: February, 2021
+    **Screenshot**:
+    ● Added image crop feature
+    ● Optimized the screenshot fluency on Add Clock page
+    **Display**:
+    ● Fixed the probabilistic screen flicker of the Always-On Display
+    **Bluetooth**:
+    ● Fixed the probabilistic disconnecting issues of automobile Bluetooth
+    ● Optimized the probabilistic noise of the Bluetooth earphones
+    **Wi-Fi**:
+    ● Fixed the issue where Wi-Fi automatically turns off when connecting to a hotspot on some devices
+    **System**:
+    ● Optimized the system stability
+  codename: RMX2176PU
+  date: 4/3/2021
+  device: realme X7 5G
+  download: https://download.c.realme.com/osupdate/RMX2176PU_11_OTA_0150_all_CjuGrHMmpEhN.ozip
+  md5: A92F0FCC6E522DCE5D3079D200E0F122
+  region: India
+  size: 3.39GB
+  system: realme UI 1.0
+  version: RMX2176PU_11.A.15
+- changelog: |
+    **Security**:
     ● Updated Android security patch: Nov&Dec, 2020
     **System**:
     ● Optimized the issue that the power button no response during phone calls
@@ -302,50 +326,6 @@
   size: 3.92GB
   system: realmeUI 1.0
   version: RMX2076PU_11.A.41
-- changelog: |
-    **Security**:
-    ● Android security patch: February, 2021
-    **Alarm**:
-    ● Fixed the probabilistic crash when tapping More on the alarm editing page
-    **Settings**:
-    ● Optimized the settings of mobile data limit
-    ● Optimized the probabilistic fail to adjust the volume after using earphones for a long time
-    ● Optimized the probabilistic issue when searching in Settings
-    ● Fixed the extra spliting line between Display size and Screen display in Display & brightness settings
-    **System**:
-    ● Optimized the system performance
-    ● Optimized the system stability
-  codename: RMX2001
-  date: 25/02/2021
-  device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0570_all_FWu6sjmSi73e.ozip
-  md5: 358450FB8D0A32012FA0203CF2AA964C
-  region: India
-  size: 3.32GB
-  system: realme UI 1.0
-  version: RMX2001_11.B.57
-- changelog: |
-    **Security**:
-    ● Android security patch: February, 2021
-    **Alarm**:
-    ● Fixed the probabilistic crash when tapping More on the alarm editing page
-    **Settings**:
-    ● Optimized the settings of mobile data limit
-    ● Optimized the probabilistic fail to adjust the volume after using earphones for a long time
-    ● Optimized the probabilistic issue when searching in Settings
-    ● Fixed the extra spliting line between Display size and Screen display in Display & brightness settings
-    **System**:
-    ● Optimized the system performance
-    ● Optimized the system stability
-  codename: RMX2001
-  date: 25/02/2021
-  device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0570_all_FWu6sjmSi73e.ozip
-  md5: 358450FB8D0A32012FA0203CF2AA964C
-  region: India
-  size: 3.32GB
-  system: realme UI 1.0
-  version: RMX2001_11.B.57
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020

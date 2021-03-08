@@ -150,6 +150,18 @@
   system: realmeUI 1.0
   version: RMX2076EU_11.A.34
 - changelog: |
+    **Fingerprints**:
+    ● Fixed the probabilistic issue of unable to identify fingerprints
+  codename: RMX2061EU
+  date: 5/3/2021
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0380_all_EIeguy5zqMib.ozip
+  md5: 16524DFCFD1F1F42FF0AC0CB31395B5F
+  region: Europe
+  size: 3.30GB
+  system: realme UI 1.0
+  version: RMX2061EU_11.A.38
+- changelog: |
     **Security**:
     ● Updated Android security patch: September, 2020
     **System**:

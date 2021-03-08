@@ -124,20 +124,6 @@
   version: RMX2040_11.A.39
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 12 năm 2020
-    **Hệ thống**:
-    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
-  codename: RMX2001
-  date: 18/12/2020
-  device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
-  md5: 53EB904F387D18003AC601919D02E1FC
-  region: Vietnam
-  size: 3.19GB
-  system: realme UI 1.0
-  version: RMX2001_11.B.53
-- changelog: |
-    **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#1)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống

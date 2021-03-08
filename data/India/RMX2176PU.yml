@@ -1,0 +1,24 @@
+changelog: |
+  **Security**:
+  ● Updated Android security patch: February, 2021
+  **Screenshot**:
+  ● Added image crop feature
+  ● Optimized the screenshot fluency on Add Clock page
+  **Display**:
+  ● Fixed the probabilistic screen flicker of the Always-On Display
+  **Bluetooth**:
+  ● Fixed the probabilistic disconnecting issues of automobile Bluetooth
+  ● Optimized the probabilistic noise of the Bluetooth earphones
+  **Wi-Fi**:
+  ● Fixed the issue where Wi-Fi automatically turns off when connecting to a hotspot on some devices
+  **System**:
+  ● Optimized the system stability
+codename: RMX2176PU
+date: 4/3/2021
+device: realme X7 5G
+download: https://download.c.realme.com/osupdate/RMX2176PU_11_OTA_0150_all_CjuGrHMmpEhN.ozip
+md5: A92F0FCC6E522DCE5D3079D200E0F122
+region: India
+size: 3.39GB
+system: realme UI 1.0
+version: RMX2176PU_11.A.15

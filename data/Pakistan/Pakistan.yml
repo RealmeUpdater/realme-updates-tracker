@@ -115,25 +115,6 @@
   version: RMX2061_11.A.45
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Dec, 2020
-    **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Camera**:
-    ● Fixed the probabilistic display error issue when playing videos
-    **System**:
-    ● Optimized system performance and improved system stability
-    ● Fixed the probabilistic flicker issue
-  codename: RMX2001
-  date: 18/12/2020
-  device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
-  md5: 53EB904F387D18003AC601919D02E1FC
-  region: Pakistan
-  size: 3.19GB
-  system: realme UI 1.0
-  version: RMX2001_11.B.53
-- changelog: |
-    **Security**:
     ● Updated Android security patch: Jan, 2021
     **Settings**:
     ● Optimized the logic of Mobile data limit feature

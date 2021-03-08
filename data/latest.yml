@@ -201,17 +201,22 @@
   system: realme UI 1.0
   version: RMX2111_11.A.30
 - changelog: |
-    **系统**:
-    ● 优化 系统性能，提升系统稳定性
+    **截屏**:
+    ● 优化 截屏后裁剪时响应速度
+    ● 优化 截屏裁剪的操作界面
+    **设置**:
+    ● 修复 加密应用后概率性无法切换到其他应用的问题
+    **安全**:
+    ● 更新 Android安全补丁（2021#2）
   codename: RMX2175
-  date: 15/02/2021
+  date: 01/03/2021
   device: realme  X7 5G
-  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0260_all_EgFdkMu9M5om.ozip
-  md5: 956B7B1AB0C222C99EF78805EFC9761A
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0280_all_RMRlq5YBvV83.ozip
+  md5: 23DE2D4A428A2F848D75D4C21DC6AFE1
   region: China
   size: 3.08GB
   system: realme UI 1.0
-  version: RMX2175_11.A.26
+  version: RMX2175_11.A.28
 - changelog: |
     **设置**:
     ● 修复 一键省电页面优化时间异常问题
@@ -1848,6 +1853,18 @@
   system: realme UI 1.0
   version: RMX2076PU_11.A.37
 - changelog: |
+    **Sistem**:
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2061
+  date: 5/3/2021
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
+  md5: FAF21961BE7E2BDB7866DBA650028A54
+  region: Indonesia
+  size: 3.63GB
+  system: realme UI 1.0
+  version: RMX2061_11.A.45
+- changelog: |
     **Keamanan**:
     ● Android security patch: Desember 2020
     **Sistem**:
@@ -2245,29 +2262,17 @@
   system: realme UI 1.0
   version: RMX2081PU_11.A.49
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: Nov/Dec, 2020
-    **Bluetooth**:
-    ● Added a new incoming call icon for Bluetooth earphones
-    **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    ● Added a tutorial for swipe gestures from both sides
-    ● Fixed the probabilistic overlapping issue of the pulled-down icons and the navigation bar
-    ● Fixed the issue that exiting the information page requires tapping twice in the Super power saving mode
-    ● Fixed the abnormal popup issue when tapping the avatar multiple times in the Contacts editting page in Multi-user mode
-    **Status Bar**:
-    ● Optimized the display of status bar system icons
-    **Unlock**:
-    ● Optimized the experience when using the combination of fingerprint and face to unlock
+    **Fingerprints**:
+    ● Fixed the probabilistic issue of unable to identify fingerprints
   codename: RMX2061
-  date: 29/12/2020
+  date: 5/3/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0410_all_Gp1raFebeuAb.ozip
-  md5: A50E5E0DC5972BA25E459661E6EF0AB0
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
+  md5: FAF21961BE7E2BDB7866DBA650028A54
   region: Pakistan
-  size: 3.62GB
+  size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.41
+  version: RMX2061_11.A.45
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec, 2020
@@ -2513,19 +2518,17 @@
   system: realme UI 1.0
   version: RMX2151PU_11.A.75
 - changelog: |
-    **Безопасность**:
-    ● Обновлены патчи безопасности Android на декабрь 2020
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
   codename: RMX2061
-  date: 29/12/2020
+  date: 5/3/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0410_all_Gp1raFebeuAb.ozip
-  md5: A50E5E0DC5972BA25E459661E6EF0AB0
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
+  md5: FAF21961BE7E2BDB7866DBA650028A54
   region: Russia
-  size: 3.62GB
+  size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.41
+  version: RMX2061_11.A.45
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android: Январь 2021 г.
@@ -2804,19 +2807,17 @@
   system: realme UI 1.0
   version: RMX2020EU_11.A.50
 - changelog: |
-    **Güvenlik**:
-    ● Android güvenlik yaması(2020#12)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2061EU
-  date: 29/12/2020
+  date: 5/3/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0340_all_ql6nDSb9zuMv.ozip
-  md5: 4CBD6179609E28BD9E2A9E588893D678
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0380_all_EIeguy5zqMib.ozip
+  md5: 16524DFCFD1F1F42FF0AC0CB31395B5F
   region: Turkey
-  size: 3.26GB
+  size: 3.30GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.34
+  version: RMX2061EU_11.A.38
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#1)
@@ -3013,6 +3014,18 @@
   size: 3.18GB
   system: realme UI 1.0
   version: RMX2185_11_A.85
+- changelog: |
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2061
+  date: 5/3/2021
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
+  md5: FAF21961BE7E2BDB7866DBA650028A54
+  region: Vietnam
+  size: 3.63GB
+  system: realme UI 1.0
+  version: RMX2061_11.A.45
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#1)

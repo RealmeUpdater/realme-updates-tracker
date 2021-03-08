@@ -97,6 +97,18 @@
   system: realme UI 1.0
   version: RMX2185_11_A.85
 - changelog: |
+    **Hệ thống**:
+    ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
+  codename: RMX2061
+  date: 5/3/2021
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
+  md5: FAF21961BE7E2BDB7866DBA650028A54
+  region: Vietnam
+  size: 3.63GB
+  system: realme UI 1.0
+  version: RMX2061_11.A.45
+- changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#1)
     **Hệ thống**:

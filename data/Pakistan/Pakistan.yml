@@ -102,29 +102,17 @@
   system: realme UI 1.0
   version: RMX2081PU_11.A.49
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: Nov/Dec, 2020
-    **Bluetooth**:
-    ● Added a new incoming call icon for Bluetooth earphones
-    **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    ● Added a tutorial for swipe gestures from both sides
-    ● Fixed the probabilistic overlapping issue of the pulled-down icons and the navigation bar
-    ● Fixed the issue that exiting the information page requires tapping twice in the Super power saving mode
-    ● Fixed the abnormal popup issue when tapping the avatar multiple times in the Contacts editting page in Multi-user mode
-    **Status Bar**:
-    ● Optimized the display of status bar system icons
-    **Unlock**:
-    ● Optimized the experience when using the combination of fingerprint and face to unlock
+    **Fingerprints**:
+    ● Fixed the probabilistic issue of unable to identify fingerprints
   codename: RMX2061
-  date: 29/12/2020
+  date: 5/3/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0410_all_Gp1raFebeuAb.ozip
-  md5: A50E5E0DC5972BA25E459661E6EF0AB0
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
+  md5: FAF21961BE7E2BDB7866DBA650028A54
   region: Pakistan
-  size: 3.62GB
+  size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.41
+  version: RMX2061_11.A.45
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec, 2020

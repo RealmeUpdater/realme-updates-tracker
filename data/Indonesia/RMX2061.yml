@@ -1,14 +1,12 @@
 changelog: |
-  **Sicherheit**:
-  ● Android-Sicherheits-Patch(2021#1/2021#2)
-  **System**:
-  ● Korrektur einiger bekannter Probleme und verbesserte Systemstabilität
+  **Sistem**:
+  ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
 codename: RMX2061
-date: 27/2/2021
+date: 5/3/2021
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0430_all_evvOG5cXr7h5.ozip
-md5: C8C81303D43A4D61ABCF98C6AACF7832
+download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
+md5: FAF21961BE7E2BDB7866DBA650028A54
 region: Indonesia
 size: 3.63GB
 system: realme UI 1.0
-version: RMX2061_11.A.43
+version: RMX2061_11.A.45

@@ -127,19 +127,19 @@
   system: realme UI 1.0
   version: RMX2175_11.A.28
 - changelog: |
-    **网络**:
-    ● 优化 部分场景下的网络通信表现
     **系统**:
     ● 优化 系统性能，提升系统稳定性
+    **安全**:
+    ● 更新 Android安全补丁（2021#02)
   codename: RMX2200
-  date: 04/02/2021
+  date: 09/03/2021
   device: realme Q2i 5G
-  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0160_all_UQo9aev0nQFi.ozip
-  md5: F883EBFA4919DF6CBC3ED5BFCC52A107
+  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0170_all_8pkdIOpK7LyQ.ozip
+  md5: B437F3EB1449A306050276FE36EBF3BA
   region: China
-  size: 2.99GB
+  size: 3.04GB
   system: realme UI 1.0
-  version: RMX2200_11.A.16
+  version: RMX2200_11.A.17
 - changelog: |
     **网络**:
     ● 优化 网络信号稳定性
@@ -173,19 +173,19 @@
   system: realme UI 1.0
   version: RMX2121_11_A.19
 - changelog: |
-    **网络**:
-    ● 优化 部分场景下的网络通信表现
     **系统**:
     ● 优化 系统性能，提升系统稳定性
+    **安全**:
+    ● 更新 Android安全补丁（2021#02)
   codename: RMX2200
-  date: 04/02/2021
+  date: 09/03/2021
   device: realme V3 5G
-  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0160_all_UQo9aev0nQFi.ozip
-  md5: F883EBFA4919DF6CBC3ED5BFCC52A107
+  download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0170_all_8pkdIOpK7LyQ.ozip
+  md5: B437F3EB1449A306050276FE36EBF3BA
   region: China
-  size: 2.99GB
+  size: 3.04GB
   system: realme UI 1.0
-  version: RMX2200_11.A.16
+  version: RMX2200_11.A.17
 - changelog: |
     **网络**:
     ● 优化 网络信号稳定性

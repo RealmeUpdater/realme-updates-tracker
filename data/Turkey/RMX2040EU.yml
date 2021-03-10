@@ -1,14 +1,14 @@
 changelog: |
   **Güvenlik**:
-  ● Güncel Android güvenlik yaması (2021#1)
+  ● Güncel Android güvenlik yaması (2021#2)
   **Sistem**:
   ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
 codename: RMX2040EU
-date: 27/01/2021
+date: 04/03/2021
 device: realme 6i
-download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0380_all_8T8b2kNeV6yz.ozip
-md5: C2B92E56CC9B4F9FB10DC00ABBF50218
+download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0400_all_cIxLhvgsvxvZ.ozip
+md5: 8E49368941B1036C513160B6F2BF74C0
 region: Turkey
 size: 2.67GB
 system: realme UI 1.0
-version: RMX2040EU_11.A.38
+version: RMX2040EU_11.A.40

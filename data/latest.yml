@@ -520,18 +520,18 @@
   version: RMX2001EU_11.A.48
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android:enero de 2021
+    ● Parche de seguridad de Android:febrero de 2021
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2040EU
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0380_all_8T8b2kNeV6yz.ozip
-  md5: C2B92E56CC9B4F9FB10DC00ABBF50218
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0400_all_cIxLhvgsvxvZ.ozip
+  md5: 8E49368941B1036C513160B6F2BF74C0
   region: Spain
   size: 2.67GB
   system: realme UI 1.0
-  version: RMX2040EU_11.A.38
+  version: RMX2040EU_11.A.40
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: diciembre 2020 & enero 2021
@@ -811,40 +811,32 @@
   version: RMX2001EU_11.A.42
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Jan, 2021
-    **Settings**:
-    ● Optimized the logic of Mobile data limit feature
-    **Camera**:
-    ● Optimized the image quality in some scenarios
+    ● Updated Android security patch: February, 2021
     **System**:
-    ● Fixed the noise issue during gaming
+    ● Fixed some known issues and improved stability
   codename: RMX2040EU
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0380_all_8T8b2kNeV6yz.ozip
-  md5: C2B92E56CC9B4F9FB10DC00ABBF50218
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0400_all_cIxLhvgsvxvZ.ozip
+  md5: 8E49368941B1036C513160B6F2BF74C0
   region: Europe
   size: 2.67GB
   system: realme UI 1.0
-  version: RMX2040EU_11.A.38
+  version: RMX2040EU_11.A.40
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Jan, 2021
-    **Settings**:
-    ● Optimized the logic of Mobile data limit feature
-    **Camera**:
-    ● Optimized the image quality in some scenarios
+    ● Updated Android security patch: February, 2021
     **System**:
-    ● Fixed the noise issue during gaming
+    ● Fixed some known issues and improved stability
   codename: RMX2020EU
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme C3
-  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0500_all_HcsQIz56taqS.ozip'
-  md5: EB46F28A0A94FA09BA7E58F3CFC5BD91
+  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0520_all_2qQZC1WI2QNg.ozip'
+  md5: 3BEC25B9078AB61EE3FC435FE2EB5A1D
   region: Europe
   size: 2.67GB
   system: realme UI 1.0
-  version: RMX2020EU_11.A.50
+  version: RMX2020EU_11.A.52
 - changelog: |
     **Security**:
     ● Android Security Patch: September and October , 2020
@@ -1261,22 +1253,18 @@
   version: RMX2020_11.A.59
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Jan, 2021
-    **Settings**:
-    ● Optimized the logic of Mobile data limit feature
-    **Camera**:
-    ● Optimized the image quality in some scenarios
+    ● Updated Android security patch: February, 2021
     **System**:
-    ● Fixed the noise issue during gaming
+    ● Fixed some known issues and improved stability
   codename: RMX2040
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme Narzo 10
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0390_all_fTiyph3KmBYd.ozip
-  md5: E17A18FCBD1EEDE1F88F8F996357685F
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0410_all_DGjBJHimKRch.ozip
+  md5: FE4C8CAF5130ACC89C1D0FFB03609FB2
   region: India
   size: 2.95GB
   system: realme UI 1.0
-  version: RMX2040_11.A.39
+  version: RMX2040_11.A.41
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov, 2020
@@ -2247,22 +2235,18 @@
   version: RMX2061_11.A.45
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Jan, 2021
-    **Settings**:
-    ● Optimized the logic of Mobile data limit feature
-    **Camera**:
-    ● Optimized the image quality in some scenarios
+    ● Updated Android security patch: February, 2021
     **System**:
-    ● Fixed the noise issue during gaming
+    ● Fixed some known issues and improved stability
   codename: RMX2040
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0390_all_fTiyph3KmBYd.ozip
-  md5: E17A18FCBD1EEDE1F88F8F996357685F
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0410_all_DGjBJHimKRch.ozip
+  md5: FE4C8CAF5130ACC89C1D0FFB03609FB2
   region: Pakistan
   size: 2.95GB
   system: realme UI 1.0
-  version: RMX2040_11.A.39
+  version: RMX2040_11.A.41
 - changelog: |
     **Security**:
     ● Updated Android security patch: February, 2021
@@ -2508,18 +2492,18 @@
   version: RMX2185_11_A.81
 - changelog: |
     **Безопасность**:
-    ● Исправление для системы безопасности ОС Android: Январь 2021 г.
+    ● Исправление для системы безопасности ОС Android: февраль, 2021 г.
     **Система:**:
     ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2040
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0390_all_fTiyph3KmBYd.ozip
-  md5: E17A18FCBD1EEDE1F88F8F996357685F
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0410_all_DGjBJHimKRch.ozip
+  md5: FE4C8CAF5130ACC89C1D0FFB03609FB2
   region: Russia
   size: 2.95GB
   system: realme UI 1.0
-  version: RMX2040_11.A.39
+  version: RMX2040_11.A.41
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности ОС Android: февраль, 2021 г.
@@ -2715,18 +2699,18 @@
   version: RMX2151EU_11.A.78
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2021#1)
+    ● Güncel Android güvenlik yaması (2021#2)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2020EU
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme C3
-  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0500_all_HcsQIz56taqS.ozip'
-  md5: EB46F28A0A94FA09BA7E58F3CFC5BD91
+  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0520_all_2qQZC1WI2QNg.ozip'
+  md5: 3BEC25B9078AB61EE3FC435FE2EB5A1D
   region: Turkey
   size: 2.67GB
   system: realme UI 1.0
-  version: RMX2020EU_11.A.50
+  version: RMX2020EU_11.A.52
 - changelog: |
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
@@ -2741,18 +2725,18 @@
   version: RMX2061EU_11.A.38
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2021#1)
+    ● Güncel Android güvenlik yaması (2021#2)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2040EU
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0380_all_8T8b2kNeV6yz.ozip
-  md5: C2B92E56CC9B4F9FB10DC00ABBF50218
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0400_all_cIxLhvgsvxvZ.ozip
+  md5: 8E49368941B1036C513160B6F2BF74C0
   region: Turkey
   size: 2.67GB
   system: realme UI 1.0
-  version: RMX2040EU_11.A.38
+  version: RMX2040EU_11.A.40
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#12 & 2021#1)
@@ -2949,18 +2933,18 @@
   version: RMX2061_11.A.45
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2021#1)
+    ● Cập nhật bản vá bảo mật Android: (2021#2)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2040
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0390_all_fTiyph3KmBYd.ozip
-  md5: E17A18FCBD1EEDE1F88F8F996357685F
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0410_all_DGjBJHimKRch.ozip
+  md5: FE4C8CAF5130ACC89C1D0FFB03609FB2
   region: Vietnam
   size: 2.95GB
   system: realme UI 1.0
-  version: RMX2040_11.A.39
+  version: RMX2040_11.A.41
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#2)

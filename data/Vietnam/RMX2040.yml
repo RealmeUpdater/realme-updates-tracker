@@ -1,14 +1,14 @@
 changelog: |
   **Bảo mật**:
-  ● Cập nhật bản vá bảo mật Android: (2021#1)
+  ● Cập nhật bản vá bảo mật Android: (2021#2)
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
 codename: RMX2040
-date: 27/01/2021
+date: 04/03/2021
 device: realme 6i
-download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0390_all_fTiyph3KmBYd.ozip
-md5: E17A18FCBD1EEDE1F88F8F996357685F
+download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0410_all_DGjBJHimKRch.ozip
+md5: FE4C8CAF5130ACC89C1D0FFB03609FB2
 region: Vietnam
 size: 2.95GB
 system: realme UI 1.0
-version: RMX2040_11.A.39
+version: RMX2040_11.A.41

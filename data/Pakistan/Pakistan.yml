@@ -115,22 +115,18 @@
   version: RMX2061_11.A.45
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Jan, 2021
-    **Settings**:
-    ● Optimized the logic of Mobile data limit feature
-    **Camera**:
-    ● Optimized the image quality in some scenarios
+    ● Updated Android security patch: February, 2021
     **System**:
-    ● Fixed the noise issue during gaming
+    ● Fixed some known issues and improved stability
   codename: RMX2040
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0390_all_fTiyph3KmBYd.ozip
-  md5: E17A18FCBD1EEDE1F88F8F996357685F
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0410_all_DGjBJHimKRch.ozip
+  md5: FE4C8CAF5130ACC89C1D0FFB03609FB2
   region: Pakistan
   size: 2.95GB
   system: realme UI 1.0
-  version: RMX2040_11.A.39
+  version: RMX2040_11.A.41
 - changelog: |
     **Security**:
     ● Updated Android security patch: February, 2021

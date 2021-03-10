@@ -133,22 +133,18 @@
   version: RMX2040_11.A.39
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Jan, 2021
-    **Settings**:
-    ● Optimized the logic of Mobile data limit feature
-    **Camera**:
-    ● Optimized the image quality in some scenarios
+    ● Updated Android security patch: February, 2021
     **System**:
-    ● Fixed the noise issue during gaming
+    ● Fixed some known issues and improved stability
   codename: RMX2020
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
-  md5: 0D2862611E7EB21D47287CC0C8F73E90
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0590_all_iEFFRypbb6fP.ozip
+  md5: D30CF7481F4EC449B033202906D0EA2D
   region: Pakistan
-  size: 2.95GB
+  size: 3.05GB
   system: realme UI V1.0
-  version: RMX2020_11.A.57
+  version: RMX2020_11.A.59
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec, 2020/Jan, 2021

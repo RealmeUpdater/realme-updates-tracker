@@ -1,14 +1,14 @@
 changelog: |
   **Keamanan**:
-  ● Android security patch: Januari 2021
+  ● Android security patch: Februari 2021
   **Sistem**:
   ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
 codename: RMX2020
-date: 27/01/2021
+date: 04/03/2021
 device: realme C3
-download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
-md5: 0D2862611E7EB21D47287CC0C8F73E90
+download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0590_all_iEFFRypbb6fP.ozip
+md5: D30CF7481F4EC449B033202906D0EA2D
 region: Indonesia
-size: 2.95GB
+size: 3.05GB
 system: realme UI 1.0
-version: RMX2020_11.A.57
+version: RMX2020_11.A.59

@@ -548,18 +548,18 @@
   version: RMX2030EU_11_C.58
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android:enero de 2021
+    ● Parche de seguridad de Android:febrero de 2021
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2020EU
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0500_all_HcsQIz56taqS.ozip
-  md5: EB46F28A0A94FA09BA7E58F3CFC5BD91
+  download: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0520_all_2qQZC1WI2QNg.ozip
+  md5: 3BEC25B9078AB61EE3FC435FE2EB5A1D
   region: Spain
   size: 2.67GB
   system: realme UI V1.0
-  version: RMX2020EU_11.A.50
+  version: RMX2020EU_11.A.52
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: enero 2021
@@ -1247,22 +1247,18 @@
   version: RMX2081PU_11.A.49
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Jan, 2021
-    **Settings**:
-    ● Optimized the logic of Mobile data limit feature
-    **Camera**:
-    ● Optimized the image quality in some scenarios
+    ● Updated Android security patch: February, 2021
     **System**:
-    ● Fixed the noise issue during gaming
+    ● Fixed some known issues and improved stability
   codename: RMX2020
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme Narzo 10A
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
-  md5: 0D2862611E7EB21D47287CC0C8F73E90
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0590_all_iEFFRypbb6fP.ozip
+  md5: D30CF7481F4EC449B033202906D0EA2D
   region: India
-  size: 2.95GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2020_11.A.57
+  version: RMX2020_11.A.59
 - changelog: |
     **Security**:
     ● Updated Android security patch: Jan, 2021
@@ -1856,18 +1852,18 @@
   version: RMX2061_11.A.45
 - changelog: |
     **Keamanan**:
-    ● Android security patch: Januari 2021
+    ● Android security patch: Februari 2021
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2020
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
-  md5: 0D2862611E7EB21D47287CC0C8F73E90
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0590_all_iEFFRypbb6fP.ozip
+  md5: D30CF7481F4EC449B033202906D0EA2D
   region: Indonesia
-  size: 2.95GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2020_11.A.57
+  version: RMX2020_11.A.59
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
@@ -2269,22 +2265,18 @@
   version: RMX2040_11.A.39
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Jan, 2021
-    **Settings**:
-    ● Optimized the logic of Mobile data limit feature
-    **Camera**:
-    ● Optimized the image quality in some scenarios
+    ● Updated Android security patch: February, 2021
     **System**:
-    ● Fixed the noise issue during gaming
+    ● Fixed some known issues and improved stability
   codename: RMX2020
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
-  md5: 0D2862611E7EB21D47287CC0C8F73E90
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0590_all_iEFFRypbb6fP.ozip
+  md5: D30CF7481F4EC449B033202906D0EA2D
   region: Pakistan
-  size: 2.95GB
+  size: 3.05GB
   system: realme UI V1.0
-  version: RMX2020_11.A.57
+  version: RMX2020_11.A.59
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec, 2020/Jan, 2021
@@ -2530,18 +2522,18 @@
   version: RMX2040_11.A.39
 - changelog: |
     **Безопасность**:
-    ● Исправление для системы безопасности ОС Android: Январь 2021 г.
+    ● Исправление для системы безопасности ОС Android: февраль, 2021 г.
     **Система:**:
     ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2020
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
-  md5: 0D2862611E7EB21D47287CC0C8F73E90
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0590_all_iEFFRypbb6fP.ozip
+  md5: D30CF7481F4EC449B033202906D0EA2D
   region: Russia
-  size: 2.95GB
+  size: 3.05GB
   system: realme UI V1.0
-  version: RMX2020_11.A.57
+  version: RMX2020_11.A.59
 - changelog: |
     **[Внешний вид]**:
     **• Обновленный пользовательский интерфейс realme**:
@@ -2971,32 +2963,32 @@
   version: RMX2040_11.A.39
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2021#1)
+    ● Cập nhật bản vá bảo mật Android: (2021#2)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2020
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme C3i
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
-  md5: 0D2862611E7EB21D47287CC0C8F73E90
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0590_all_iEFFRypbb6fP.ozip
+  md5: D30CF7481F4EC449B033202906D0EA2D
   region: Vietnam
-  size: 2.95GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2020_11.A.57
+  version: RMX2020_11.A.59
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2021#1)
+    ● Cập nhật bản vá bảo mật Android: (2021#2)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2020
-  date: 27/01/2021
+  date: 04/03/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0570_all_PzTdsJR9V3Tc.ozip
-  md5: 0D2862611E7EB21D47287CC0C8F73E90
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0590_all_iEFFRypbb6fP.ozip
+  md5: D30CF7481F4EC449B033202906D0EA2D
   region: Vietnam
-  size: 2.95GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2020_11.A.57
+  version: RMX2020_11.A.59
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#12 & 2021#1)

@@ -1,18 +1,14 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: Jan, 2021
-  **Camera**:
-  ● Optimized the noise problem of the front camera
-  ● Fixed the probabilistic issue that camera crash during fast shooting
+  ● Updated Android security patch: Feb, 2021
   **System**:
-  ● Fixed some known issues and improved the fluency of some apps and games
-  ● Fixed the probabilistic issue that the mouse icon is not displayed on the horizontal screen after OTG is connected to the mouse
+  ● Optimized system performance and improve system stability
 codename: RMX2151PU
-date: 2/2/2021
+date: 11/3/2021
 device: realme 7
-download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0830_all_AFFrwZpAzh0Z.ozip
-md5: 7F2B0AB175DA846B5633AD0CFF5337BB
+download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0870_all_bcaVDKpnb64B.ozip
+md5: D8069360A36A98E9E7123356ACCADD98
 region: India
-size: 3.58GB
+size: 3.59GB
 system: realme UI 1.0
-version: RMX2151PU_11.A.83
+version: RMX2151PU_11.A.87

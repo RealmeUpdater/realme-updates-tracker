@@ -306,18 +306,18 @@
   version: RMX1821EX_11_C.19
 - changelog: |
     **Keamanan**:
-    ● Tambalan keamanan Android: Januari 2021
+    ● Android Security Patch Tingkat: Februari 2021 & Maret 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1941EX
-  date: 21/01/2021
+  date: 13/03/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
-  md5: AEF848C1A483C21987F5DAF1CACB4F0E
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0330_all_FyoSvn8Rclbv.ozip
+  md5: FCF6973BD0356EEB30FD15370F5B3D17
   region: Indonesia
   size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11_A.32
+  version: RMX1941EX_11.A.33
 - changelog: |
     **Keamanan**:
     ● Tambalan keamanan Android: Januari 2021

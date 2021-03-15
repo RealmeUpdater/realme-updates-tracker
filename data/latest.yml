@@ -1531,19 +1531,19 @@
   version: RMX1851EX_11.C.14
 - changelog: |
     **Security**:
-    ● Updated Android security patch: December, 2020, January, 2021
+    ● Updated Android security patch: Feb, 2021 & Mar, 2021
     **System**:
     ● Optimized system performance
     ● Improved system stability
   codename: RMX1941EX
-  date: 21/01/2021
+  date: 13/03/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
-  md5: AEF848C1A483C21987F5DAF1CACB4F0E
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0330_all_FyoSvn8Rclbv.ozip
+  md5: FCF6973BD0356EEB30FD15370F5B3D17
   region: India
   size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11_A.32
+  version: RMX1941EX_11.A.33
 - changelog: |
     **Security**:
     ● Updated Android security patch: December, 2020 & January, 2021
@@ -1972,18 +1972,18 @@
   version: RMX1821EX_11_C.19
 - changelog: |
     **Keamanan**:
-    ● Tambalan keamanan Android: Januari 2021
+    ● Android Security Patch Tingkat: Februari 2021 & Maret 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1941EX
-  date: 21/01/2021
+  date: 13/03/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
-  md5: AEF848C1A483C21987F5DAF1CACB4F0E
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0330_all_FyoSvn8Rclbv.ozip
+  md5: FCF6973BD0356EEB30FD15370F5B3D17
   region: Indonesia
   size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11_A.32
+  version: RMX1941EX_11.A.33
 - changelog: |
     **Keamanan**:
     ● Tambalan keamanan Android: Januari 2021
@@ -3064,19 +3064,19 @@
   system: realme UI 1.0
   version: RMX1821EX_11_C.19
 - changelog: |
-    **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2021#01)
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2021#2 & 2021#3)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1941EX
-  date: 21/01/2021
+  date: 13/03/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0320_all_dlvYa8SAG98l.ozip
-  md5: AEF848C1A483C21987F5DAF1CACB4F0E
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0330_all_FyoSvn8Rclbv.ozip
+  md5: FCF6973BD0356EEB30FD15370F5B3D17
   region: Vietnam
   size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11_A.32
+  version: RMX1941EX_11.A.33
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#11)

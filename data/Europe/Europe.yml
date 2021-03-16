@@ -33,26 +33,18 @@
   version: RMX2170EU_11_A.30
 - changelog: |
     **Security**:
-    ● Updated Security patch: Dec, 2020
-    **Camera**:
-    ● Optimized the reddish issue in certain scenarios of the rear camera
-    ● Optimized the noise issue of the rear camera
-    ● Optimized the ultra-HD mode quality of the rear camera
-    ● Optimized the issue of low saturation and lack of redness of the front camera
-    ● Optimized the issue of high sharpness and noise of the front camera in certain scenarios
-    **Touch Control**:
-    ● Optimized the touch control algorithm and improved control smoothness
-    **Photos**:
-    ● Fixed certain known issues of the Photos
+    ● Updated Android security patch: Feb, 2021
+    **System**:
+    ● Optimized system performance and improve system stability
   codename: RMX2151EU
-  date: 28/12/2020
+  date: 11/3/2021
   device: realme 7
-  download: https://download.c.realme.com/osupdate/RMX2151EU_11_OTA_0740_all_167crrnRwJNM.ozip
-  md5: 186B6724969D4024C952AB7022E93DCC
+  download: https://download.c.realme.com/osupdate/RMX2151EU_11_OTA_0840_all_2X7eEdsxeXkB.ozip
+  md5: EE5147CEA6DCFE36D061F098F83061A2
   region: Europe
-  size: 3.23GB
+  size: 3.24GB
   system: realme UI 1.0
-  version: RMX2151EU_11.A.74
+  version: RMX2151EU_11.A.84
 - changelog: |
     **System**:
     ● Fix some known issues

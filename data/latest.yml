@@ -568,18 +568,18 @@
   version: RMX2020EU_11.A.52
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: enero 2021
+    ● Parche de seguridad de Android: Febrero 2021 & Marzo 2021
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1931EX
-  date: 03/02/2021
+  date: 15/03/2021
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1350_all_eydXtmNsdigK.ozip
-  md5: 77cda1381b48a9a3be7a8ea0fefedcb0
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1360_all_IJsqowYdUGs3.ozip
+  md5: c2f104d18ff0c6ff6e228a38450f4095
   region: Spain
-  size: 3.06GB
+  size: 3.07GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.35
+  version: RMX1931EX_11.C.36
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: diciembre 2020 # enero 2021
@@ -1859,18 +1859,18 @@
   version: RMX2030EX_11_C.63
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: Januari 2021
+    ● Android Security Patch Tingkat: Februari & Maret 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1931EX
-  date: 03/02/2021
+  date: 15/03/2021
   device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1350_all_eydXtmNsdigK.ozip
-  md5: 77cda1381b48a9a3be7a8ea0fefedcb0
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1360_all_IJsqowYdUGs3.ozip
+  md5: c2f104d18ff0c6ff6e228a38450f4095
   region: Indonesia
-  size: 3.06GB
+  size: 3.07GB
   system: realme UI 1.0
-  version: RMX1931EX_11.C.35
+  version: RMX1931EX_11.C.36
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: Desember 2020 & Januari 2021

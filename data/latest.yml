@@ -1482,27 +1482,19 @@
   version: RMX1901EX_11.C.09
 - changelog: |
     **Security**:
-    ● Updated Android security patch: December, 2020 & January, 2021
-    **Launcher**:
-    ● Added Lock Home screen layout
-    **Screenshot**:
-    ● Added horizontal scrolling screenshot
-    ● Added "Back" button on the screenshot preview interface
-    **Camera**:
-    ● Added a quick start camera icon on the lock screen interface
-    **Settings**:
-    ● Added Multi-User Mode
-    ● Added Super power saving mode
-    ● Added Icon pull-down gesture
+    ● Updated Android security patch: Feb, 2021 & Mar, 2021
+    **System**:
+    ● Optimized system performance
+    ● Improved system stability
   codename: RMX1821EX
-  date: 26/01/2021
+  date: 16/03/2021
   device: realme 3i
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
-  md5: 5B6235085065B15F9B9680722E9C2C01
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1200_all_DVlOW8JUtdWa.ozip
+  md5: E5B6A6A385B9FF55D5277FA0F6128677
   region: India
   size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11_C.19
+  version: RMX1821EX_11.C.20
 - changelog: |
     **Security**:
     ● Updated Android security patch: December, 2020, January, 2021
@@ -1545,27 +1537,19 @@
   version: RMX1941EX_11.A.33
 - changelog: |
     **Security**:
-    ● Updated Android security patch: December, 2020 & January, 2021
-    **Launcher**:
-    ● Added Lock Home screen layout
-    **Screenshot**:
-    ● Added horizontal scrolling screenshot
-    ● Added "Back" button on the screenshot preview interface
-    **Camera**:
-    ● Added a quick start camera icon on the lock screen interface
-    **Settings**:
-    ● Added Multi-User Mode
-    ● Added Super power saving mode
-    ● Added Icon pull-down gesture
+    ● Updated Android security patch: Feb, 2021 & Mar, 2021
+    **System**:
+    ● Optimized system performance
+    ● Improved system stability
   codename: RMX1821EX
-  date: 26/01/2021
+  date: 16/03/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
-  md5: 5B6235085065B15F9B9680722E9C2C01
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1200_all_DVlOW8JUtdWa.ozip
+  md5: E5B6A6A385B9FF55D5277FA0F6128677
   region: India
   size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11_C.19
+  version: RMX1821EX_11.C.20
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec,2020 & Jan,2021

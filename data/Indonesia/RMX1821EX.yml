@@ -1,14 +1,14 @@
 changelog: |
   **Keamanan**:
-  ● Tambalan keamanan Android: Januari 2021
+  ● Android Security Patch Tingkat: Februari & Maret 2021
   **Sistem**:
   ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
 codename: RMX1821EX
-date: 26/01/2021
+date: 16/03/2021
 device: realme 3
-download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
-md5: 5B6235085065B15F9B9680722E9C2C01
+download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1200_all_DVlOW8JUtdWa.ozip
+md5: E5B6A6A385B9FF55D5277FA0F6128677
 region: Indonesia
 size: 2.62GB
 system: realme UI 1.0
-version: RMX1821EX_11_C.19
+version: RMX1821EX_11.C.20

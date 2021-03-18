@@ -56,18 +56,18 @@
   version: RMX2144EU_11.A.20
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: enero 2021
+    ● Parche de seguridad de Android: marzo 2021
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2081EU
-  date: 05/02/2021
+  date: 16/03/2021
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0480_all_yPFR7FZwRhoE.ozip
-  md5: bfb9f4c59d43418003a6f47434bd1b7
+  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0500_all_13dgA7HU6szr.ozip
+  md5: 12ea8c0afa99669bf4c72f39346a2d90
   region: Spain
   size: 3.27GB
   system: realme UI 1.0
-  version: RMX2081EU_11.A.48
+  version: RMX2081EU_11.A.50
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:diciembre de 2020

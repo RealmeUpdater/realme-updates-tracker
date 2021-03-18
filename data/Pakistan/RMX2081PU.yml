@@ -1,20 +1,22 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: Jan, 2021
-  **Bluetooth**:
-  ● Fixed the probabilistic issue that reconnecting the Bluetooth headset during a call caused loud sound
-  **Clone Phone**:
-  ● Fixed the probabilistic issue that data migration failure
-  **Recording**:
-  ● Fixed the probabilistic issue that Recording displays abnormally when the recording file is deleted
+  ● Updated Android security patch: February& March,2021
+  **Application**:
+  ●Added FinShell pay
   **System**:
   ● Optimized system performance and improved system stability
+  **Screenshot**:
+  ● Optimized the crop response time after screenshoting
+  ● Optimized the operating interface in croping screenshot
+  ● Fixed the probabilistic cannot save screenshot issue after editing screenshot
+  **Clock**:
+  ● Fixed the lagging issue when long screenshoting in adding world clock interface
 codename: RMX2081PU
-date: 05/02/2021
+date: 16/03/2021
 device: realme X3 SuperZoom
-download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0490_all_8xdtaWbVYaOz.ozip
-md5: 468adf435b38607c81c52f24fb34e938
+download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0510_all_e7jpQN0e3TYm.ozip
+md5: b727f41d201a9507d7c5d3a0062864d4
 region: Pakistan
-size: 3.58GB
+size: 3.59GB
 system: realme UI 1.0
-version: RMX2081PU_11.A.49
+version: RMX2081PU_11.A.51

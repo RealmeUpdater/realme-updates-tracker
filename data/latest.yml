@@ -460,18 +460,18 @@
   version: RMX2144EU_11.A.20
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: enero 2021
+    ● Parche de seguridad de Android: marzo 2021
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2081EU
-  date: 05/02/2021
+  date: 16/03/2021
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0480_all_yPFR7FZwRhoE.ozip
-  md5: bfb9f4c59d43418003a6f47434bd1b7
+  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0500_all_13dgA7HU6szr.ozip
+  md5: 12ea8c0afa99669bf4c72f39346a2d90
   region: Spain
   size: 3.27GB
   system: realme UI 1.0
-  version: RMX2081EU_11.A.48
+  version: RMX2081EU_11.A.50
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:diciembre de 2020
@@ -1210,24 +1210,26 @@
   version: RMX2081PU_11.A.51
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Jan, 2021
-    **Bluetooth**:
-    ● Fixed the probabilistic issue that reconnecting the Bluetooth headset during a call caused loud sound
-    **Clone Phone**:
-    ● Fixed the probabilistic issue that data migration failure
-    **Recording**:
-    ● Fixed the probabilistic issue that Recording displays abnormally when the recording file is deleted
+    ● Updated Android security patch: February& March,2021
+    **Application**:
+    ● Added FinShell Pay
     **System**:
     ● Optimized system performance and improved system stability
+    **Screenshot**:
+    ● Optimized the crop response time after screenshoting
+    ● Optimized the operating interface in croping screenshot
+    ● Fixed the probabilistic cannot save screenshot issue after editing screenshot
+    **Clock**:
+    ● Fixed the lagging issue when long screenshoting in adding world clock interface
   codename: RMX2081PU
-  date: 05/02/2021
+  date: 16/03/2021
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0490_all_8xdtaWbVYaOz.ozip
-  md5: 468adf435b38607c81c52f24fb34e938
+  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0510_all_e7jpQN0e3TYm.ozip
+  md5: b727f41d201a9507d7c5d3a0062864d4
   region: India
-  size: 3.58GB
+  size: 3.59GB
   system: realme UI 1.0
-  version: RMX2081PU_11.A.49
+  version: RMX2081PU_11.A.51
 - changelog: |
     **Security**:
     ● Updated Android security patch: February, 2021
@@ -1773,18 +1775,18 @@
   version: RMX2185_11_A.85
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: Januari 2021
+    ● Android Security Patch Tingkat: Februari & Maret 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2081PU
-  date: 05/02/2021
+  date: 16/03/2021
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0490_all_8xdtaWbVYaOz.ozip
-  md5: 468adf435b38607c81c52f24fb34e938
+  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0510_all_e7jpQN0e3TYm.ozip
+  md5: b727f41d201a9507d7c5d3a0062864d4
   region: Indonesia
-  size: 3.58GB
+  size: 3.59GB
   system: realme UI 1.0
-  version: RMX2081PU_11.A.49
+  version: RMX2081PU_11.A.51
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: September 2020
@@ -2176,24 +2178,26 @@
   version: RMX2185_11_A.81
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Jan, 2021
-    **Bluetooth**:
-    ● Fixed the probabilistic issue that reconnecting the Bluetooth headset during a call caused loud sound
-    **Clone Phone**:
-    ● Fixed the probabilistic issue that data migration failure
-    **Recording**:
-    ● Fixed the probabilistic issue that Recording displays abnormally when the recording file is deleted
+    ● Updated Android security patch: February& March,2021
+    **Application**:
+    ●Added FinShell pay
     **System**:
     ● Optimized system performance and improved system stability
+    **Screenshot**:
+    ● Optimized the crop response time after screenshoting
+    ● Optimized the operating interface in croping screenshot
+    ● Fixed the probabilistic cannot save screenshot issue after editing screenshot
+    **Clock**:
+    ● Fixed the lagging issue when long screenshoting in adding world clock interface
   codename: RMX2081PU
-  date: 05/02/2021
+  date: 16/03/2021
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0490_all_8xdtaWbVYaOz.ozip
-  md5: 468adf435b38607c81c52f24fb34e938
+  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0510_all_e7jpQN0e3TYm.ozip
+  md5: b727f41d201a9507d7c5d3a0062864d4
   region: Pakistan
-  size: 3.58GB
+  size: 3.59GB
   system: realme UI 1.0
-  version: RMX2081PU_11.A.49
+  version: RMX2081PU_11.A.51
 - changelog: |
     **Fingerprints**:
     ● Fixed the probabilistic issue of unable to identify fingerprints
@@ -2429,18 +2433,18 @@
   version: RMX2061_11.A.45
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: Январь 2021 г.
+    ● Исправление безопасности Android: Люты & Марш 2021
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX2081PU
-  date: 05/02/2021
+  date: 16/03/2021
   device: realme X3 SuperZoom
-  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0490_all_8xdtaWbVYaOz.ozip
-  md5: 468adf435b38607c81c52f24fb34e938
+  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0510_all_e7jpQN0e3TYm.ozip
+  md5: b727f41d201a9507d7c5d3a0062864d4
   region: Russia
-  size: 3.58GB
+  size: 3.59GB
   system: realme UI 1.0
-  version: RMX2081PU_11.A.49
+  version: RMX2081PU_11.A.51
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности ОС Android: ноябрь 2020 г.

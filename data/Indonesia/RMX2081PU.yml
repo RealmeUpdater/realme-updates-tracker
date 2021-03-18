@@ -1,14 +1,14 @@
 changelog: |
   **Keamanan**:
-  ● Tingkat Android Security Patch: Januari 2021
+  ● Android Security Patch Tingkat: Februari & Maret 2021
   **Sistem**:
   ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
 codename: RMX2081PU
-date: 05/02/2021
+date: 16/03/2021
 device: realme X3 SuperZoom
-download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0490_all_8xdtaWbVYaOz.ozip
-md5: 468adf435b38607c81c52f24fb34e938
+download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0510_all_e7jpQN0e3TYm.ozip
+md5: b727f41d201a9507d7c5d3a0062864d4
 region: Indonesia
-size: 3.58GB
+size: 3.59GB
 system: realme UI 1.0
-version: RMX2081PU_11.A.49
+version: RMX2081PU_11.A.51

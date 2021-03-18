@@ -1274,22 +1274,18 @@
   version: RMX2076PU_11.A.41
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Bluetooth**:
-    ● Added a new icon for phone calls with Bluetooth earphone
-    **Camera**:
-    ● Optimized the image quality in some scenarios
+    ● Updated Android security patch: February, 2021
+    **System**:
+    ● Fixed some known issues and improved stability
   codename: RMX2020
-  date: 19/12/2020
+  date: 04/03/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
-  md5: 38AE84FBA5E70D7A25ADA93FF3C01DA7
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0590_all_iEFFRypbb6fP.ozip
+  md5: D30CF7481F4EC449B033202906D0EA2D
   region: India
-  size: 3.03GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2020_11.A.55
+  version: RMX2020_11.A.59
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec, 2020/Jan, 2021

@@ -46,19 +46,20 @@
   system: realme UI 1.0
   version: RMX2151EU_11.A.84
 - changelog: |
+    **Security**:
+    ● Updated Android security patch: February, 2021
     **System**:
     ● Fix some known issues
-    ● Optimized ​​system performance
     ● Optimized ​​system stability
   codename: RMX2185EU
-  date: 27/1/2021
+  date: 15/3/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185EU_11_OTA_0520_all_UO3HT0XIvdkZ.ozip
-  md5: 472E3A290B3A1E48CDB5CE3EEB24CDCB
+  download: https://download.c.realme.com/osupdate/RMX2185EU_11_OTA_0560_all_2BgmXPbpMqN5.ozip
+  md5: 2C468AFF797D1F20D749487799C3891B
   region: Europe
-  size: 2.83GB
+  size: 2.87GB
   system: realme UI 1.0
-  version: RMX2185EU_11_A.52
+  version: RMX2185EU_11_A.56
 - changelog: |
     **Security**:
     ● Android Security Patch: July, 2020

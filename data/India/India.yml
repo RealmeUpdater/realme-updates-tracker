@@ -423,29 +423,22 @@
   version: RMX1971EX_11.C.11
 - changelog: |
     **Security**:
-    ● Updated Android security patch: December, 2020, January, 2021
-    **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Apps**:
-    ● Fixed the issue that two cancel buttons appear when the input box is clicked multiple times in the weather
-    ● Fixed the issue of abnormal system permission acquisition when the radio is turned on
-    **Bluetooth**:
-    ● Fixed the probabilistic issue of failure to open Bluetooth scanning
-    **Photos**:
-    ● Fixed the probabilistic issue that Photos cannot play HDR videos
-    **Alarm**:
-    ● Fixed the probabilistic issue of crashing when entering the alarm details
-    **Networks**:
-    ● Fixed the probabilistic issue that VOLTE be registered
+    ● Updated Android security patch (2021#2 & 2021#3)
+    **System**:
+    ● Optimized system performance and improved system stability
+    **Setting**:
+    ● Optimized the switch logic of Control Center
+    ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
+    ● Fixed the probabilistic voice failure issue in PUBG
   codename: RMX1921EX
-  date: 25/1/2021
+  date: 20/3/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1100_all_880tYw16SmBy.ozip
-  md5: F7D6012199BF2A2A4AC77D0D88BB09D7
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1110_all_uQ6jdfzHMnvi.ozip
+  md5: C1A5467268BE16CAB6A4BA0C49BB0676
   region: India
-  size: 3.26GB
+  size: 3.27GB
   system: realme UI 1.0
-  version: RMX1921EX_11.C.10
+  version: RMX1921EX_11.C.11
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec, 2020/Jan, 2021

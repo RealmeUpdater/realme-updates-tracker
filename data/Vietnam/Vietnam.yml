@@ -84,32 +84,32 @@
   version: RMX2195_11_A.25
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 1 năm 2021
+    ● Cập nhật bản vá bảo mật Android: Tháng 2 năm 2021
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2185
-  date: 18/2/2021
+  date: 15/3/2021
   device: realme C12
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0850_all_7NoWh6WgJDW4.ozip
-  md5: 48112499530A4DBE3ABC1EFA77D2F338
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0870_all_1TbYEnns8MEW.ozip
+  md5: A6333AB177DB1A6321DA1753AFFC0660
   region: Vietnam
   size: 3.18GB
   system: realme UI 1.0
-  version: RMX2185_11_A.85
+  version: RMX2185_11_A.87
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 1 năm 2021
+    ● Cập nhật bản vá bảo mật Android: Tháng 2 năm 2021
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2185
-  date: 18/2/2021
+  date: 15/3/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0850_all_7NoWh6WgJDW4.ozip
-  md5: 48112499530A4DBE3ABC1EFA77D2F338
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0870_all_1TbYEnns8MEW.ozip
+  md5: A6333AB177DB1A6321DA1753AFFC0660
   region: Vietnam
   size: 3.18GB
   system: realme UI 1.0
-  version: RMX2185_11_A.85
+  version: RMX2185_11_A.87
 - changelog: |
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống

@@ -1,14 +1,14 @@
 changelog: |
   **Security**:
-  ● Android security patch: Jan, 2021
+  ● Android security patch: Mar, 2021
   **System**:
   ● Fixed some known issues and improved system stability
 codename: RMX2170PU
-date: 30/1/2021
+date: 20/3/2021
 device: realme 7 Pro
-download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0330_all_gtjL6QJe25sL.ozip
-md5: A8A6F6033B057851D6603156C57395E4
+download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0370_all_hricOIvzNDU1.ozip
+md5: E60C7792BAED45A9E9B00933367B656D
 region: India
 size: 3.83GB
 system: realme UI 1.0
-version: RMX2170PU_11_A.33
+version: RMX2170PU_11_A.37

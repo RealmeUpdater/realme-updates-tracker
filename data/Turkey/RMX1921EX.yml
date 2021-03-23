@@ -1,14 +1,14 @@
 changelog: |
   **Güvenlik**:
-  ● Güncel Android güvenlik yaması (2020#12 &2021#1)
+  ● Güncel Android güvenlik yaması (2021#2 & 2021#3)
   **Sistem**:
   ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
 codename: RMX1921EX
-date: 25/1/2021
+date: 20/3/2021
 device: realme XT
-download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1100_all_880tYw16SmBy.ozip
-md5: F7D6012199BF2A2A4AC77D0D88BB09D7
+download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1110_all_uQ6jdfzHMnvi.ozip
+md5: C1A5467268BE16CAB6A4BA0C49BB0676
 region: Turkey
-size: 3.26GB
+size: 3.27GB
 system: realme UI 1.0
-version: RMX1921EX_11.C.10
+version: RMX1921EX_11.C.11

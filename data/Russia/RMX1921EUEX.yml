@@ -1,14 +1,14 @@
 changelog: |
   **Безопасность**:
-  ● Патчи безопасности Android: Декабрь 2020 & Январь 2021
+  ● Патчи безопасности Android: Февраль & марш 2021
   **Система**:
   ● Исправлено несколько известных ошибок, улучшена стабильность системы
 codename: RMX1921EUEX
-date: 25/1/2021
+date: 20/3/2021
 device: realme XT
-download: https://download.c.realme.com/osupdate/RMX1921EUEX_11_OTA_1090_all_iiKyt0IdtkT4.ozip
-md5: A1254947CB37A29419249F40E3172E48
+download: https://download.c.realme.com/osupdate/RMX1921EUEX_11_OTA_1100_all_xOAgX48v2pXm.ozip
+md5: 6A5BC729A3BD8AC9B3D4A6C4E5B2913F
 region: Russia
-size: 3.25GB
+size: 3.26GB
 system: realme UI 1.0
-version: RMX1921EUEX_11.C.09
+version: RMX1921EUEX_11.C.10

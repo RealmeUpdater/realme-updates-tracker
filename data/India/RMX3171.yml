@@ -1,0 +1,15 @@
+changelog: |
+  **Security**:
+  ● Updated Android security patch: February, 2021
+  **System**:
+  ● Fix some known issues
+  ● Optimized ​​system stability
+codename: RMX3171
+date: 22/3/2021
+device: realme narzo 30A
+download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0130_all_GcDF16601pDe.ozip
+md5: 617D294F0C6AC5253F84C84261006631
+region: India
+size: 3.29GB
+system: realme UI 1.0
+version: RMX3171_11.A.13

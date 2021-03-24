@@ -1,20 +1,15 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch Jan, 2021
-  **Wi-Fi**:
-  ● Fixed probabilistic issue that Wi-Fi cannot be connected
-  **Network**:
-  ● Fixed probabilistic issue that network cannot be used
-  ● Fixed probabilistic issue that clock cannot be synchronized with the network time
+  ● Updated Android security patch: February, 2021
   **System**:
-  ● Optimized ​​system performance
+  ● Fix some known issues
   ● Optimized ​​system stability
 codename: RMX2193
-date: 22/1/2021
+date: 22/3/2021
 device: realme narzo 20
-download: https://download.c.realme.com/osupdate/RMX2191_11_OTA_0250_all_8RIlc1gN2EZ4.ozip
-md5: FCB9F42780AE4AD0808F226CBCDF0902
+download: https://download.c.realme.com/osupdate/RMX2191_11_OTA_0270_all_2fKVYdrRKsWn.ozip
+md5: 25336632286456417FA890BC49D1397E
 region: India
-size: 3.37GB
+size: 3.44GB
 system: realme UI 1.0
-version: RMX2193_11_A.25
+version: RMX2193_11_A.27

@@ -1,5 +1,20 @@
 - changelog: |
     **Security**:
+    ● Updated Android security patch: February, 2021
+    **System**:
+    ● Fix some known issues
+    ● Optimized ​​system stability
+  codename: RMX2191EU
+  date: 22/3/2021
+  device: realme 7i
+  download: https://download.c.realme.com/osupdate/RMX2191EU_11_OTA_0120_all_uFa1QLXqbdXO.ozip
+  md5: F3114DF7FE83B394B52222B51A5B424C
+  region: Europe
+  size: 3.08GB
+  system: realme UI 1.0
+  version: RMX2191EU_11_A.12
+- changelog: |
+    **Security**:
     ● Updated Android security patch: Feb, 2021
     **Wi-Fi**:
     ●Fixed the issue where Wi-Fi automatically turns off when connecting to a hotspot on some devices

@@ -1,17 +1,31 @@
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: November 2020
+    ● Android security patch: （2021#2）
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
-  codename: RMX2193
-  date: 16/12/2020
-  device: realme narzo 20
-  download: https://download.c.realme.com/osupdate/RMX2191_11_OTA_0230_all_ftDqmugMM9Ym.ozip
-  md5: 4BD682B5AA020E2377F4F5D66F0DDD45
+  codename: RMX3171
+  date: 22/3/2021
+  device: realme narzo 30A
+  download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0130_all_GcDF16601pDe.ozip
+  md5: 617D294F0C6AC5253F84C84261006631
   region: Indonesia
-  size: 3.38GB
+  size: 3.29GB
   system: realme UI 1.0
-  version: RMX2193_11_A.23
+  version: RMX3171_11.A.13
+- changelog: |
+    **Keamanan**:
+    ● Android security patch: （2021#2）
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2191
+  date: 22/3/2021
+  device: realme narzo 20
+  download: https://download.c.realme.com/osupdate/RMX2191_11_OTA_0270_all_2fKVYdrRKsWn.ozip
+  md5: 25336632286456417FA890BC49D1397E
+  region: Indonesia
+  size: 3.44GB
+  system: realme UI 1.0
+  version: RMX2191_11_A.27
 - changelog: |
     **Keamanan**:
     ● Android security patch: (2021#01)

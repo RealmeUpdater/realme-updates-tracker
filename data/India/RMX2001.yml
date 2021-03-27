@@ -1,22 +1,13 @@
 changelog: |
-  **Security**:
-  ● Android security patch: February, 2021
-  **Alarm**:
-  ● Fixed the probabilistic crash when tapping More on the alarm editing page
-  **Settings**:
-  ● Optimized the settings of mobile data limit
-  ● Optimized the probabilistic fail to adjust the volume after using earphones for a long time
-  ● Optimized the probabilistic issue when searching in Settings
-  ● Fixed the extra spliting line between Display size and Screen display in Display & brightness settings
   **System**:
-  ● Optimized the system performance
-  ● Optimized the system stability
+  ● Optimized system performance
+  ● Optimized system stability
 codename: RMX2001
-date: 25/02/2021
+date: 22/03/2021
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0570_all_FWu6sjmSi73e.ozip
-md5: 358450FB8D0A32012FA0203CF2AA964C
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0590_all_FilbDeoLX0ch.ozip
+md5: AFC2EDF875D6A8F043774102E11C8195
 region: India
 size: 3.32GB
 system: realme UI 1.0
-version: RMX2001_11.B.57
+version: RMX2001_11.B.59

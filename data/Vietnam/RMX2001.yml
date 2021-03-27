@@ -1,14 +1,12 @@
 changelog: |
-  **Bảo mật**:
-  ● Cập nhật bản vá bảo mật Android: Tháng 12 năm 2020
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
 codename: RMX2001
-date: 18/12/2020
+date: 22/03/2021
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0530_all_O8r4mG5RmLFG.ozip
-md5: 53EB904F387D18003AC601919D02E1FC
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0590_all_FilbDeoLX0ch.ozip
+md5: AFC2EDF875D6A8F043774102E11C8195
 region: Vietnam
-size: 3.19GB
+size: 3.32GB
 system: realme UI 1.0
-version: RMX2001_11.B.53
+version: RMX2001_11.B.59

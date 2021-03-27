@@ -153,6 +153,18 @@
   system: realme UI 1.0
   version: RMX2081PU_11.A.51
 - changelog: |
+    **Sistem**:
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2001
+  date: 22/03/2021
+  device: realme Narzo
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0590_all_FilbDeoLX0ch.ozip
+  md5: AFC2EDF875D6A8F043774102E11C8195
+  region: Indonesia
+  size: 3.32GB
+  system: realme UI 1.0
+  version: RMX2001_11.B.59
+- changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: September 2020
     **Sistem**:
@@ -178,6 +190,18 @@
   size: 3.63GB
   system: realme UI 1.0
   version: RMX2061_11.A.45
+- changelog: |
+    **Sistem**:
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX2001
+  date: 22/03/2021
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0590_all_FilbDeoLX0ch.ozip
+  md5: AFC2EDF875D6A8F043774102E11C8195
+  region: Indonesia
+  size: 3.32GB
+  system: realme UI 1.0
+  version: RMX2001_11.B.59
 - changelog: |
     **Keamanan**:
     ● Android security patch: Februari 2021

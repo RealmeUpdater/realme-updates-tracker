@@ -309,6 +309,32 @@
   system: realmeUI 1.0
   version: RMX2076PU_11.A.41
 - changelog: |
+    **System**:
+    ● Optimized system performance
+    ● Optimized system stability
+  codename: RMX2001
+  date: 22/03/2021
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0590_all_FilbDeoLX0ch.ozip
+  md5: AFC2EDF875D6A8F043774102E11C8195
+  region: India
+  size: 3.32GB
+  system: realme UI 1.0
+  version: RMX2001_11.B.59
+- changelog: |
+    **System**:
+    ● Optimized system performance
+    ● Optimized system stability
+  codename: RMX2001
+  date: 22/03/2021
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0590_all_FilbDeoLX0ch.ozip
+  md5: AFC2EDF875D6A8F043774102E11C8195
+  region: India
+  size: 3.32GB
+  system: realme UI 1.0
+  version: RMX2001_11.B.59
+- changelog: |
     **Security**:
     ● Updated Android security patch: February, 2021
     **System**:

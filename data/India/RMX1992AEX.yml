@@ -1,23 +1,17 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: Dec, 2020/Jan, 2021
-  **Bluetooth**:
-  ● Added a new icon for phone calls when Bluetooth earphone is connected
-  ● Fixed the probabilistic scanning failure when turning on Bluetooth
-  **Unlock**:
-  ● Optimized the experience when using the combination of fingerprint and face to unlock
-  **Photos**:
-  ● Fixed the probabilistic issue that HDR videos fail to play in Photos
-  **Alarm**:
-  ● Fixed the probabilistic crashing issue when entering the alarm details page
-  **Weather**:
-  ● Fixed the probabilistic display error of the cancel button when the input box is clicked multiple times in Weather
+  ● Updated Android security patch ( 2021#2&2021#3 )
+  **System**:
+  ● Optimized system performance and improved system stability
+  **Setting**:
+  ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
+  ● Fixed the probabilistic face enrollment failure issue
 codename: RMX1992AEX
-date: 30/1/2021
+date: 26/03/2021
 device: realme X2
-download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1160_all_atLCea2NItQD.ozip
-md5: 237A104B022170290F65309CF5A40D89
+download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1170_all_OY5UkzsUcWUE.ozip
+md5: 3BA830BF10B6390D8B9581B2A15074B0
 region: India
 size: 3.13GB
 system: realme UI 1.0
-version: RMX1992AEX_11.C.16
+version: RMX1992AEX_11.C.17

@@ -568,18 +568,18 @@
   version: RMX1931EX_11.C.36
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: diciembre 2020 # enero 2021
+    ● Parche de seguridad de Android: Febrero 2021 & Marzo 2021
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1971EX
-  date: 25/1/2021
+  date: 24/3/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1110_all_LeFsBKpJi9Wh.ozip
-  md5: 16290E3C55D450782663E4D57C8C9599
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1120_all_s0mRvUGlCJAI.ozip
+  md5: DD60DC2196B16EC4A2A3F1632D50A43A
   region: Spain
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.11
+  version: RMX1971EX_11_C.12
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: diciembre 2020 & enero 2021
@@ -596,18 +596,18 @@
   version: RMX1911EU_11_C.58
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android(2021#1)
+    ● Parche de seguridad de Android: Febrero 2021 & Marzo 2021
     **Sistema**:
-    ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1993EX
-  date: 30/01/2021
+  date: 26/03/2021
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1120_all_cfuJQOMyUjeK.ozip
-  md5: D41D721FE6467D3BA27BB7ED102EAD75
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1130_all_bkx2RgeBddLV.ozip
+  md5: 540F33D11F48944689AFF8518A0DA75C
   region: Spain
   size: 3.14GB
   system: realme UI 1.0
-  version: RMX1993EX_11.C.12
+  version: RMX1993EX_11.C.13
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: Febrero 2021 & Marzo 2021
@@ -880,29 +880,22 @@
   version: RMX1931EX_11.C.32
 - changelog: |
     **Security**:
-    ● Updated Android security patch: December, 2020, January, 2021
+    ● Updated Android security patch: Feb, Mar, 2021
     **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Apps**:
-    ● Fixed the issue that two cancel buttons appear when the input box is clicked multiple times in the weather
-    ● Fixed the issue of abnormal system permission acquisition when the radio is turned on
-    **Bluetooth**:
-    ● Fixed the probabilistic issue of failure to open Bluetooth scanning
-    **Photos**:
-    ● Fixed the probabilistic issue that Photos cannot play HDR videos
-    **Alarm**:
-    ● Fixed the probabilistic issue of crashing when entering the alarm details
-    **Networks**:
-    ● Fixed the probabilistic issue that VOLTE be registered
+    ● Optimized the control center switch logic
+    ● Fixed the probabilistic issue that the phone ring tone is restored to the default ring tone
+    ● Fixed the probabilistic voice failure issue in PUBG
+    **System**:
+    ● Optimized system performance and improve system stability
   codename: RMX1971EX
-  date: 25/1/2021
+  date: 24/3/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1110_all_LeFsBKpJi9Wh.ozip
-  md5: 16290E3C55D450782663E4D57C8C9599
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1120_all_s0mRvUGlCJAI.ozip
+  md5: DD60DC2196B16EC4A2A3F1632D50A43A
   region: Europe
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.11
+  version: RMX1971EX_11_C.12
 - changelog: |
     **Security**:
     ● Android Security Patch: September and October , 2020
@@ -919,28 +912,21 @@
   version: RMX1911EU_11.C.52
 - changelog: |
     **Security**:
-    ● Updated Android security patch: September, 2020
-    **Settings**:
-    ● Optimized the user experience of Wi-Fi settings
-    **Notifications & status bar**:
-    ● Fixed the probabilistic issue of unable to redirect after clicking the notifications in the notification drawer
-    ● Fixed the flickering icons on the status bar
-    **Lockscreen**:
-    ● Fixed the probabilistic screen flicker when waking the screen
-    **Camera**:
-    ● Fixed the probabilistic image distortion of camera preview
+    ● Updated Android security patch ( 2021#2&2021#3 )
     **System**:
-    ● Fixed the probabilistic issues that icons are not displayed and cannot swipe between screens in some scenarios
-    ● Fixed the probabilistic lagging issue while entering the recent tasks
+    ● Optimized system performance and improved system stability
+    **Setting**:
+    ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
+    ● Fixed the probabilistic face enrollment failure issue
   codename: RMX1993EX
-  date: 27/9/2020
+  date: 26/03/2021
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1080_all_Gr2IwxeFFRaQ.ozip
-  md5: 765A8F45E665A8CCDB297A1DE7B8695A
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1130_all_bkx2RgeBddLV.ozip
+  md5: 540F33D11F48944689AFF8518A0DA75C
   region: Europe
-  size: 3.08GB
+  size: 3.14GB
   system: realme UI 1.0
-  version: RMX1993EX_11.C.08
+  version: RMX1993EX_11.C.13
 - changelog: |
     **Security**:
     ● Android security patch: July, 2020
@@ -1305,50 +1291,38 @@
   version: RMX2030EX_11_C.63
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Dec, 2020/Jan, 2021
-    **Bluetooth**:
-    ● Added a new icon for phone calls when Bluetooth earphone is connected
-    ● Fixed the probabilistic scanning failure when turning on Bluetooth
-    **Unlock**:
-    ● Optimized the experience when using the combination of fingerprint and face to unlock
-    **Photos**:
-    ● Fixed the probabilistic issue that HDR videos fail to play in Photos
-    **Alarm**:
-    ● Fixed the probabilistic crashing issue when entering the alarm details page
-    **Weather**:
-    ● Fixed the probabilistic display error of the cancel button when the input box is clicked multiple times in Weather
+    ● Updated Android security patch ( 2021#2&2021#3 )
+    **System**:
+    ● Optimized system performance and improved system stability
+    **Setting**:
+    ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
+    ● Fixed the probabilistic face enrollment failure issue
   codename: RMX1992EX
-  date: 30/1/2021
+  date: 26/03//2021
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1160_all_AfF6ZNzdzdka.ozip
-  md5: B415A03C162822D54EFDB53045437470
-  region: India
-  size: 3.14GB
-  system: realme UI 1.0
-  version: RMX1992EX_11.C.16
-- changelog: |
-    **Security**:
-    ● Updated Android security patch: Dec, 2020/Jan, 2021
-    **Bluetooth**:
-    ● Added a new icon for phone calls when Bluetooth earphone is connected
-    ● Fixed the probabilistic scanning failure when turning on Bluetooth
-    **Unlock**:
-    ● Optimized the experience when using the combination of fingerprint and face to unlock
-    **Photos**:
-    ● Fixed the probabilistic issue that HDR videos fail to play in Photos
-    **Alarm**:
-    ● Fixed the probabilistic crashing issue when entering the alarm details page
-    **Weather**:
-    ● Fixed the probabilistic display error of the cancel button when the input box is clicked multiple times in Weather
-  codename: RMX1992AEX
-  date: 30/1/2021
-  device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1160_all_atLCea2NItQD.ozip
-  md5: 237A104B022170290F65309CF5A40D89
+  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1170_all_MGU54tG8UcAp.ozip
+  md5: 19C6451CB322144D3AD1C84FC8752F73
   region: India
   size: 3.13GB
   system: realme UI 1.0
-  version: RMX1992AEX_11.C.16
+  version: RMX1992EX_11.C.17
+- changelog: |
+    **Security**:
+    ● Updated Android security patch ( 2021#2&2021#3 )
+    **System**:
+    ● Optimized system performance and improved system stability
+    **Setting**:
+    ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
+    ● Fixed the probabilistic face enrollment failure issue
+  codename: RMX1992AEX
+  date: 26/03/2021
+  device: realme X2
+  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1170_all_OY5UkzsUcWUE.ozip
+  md5: 3BA830BF10B6390D8B9581B2A15074B0
+  region: India
+  size: 3.13GB
+  system: realme UI 1.0
+  version: RMX1992AEX_11.C.17
 - changelog: |
     **Security**:
     ● Updated Android security patch: Feb, Mar, 2021
@@ -1855,18 +1829,18 @@
   version: RMX1921EX_11.C.11
 - changelog: |
     **Keamanan**:
-    ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
+    ● Android Security Patch Tingkat: Februari & Maret 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1971EX
-  date: 25/1/2021
+  date: 24/3/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1110_all_LeFsBKpJi9Wh.ozip
-  md5: 16290E3C55D450782663E4D57C8C9599
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1120_all_s0mRvUGlCJAI.ozip
+  md5: DD60DC2196B16EC4A2A3F1632D50A43A
   region: Indonesia
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.11
+  version: RMX1971EX_11_C.12
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: Desember 2020 & Januari 2021
@@ -2273,29 +2247,22 @@
   version: RMX1921EX_11.C.11
 - changelog: |
     **Security**:
-    ● Updated Android security patch: December, 2020, January, 2021
+    ● Updated Android security patch: Feb, Mar, 2021
     **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Apps**:
-    ● Fixed the issue that two cancel buttons appear when the input box is clicked multiple times in the weather
-    ● Fixed the issue of abnormal system permission acquisition when the radio is turned on
-    **Bluetooth**:
-    ● Fixed the probabilistic issue of failure to open Bluetooth scanning
-    **Photos**:
-    ● Fixed the probabilistic issue that Photos cannot play HDR videos
-    **Alarm**:
-    ● Fixed the probabilistic issue of crashing when entering the alarm details
-    **Networks**:
-    ● Fixed the probabilistic issue that VOLTE be registered
+    ● Optimized the control center switch logic
+    ● Fixed the probabilistic issue that the phone ring tone is restored to the default ring tone
+    ● Fixed the probabilistic voice failure issue in PUBG
+    **System**:
+    ● Optimized system performance and improve system stability
   codename: RMX1971EX
-  date: 25/1/2021
+  date: 24/3/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1110_all_LeFsBKpJi9Wh.ozip
-  md5: 16290E3C55D450782663E4D57C8C9599
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1120_all_s0mRvUGlCJAI.ozip
+  md5: DD60DC2196B16EC4A2A3F1632D50A43A
   region: Pakistan
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.11
+  version: RMX1971EX_11_C.12
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec, 2020/Jan, 2021
@@ -2555,18 +2522,18 @@
   version: RMX1921EUEX_11.C.10
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: Декабрь 2020 & Январь 2021
+    ● Патчи безопасности Android: Февраль & марш 2021
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы
   codename: RMX1971EX
-  date: 25/1/2021
+  date: 24/3/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1110_all_LeFsBKpJi9Wh.ozip
-  md5: 16290E3C55D450782663E4D57C8C9599
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1120_all_s0mRvUGlCJAI.ozip
+  md5: DD60DC2196B16EC4A2A3F1632D50A43A
   region: Russia
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.11
+  version: RMX1971EX_11_C.12
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android: Декабрь 2020 # Январь 2021
@@ -2721,18 +2688,18 @@
   version: RMX2001EU_11.A.48
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2020#12 & 2021#1)
+    ● Güncel Android güvenlik yaması (2021#2 & 2021#3)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX1971EX
-  date: 25/1/2021
+  date: 24/3/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1110_all_LeFsBKpJi9Wh.ozip
-  md5: 16290E3C55D450782663E4D57C8C9599
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1120_all_s0mRvUGlCJAI.ozip
+  md5: DD60DC2196B16EC4A2A3F1632D50A43A
   region: Turkey
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.11
+  version: RMX1971EX_11_C.12
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#2 & 2021#3)
@@ -2985,18 +2952,18 @@
   version: RMX1921EX_11.C.11
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2020#12 & 2021#1)
+    ● Cập nhật bản vá bảo mật Android: (2021#2 & 2021#3)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1971EX
-  date: 25/1/2021
+  date: 24/3/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1110_all_LeFsBKpJi9Wh.ozip
-  md5: 16290E3C55D450782663E4D57C8C9599
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1120_all_s0mRvUGlCJAI.ozip
+  md5: DD60DC2196B16EC4A2A3F1632D50A43A
   region: Vietnam
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.11
+  version: RMX1971EX_11_C.12
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#12 & 2021#1)

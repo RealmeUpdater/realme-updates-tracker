@@ -1,24 +1,17 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: September, 2020
-  **Settings**:
-  ● Optimized the user experience of Wi-Fi settings
-  **Notifications & status bar**:
-  ● Fixed the probabilistic issue of unable to redirect after clicking the notifications in the notification drawer
-  ● Fixed the flickering icons on the status bar
-  **Lockscreen**:
-  ● Fixed the probabilistic screen flicker when waking the screen
-  **Camera**:
-  ● Fixed the probabilistic image distortion of camera preview
+  ● Updated Android security patch ( 2021#2&2021#3 )
   **System**:
-  ● Fixed the probabilistic issues that icons are not displayed and cannot swipe between screens in some scenarios
-  ● Fixed the probabilistic lagging issue while entering the recent tasks
+  ● Optimized system performance and improved system stability
+  **Setting**:
+  ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
+  ● Fixed the probabilistic face enrollment failure issue
 codename: RMX1993EX
-date: 27/9/2020
+date: 26/03/2021
 device: realme X2
-download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1080_all_Gr2IwxeFFRaQ.ozip
-md5: 765A8F45E665A8CCDB297A1DE7B8695A
+download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1130_all_bkx2RgeBddLV.ozip
+md5: 540F33D11F48944689AFF8518A0DA75C
 region: Europe
-size: 3.08GB
+size: 3.14GB
 system: realme UI 1.0
-version: RMX1993EX_11.C.08
+version: RMX1993EX_11.C.13

@@ -194,29 +194,22 @@
   version: RMX1921EX_11.C.11
 - changelog: |
     **Security**:
-    ● Updated Android security patch: December, 2020, January, 2021
+    ● Updated Android security patch: Feb, Mar, 2021
     **Settings**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
-    **Apps**:
-    ● Fixed the issue that two cancel buttons appear when the input box is clicked multiple times in the weather
-    ● Fixed the issue of abnormal system permission acquisition when the radio is turned on
-    **Bluetooth**:
-    ● Fixed the probabilistic issue of failure to open Bluetooth scanning
-    **Photos**:
-    ● Fixed the probabilistic issue that Photos cannot play HDR videos
-    **Alarm**:
-    ● Fixed the probabilistic issue of crashing when entering the alarm details
-    **Networks**:
-    ● Fixed the probabilistic issue that VOLTE be registered
+    ● Optimized the control center switch logic
+    ● Fixed the probabilistic issue that the phone ring tone is restored to the default ring tone
+    ● Fixed the probabilistic voice failure issue in PUBG
+    **System**:
+    ● Optimized system performance and improve system stability
   codename: RMX1971EX
-  date: 25/1/2021
+  date: 24/3/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1110_all_LeFsBKpJi9Wh.ozip
-  md5: 16290E3C55D450782663E4D57C8C9599
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1120_all_s0mRvUGlCJAI.ozip
+  md5: DD60DC2196B16EC4A2A3F1632D50A43A
   region: Pakistan
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.11
+  version: RMX1971EX_11_C.12
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec, 2020/Jan, 2021

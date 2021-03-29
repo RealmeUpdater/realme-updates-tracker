@@ -1,14 +1,14 @@
 changelog: |
   **Bảo mật**:
-  ● Cập nhật bản vá bảo mật Android: (2020#12 & 2021#1)
+  ● Cập nhật bản vá bảo mật Android: (2021#2 & 2021#3)
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
 codename: RMX2030EX
-date: 24/01/2021
+date: 27/03/2021
 device: realme 5i
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
-md5: 04215D2E3F2F1621AB8A8713BC9E7451
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1670_all_pgX46rutBH1c.ozip
+md5: 18C92A93AA2625003C3566CE444D1176
 region: Vietnam
 size: 2.99GB
 system: realme UI 1.0
-version: RMX2030EX_11_C.63
+version: RMX2030EX_11_C.67

@@ -350,20 +350,19 @@
   version: RMX2020_11.A.59
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Dec, 2020/Jan, 2021
-    **Camera**:
-    ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
-    **Tools**:
-    ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
+    ● Updated Android security patch: February & March, 2021
+    **System**:
+    ● Optimized system performance
+    ● Improved system stability
   codename: RMX2030EX
-  date: 24/01/2021
+  date: 27/03/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
-  md5: 04215D2E3F2F1621AB8A8713BC9E7451
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1670_all_pgX46rutBH1c.ozip
+  md5: 18C92A93AA2625003C3566CE444D1176
   region: India
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX2030EX_11_C.63
+  version: RMX2030EX_11_C.67
 - changelog: |
     **Security**:
     ● Updated Android security patch ( 2021#2&2021#3 )
@@ -458,36 +457,34 @@
   version: RMX1921EX_11.C.11
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Dec, 2020/Jan, 2021
-    **Camera**:
-    ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
-    **Tools**:
-    ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
+    ● Updated Android security patch: February & March, 2021
+    **System**:
+    ● Optimized system performance
+    ● Improved system stability
   codename: RMX1911EX
-  date: 24/01/2021
+  date: 27/03/2021
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
-  md5: 04215D2E3F2F1621AB8A8713BC9E7451
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1670_all_pgX46rutBH1c.ozip
+  md5: 18C92A93AA2625003C3566CE444D1176
   region: India
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.63
+  version: RMX1911EX_11_C.67
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Dec, 2020/Jan, 2021
-    **Camera**:
-    ● Fixed the probabilistic issue that when taking a photo, then enters the album to check the content, and the content disappears after a flash
-    **Tools**:
-    ● Fixed the probabilistic issue that after renaming the recording file in the recording list, the list may appear a splash screen
+    ● Updated Android security patch: February & March, 2021
+    **System**:
+    ● Optimized system performance
+    ● Improved system stability
   codename: RMX1911EX
-  date: 24/01/2021
+  date: 27/03/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1630_all_DUetHF8tTlf8.ozip
-  md5: 04215D2E3F2F1621AB8A8713BC9E7451
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1670_all_pgX46rutBH1c.ozip
+  md5: 18C92A93AA2625003C3566CE444D1176
   region: India
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.63
+  version: RMX1911EX_11_C.67
 - changelog: |
     **Security**:
     ● Updated Android security patch (February & March 2021)

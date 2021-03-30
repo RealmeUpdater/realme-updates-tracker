@@ -1,19 +1,14 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: Feb, 2021
-  **Wi-Fi**:
-  ●Fixed the issue where Wi-Fi automatically turns off when connecting to a hotspot on some devices
-  **Screenshot**:
-  ● Added image crop feature
-  ● Optimized the screenshot fluency on Add Clock page
+  ● Updated Android security patch: March, 2021
   **System**:
   ● Fixed some known issues and improved stability
 codename: RMX2111EU
-date: 1/3/2021
+date: 24/3/2021
 device: realme 7 5G
-download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0280_all_3Le9KntvYZRD.ozip
-md5: 21112A76917B55DA98907E456ADB7522
+download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0300_all_E4QQ1Efs5fDf.ozip
+md5: 2082E63B4B26CD1C0676320A84A44793
 region: Europe
-size: 3.04GB
+size: 3.05GB
 system: realme UI 1.0
-version: RMX2111EU_11.A.28
+version: RMX2111EU_11_A.30

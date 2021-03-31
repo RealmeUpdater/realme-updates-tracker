@@ -1,17 +1,22 @@
 changelog: |
-  **截屏**:
-  ● 优化 截屏后裁剪时响应速度
-  ● 优化 截屏裁剪的操作界面
-  **设置**:
-  ● 修复 加密应用后概率性无法切换到其他应用的问题
+  **系统**:
+  ● 优化系统性能，提升系统稳定性
+  **锁屏**:
+  ● 修复 息屏滑动解锁时低概率卡顿的问题
+  **桌面**:
+  ● 修复 桌面进入近期任务时极地概率卡顿的问题
+  **文件管理**:
+  ● 修复 部分文件管理界面滑动到底端时低概率闪屏问题
+  ● 修复 文件管理最近视图界面下拉刷新时低概率卡顿问题
+  ● 修复 文件管理中有大量文件快速选取时低概率卡顿的问题
   **安全**:
-  ● 更新 Android安全补丁（2021#2）
+  ● 更新 Android安全补丁（2021#3）
 codename: RMX2175
-date: 01/03/2021
+date: 30/03/2021
 device: realme  X7 5G
-download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0280_all_RMRlq5YBvV83.ozip
-md5: 23DE2D4A428A2F848D75D4C21DC6AFE1
+download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0300_all_0YpvQBcIJAnp.ozip
+md5: 550CC578AD61C3C9D6299DDC9219904E
 region: China
 size: 3.08GB
 system: realme UI 1.0
-version: RMX2175_11.A.28
+version: RMX2175_11.A.30

@@ -41,7 +41,7 @@ RMX2101PU: realme C17
 RMX2103PU: realme 7i
 RMX2111: realme Q2 5G/realme  V5 5G
 RMX2111EU: realme 7 5G
-RMX2111PU: realme narzo 30 Pro 5G
+RMX2117: realme narzo 30 Pro 5G
 RMX2121: realme  X7 Pro 5G
 RMX2141: realme X50m 5G
 RMX2144EU: realme X50
@@ -50,7 +50,6 @@ RMX2151PU: realme narzo 20 Pro/realme 7
 RMX2170EU: realme 7 Pro
 RMX2170PU: realme 7 Pro
 RMX2175: realme Q2 Pro 5G/realme  X7 5G
-RMX2176PU: realme X7 5G
 RMX2185: realme C15/realme C12/realme C11
 RMX2185EU: realme C11
 RMX2191: realme narzo 20
@@ -60,5 +59,5 @@ RMX2195: realme C15 Qualcomm Edition
 RMX2195PU: realme C15 Qualcomm Edition
 RMX2200: realme Q2i 5G/realme V3 5G
 RMX3061: realme C20
-RMX3092: realme V15 5G
+RMX3092: realme V15 5G/realme X7 5G
 RMX3171: realme narzo 30A

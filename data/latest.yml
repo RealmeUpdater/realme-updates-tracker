@@ -1006,7 +1006,7 @@
     ● Optimized the screenshot fluency on Add Clock page
     **System**:
     ● Optimized the system stability
-  codename: RMX2111PU
+  codename: RMX2117
   date: 26/2/2021
   device: realme narzo 30 Pro 5G
   download: https://download.c.realme.com/osupdate/RMX2111PU_11_OTA_0290_all_wYErCgG5XdGt.ozip
@@ -1014,7 +1014,7 @@
   region: India
   size: 3.37GB
   system: realme UI 1.0
-  version: RMX2111PU_11.A.29
+  version: RMX2117_11.A.29
 - changelog: |
     **Security**:
     ● Updated Android security patch: February, 2021
@@ -1040,7 +1040,7 @@
     **System**:
     ● Optimized the lagging issue when opening Recent Apps from Home
     ● Optimized the system stability
-  codename: RMX2176PU
+  codename: RMX3092
   date: 26/3/2021
   device: realme X7 5G
   download: https://download.c.realme.com/osupdate/RMX2176PU_11_OTA_0160_all_Os0bxBquTuUE.ozip
@@ -1048,7 +1048,7 @@
   region: India
   size: 3.43GB
   system: realme UI 1.0
-  version: RMX2176PU_11.A.16
+  version: RMX3092_11.A.16
 - changelog: |
     **Security**:
     ● Updated Android security patch: Nov&Dec, 2020

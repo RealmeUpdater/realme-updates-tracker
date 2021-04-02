@@ -1116,21 +1116,6 @@
   system: realme UI 1.0
   version: RMX2151PU_11.A.87
 - changelog: |
-    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
-    **Security**:
-    ● Android security patch: Mar, 2021
-    **System**:
-    ● Fixed some known issues and improved system stability
-  codename: RMX2170PU
-  date: 20/3/2021
-  device: realme 7 Pro
-  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0370_all_hricOIvzNDU1.ozip
-  md5: E60C7792BAED45A9E9B00933367B656D
-  region: India
-  size: 3.83GB
-  system: realme UI 1.0
-  version: RMX2170PU_11_A.37
-- changelog: |
     **Security**:
     ● Updated Android security patch: February, 2021
     **System**:

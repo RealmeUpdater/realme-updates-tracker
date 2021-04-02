@@ -1042,6 +1042,7 @@
   system: realme UI 1.0
   version: RMX3092_11.A.16
 - changelog: |
+    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
     ● Updated Android security patch: Nov&Dec, 2020
     **System**:
@@ -1115,6 +1116,7 @@
   system: realme UI 1.0
   version: RMX2151PU_11.A.87
 - changelog: |
+    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
     ● Android security patch: Mar, 2021
     **System**:
@@ -1189,6 +1191,7 @@
   system: realme UI 1.0
   version: RMX2185_11_A.87
 - changelog: |
+    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Fingerprints**:
     ● Fixed the probabilistic issue of unable to identify fingerprints
   codename: RMX2061
@@ -1201,6 +1204,7 @@
   system: realme UI 1.0
   version: RMX2061_11.A.45
 - changelog: |
+    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
     ● Updated Android security patch: February& March,2021
     **Application**:
@@ -1223,6 +1227,7 @@
   system: realme UI 1.0
   version: RMX2081PU_11.A.51
 - changelog: |
+    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
     ● Updated Android security patch: February& March,2021
     **Application**:
@@ -1273,6 +1278,7 @@
   system: realme UI 1.0
   version: RMX2040_11.A.41
 - changelog: |
+    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
     ● Updated Android security patch: Nov, 2020
     **Flashlight**:
@@ -1346,6 +1352,7 @@
   system: realme UI 1.0
   version: RMX2030EX_11_C.67
 - changelog: |
+    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
     ● Updated Android security patch ( 2021#2&2021#3 )
     **System**:
@@ -1363,6 +1370,7 @@
   system: realme UI 1.0
   version: RMX1992EX_11.C.17
 - changelog: |
+    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
     ● Updated Android security patch ( 2021#2&2021#3 )
     **System**:
@@ -1380,6 +1388,7 @@
   system: realme UI 1.0
   version: RMX1992AEX_11.C.17
 - changelog: |
+    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
     ● Updated Android security patch: Feb, Mar, 2021
     **Application**:

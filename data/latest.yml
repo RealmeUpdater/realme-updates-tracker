@@ -1210,29 +1210,6 @@
     **Security**:
     ● Updated Android security patch: February& March,2021
     **Application**:
-    ●Added FinShell pay
-    **System**:
-    ● Optimized system performance and improved system stability
-    **Screenshot**:
-    ● Optimized the crop response time after screenshoting
-    ● Optimized the operating interface in croping screenshot
-    ● Fixed the probabilistic cannot save screenshot issue after editing screenshot
-    **Clock**:
-    ● Fixed the lagging issue when long screenshoting in adding world clock interface
-  codename: RMX2081PU
-  date: 16/03/2021
-  device: realme X3
-  download: https://download.c.realme.com/osupdate/RMX2081PU_11_OTA_0510_all_e7jpQN0e3TYm.ozip
-  md5: b727f41d201a9507d7c5d3a0062864d4
-  region: India
-  size: 3.59GB
-  system: realme UI 1.0
-  version: RMX2081PU_11.A.51
-- changelog: |
-    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
-    **Security**:
-    ● Updated Android security patch: February& March,2021
-    **Application**:
     ● Added FinShell Pay
     **System**:
     ● Optimized system performance and improved system stability

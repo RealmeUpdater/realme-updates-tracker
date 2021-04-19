@@ -412,39 +412,37 @@
 - changelog: |
     **系统**:
     ● 优化 系统性能，提升系统稳定性
-    **设置**:
-    ● 优化 控制中心开关逻辑
-    ● 修复 电话铃音低概率恢复默认铃音的问题
-    **暗色模式**:
-    ● 修复 部分场景下低概率闪屏的问题
+    ● 优化 部分场景短信号码识别正确率
+    **应用**:
+    ● 修复 使用云服务系统返回功能时网络声明弹框消失的问题
     **安全**:
-    ● 更新Android安全补丁（2021#1/2021#2）
+    ● 更新 Android安全补丁（2021#3&2021#4）
   codename: RMX1901
-  date: 16/02/2021
+  date: 16/04/2021
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_1180_all_FdkOyfLcZGlo.ozip
-  md5: 2B8826511FD5FBD10D054FAE5B10FC4B
+  download: https://download.c.realme.com/osupdate/RMX1901_11_OTA_1190_all_EyyIUd8KYxPI.ozip
+  md5: 7D44E638FCF74D32498F0A917D9355EC
   region: China
-  size: 3.11GB
+  size: 3.10GB
   system: realme UI 1.0
-  version: RMX1901_11.C.18
+  version: RMX1901_11.C.19
 - changelog: |
     **系统**:
     ● 优化 系统性能，提升系统稳定性
-    **设置**:
-    ● 优化 控制中心开关逻辑
-    ● 修复 电话铃音低概率恢复默认铃音的问题
+    ● 优化 部分场景短信号码识别正确率
+    **应用**:
+    ● 修复 使用云服务系统返回功能时网络声明弹框消失的问题
     **安全**:
-    ● 更新Android安全补丁（2021#1/2021#2）
+    ● 更新 Android安全补丁（2021#3&2021#4）
   codename: RMX1851
-  date: 25/02/2021
+  date: 15/04/2021
   device: realme X青春版
-  download: https://download.c.realme.com/osupdate/RMX1851_11_OTA_1120_all_wloHLd7c8w5w.ozip
-  md5: 879B464E418AF41FE48D1838DFE562C3
+  download: https://download.c.realme.com/osupdate/RMX1851_11_OTA_1130_all_iuygSyEV1LmI.ozip
+  md5: 08467B34BE190D1D730BB85AD06CF967
   region: China
-  size: 3.26GB
+  size: 3.14GB
   system: realme UI 1.0
-  version: RMX1851_11.C.12
+  version: RMX1851_11.C.13
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:(2021#01)

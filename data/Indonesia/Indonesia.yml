@@ -235,20 +235,6 @@
     ● Android Security Patch Tingkat: Februari & Maret 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
-  codename: RMX1931EX
-  date: 15/03/2021
-  device: realme X2 Pro
-  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1360_all_IJsqowYdUGs3.ozip
-  md5: c2f104d18ff0c6ff6e228a38450f4095
-  region: Indonesia
-  size: 3.07GB
-  system: realme UI 1.0
-  version: RMX1931EX_11.C.36
-- changelog: |
-    **Keamanan**:
-    ● Android Security Patch Tingkat: Februari & Maret 2021
-    **Sistem**:
-    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1921EX
   date: 20/3/2021
   device: realme XT

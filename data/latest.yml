@@ -1162,34 +1162,34 @@
   version: RMX2185_11_A.93
 - changelog: |
     **Security**:
-    ● Updated Android security patch: February, 2021
+    ● Updated Android security patch: April 2021
     **System**:
     ● Fix some known issues
-    ● Optimized ​​system stability
+    ● Optimized system stability
   codename: RMX2185
-  date: 15/3/2021
+  date: 25/04/2021
   device: realme C12
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0870_all_1TbYEnns8MEW.ozip
-  md5: A6333AB177DB1A6321DA1753AFFC0660
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
+  md5: B49F10917764C49AC20173F78A339548
   region: India
-  size: 3.18GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2185_11_A.87
+  version: RMX2185_11_A.93
 - changelog: |
     **Security**:
-    ● Updated Android security patch: February, 2021
+    ● Updated Android security patch: April 2021
     **System**:
     ● Fix some known issues
-    ● Optimized ​​system stability
+    ● Optimized system stability
   codename: RMX2185
-  date: 15/3/2021
+  date: 25/04/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0870_all_1TbYEnns8MEW.ozip
-  md5: A6333AB177DB1A6321DA1753AFFC0660
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
+  md5: B49F10917764C49AC20173F78A339548
   region: India
-  size: 3.18GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2185_11_A.87
+  version: RMX2185_11_A.93
 - changelog: |
     **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Fingerprints**:
@@ -1722,32 +1722,32 @@
   version: RMX2185_11_A.93
 - changelog: |
     **Keamanan**:
-    ● Android security patch: （2021#2）
+    ● Android security patch: （2021#4）
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2185
-  date: 15/3/2021
+  date: 25/04/2021
   device: realme C12
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0870_all_1TbYEnns8MEW.ozip
-  md5: A6333AB177DB1A6321DA1753AFFC0660
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
+  md5: B49F10917764C49AC20173F78A339548
   region: Indonesia
-  size: 3.18GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2185_11_A.87
+  version: RMX2185_11_A.93
 - changelog: |
     **Keamanan**:
-    ● Android security patch: （2021#2）
+    ● Android security patch: （2021#4）
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2185
-  date: 15/3/2021
+  date: 25/04/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0870_all_1TbYEnns8MEW.ozip
-  md5: A6333AB177DB1A6321DA1753AFFC0660
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
+  md5: B49F10917764C49AC20173F78A339548
   region: Indonesia
-  size: 3.18GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2185_11_A.87
+  version: RMX2185_11_A.93
 - changelog: |
     **Keamanan**:
     ● Android Security Patch Tingkat: Februari & Maret 2021
@@ -2144,38 +2144,34 @@
   version: RMX2195_11_A.25
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Flashlight**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
+    ● Updated Android security patch: April 2021
     **System**:
-    ● Optimized the system performance and improved system stability
-    ● Fixed the black screen issue of incoming calls
+    ● Fix some known issues
+    ● Optimized system stability
   codename: RMX2185
-  date: 8/12/2020
+  date: 25/04/2021
   device: realme C12
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
-  md5: 134798EB119CC6694AED3960E15BCC29
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
+  md5: B49F10917764C49AC20173F78A339548
   region: Pakistan
-  size: 3.17GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2185_11_A.81
+  version: RMX2185_11_A.93
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Nov, 2020
-    **Flashlight**:
-    ● Added short-press the power button to turn off flashlight feature while screen-off
+    ● Updated Android security patch: April 2021
     **System**:
-    ● Optimized the system performance and improved system stability
-    ● Fixed the black screen issue of incoming calls
+    ● Fix some known issues
+    ● Optimized system stability
   codename: RMX2185
-  date: 8/12/2020
+  date: 25/04/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
-  md5: 134798EB119CC6694AED3960E15BCC29
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
+  md5: B49F10917764C49AC20173F78A339548
   region: Pakistan
-  size: 3.17GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2185_11_A.81
+  version: RMX2185_11_A.93
 - changelog: |
     **Security**:
     ● Updated Android security patch: February& March,2021
@@ -2436,18 +2432,18 @@
   version: RMX2081PU_11.A.51
 - changelog: |
     **Безопасность**:
-    ● Исправление для системы безопасности ОС Android: ноябрь 2020 г.
+    ● Патч безопасности Android: апрель 2021 г.
     **Система:**:
-    ● исправлено несколько известных проблем, улучшена стабильность системы.
+    ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2185
-  date: 8/12/2020
+  date: 25/04/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0810_all_jLGoLXnVv2Zm.ozip
-  md5: 134798EB119CC6694AED3960E15BCC29
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
+  md5: B49F10917764C49AC20173F78A339548
   region: Russia
-  size: 3.17GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2185_11_A.81
+  version: RMX2185_11_A.93
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности ОС Android: февраль, 2021 г.
@@ -2681,6 +2677,20 @@
   version: RMX2151EU_11.A.84
 - changelog: |
     **Güvenlik**:
+    ● Güncel Android güvenlik yaması (2021#4)
+    **Sistem**:
+    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
+  codename: RMX2185EU
+  date: 25/04/2021
+  device: realme C11
+  download: https://download.c.realme.com/osupdate/RMX2185EU_11_OTA_0620_all_d7zN8Ou1DPpO.ozip
+  md5: 7C269BB7D017FD9EB931A525C6A364E9
+  region: Turkey
+  size: 2.88GB
+  system: realme UI 1.0
+  version: RMX2185EU_11_A.62
+- changelog: |
+    **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#2)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
@@ -2901,32 +2911,32 @@
   version: RMX2195_11_A.25
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 2 năm 2021
+    ● ● Cập nhật bản vá bảo mật Android: tháng 4 năm 2021
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2185
-  date: 15/3/2021
+  date: 25/04/2021
   device: realme C12
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0870_all_1TbYEnns8MEW.ozip
-  md5: A6333AB177DB1A6321DA1753AFFC0660
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
+  md5: B49F10917764C49AC20173F78A339548
   region: Vietnam
-  size: 3.18GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2185_11_A.87
+  version: RMX2185_11_A.93
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 2 năm 2021
+    ● ● Cập nhật bản vá bảo mật Android: tháng 4 năm 2021
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2185
-  date: 15/3/2021
+  date: 25/04/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0870_all_1TbYEnns8MEW.ozip
-  md5: A6333AB177DB1A6321DA1753AFFC0660
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
+  md5: B49F10917764C49AC20173F78A339548
   region: Vietnam
-  size: 3.18GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2185_11_A.87
+  version: RMX2185_11_A.93
 - changelog: |
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống

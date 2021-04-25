@@ -169,34 +169,34 @@
   version: RMX2185_11_A.93
 - changelog: |
     **Security**:
-    ● Updated Android security patch: February, 2021
+    ● Updated Android security patch: April 2021
     **System**:
     ● Fix some known issues
-    ● Optimized ​​system stability
+    ● Optimized system stability
   codename: RMX2185
-  date: 15/3/2021
+  date: 25/04/2021
   device: realme C12
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0870_all_1TbYEnns8MEW.ozip
-  md5: A6333AB177DB1A6321DA1753AFFC0660
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
+  md5: B49F10917764C49AC20173F78A339548
   region: India
-  size: 3.18GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2185_11_A.87
+  version: RMX2185_11_A.93
 - changelog: |
     **Security**:
-    ● Updated Android security patch: February, 2021
+    ● Updated Android security patch: April 2021
     **System**:
     ● Fix some known issues
-    ● Optimized ​​system stability
+    ● Optimized system stability
   codename: RMX2185
-  date: 15/3/2021
+  date: 25/04/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0870_all_1TbYEnns8MEW.ozip
-  md5: A6333AB177DB1A6321DA1753AFFC0660
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
+  md5: B49F10917764C49AC20173F78A339548
   region: India
-  size: 3.18GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX2185_11_A.87
+  version: RMX2185_11_A.93
 - changelog: |
     **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Fingerprints**:

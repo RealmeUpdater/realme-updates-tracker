@@ -1292,18 +1292,20 @@
   system: realme UI 1.0
   version: RMX2001_11.B.61
 - changelog: |
+    **Security**:
+    ● Android security patch: April, 2021
     **System**:
-    ● Optimized system performance
-    ● Optimized system stability
+    ● Optimized the system performance
+    ● Optimized the system stability
   codename: RMX2001
-  date: 22/03/2021
+  date: 28/04/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0590_all_FilbDeoLX0ch.ozip
-  md5: AFC2EDF875D6A8F043774102E11C8195
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0610_all_3wVabGimdPKY.ozip
+  md5: 2172BFC0F6364AB509F6DCF7A9A41523
   region: India
-  size: 3.32GB
+  size: 3.18GB
   system: realme UI 1.0
-  version: RMX2001_11.B.59
+  version: RMX2001_11.B.61
 - changelog: |
     **Security**:
     ● Updated Android security patch (2021#3 & 2021#4)
@@ -1369,6 +1371,29 @@
   size: 3.13GB
   system: realme UI 1.0
   version: RMX1992AEX_11.C.17
+- changelog: |
+    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
+    **Security**:
+    ● Updated Android security patch: Feb, Mar, 2021
+    **Application**:
+    ● Added FinShell Pay
+    **Photos**:
+    ● Added the save as PDF feature in print service
+    **Screenshot**:
+    ● Optimized the crop response time after screenshoting
+    ● Optimized the operating interface in croping screenshot
+    ● Fixed the probabilistic cannot save screenshot issue after editing screenshot
+    **Clock**:
+    ● Fixed the lagging issue when long screenshoting in adding world clock interface
+  codename: RMX1931EX
+  date: 15/03/2021
+  device: realme X2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1360_all_IJsqowYdUGs3.ozip
+  md5: c2f104d18ff0c6ff6e228a38450f4095
+  region: India
+  size: 3.07GB
+  system: realme UI 1.0
+  version: RMX1931EX_11.C.36
 - changelog: |
     **Security**:
     ● Updated Android security patch: Feb, Mar, 2021
@@ -1849,6 +1874,21 @@
   size: 2.99GB
   system: realme UI 1.0
   version: RMX2030EX_11_C.67
+- changelog: |
+    **Harap dicatat bahwa rilis ini tidak berlaku untuk realme UI 2.0 versi menurunkan ke realme UI1.0 untuk menghindari masalah peningkatan. Tolong jangan unduh ke perangkat berbasis Android 11, terima kasih**:
+    **Keamanan**:
+    ● Android Security Patch Tingkat: Februari & Maret 2021
+    **Sistem**:
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX1931EX
+  date: 15/03/2021
+  device: realme X2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1360_all_IJsqowYdUGs3.ozip
+  md5: c2f104d18ff0c6ff6e228a38450f4095
+  region: Indonesia
+  size: 3.07GB
+  system: realme UI 1.0
+  version: RMX1931EX_11.C.36
 - changelog: |
     **Keamanan**:
     ● Android Security Patch Tingkat: Februari & Maret 2021

@@ -1,19 +1,14 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch March, 2021
-  **Camera**:
-  ● Optimized the focus speed of the frame in some scenarios
-  ● Fixed the probabilistic crashing issue in continuous shooting mode
+  ● Updated Android security patch: April 2021
   **System**:
-  ● Added FinShell Pay
-  ● Fixed the probabilistic screen flicker issue when powered on/off
   ● Fixed some known issues and improved stability
 codename: RMX2050EX
-date: 31/3/2021
+date: 28/4/2021
 device: realme narzo 20A
-download: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0270_all_n96bx47fFrpc.ozip
-md5: 2234A5B0B3B08EBDD0D224E926AE538E
+download: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0290_all_jIGUE42BlLUL.ozip
+md5: 08ACDD81266C8FE7264506FF10ACB675
 region: India
-size: 3.20GB
+size: 3.24GB
 system: realme UI 1.0
-version: RMX2050EX_11.A.27
+version: RMX2050EX_11.A.29

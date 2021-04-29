@@ -1,14 +1,14 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: February, 2021
+  ● Updated Android security patch (2021#3 & 2021#4)
   **System**:
   ● Fixed some known issues and improved stability
 codename: RMX2040EU
-date: 04/03/2021
+date: 26/04/2021
 device: realme 6i
-download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0400_all_cIxLhvgsvxvZ.ozip
-md5: 8E49368941B1036C513160B6F2BF74C0
+download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0420_all_Pwm6DzvbPlqp.ozip
+md5: 33E8A7F588016FC2CF2CC276D3509756
 region: Europe
-size: 2.67GB
+size: 2.73GB
 system: realme UI 1.0
-version: RMX2040EU_11.A.40
+version: RMX2040EU_11.A.42

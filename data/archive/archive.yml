@@ -373,6 +373,7 @@
     RMX2020EU_11.A.48: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0480_all_QR9Q7evhLt96.ozip
     RMX2020EU_11.A.50: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0500_all_HcsQIz56taqS.ozip
     RMX2020EU_11.A.52: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0520_all_2qQZC1WI2QNg.ozip
+    RMX2020EU_11.A.54: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0540_all_4hcQToytKwak.ozip'
     RMX2020EU_11.A.55: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0480_all_QR9Q7evhLt96.ozip
     RMX2020EU_11_A.32: https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0320_all_crQxH1bPiHb6.ozip
 - RMX2030EX:
@@ -398,11 +399,13 @@
     RMX2040EU_11.A.34: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0340_all_oufTUO4rq3D2.ozip
     RMX2040EU_11.A.38: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0380_all_8T8b2kNeV6yz.ozip
     RMX2040EU_11.A.40: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0400_all_cIxLhvgsvxvZ.ozip
+    RMX2040EU_11.A.42: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0420_all_Pwm6DzvbPlqp.ozip
     RMX2040_11_A.16: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0160_all_zSyg23JCoxwI.ozip
     RMX2040_11_A.20: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0200_all_8befJJqXoDZC.ozip
 - RMX2050EX:
     RMX2050EX_11.A.25: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0250_all_XedwsLvGX5XO.ozip
     RMX2050EX_11.A.27: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0270_all_n96bx47fFrpc.ozip
+    RMX2050EX_11.A.29: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0290_all_jIGUE42BlLUL.ozip
     RMX2050EX_11_A.15: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0150_all_O0rVNTd3Sz8m.ozip
     RMX2050EX_11_A.17: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0170_all_av8Sp38FlgiU.ozip
     RMX2050EX_11_A.23: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0230_all_bOlXIMAaa2jj.ozip

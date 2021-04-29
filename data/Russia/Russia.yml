@@ -68,30 +68,32 @@
   version: RMX2185_11_A.93
 - changelog: |
     **Безопасность**:
-    ● Исправление для системы безопасности ОС Android: февраль, 2021 г.
+    ● Исправление для системы безопасности Android за апрель 2021 г.
     **Система:**:
     ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2040
-  date: 04/03/2021
+  date: 26/04/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0410_all_DGjBJHimKRch.ozip
-  md5: FE4C8CAF5130ACC89C1D0FFB03609FB2
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0430_all_oVeBdzqNnC7V.ozip
+  md5: E3349E4DF2A087C56AF14DF27D605B2D
   region: Russia
-  size: 2.95GB
+  size: 3.04GB
   system: realme UI 1.0
-  version: RMX2040_11.A.41
+  version: RMX2040_11.A.43
 - changelog: |
+    **Безопасность**:
+    ● Исправление для системы безопасности ОС Android: апрель, 2021 г.
     **Система:**:
     ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2001
-  date: 22/03/2021
+  date: 28/04/2021
   device: realme 6s
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0590_all_FilbDeoLX0ch.ozip
-  md5: AFC2EDF875D6A8F043774102E11C8195
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0610_all_3wVabGimdPKY.ozip
+  md5: 2172BFC0F6364AB509F6DCF7A9A41523
   region: Russia
-  size: 3.32GB
+  size: 3.18GB
   system: realme UI 1.0
-  version: RMX2001_11.B.59
+  version: RMX2001_11.B.61
 - changelog: |
     **Система:**:
     ● Исправлено известных ошибок, улучшена стабильность системы.

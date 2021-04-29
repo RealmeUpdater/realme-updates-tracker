@@ -1,12 +1,14 @@
 changelog: |
+  **Keamanan**:
+  ● Android security patch: April 2021
   **Sistem**:
   ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
 codename: RMX2001
-date: 22/03/2021
+date: 28/04/2021
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0590_all_FilbDeoLX0ch.ozip
-md5: AFC2EDF875D6A8F043774102E11C8195
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0610_all_3wVabGimdPKY.ozip
+md5: 2172BFC0F6364AB509F6DCF7A9A41523
 region: Indonesia
-size: 3.32GB
+size: 3.18GB
 system: realme UI 1.0
-version: RMX2001_11.B.59
+version: RMX2001_11.B.61

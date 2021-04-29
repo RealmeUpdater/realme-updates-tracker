@@ -69,17 +69,19 @@
   system: realme UI 1.0
   version: RMX2081EU_11.A.50
 - changelog: |
+    **Seguridad**:
+    ● Parche de seguridad de Android:abril de 2021
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2001EU
-  date: 22/03/2021
+  date: 28/04/2021
   device: realme 6s
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0520_all_yLnwguI24dc3.ozip
-  md5: F26313E777F01A63B8DCF9E0945EF9EE
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0540_all_iBglPa94Nfnx.ozip
+  md5: 1B24FCEEB9E25EB41476D4B86A606C7E
   region: Spain
-  size: 2.84GB
+  size: 2.85GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.52
+  version: RMX2001EU_11.A.54
 - changelog: |
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
@@ -105,17 +107,19 @@
   system: realme UI 1.0
   version: RMX2061EU_11.A.38
 - changelog: |
+    **Seguridad**:
+    ● Parche de seguridad de Android:abril de 2021
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2001EU
-  date: 22/03/2021
+  date: 28/04/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0520_all_yLnwguI24dc3.ozip
-  md5: F26313E777F01A63B8DCF9E0945EF9EE
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0540_all_iBglPa94Nfnx.ozip
+  md5: 1B24FCEEB9E25EB41476D4B86A606C7E
   region: Spain
-  size: 2.84GB
+  size: 2.85GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.52
+  version: RMX2001EU_11.A.54
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: Marzo & Abril 2021

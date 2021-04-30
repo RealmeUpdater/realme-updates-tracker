@@ -41,23 +41,21 @@
   version: RMX2121PU_11.A.14
 - changelog: |
     **Security**:
-    ● Updated Android security patch: March, 2021
-    **Camera**:
-    ● Optimized the slow focus issue in some scenarios
+    ● Updated Android security patch: April, 2021
     **Network**:
-    ● Optimized the network stability
+    ●Added Vowifi supported by some carriers
     **System**:
-    ● Optimized the lagging issue when opening Recent Apps from Home
-    ● Optimized the system stability
+    ● Optimized system performance and improved system stability
+    ● Fixed some known issues and improved user experience
   codename: RMX3092
-  date: 26/3/2021
+  date: 28/4/2021
   device: realme X7 5G
-  download: https://download.c.realme.com/osupdate/RMX2176PU_11_OTA_0160_all_Os0bxBquTuUE.ozip
-  md5: 40F42BC2C20138977BC059B3B8DBA065
+  download: https://download.c.realme.com/osupdate/RMX2176PU_11_OTA_0170_all_3RVuDWXeSFdw.ozip
+  md5: B741712FB29B5605C6F69396B8194D8F
   region: India
   size: 3.43GB
   system: realme UI 1.0
-  version: RMX3092_11.A.16
+  version: RMX3092_11_A.17
 - changelog: |
     **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:

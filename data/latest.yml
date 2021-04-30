@@ -376,22 +376,18 @@
   version: RMX1931_11.C.34
 - changelog: |
     **系统**:
-    ● 优化 系统性能，提升系统稳定性
-    **设置**:
-    ● 优化 控制中心开关逻辑
-    ● 优化 部分场景录入面部实现方式
-    ● 修复 电话铃音低概率恢复默认铃音的问题
+    ● 优化 系统资源调度，提升使用流畅度
     **安全**:
-    ● 更新Android安全补丁（2021#1/2021#2）
+    ● 更新Android安全补丁（2021#3 & 2021#4）
   codename: RMX1991
-  date: 01/03/2021
+  date: 30/04/2021
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1260_all_7hyihIDBA0QQ.ozip
-  md5: CBB88691F0C411BC333CE2C826F26E37
+  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1270_all_0TysfnWoknoq.ozip
+  md5: B492525442D31036D8767113579E8102
   region: China
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1991_11.C.26
+  version: RMX1991_11.C.27
 - changelog: |
     **系统**:
     ● 优化 系统性能，提升系统稳定性
@@ -459,18 +455,18 @@
   version: RMX2170EU_11_A.30
 - changelog: |
     **Seguridad**:
-    ●Parche de seguridad de Android: Marzo 2021
+    ●Parche de seguridad de Android: Abril de 2021
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2111EU
-  date: 24/3/2021
+  date: 27/4/2021
   device: realme 7 5G
-  download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0300_all_E4QQ1Efs5fDf.ozip
-  md5: 2082E63B4B26CD1C0676320A84A44793
+  download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0320_all_1lfWmYQjMfci.ozip
+  md5: 4B87D3052823985A19D0E4764BFDD78B
   region: Spain
-  size: 3.05GB
+  size: 3.06GB
   system: realme UI 1.0
-  version: RMX2111EU_11_A.30
+  version: RMX2111EU_11_A.32
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:diciembre de 2020
@@ -694,18 +690,18 @@
   version: RMX2191EU_11_A.12
 - changelog: |
     **Security**:
-    ● Updated Android security patch: March, 2021
+    ● Updated Android security patch: April, 2021
     **System**:
     ● Fixed some known issues and improved stability
   codename: RMX2111EU
-  date: 24/3/2021
+  date: 27/4/2021
   device: realme 7 5G
-  download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0300_all_E4QQ1Efs5fDf.ozip
-  md5: 2082E63B4B26CD1C0676320A84A44793
+  download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0320_all_1lfWmYQjMfci.ozip
+  md5: 4B87D3052823985A19D0E4764BFDD78B
   region: Europe
-  size: 3.05GB
+  size: 3.06GB
   system: realme UI 1.0
-  version: RMX2111EU_11_A.30
+  version: RMX2111EU_11_A.32
 - changelog: |
     **Security**:
     ● Android security patch: Jan, 2021

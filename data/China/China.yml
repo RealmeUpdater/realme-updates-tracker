@@ -288,22 +288,18 @@
   version: RMX1931_11.C.34
 - changelog: |
     **系统**:
-    ● 优化 系统性能，提升系统稳定性
-    **设置**:
-    ● 优化 控制中心开关逻辑
-    ● 优化 部分场景录入面部实现方式
-    ● 修复 电话铃音低概率恢复默认铃音的问题
+    ● 优化 系统资源调度，提升使用流畅度
     **安全**:
-    ● 更新Android安全补丁（2021#1/2021#2）
+    ● 更新Android安全补丁（2021#3 & 2021#4）
   codename: RMX1991
-  date: 01/03/2021
+  date: 30/04/2021
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1260_all_7hyihIDBA0QQ.ozip
-  md5: CBB88691F0C411BC333CE2C826F26E37
+  download: https://download.c.realme.com/osupdate/RMX1991_11_OTA_1270_all_0TysfnWoknoq.ozip
+  md5: B492525442D31036D8767113579E8102
   region: China
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1991_11.C.26
+  version: RMX1991_11.C.27
 - changelog: |
     **系统**:
     ● 优化 系统性能，提升系统稳定性

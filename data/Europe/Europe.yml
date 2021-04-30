@@ -15,18 +15,18 @@
   version: RMX2191EU_11_A.12
 - changelog: |
     **Security**:
-    ● Updated Android security patch: March, 2021
+    ● Updated Android security patch: April, 2021
     **System**:
     ● Fixed some known issues and improved stability
   codename: RMX2111EU
-  date: 24/3/2021
+  date: 27/4/2021
   device: realme 7 5G
-  download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0300_all_E4QQ1Efs5fDf.ozip
-  md5: 2082E63B4B26CD1C0676320A84A44793
+  download: https://download.c.realme.com/osupdate/RMX2111EU_11_OTA_0320_all_1lfWmYQjMfci.ozip
+  md5: 4B87D3052823985A19D0E4764BFDD78B
   region: Europe
-  size: 3.05GB
+  size: 3.06GB
   system: realme UI 1.0
-  version: RMX2111EU_11_A.30
+  version: RMX2111EU_11_A.32
 - changelog: |
     **Security**:
     ● Android security patch: Jan, 2021

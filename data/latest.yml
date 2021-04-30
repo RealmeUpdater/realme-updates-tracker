@@ -87,23 +87,23 @@
   system: realme UI 1.0
   version: RMX1931EX_11.C.35
 - changelog: |
-    **相机**:
-    ● 优化 部分场景下取景框对焦速度
+    **系统**:
+    ● 优化 系统性能，提升系统稳定性
     **网络**:
     ● 优化 移动网络性能，提升上网通话体验
-    **系统**:
-    ● 修复 部分已知问题，提升系统稳定性
+    **相机**:
+    ● 修复 抖音长时间直播后，低概率无法切换前置摄像头问题
     **安全**:
-    ● 更新 Android安全补丁（2021#3）
+    ● 更新 Android安全补丁（2021#4）
   codename: RMX3092
-  date: 28/03/2021
+  date: 26/04/2021
   device: realme V15 5G
-  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0290_all_e8jCdiwAn6xI.ozip
-  md5: A367E77C252B6A0C1A7575A6C6D9F0E0
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0310_all_Oh5m3MiUcYXG.ozip
+  md5: 14383FBD06641B87BA2CD186ADB66FFB
   region: China
-  size: 3.10GB
+  size: 3.11GB
   system: realme UI 1.0
-  version: RMX3092_11_A.29
+  version: RMX3092_11_A.31
 - changelog: |
     **系统**:
     ● 优化系统性能，提升系统稳定性
@@ -2458,17 +2458,19 @@
   system: realme UI 1.0
   version: RMX2151PU_11.A.75
 - changelog: |
+    **Безопасность**:
+    ● Обновлены патчи безопасности Android за апреля 2021 года.
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
   codename: RMX2061
-  date: 5/3/2021
+  date: 30/4/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
-  md5: FAF21961BE7E2BDB7866DBA650028A54
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0490_all_9H9xNE9qL4rJ.ozip
+  md5: DED678BF6B5F93EFA79AC5C50617E768
   region: Russia
   size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.45
+  version: RMX2061_11.A.49
 - changelog: |
     **Безопасность**:
     ● Исправление безопасности Android: Люты & Марш 2021
@@ -2997,17 +2999,19 @@
   system: realme UI 1.0
   version: RMX2185_11_A.93
 - changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: tháng 4 năm 2021
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2061
-  date: 5/3/2021
+  date: 30/4/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
-  md5: FAF21961BE7E2BDB7866DBA650028A54
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0490_all_9H9xNE9qL4rJ.ozip
+  md5: DED678BF6B5F93EFA79AC5C50617E768
   region: Vietnam
   size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.45
+  version: RMX2061_11.A.49
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#3 & 2021#4)

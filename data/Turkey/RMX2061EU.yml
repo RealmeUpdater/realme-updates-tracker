@@ -1,12 +1,12 @@
-changelog: |
-  **Sistem**:
-  ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
+changelog: '**Bu sürüme Android yaması eklendi ve bazı bilinen sorunlar giderildi.**:
+
+  '
 codename: RMX2061EU
-date: 5/3/2021
+date: 30/4/2021
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0380_all_EIeguy5zqMib.ozip
-md5: 16524DFCFD1F1F42FF0AC0CB31395B5F
+download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0420_all_xs7DxtZO44ga.ozip
+md5: ED9CB000629F1AABE68DE42B71151875
 region: Turkey
 size: 3.30GB
 system: realme UI 1.0
-version: RMX2061EU_11.A.38
+version: RMX2061EU_11.A.42

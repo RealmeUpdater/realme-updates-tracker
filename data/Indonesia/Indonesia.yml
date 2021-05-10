@@ -14,18 +14,18 @@
   version: RMX3171_11.A.13
 - changelog: |
     **Keamanan**:
-    ● Android security patch: （2021#2）
+    ● Android security patch: Maret & April 2021
     **Sistem**:
-    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2191
-  date: 22/3/2021
+  date: 30/04/2021
   device: realme narzo 20
-  download: https://download.c.realme.com/osupdate/RMX2191_11_OTA_0270_all_2fKVYdrRKsWn.ozip
-  md5: 25336632286456417FA890BC49D1397E
+  download: https://download.c.realme.com/osupdate/RMX2191_11_OTA_0290_all_rkcoCjvPdlMW.ozip
+  md5: d0d5943b2b244692b1bfedfbf072a07f
   region: Indonesia
   size: 3.44GB
   system: realme UI 1.0
-  version: RMX2191_11_A.27
+  version: RMX2191_11.A.29
 - changelog: |
     **Keamanan**:
     ● Android security patch: (2021#01)
@@ -82,6 +82,29 @@
   size: 3.57GB
   system: realme UI V1.0
   version: RMX2151PU_11.A.75
+- changelog: |
+    **Sistem**:
+    ● Kinerja sistem yang dioptimalkan
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX3063
+  date: 6/5/2021
+  device: realme C21
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0330_all_9ecnPn6SN9TD.ozip
+  md5: 29C78B8F8BA8A116E84EDADC35169D1D
+  region: Indonesia
+  size: 3.52GB
+  system: realme UI 1.0
+  version: RMX3063_11_A.33
+- changelog: ''
+  codename: Unknown
+  date: Unknown
+  device: realme C20
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0330_all_9ecnPn6SN9TD.ozip
+  md5: Unknown
+  region: Indonesia
+  size: ''
+  system: realme UI 1.0
+  version: Unknown
 - changelog: |
     **Keamanan**:
     ● Android security patch: Desember 2020

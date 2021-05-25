@@ -219,27 +219,23 @@
   system: realme UI 1.0
   version: RMX2071_11.A.27
 - changelog: |
-    **系统**:
-    ● 优化 系统性能，提升系统稳定性
     **截屏**:
     ● 优化 截屏后裁剪时响应速度
-    ● 优化 截屏裁剪背部布局样式
-    ● 修复 截屏编辑后极低概率无法保存截图的问题
+    ● 修复 添加世界时钟界面长截屏低概率卡顿问题
     **设置**:
-    ● 修复 电话铃音低概率恢复默认铃音的问题
-    **时钟**:
-    ● 修复 添加世界时钟界面长截屏卡顿的问题
-    **安全**:
-    ● 更新 Android安全补丁（2021#2 & 2021#3）
+    ● 修复 OTA升级后每日流量上限低概率变更问题
+    ● 修复 通知栏无障碍模式下全部清除选项低概率无法选中问题
+    **蓝牙**:
+    ● 修复 重新连接蓝牙耳机，部分场景下低概率音量不同步问题
   codename: RMX2141
-  date: 23/03/2021
+  date: 15/05/2021
   device: realme X50m 5G
-  download: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0140_all_iTlzoG9V2tws.ozip
-  md5: E1F60A253C872BDA41C56B9D1FADCF6C
+  download: https://download.c.realme.com/osupdate/RMX2141_11_OTA_0160_all_JZd0RNHdk9gG.ozip
+  md5: 2031111E767E2B8058B647186CE9359F
   region: China
   size: 3.85GB
   system: realme UI 1.0
-  version: RMX2141_11.A.14
+  version: RMX2141_11.A.16
 - changelog: |
     **设置**:
     ● 修复 一键省电页面优化时间异常问题
@@ -255,27 +251,23 @@
   system: realme UI 1.0
   version: RMX2071_11.A.27
 - changelog: |
-    **系统**:
-    ● 优化 系统性能，提升系统稳定性
     **截屏**:
     ● 优化 截屏后裁剪时响应速度
-    ● 优化 截屏裁剪背部布局样式
-    ● 修复 截屏编辑后极低概率无法保存截图的问题
+    ● 修复 添加世界时钟界面长截屏低概率卡顿问题
     **设置**:
-    ● 修复 电话铃音低概率恢复默认铃音的问题
-    **时钟**:
-    ● 修复 添加世界时钟界面长截屏卡顿的问题
-    **安全**:
-    ● 更新 Android安全补丁（2021#2 & 2021#3）
+    ● 修复 OTA升级后每日流量上限低概率变更问题
+    ● 修复 通知栏无障碍模式下全部清除选项低概率无法选中问题
+    **蓝牙**:
+    ● 修复 重新连接蓝牙耳机，部分场景下低概率音量不同步问题
   codename: RMX2051
-  date: 23/03/2021
+  date: 15/05/2021
   device: realme X50 5G
-  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0210_all_B8SLcVyOtifc.ozip
-  md5: 71C2CED4491746F97FF0B6EBD1DC0508
+  download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0230_all_px51W12RRRlP.ozip
+  md5: C81469770C65A5267BEE93DEFFA02275
   region: China
-  size: 3.73GB
+  size: 3.72GB
   system: realme UI 1.0
-  version: RMX2051_11.B.21
+  version: RMX2051_11.B.23
 - changelog: |
     **相册**:
     ● 新增 打印服务中保存为PDF功能
@@ -412,19 +404,19 @@
   system: realme UI V1.0
   version: RMX2151EU_11.A.74
 - changelog: |
-    **Sécurité**:
-    ● Correctif de sécurité Android（2020#11）
-    **Système**:
-    ● Problèmes connus partiellement résolus et stabilité améliorée du système
+    **Seguridad**:
+    ● Parche de seguridad de Android（2021#4）
+    **Sistema**:
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2144EU
-  date: 23/11/2020
+  date: 15/05/2021
   device: realme X50
-  download: https://download.c.realme.com/osupdate/RMX2144EU_11_OTA_0200_all_p016pqwxG5QA.ozip
-  md5: 9DA516DA3F5E8E0FE11B4755842BDCE2
+  download: https://download.c.realme.com/osupdate/RMX2144EU_11_OTA_0250_all_9t6CcvqMHEmk.ozip
+  md5: 8466038FA7B55279735DFFD5C09304EB
   region: Spain
-  size: 3.45GB
+  size: 3.50GB
   system: realme UI V1.0
-  version: RMX2144EU_11.A.20
+  version: RMX2144EU_11.A.25
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: marzo 2021
@@ -607,19 +599,18 @@
   version: RMX1851EX_11.C.15
 - changelog: |
     **Security**:
-    ● Updated Android security patch: February, 2021
+    ● Updated Android security patch: March & April 2021
     **System**:
-    ● Fix some known issues
-    ● Optimized ​​system stability
+    ● Fixed some known issues and improved system stability
   codename: RMX2191EU
-  date: 22/3/2021
+  date: 30/04/2021
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2191EU_11_OTA_0120_all_uFa1QLXqbdXO.ozip
-  md5: F3114DF7FE83B394B52222B51A5B424C
+  download: https://download.c.realme.com/osupdate/RMX2191EU_11_OTA_0140_all_nlGzZZlmu8hb.ozip
+  md5: 249bf1b7020c41b4862b31af0afff917
   region: Europe
-  size: 3.08GB
+  size: 3.03GB
   system: realme UI 1.0
-  version: RMX2191EU_11_A.12
+  version: RMX2191EU_11.A.14
 - changelog: |
     **Security**:
     ● Updated Android security patch: April, 2021
@@ -679,23 +670,18 @@
   version: RMX2185EU_11_A.56
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Settings**:
-    ● Added performance mode feature in battery settings
-    **Camera**:
-    ● Fixed the probabilistic flicker issue in SLO-MO preview interface
-    ● Fixed the probabilistic blurring issue in preview interface of portrait mode using front camera
-    **Status Bar**:
-    ● Optimized the time display issue
+    ● Updated Android security patch: April, 2021
+    **System**:
+    ●Optimized the issue of content been blocked when setting wallpaper in Google Photo
   codename: RMX2144EU
-  date: 16/7/2020
+  date: 15/05/2021
   device: realme X50
-  download: https://download.c.realme.com/osupdate/RMX2144EU_11_OTA_0110_all_Z7q6ma0YdnSD.ozip
-  md5: 29689E69D445C41AF8F4A551283CAA60
+  download: https://download.c.realme.com/osupdate/RMX2144EU_11_OTA_0250_all_9t6CcvqMHEmk.ozip
+  md5: 8466038FA7B55279735DFFD5C09304EB
   region: Europe
-  size: 3.29GB
+  size: 3.50GB
   system: realme UI 1.0
-  version: RMX2144EU_11.A.11
+  version: RMX2144EU_11.A.25
 - changelog: |
     **Security**:
     ● Updated Android security patch: September, 2020
@@ -739,25 +725,19 @@
   system: realme UI 1.0
   version: RMX2001EU_11.A.54
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: September, 2020
     **Settings**:
-    ● Optimized the responding speed when turing power saving mode on and off
-    **Networks**:
-    ● Fixed the probabilistic issue of unable to connect to 5G network when switching network modes
-    **Screenshot**:
-    ● Added Disable physical buttons in screenshot settings
-    ● Fixed the probabilistic overlap issue of scrolling screenshot
-    ● Fixed the layout issue when scrolling screenshot in screenshot settings after a horizontal screenshot
+    ● Fixed the exceptional issue of the optimizing time of One Click Power-Saving page
+    **Network**:
+    ● Fixed the probabilistic no-signal issue
   codename: RMX2076EU
-  date: 30/9/2020
+  date: 24/12/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0340_all_9OA7Ie7Rs6gg.ozip
-  md5: C887C801E4CDD2E9CD60124C89B4D4BF
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0420_all_CzQ779yq9fLp.ozip
+  md5: 0477BD3605D9F0CA3COF8839CF0DC3B9
   region: Europe
   size: 3.60GB
   system: realmeUI 1.0
-  version: RMX2076EU_11.A.34
+  version: RMX2076EU_11.A.42
 - changelog: |
     **Fingerprints**:
     ● Fixed the probabilistic issue of unable to identify fingerprints
@@ -929,18 +909,18 @@
   version: RMX1851EX_11.C.07
 - changelog: |
     **Security**:
-    ● Updated Android security patch: March, 2021
+    ● Updated Android security patch: April, 2021
     **System**:
     ● Fixed some known issues and improved stability
   codename: RMX2117
-  date: 29/3/2021
+  date: 27/4/2021
   device: realme narzo 30 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2111PU_11_OTA_0330_all_aaxtORfFTbFA.ozip
-  md5: A3A4429F2313F9C474B20790D7A5BF5B
+  download: https://download.c.realme.com/osupdate/RMX2111PU_11_OTA_0350_all_1q5mbnWDlhVs.ozip
+  md5: 37094531B8D6A319E8B1E88B9D4ED2B5
   region: India
   size: 3.41GB
   system: realme UI 1.0
-  version: RMX2117_11_A.33
+  version: RMX2117_11_A.35
 - changelog: |
     **Security**:
     ● Updated Android security patch: March & April 2021
@@ -1442,19 +1422,19 @@
   version: RMX1851EX_11.C.15
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Feb, 2021 & Mar, 2021
+    ● Updated Android Security Patch: April & May, 2021
     **System**:
-    ● Optimized system performance
-    ● Improved system stability
+    ● Optimized the system performance
+    ● Improved the system stability
   codename: RMX1941EX
-  date: 13/03/2021
+  date: 18/05/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0330_all_FyoSvn8Rclbv.ozip
-  md5: FCF6973BD0356EEB30FD15370F5B3D17
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0340_all_8AGTtH4o4lWn.ozip
+  md5: 3BA18118B845A88E9BF039E54A4DC8FB
   region: India
   size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.33
+  version: RMX1941EX_11.A.34
 - changelog: |
     **Security**:
     ● Updated Android security patch: Feb, 2021 & Mar, 2021
@@ -1759,19 +1739,17 @@
   system: realme UI 1.0
   version: RMX2001_11.B.61
 - changelog: |
-    **Keamanan**:
-    ● Tingkat Android Security Patch: September 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2076PU
-  date: 30/9/2020
+  date: 24/12/2020
   device: realme X50 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0370_all_RpgxkBIvkZCk.ozip
-  md5: 9eea35d2411bcd446fa4ea782141df75
+  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0430_all_yTyphV0qp1sL.ozip
+  md5: DE2AB3A3CCDE3CA90165795A9A05903
   region: Indonesia
-  size: 3.84GB
+  size: 3.92GB
   system: realme UI 1.0
-  version: RMX2076PU_11.A.37
+  version: RMX2076PU_11.A.43
 - changelog: |
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
@@ -1941,18 +1919,18 @@
   version: RMX1821EX_11.C.20
 - changelog: |
     **Keamanan**:
-    ● Android Security Patch Tingkat: Februari 2021 & Maret 2021
+    ● Android Security Patch Tingkat:April 2021 dan Mei 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1941EX
-  date: 13/03/2021
+  date: 18/05/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0330_all_FyoSvn8Rclbv.ozip
-  md5: FCF6973BD0356EEB30FD15370F5B3D17
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0340_all_8AGTtH4o4lWn.ozip
+  md5: 3BA18118B845A88E9BF039E54A4DC8FB
   region: Indonesia
   size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.33
+  version: RMX1941EX_11.A.34
 - changelog: |
     **Keamanan**:
     ● Tambalan keamanan Android: Januari 2021
@@ -2366,19 +2344,19 @@
   version: RMX1821EX_11.C.20
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Feb, 2021 & Mar, 2021
+    ● Updated Android Security Patch: April & May, 2021
     **System**:
-    ● Optimized system performance
-    ● Improved system stability
+    ● Optimized the system performance
+    ● Improved the system stability
   codename: RMX1941EX
-  date: 13/03/2021
+  date: 18/05/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0330_all_FyoSvn8Rclbv.ozip
-  md5: FCF6973BD0356EEB30FD15370F5B3D17
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0340_all_8AGTtH4o4lWn.ozip
+  md5: 3BA18118B845A88E9BF039E54A4DC8FB
   region: Pakistan
   size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.33
+  version: RMX1941EX_11.A.34
 - changelog: |
     **Система:**:
     ● Оптимизированная производительность системы
@@ -2670,18 +2648,18 @@
   version: RMX1821EX_11.C.20
 - changelog: |
     **Безопасность**:
-    ● Исправление безопасности Android: Люты & Марш 2021
+    ● Исправление безопасности Android: май 2021 г
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1941EX
-  date: 13/03/2021
+  date: 18/05/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0330_all_FyoSvn8Rclbv.ozip
-  md5: FCF6973BD0356EEB30FD15370F5B3D17
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0340_all_8AGTtH4o4lWn.ozip
+  md5: 3BA18118B845A88E9BF039E54A4DC8FB
   region: Russia
   size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.33
+  version: RMX1941EX_11.A.34
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#01)
@@ -2822,18 +2800,18 @@
   version: RMX1921EX_11.C.11
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2021#2 & 2021#3)
+    ● Güncel Android güvenlik yaması (2021#4 & 2021#5)
     **Sistem**:
     ● Bazı bilinmeyen sorunlar düzeltildi ve sistem kararlılığı artırıldı
   codename: RMX1941EX
-  date: 13/03/2021
+  date: 18/05/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0330_all_FyoSvn8Rclbv.ozip
-  md5: FCF6973BD0356EEB30FD15370F5B3D17
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0340_all_8AGTtH4o4lWn.ozip
+  md5: 3BA18118B845A88E9BF039E54A4DC8FB
   region: Turkey
   size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.33
+  version: RMX1941EX_11.A.34
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2020#11)
@@ -3143,18 +3121,18 @@
   version: RMX1821EX_11.C.20
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2021#2 & 2021#3)
+    ● Cập nhật bản vá bảo mật Android: (2021#4 & 2021#5)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1941EX
-  date: 13/03/2021
+  date: 18/05/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0330_all_FyoSvn8Rclbv.ozip
-  md5: FCF6973BD0356EEB30FD15370F5B3D17
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0340_all_8AGTtH4o4lWn.ozip
+  md5: 3BA18118B845A88E9BF039E54A4DC8FB
   region: Vietnam
   size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.33
+  version: RMX1941EX_11.A.34
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2020#11)

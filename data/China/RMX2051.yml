@@ -1,22 +1,18 @@
 changelog: |
-  **系统**:
-  ● 优化 系统性能，提升系统稳定性
   **截屏**:
   ● 优化 截屏后裁剪时响应速度
-  ● 优化 截屏裁剪背部布局样式
-  ● 修复 截屏编辑后极低概率无法保存截图的问题
+  ● 修复 添加世界时钟界面长截屏低概率卡顿问题
   **设置**:
-  ● 修复 电话铃音低概率恢复默认铃音的问题
-  **时钟**:
-  ● 修复 添加世界时钟界面长截屏卡顿的问题
-  **安全**:
-  ● 更新 Android安全补丁（2021#2 & 2021#3）
+  ● 修复 OTA升级后每日流量上限低概率变更问题
+  ● 修复 通知栏无障碍模式下全部清除选项低概率无法选中问题
+  **蓝牙**:
+  ● 修复 重新连接蓝牙耳机，部分场景下低概率音量不同步问题
 codename: RMX2051
-date: 23/03/2021
+date: 15/05/2021
 device: realme X50 5G
-download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0210_all_B8SLcVyOtifc.ozip
-md5: 71C2CED4491746F97FF0B6EBD1DC0508
+download: https://download.c.realme.com/osupdate/RMX2051_11_OTA_0230_all_px51W12RRRlP.ozip
+md5: C81469770C65A5267BEE93DEFFA02275
 region: China
-size: 3.73GB
+size: 3.72GB
 system: realme UI 1.0
-version: RMX2051_11.B.21
+version: RMX2051_11.B.23

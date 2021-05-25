@@ -41,19 +41,19 @@
   system: realme UI V1.0
   version: RMX2151EU_11.A.74
 - changelog: |
-    **Sécurité**:
-    ● Correctif de sécurité Android（2020#11）
-    **Système**:
-    ● Problèmes connus partiellement résolus et stabilité améliorée du système
+    **Seguridad**:
+    ● Parche de seguridad de Android（2021#4）
+    **Sistema**:
+    ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2144EU
-  date: 23/11/2020
+  date: 15/05/2021
   device: realme X50
-  download: https://download.c.realme.com/osupdate/RMX2144EU_11_OTA_0200_all_p016pqwxG5QA.ozip
-  md5: 9DA516DA3F5E8E0FE11B4755842BDCE2
+  download: https://download.c.realme.com/osupdate/RMX2144EU_11_OTA_0250_all_9t6CcvqMHEmk.ozip
+  md5: 8466038FA7B55279735DFFD5C09304EB
   region: Spain
-  size: 3.45GB
+  size: 3.50GB
   system: realme UI V1.0
-  version: RMX2144EU_11.A.20
+  version: RMX2144EU_11.A.25
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: marzo 2021

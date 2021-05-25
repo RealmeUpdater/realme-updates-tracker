@@ -1,18 +1,17 @@
 - changelog: |
     **Security**:
-    ● Updated Android security patch: February, 2021
+    ● Updated Android security patch: March & April 2021
     **System**:
-    ● Fix some known issues
-    ● Optimized ​​system stability
+    ● Fixed some known issues and improved system stability
   codename: RMX2191EU
-  date: 22/3/2021
+  date: 30/04/2021
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2191EU_11_OTA_0120_all_uFa1QLXqbdXO.ozip
-  md5: F3114DF7FE83B394B52222B51A5B424C
+  download: https://download.c.realme.com/osupdate/RMX2191EU_11_OTA_0140_all_nlGzZZlmu8hb.ozip
+  md5: 249bf1b7020c41b4862b31af0afff917
   region: Europe
-  size: 3.08GB
+  size: 3.03GB
   system: realme UI 1.0
-  version: RMX2191EU_11_A.12
+  version: RMX2191EU_11.A.14
 - changelog: |
     **Security**:
     ● Updated Android security patch: April, 2021
@@ -72,23 +71,18 @@
   version: RMX2185EU_11_A.56
 - changelog: |
     **Security**:
-    ● Android Security Patch: July, 2020
-    **Settings**:
-    ● Added performance mode feature in battery settings
-    **Camera**:
-    ● Fixed the probabilistic flicker issue in SLO-MO preview interface
-    ● Fixed the probabilistic blurring issue in preview interface of portrait mode using front camera
-    **Status Bar**:
-    ● Optimized the time display issue
+    ● Updated Android security patch: April, 2021
+    **System**:
+    ●Optimized the issue of content been blocked when setting wallpaper in Google Photo
   codename: RMX2144EU
-  date: 16/7/2020
+  date: 15/05/2021
   device: realme X50
-  download: https://download.c.realme.com/osupdate/RMX2144EU_11_OTA_0110_all_Z7q6ma0YdnSD.ozip
-  md5: 29689E69D445C41AF8F4A551283CAA60
+  download: https://download.c.realme.com/osupdate/RMX2144EU_11_OTA_0250_all_9t6CcvqMHEmk.ozip
+  md5: 8466038FA7B55279735DFFD5C09304EB
   region: Europe
-  size: 3.29GB
+  size: 3.50GB
   system: realme UI 1.0
-  version: RMX2144EU_11.A.11
+  version: RMX2144EU_11.A.25
 - changelog: |
     **Security**:
     ● Updated Android security patch: September, 2020
@@ -132,25 +126,19 @@
   system: realme UI 1.0
   version: RMX2001EU_11.A.54
 - changelog: |
-    **Security**:
-    ● Updated Android security patch: September, 2020
     **Settings**:
-    ● Optimized the responding speed when turing power saving mode on and off
-    **Networks**:
-    ● Fixed the probabilistic issue of unable to connect to 5G network when switching network modes
-    **Screenshot**:
-    ● Added Disable physical buttons in screenshot settings
-    ● Fixed the probabilistic overlap issue of scrolling screenshot
-    ● Fixed the layout issue when scrolling screenshot in screenshot settings after a horizontal screenshot
+    ● Fixed the exceptional issue of the optimizing time of One Click Power-Saving page
+    **Network**:
+    ● Fixed the probabilistic no-signal issue
   codename: RMX2076EU
-  date: 30/9/2020
+  date: 24/12/2020
   device: realme X50 Pro
-  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0340_all_9OA7Ie7Rs6gg.ozip
-  md5: C887C801E4CDD2E9CD60124C89B4D4BF
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0420_all_CzQ779yq9fLp.ozip
+  md5: 0477BD3605D9F0CA3COF8839CF0DC3B9
   region: Europe
   size: 3.60GB
   system: realmeUI 1.0
-  version: RMX2076EU_11.A.34
+  version: RMX2076EU_11.A.42
 - changelog: |
     **Fingerprints**:
     ● Fixed the probabilistic issue of unable to identify fingerprints

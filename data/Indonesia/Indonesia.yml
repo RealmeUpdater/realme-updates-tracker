@@ -190,19 +190,17 @@
   system: realme UI 1.0
   version: RMX2001_11.B.61
 - changelog: |
-    **Keamanan**:
-    ● Tingkat Android Security Patch: September 2020
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2076PU
-  date: 30/9/2020
+  date: 24/12/2020
   device: realme X50 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0370_all_RpgxkBIvkZCk.ozip
-  md5: 9eea35d2411bcd446fa4ea782141df75
+  download: https://download.c.realme.com/osupdate/RMX2076PU_11_OTA_0430_all_yTyphV0qp1sL.ozip
+  md5: DE2AB3A3CCDE3CA90165795A9A05903
   region: Indonesia
-  size: 3.84GB
+  size: 3.92GB
   system: realme UI 1.0
-  version: RMX2076PU_11.A.37
+  version: RMX2076PU_11.A.43
 - changelog: |
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
@@ -372,18 +370,18 @@
   version: RMX1821EX_11.C.20
 - changelog: |
     **Keamanan**:
-    ● Android Security Patch Tingkat: Februari 2021 & Maret 2021
+    ● Android Security Patch Tingkat:April 2021 dan Mei 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1941EX
-  date: 13/03/2021
+  date: 18/05/2021
   device: realme C2
-  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0330_all_FyoSvn8Rclbv.ozip
-  md5: FCF6973BD0356EEB30FD15370F5B3D17
+  download: https://download.c.realme.com/osupdate/RMX1941EX_11_OTA_0340_all_8AGTtH4o4lWn.ozip
+  md5: 3BA18118B845A88E9BF039E54A4DC8FB
   region: Indonesia
   size: 2.05GB
   system: ColorOS 6.0
-  version: RMX1941EX_11.A.33
+  version: RMX1941EX_11.A.34
 - changelog: |
     **Keamanan**:
     ● Tambalan keamanan Android: Januari 2021

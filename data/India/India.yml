@@ -41,21 +41,22 @@
   version: RMX2121PU_11.A.14
 - changelog: |
     **Security**:
-    ● Updated Android security patch: April, 2021
-    **Network**:
-    ●Added Vowifi supported by some carriers
+    ● Updated Android security patch: May, 2021
     **System**:
     ● Optimized system performance and improved system stability
-    ● Fixed some known issues and improved user experience
-  codename: RMX3092
-  date: 28/4/2021
+    **Camera**:
+    ● Fixed the probabilistic incomplete display issue in AI Text Recognition of the rear camera
+    **Theme**:
+    ● Fixed the probabilistic text blurring display issue in opening folder at the default theme
+  codename: RMX2176PU
+  date: 25/5/2021
   device: realme X7 5G
-  download: https://download.c.realme.com/osupdate/RMX2176PU_11_OTA_0170_all_3RVuDWXeSFdw.ozip
-  md5: B741712FB29B5605C6F69396B8194D8F
+  download: https://download.c.realme.com/osupdate/RMX2176PU_11_OTA_0180_all_uApVX4l4S4nw.ozip
+  md5: 97263A6204109979AAF5436C8E687A8E
   region: India
   size: 3.43GB
   system: realme UI 1.0
-  version: RMX3092_11_A.17
+  version: RMX2176PU_11.A.18
 - changelog: |
     **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
@@ -414,22 +415,18 @@
   version: RMX1971EX_11_C.12
 - changelog: |
     **Security**:
-    ● Updated Android security patch (2021#2 & 2021#3)
+    ● Updated Android security patch: April & May, 2021
     **System**:
-    ● Optimized system performance and improved system stability
-    **Setting**:
-    ● Optimized the switch logic of Control Center
-    ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
-    ● Fixed the probabilistic voice failure issue in PUBG
+    ● Optimized the system performance and improved the system stability
   codename: RMX1921EX
-  date: 20/3/2021
+  date: 24/5/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1110_all_uQ6jdfzHMnvi.ozip
-  md5: C1A5467268BE16CAB6A4BA0C49BB0676
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1130_all_Ch4YEpgIhreb.ozip
+  md5: CCE84CC7CDC83F74520D075689360197
   region: India
   size: 3.27GB
   system: realme UI 1.0
-  version: RMX1921EX_11.C.11
+  version: RMX1921EX_11.C.13
 - changelog: |
     **Security**:
     ● Updated Android security patch: February & March, 2021
@@ -480,19 +477,19 @@
   version: RMX1901EX_11.C.10
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Feb, 2021 & Mar, 2021
+    ● Updated Android security patch: April & May, 2021
     **System**:
     ● Optimized system performance
     ● Improved system stability
   codename: RMX1821EX
-  date: 16/03/2021
+  date: 24/05/2021
   device: realme 3i
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1200_all_DVlOW8JUtdWa.ozip
-  md5: E5B6A6A385B9FF55D5277FA0F6128677
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1210_all_lLWYdBtnVQoC.ozip
+  md5: 252C5E54380148D1AF3E783392503F91
   region: India
   size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.20
+  version: RMX1821EX_11.C.21
 - changelog: |
     **Security**:
     ● Updated Android security patch (2021#2 & 2021#3)
@@ -528,19 +525,19 @@
   version: RMX1941EX_11.A.34
 - changelog: |
     **Security**:
-    ● Updated Android security patch: Feb, 2021 & Mar, 2021
+    ● Updated Android security patch: April & May, 2021
     **System**:
     ● Optimized system performance
     ● Improved system stability
   codename: RMX1821EX
-  date: 16/03/2021
+  date: 24/05/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1200_all_DVlOW8JUtdWa.ozip
-  md5: E5B6A6A385B9FF55D5277FA0F6128677
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1210_all_lLWYdBtnVQoC.ozip
+  md5: 252C5E54380148D1AF3E783392503F91
   region: India
   size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.20
+  version: RMX1821EX_11.C.21
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec,2020 & Jan,2021

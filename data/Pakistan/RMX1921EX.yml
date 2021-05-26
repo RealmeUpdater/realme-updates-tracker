@@ -1,18 +1,14 @@
 changelog: |
-  **Security**:
-  ● Updated Android security patch (2021#2 & 2021#3)
-  **System**:
-  ● Optimized system performance and improved system stability
-  **Setting**:
-  ● Optimized the switch logic of Control Center
-  ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
-  ● Fixed the probabilistic voice failure issue in PUBG
+  **سلامتی**:
+  ●Android سیکورٹی پیچ سطح: (2021#4 & 2021#5)
+  **سسٹم**:
+  ● کچھ معلوم بگز حل ہو گئے، اور سسٹم کی ابیلیٹی بہتر ہو گئی ہے
 codename: RMX1921EX
-date: 20/3/2021
+date: 24/5/2021
 device: realme XT
-download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1110_all_uQ6jdfzHMnvi.ozip
-md5: C1A5467268BE16CAB6A4BA0C49BB0676
+download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1130_all_Ch4YEpgIhreb.ozip
+md5: CCE84CC7CDC83F74520D075689360197
 region: Pakistan
 size: 3.27GB
-system: realme UI V1.0
-version: RMX1921EX_11.C.11
+system: realme UI 1.0
+version: RMX1921EX_11.C.13

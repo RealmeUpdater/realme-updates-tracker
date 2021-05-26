@@ -1,19 +1,18 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: March, 2021
-  **Camera**:
-  ● Optimized the slow focus issue in some scenarios
-  **Network**:
-  ● Optimized the network stability
+  ● Updated Android security patch: May, 2021
   **System**:
-  ● Optimized the lagging issue when opening Recent Apps from Home
-  ● Optimized the system stability
+  ● Optimized system performance and improved system stability
+  **Camera**:
+  ● Fixed the probabilistic incomplete display issue in AI Text Recognition of the rear camera
+  **Theme**:
+  ● Fixed the probabilistic text blurring display issue in opening folder at the default theme
 codename: RMX2176PU
-date: 26/3/2021
+date: 25/5/2021
 device: realme X7 5G
-download: https://download.c.realme.com/osupdate/RMX2176PU_11_OTA_0160_all_Os0bxBquTuUE.ozip
-md5: 40F42BC2C20138977BC059B3B8DBA065
+download: https://download.c.realme.com/osupdate/RMX2176PU_11_OTA_0180_all_uApVX4l4S4nw.ozip
+md5: 97263A6204109979AAF5436C8E687A8E
 region: India
 size: 3.43GB
 system: realme UI 1.0
-version: RMX2176PU_11.A.16
+version: RMX2176PU_11.A.18

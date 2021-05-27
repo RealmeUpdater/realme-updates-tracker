@@ -1,15 +1,14 @@
 changelog: |
-  **Security**:
-  ● Updated Android security patch: February & March, 2021
-  **System**:
-  ● Optimized system performance
-  ● Improved system stability
+  **سلامتی**:
+  ●Android سیکورٹی پیچ سطح: (2021#4 & 2021#5)
+  **سسٹم**:
+  ● کچھ معلوم بگز حل ہو گئے، اور سسٹم کی ابیلیٹی بہتر ہو گئی ہے
 codename: RMX2030EX
-date: 27/03/2021
+date: 25/05/2021
 device: realme 5i
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1670_all_pgX46rutBH1c.ozip
-md5: 18C92A93AA2625003C3566CE444D1176
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1690_all_4cslVAT4nnIJ.ozip
+md5: 436BA3CA6E00D262E28A416BA98BF9AB
 region: Pakistan
 size: 2.99GB
 system: realme UI 1.0
-version: RMX2030EX_11_C.67
+version: RMX2030EX_11_C.69

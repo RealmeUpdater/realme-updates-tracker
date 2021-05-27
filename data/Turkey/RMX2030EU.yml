@@ -1,14 +1,14 @@
 changelog: |
   **Güvenlik**:
-  ● Güncel Android güvenlik yaması (2021#2 & 2021#3)
+  ● Güncel Android güvenlik yaması (2021#4 & 2021#5)
   **Sistem**:
   ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
 codename: RMX2030EU
-date: 27/03/2021
+date: 25/05/2021
 device: realme 5i
-download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1600_all_GviK0yd797u1.ozip
-md5: F4AAA5169235251FE2F22A52F488E0F0
+download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1620_all_LxJWCcZJkRjF.ozip
+md5: 1ACF905B25F3123AB7AA979CD4D0026A
 region: Turkey
 size: 2.65GB
 system: realme UI 1.0
-version: RMX2030EU_11_C.60
+version: RMX2030EU_11_C.62

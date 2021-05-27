@@ -912,15 +912,15 @@
     ● Updated Android security patch: April, 2021
     **System**:
     ● Fixed some known issues and improved stability
-  codename: RMX2117
-  date: 27/4/2021
+  codename: RMX1901EX
+  date: 24/5/2021
   device: realme narzo 30 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX2111PU_11_OTA_0350_all_1q5mbnWDlhVs.ozip
-  md5: 37094531B8D6A319E8B1E88B9D4ED2B5
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1110_all_qLpSO2Ih4rjE.ozip
+  md5: 803616BCDE6E7D49D29295C9A7A80980
   region: India
-  size: 3.41GB
+  size: 3.27GB
   system: realme UI 1.0
-  version: RMX2117_11_A.35
+  version: RMX1901EX_11.C.11
 - changelog: |
     **Security**:
     ● Updated Android security patch: March & April 2021
@@ -1368,22 +1368,18 @@
   version: RMX1911EX_11_C.67
 - changelog: |
     **Security**:
-    ● Updated Android security patch (February & March 2021)
-    **Setting**:
-    ● Optimized the switch logic of Control Center
-    ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
-    ● Fixed the probabilistic voice failure issue in PUBG
+    ● Updated Android security patch: April & May, 2021
     **System**:
-    ● Optimized system performance and improved system stability
+    ● Optimized the system performance and improved the system stability
   codename: RMX1901EX
-  date: 24/3/2021
+  date: 24/5/2021
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1100_all_QD1yPmlhpRtX.ozip
-  md5: 1496794187DE99E4A012CEC39C853AE3
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1110_all_qLpSO2Ih4rjE.ozip
+  md5: 803616BCDE6E7D49D29295C9A7A80980
   region: India
   size: 3.27GB
   system: realme UI 1.0
-  version: RMX1901EX_11.C.10
+  version: RMX1901EX_11.C.11
 - changelog: |
     **Security**:
     ● Updated Android security patch: April & May, 2021
@@ -1878,14 +1874,14 @@
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1901EX
-  date: 24/3/2021
+  date: 24/5/2021
   device: realme X
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1100_all_QD1yPmlhpRtX.ozip
-  md5: 1496794187DE99E4A012CEC39C853AE3
+  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1110_all_qLpSO2Ih4rjE.ozip
+  md5: 803616BCDE6E7D49D29295C9A7A80980
   region: Indonesia
   size: 3.27GB
   system: realme UI 1.0
-  version: RMX1901EX_11.C.10
+  version: RMX1901EX_11.C.11
 - changelog: |
     **Keamanan**:
     ● Android Security Patch Tingkat: Februari & Maret 2021

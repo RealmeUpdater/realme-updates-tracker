@@ -909,18 +909,18 @@
   version: RMX1851EX_11.C.07
 - changelog: |
     **Security**:
-    ● Updated Android security patch: April, 2021
+    ● Updated Android security patch: March, 2021
     **System**:
     ● Fixed some known issues and improved stability
-  codename: RMX1901EX
-  date: 24/5/2021
+  codename: RMX2117
+  date: 29/3/2021
   device: realme narzo 30 Pro 5G
-  download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1110_all_qLpSO2Ih4rjE.ozip
-  md5: 803616BCDE6E7D49D29295C9A7A80980
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0330_all_9ecnPn6SN9TD.ozip
+  md5: A3A4429F2313F9C474B20790D7A5BF5B
   region: India
-  size: 3.27GB
+  size: 3.41GB
   system: realme UI 1.0
-  version: RMX1901EX_11.C.11
+  version: RMX2117_11_A.33
 - changelog: |
     **Security**:
     ● Updated Android security patch: March & April 2021

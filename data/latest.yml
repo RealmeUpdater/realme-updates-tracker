@@ -87,23 +87,25 @@
   system: realme UI 1.0
   version: RMX1931EX_11.C.35
 - changelog: |
+    **安全**:
+    ● 更新 Android安全补丁（2021#5）
     **系统**:
     ● 优化 系统性能，提升系统稳定性
-    **网络**:
-    ● 优化 移动网络性能，提升上网通话体验
     **相机**:
-    ● 修复 抖音长时间直播后，低概率无法切换前置摄像头问题
-    **安全**:
-    ● 更新 Android安全补丁（2021#4）
-  codename: RMX3092
-  date: 26/04/2021
+    ● 修复 后置相机AI识别文本时低概率显示不全问题
+    **应用**:
+    ● 修复 抖音直播时切换前置相机低概率出现定屏问题
+    **游戏**:
+    ● 修复 王者荣耀游戏低概率河道变黑问题
+  codename: RMX2175
+  date: 26/05/2021
   device: realme V15 5G
-  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0310_all_Oh5m3MiUcYXG.ozip
-  md5: 14383FBD06641B87BA2CD186ADB66FFB
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0330_all_gQfcGJUZ1E3v.ozip
+  md5: 1386AD3AE7EE23C1EB44EB2252E0789B
   region: China
   size: 3.11GB
   system: realme UI 1.0
-  version: RMX3092_11_A.31
+  version: RMX2175_11_A.33
 - changelog: |
     **系统**:
     ● 优化系统性能，提升系统稳定性

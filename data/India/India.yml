@@ -352,41 +352,35 @@
   system: realme UI 1.0
   version: RMX2030EX_11_C.69
 - changelog: |
-    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
-    ● Updated Android security patch ( 2021#2&2021#3 )
+    ● Updated Android Security Patch: May, 2021
     **System**:
-    ● Optimized system performance and improved system stability
-    **Setting**:
-    ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
-    ● Fixed the probabilistic face enrollment failure issue
+    ● Optimized the system performance
+    ● Improved the system stability
   codename: RMX1992EX
-  date: 26/03/2021
+  date: 29/05/2021
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1170_all_MGU54tG8UcAp.ozip
-  md5: 19C6451CB322144D3AD1C84FC8752F73
+  download: https://download.c.realme.com/osupdate/RMX1992EX_11_OTA_1180_all_4MQxOL7lVVxp.ozip
+  md5: 335F6C4E3105A0A51A7E4A826B0927E6
   region: India
   size: 3.13GB
   system: realme UI 1.0
-  version: RMX1992EX_11.C.17
+  version: RMX1992EX_11.C.18
 - changelog: |
-    **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
-    ● Updated Android security patch ( 2021#2&2021#3 )
+    ● Updated Android Security Patch: May, 2021
     **System**:
-    ● Optimized system performance and improved system stability
-    **Setting**:
-    ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
-    ● Fixed the probabilistic face enrollment failure issue
+    ● Optimized the system performance
+    ● Improved the system stability
   codename: RMX1992AEX
-  date: 26/03/2021
+  date: 29/05/2021
   device: realme X2
-  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1170_all_OY5UkzsUcWUE.ozip
-  md5: 3BA830BF10B6390D8B9581B2A15074B0
+  download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1180_all_RhNKisgcTODS.ozip
+  md5: F3D6E60EDB05D2F6D597B6A2B04EE001
   region: India
   size: 3.13GB
   system: realme UI 1.0
-  version: RMX1992AEX_11.C.17
+  version: RMX1992AEX_11.C.18
 - changelog: |
     **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
@@ -499,22 +493,18 @@
   version: RMX1821EX_11.C.21
 - changelog: |
     **Security**:
-    ● Updated Android security patch (2021#2 & 2021#3)
-    **Setting**:
-    ● Optimized the switch logic of Control Center
-    ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
-    ● Fixed the probabilistic voice failure issue in PUBG
+    ● Updated Android security patch: April & May, 2021
     **System**:
-    ● Optimized system performance and improved system stability
+    ● Optimized the system performance and improved the system stability
   codename: RMX1851EX
-  date: 20/3/2021
+  date: 28/5/2021
   device: realme 3 Pro
-  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1150_all_xqMbLhHXc7Ar.ozip
-  md5: 93DD5F260F07DE7043D455F4B64DD4ED
+  download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1170_all_aGAaLwux8YvR.ozip
+  md5: 9E7DEB963DE7E7621D52E7CBB13BBA35
   region: India
   size: 3.27GB
   system: realme UI 1.0
-  version: RMX1851EX_11.C.15
+  version: RMX1851EX_11.C.17
 - changelog: |
     **Security**:
     ● Updated Android Security Patch: April & May, 2021

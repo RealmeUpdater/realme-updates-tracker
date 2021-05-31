@@ -1,18 +1,15 @@
 changelog: |
-  **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
   **Security**:
-  ● Updated Android security patch ( 2021#2&2021#3 )
+  ● Updated Android Security Patch: May, 2021
   **System**:
-  ● Optimized system performance and improved system stability
-  **Setting**:
-  ● Fixed the probabilistic restoring to default ringtone issue in call ringtone
-  ● Fixed the probabilistic face enrollment failure issue
+  ● Optimized the system performance
+  ● Improved the system stability
 codename: RMX1992AEX
-date: 26/03/2021
+date: 29/05/2021
 device: realme X2
-download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1170_all_OY5UkzsUcWUE.ozip
-md5: 3BA830BF10B6390D8B9581B2A15074B0
+download: https://download.c.realme.com/osupdate/RMX1992AEX_11_OTA_1180_all_RhNKisgcTODS.ozip
+md5: F3D6E60EDB05D2F6D597B6A2B04EE001
 region: India
 size: 3.13GB
 system: realme UI 1.0
-version: RMX1992AEX_11.C.17
+version: RMX1992AEX_11.C.18

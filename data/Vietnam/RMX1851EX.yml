@@ -1,14 +1,14 @@
 changelog: |
   **Bảo mật**:
-  ● Cập nhật bản vá bảo mật Android: (2021#2 & 2021#3)
+  ● Cập nhật bản vá bảo mật Android: (2021#4 & 2021#5)
   **Hệ thống**:
   ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
 codename: RMX1851EX
-date: 20/3/2021
+date: 28/5/2021
 device: realme 3 Pro
-download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1150_all_xqMbLhHXc7Ar.ozip
-md5: 93DD5F260F07DE7043D455F4B64DD4ED
+download: https://download.c.realme.com/osupdate/RMX1851EX_11_OTA_1170_all_aGAaLwux8YvR.ozip
+md5: 9E7DEB963DE7E7621D52E7CBB13BBA35
 region: Vietnam
 size: 3.27GB
 system: realme UI 1.0
-version: RMX1851EX_11.C.15
+version: RMX1851EX_11.C.17

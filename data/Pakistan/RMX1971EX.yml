@@ -1,18 +1,14 @@
 changelog: |
-  **Security**:
-  ● Updated Android security patch: Feb, Mar, 2021
-  **Settings**:
-  ● Optimized the control center switch logic
-  ● Fixed the probabilistic issue that the phone ring tone is restored to the default ring tone
-  ● Fixed the probabilistic voice failure issue in PUBG
-  **System**:
-  ● Optimized system performance and improve system stability
+  **سلامتی**:
+  ●Android سیکورٹی پیچ سطح: (2021#4 & 2021#5)
+  **سسٹم**:
+  ● کچھ معلوم بگز حل ہو گئے، اور سسٹم کی ابیلیٹی بہتر ہو گئی ہے
 codename: RMX1971EX
-date: 24/3/2021
+date: 28/5/2021
 device: realme 5 Pro
-download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1120_all_s0mRvUGlCJAI.ozip
-md5: DD60DC2196B16EC4A2A3F1632D50A43A
+download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1140_all_D5PMgyC9kHe5.ozip
+md5: B24A0E484289F66D218F0AFE7ABC100C
 region: Pakistan
 size: 3.26GB
 system: realme UI 1.0
-version: RMX1971EX_11_C.12
+version: RMX1971EX_11.C.14

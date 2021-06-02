@@ -1,15 +1,12 @@
 changelog: |
-  **Harap dicatat bahwa rilis ini tidak berlaku untuk realme UI 2.0 versi menurunkan ke realme UI1.0 untuk menghindari masalah peningkatan. Tolong jangan unduh ke perangkat berbasis Android 11, terima kasih**:
-  **Keamanan**:
-  ● Android Security Patch Tingkat: Februari & Maret 2021
   **Sistem**:
   ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
 codename: RMX1931EX
-date: 15/03/2021
+date: 29/5/2021
 device: realme X2 Pro
-download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1360_all_IJsqowYdUGs3.ozip
-md5: c2f104d18ff0c6ff6e228a38450f4095
+download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1370_all_587cD7fW0spV.ozip
+md5: 2219E776DA3B5A3814C1C253B5B081EE
 region: Indonesia
 size: 3.07GB
 system: realme UI 1.0
-version: RMX1931EX_11.C.36
+version: RMX1931EX_11_C.37

@@ -1,14 +1,12 @@
 changelog: |
-  **Keamanan**:
-  ● Android security patch: Maret & April 2021
   **Sistem**:
   ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
 codename: RMX2191
-date: 30/04/2021
+date: 28/05/2021
 device: realme narzo 20
-download: https://download.c.realme.com/osupdate/RMX2191_11_OTA_0290_all_rkcoCjvPdlMW.ozip
-md5: d0d5943b2b244692b1bfedfbf072a07f
+download: https://download.c.realme.com/osupdate/RMX2191_11_OTA_0330_all_QhwB5qLDEiSU.ozip
+md5: 54857bc925718c191c0ad33634fda1cb
 region: Indonesia
 size: 3.44GB
 system: realme UI 1.0
-version: RMX2191_11.A.29
+version: RMX2191_11.A.33

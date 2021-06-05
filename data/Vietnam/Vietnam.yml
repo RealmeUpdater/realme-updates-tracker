@@ -13,18 +13,19 @@
   system: realme UI 1.0
   version: RMX3171_11.A.13
 - changelog: |
+    **Bảo vệ**:
+    ● Cập nhật bản vá bảo mật Android: tháng 5 năm 2021
     **Hệ thống**:
-    ● Hiệu suất hệ thống được tối ưu hóa
-    ● Sửa một số lỗi thông thường và cải thiện tính ổn định của hệ thống
+    ● Sửa một số sự cố đã biết và cải thiện độ ổn định của hệ thống
   codename: RMX3061
-  date: 6/5/2021
+  date: 29/5/2021
   device: realme C20
-  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0330_all_9ecnPn6SN9TD.ozip
-  md5: 29C78B8F8BA8A116E84EDADC35169D1D
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
+  md5: 7809E39870B9DE1CB87D104DD27CE678
   region: Vietnam
-  size: 3.52GB
+  size: 3.5GB
   system: realme UI 1.0
-  version: RMX3061_11_A.33
+  version: RMX3061_11_A.37
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#01)

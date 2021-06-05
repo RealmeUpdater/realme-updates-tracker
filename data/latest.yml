@@ -936,6 +936,36 @@
   system: realme UI 1.0
   version: RMX3171_11.A.15
 - changelog: |
+    **Security**:
+    ● Updated Android security patch: May, 2021
+    **System**:
+    ● Fix some known issues
+    ● Optimized system stability
+  codename: RMX3201
+  date: 29/5/2021
+  device: realme C21
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
+  md5: 7809E39870B9DE1CB87D104DD27CE678
+  region: India
+  size: 3.5GB
+  system: realme UI 1.0
+  version: RMX3201_11_A.37
+- changelog: |
+    **Security**:
+    ● Updated Android security patch: May, 2021
+    **System**:
+    ● Fix some known issues
+    ● Optimized system stability
+  codename: RMX3061
+  date: 29/5/2021
+  device: realme C20
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
+  md5: 7809E39870B9DE1CB87D104DD27CE678
+  region: India
+  size: 3.5GB
+  system: realme UI 1.0
+  version: RMX3061_11_A.37
+- changelog: |
     **System**:
     ● Fixed the probabilistic issue of crashing and restarting
   codename: RMX2121PU
@@ -1612,28 +1642,33 @@
   system: realme UI V1.0
   version: RMX2151PU_11.A.75
 - changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android yang diperbarui: Mei 2021
     **Sistem**:
-    ● Kinerja sistem yang dioptimalkan
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX3063
-  date: 6/5/2021
+  date: 29/5/2021
   device: realme C21
-  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0330_all_9ecnPn6SN9TD.ozip
-  md5: 29C78B8F8BA8A116E84EDADC35169D1D
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
+  md5: 7809E39870B9DE1CB87D104DD27CE678
   region: Indonesia
-  size: 3.52GB
+  size: 3.5GB
   system: realme UI 1.0
-  version: RMX3063_11_A.33
-- changelog: ''
-  codename: Unknown
-  date: Unknown
+  version: RMX3063_11_A.37
+- changelog: |
+    **Keamanan**:
+    ● Patch keamanan Android yang diperbarui: Mei 2021
+    **Sistem**:
+    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+  codename: RMX3061
+  date: 29/5/2021
   device: realme C20
   download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0330_all_9ecnPn6SN9TD.ozip
-  md5: Unknown
+  md5: 7809E39870B9DE1CB87D104DD27CE678
   region: Indonesia
-  size: ''
+  size: 3.5GB
   system: realme UI 1.0
-  version: Unknown
+  version: RMX3061_11_A.37
 - changelog: |
     **Keamanan**:
     ● Android security patch: Desember 2020
@@ -2065,6 +2100,21 @@
   version: RMX2170PU_11_A.33
 - changelog: |
     **Security**:
+    ● Updated Android security patch: May, 2021
+    **System**:
+    ● Fix some known issues
+    ● Optimized system stability
+  codename: RMX3201
+  date: 29/5/2021
+  device: realme C21
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
+  md5: 7809E39870B9DE1CB87D104DD27CE678
+  region: Pakistan
+  size: 3.5GB
+  system: realme UI 1.0
+  version: RMX3201_11_A.37
+- changelog: |
+    **Security**:
     ● Updated Android security patch: Nov, 2020
     **System**:
     ● Optimized the lagging issue of camera shooting in some specific scenarios
@@ -2319,31 +2369,33 @@
   system: ColorOS 6.0
   version: RMX1941EX_11.A.34
 - changelog: |
+    **Безопасность**:
+    ● Патчи безопасности Android: май 2021 г
     **Система:**:
-    ● Оптимизированная производительность системы
-    ● Исправлено известных ошибок, улучшена стабильность системы
+    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
   codename: RMX3201
-  date: 6/5/2021
+  date: 29/5/2021
   device: realme C21
-  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0330_all_9ecnPn6SN9TD.ozip
-  md5: 29C78B8F8BA8A116E84EDADC35169D1D
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
+  md5: 7809E39870B9DE1CB87D104DD27CE678
   region: Russia
-  size: 3.52GB
+  size: 3.5GB
   system: realme UI 1.0
-  version: RMX3201_11_A.33
+  version: RMX3201_11_A.37
 - changelog: |
+    **Безопасность**:
+    ● Патчи безопасности Android: май 2021 г
     **Система:**:
-    ● Оптимизированная производительность системы
-    ● Исправлено известных ошибок, улучшена стабильность системы
-  codename: RMX3063
-  date: 6/5/2021
+    ● Исправлено несколько известных ошибок, улучшена стабильность системы.
+  codename: RMX3201
+  date: 29/5/2021
   device: realme C20
-  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0330_all_9ecnPn6SN9TD.ozip
-  md5: 29C78B8F8BA8A116E84EDADC35169D1D
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
+  md5: 7809E39870B9DE1CB87D104DD27CE678
   region: Russia
-  size: 3.52GB
+  size: 3.5GB
   system: realme UI 1.0
-  version: RMX3063_11_A.33
+  version: RMX3201_11_A.37
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android:(2021#01)
@@ -2747,18 +2799,19 @@
   system: realme UI 1.0
   version: RMX3171_11.A.13
 - changelog: |
+    **Bảo vệ**:
+    ● Cập nhật bản vá bảo mật Android: tháng 5 năm 2021
     **Hệ thống**:
-    ● Hiệu suất hệ thống được tối ưu hóa
-    ● Sửa một số lỗi thông thường và cải thiện tính ổn định của hệ thống
+    ● Sửa một số sự cố đã biết và cải thiện độ ổn định của hệ thống
   codename: RMX3061
-  date: 6/5/2021
+  date: 29/5/2021
   device: realme C20
-  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0330_all_9ecnPn6SN9TD.ozip
-  md5: 29C78B8F8BA8A116E84EDADC35169D1D
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
+  md5: 7809E39870B9DE1CB87D104DD27CE678
   region: Vietnam
-  size: 3.52GB
+  size: 3.5GB
   system: realme UI 1.0
-  version: RMX3061_11_A.33
+  version: RMX3061_11_A.37
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#01)

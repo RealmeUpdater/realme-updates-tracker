@@ -1,18 +1,16 @@
 changelog: |
-  **Security**:
-  ● Updated Android security patch: May, 2021
   **System**:
-  ● Optimized system performance and improved system stability
-  **Camera**:
-  ● Fixed the probabilistic incomplete display issue in AI Text Recognition of the rear camera
-  **Theme**:
-  ● Fixed the probabilistic text blurring display issue in opening folder at the default theme
+  ● Optimized system performance, improve system's stability
+  **Application**:
+  ● Fixed probabilistic video playing lagging issue when using zee5 applications
+  **Status bar**:
+  ● Fixed probabilistic not inversing color of icons in status bar issue in particular scenario
 codename: RMX2176PU
-date: 25/5/2021
+date: 11/6/2021
 device: realme X7 5G
-download: https://download.c.realme.com/osupdate/RMX2176PU_11_OTA_0180_all_uApVX4l4S4nw.ozip
-md5: 97263A6204109979AAF5436C8E687A8E
+download: https://download.c.realme.com/osupdate/RMX2176PU_11_OTA_0200_all_Ssg1S20bpOWt.ozip
+md5: 82B69E11DAAC8B3BF4F9AD2A5D528BFA
 region: India
 size: 3.43GB
 system: realme UI 1.0
-version: RMX2176PU_11.A.18
+version: RMX2176PU_11.A.20

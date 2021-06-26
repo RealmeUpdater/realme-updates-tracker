@@ -1,15 +1,15 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: April 2021
+  ● Updated Android security patch: June 2021
   **System**:
   ● Fix some known issues
   ● Optimized system stability
 codename: RMX2185
-date: 25/04/2021
+date: 25/06/2021
 device: realme C11
-download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0930_all_wkNsTu5frhBK.ozip
-md5: B49F10917764C49AC20173F78A339548
+download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0950_all_ok8HDIbdVBGM.ozip
+md5: 407639B115C614D6263F83EFFD29766D
 region: Pakistan
-size: 3.22GB
+size: 3.21GB
 system: realme UI 1.0
-version: RMX2185_11_A.93
+version: RMX2185_11_A.95

@@ -1,17 +1,14 @@
 changelog: |
   **Security**:
-  ● Android security patch: April 2021
-  **Settings**:
-  ● Optimized the control center switch logic
-  ● Fixed the probabilistic issue that the phone ring tone is restored to the default ring tone
+  ● Android security patch: June ,2021
   **System**:
   ● Optimized the system performance and improved the system stability
 codename: RMX2061
-date: 30/4/2021
+date: 28/6/2021
 device: realme 6 Pro
-download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0490_all_9H9xNE9qL4rJ.ozip
-md5: DED678BF6B5F93EFA79AC5C50617E768
+download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0510_all_sIlsTYh8m5d7.ozip
+md5: 628EE34C3533A4106B9EE1AAE45FCA4B
 region: India
 size: 3.63GB
 system: realme UI 1.0
-version: RMX2061_11.A.49
+version: RMX2061_11.A.51

@@ -234,21 +234,18 @@
   version: RMX2185_11_A.95
 - changelog: |
     **Security**:
-    ● Android security patch: April 2021
-    **Settings**:
-    ● Optimized the control center switch logic
-    ● Fixed the probabilistic issue that the phone ring tone is restored to the default ring tone
+    ● Android security patch: June ,2021
     **System**:
     ● Optimized the system performance and improved the system stability
   codename: RMX2061
-  date: 30/4/2021
+  date: 28/6/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0490_all_9H9xNE9qL4rJ.ozip
-  md5: DED678BF6B5F93EFA79AC5C50617E768
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0510_all_sIlsTYh8m5d7.ozip
+  md5: 628EE34C3533A4106B9EE1AAE45FCA4B
   region: India
   size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.49
+  version: RMX2061_11.A.51
 - changelog: |
     **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
@@ -321,34 +318,34 @@
   version: RMX2076PU_11.A.41
 - changelog: |
     **Security**:
-    ● Android security patch: April, 2021
+    ● Android security patch: June, 2021
     **System**:
     ● Optimized the system performance
     ● Optimized the system stability
   codename: RMX2001
-  date: 28/04/2021
+  date: 28/06/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0610_all_3wVabGimdPKY.ozip
-  md5: 2172BFC0F6364AB509F6DCF7A9A41523
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0630_all_XVGEZRK3yEPt.ozip
+  md5: 2DE8DB10A1E780239C900B0498DFE45F
   region: India
   size: 3.18GB
   system: realme UI 1.0
-  version: RMX2001_11.B.61
+  version: RMX2001_11.B.63
 - changelog: |
     **Security**:
-    ● Android security patch: April, 2021
+    ● Android security patch: June, 2021
     **System**:
     ● Optimized the system performance
     ● Optimized the system stability
   codename: RMX2001
-  date: 28/04/2021
+  date: 28/06/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0610_all_3wVabGimdPKY.ozip
-  md5: 2172BFC0F6364AB509F6DCF7A9A41523
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0630_all_XVGEZRK3yEPt.ozip
+  md5: 2DE8DB10A1E780239C900B0498DFE45F
   region: India
   size: 3.18GB
   system: realme UI 1.0
-  version: RMX2001_11.B.61
+  version: RMX2001_11.B.63
 - changelog: |
     **Security**:
     ● Updated Android security patch (2021#3 & 2021#4)

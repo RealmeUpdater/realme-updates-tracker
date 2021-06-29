@@ -1,14 +1,15 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch (2021#3 & 2021#4)
+  ● Android security patch: June, 2021
   **System**:
-  ● Fixed some known issues and improved stability
+  ● Optimized the system performance
+  ● Optimized the system stability
 codename: RMX2040
-date: 26/04/2021
+date: 26/06/2021
 device: realme Narzo 10
-download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0430_all_oVeBdzqNnC7V.ozip
-md5: E3349E4DF2A087C56AF14DF27D605B2D
+download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0470_all_gROvoIXPabkc.ozip
+md5: 649757EA475CD9A08834452F2DFCC1F3
 region: India
-size: 3.04GB
+size: 3.05GB
 system: realme UI 1.0
-version: RMX2040_11.A.43
+version: RMX2040_11.A.47

@@ -271,32 +271,34 @@
   version: RMX2081PU_11.A.51
 - changelog: |
     **Security**:
-    ● Updated Android security patch (2021#3 & 2021#4)
+    ● Android security patch: June, 2021
     **System**:
-    ● Fixed some known issues and improved stability
+    ● Optimized the system performance
+    ● Optimized the system stability
   codename: RMX2020
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme Narzo 10A
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0610_all_XFbRj8Z7OYqt.ozip
-  md5: DF9EA46D8595715626C4271D9B60CFA8
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0630_all_gHv1jngWsREz.ozip
+  md5: FB1AD16871A9C166B5E04FF1449873C0
+  region: India
+  size: 3.06GB
+  system: realme UI 1.0
+  version: RMX2020_11.A.63
+- changelog: |
+    **Security**:
+    ● Android security patch: June, 2021
+    **System**:
+    ● Optimized the system performance
+    ● Optimized the system stability
+  codename: RMX2040
+  date: 26/06/2021
+  device: realme Narzo 10
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0470_all_gROvoIXPabkc.ozip
+  md5: 649757EA475CD9A08834452F2DFCC1F3
   region: India
   size: 3.05GB
   system: realme UI 1.0
-  version: RMX2020_11.A.61
-- changelog: |
-    **Security**:
-    ● Updated Android security patch (2021#3 & 2021#4)
-    **System**:
-    ● Fixed some known issues and improved stability
-  codename: RMX2040
-  date: 26/04/2021
-  device: realme Narzo 10
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0430_all_oVeBdzqNnC7V.ozip
-  md5: E3349E4DF2A087C56AF14DF27D605B2D
-  region: India
-  size: 3.04GB
-  system: realme UI 1.0
-  version: RMX2040_11.A.43
+  version: RMX2040_11.A.47
 - changelog: |
     **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
@@ -348,18 +350,19 @@
   version: RMX2001_11.B.63
 - changelog: |
     **Security**:
-    ● Updated Android security patch (2021#3 & 2021#4)
+    ● Android security patch: June, 2021
     **System**:
-    ● Fixed some known issues and improved stability
+    ● Optimized the system performance
+    ● Optimized the system stability
   codename: RMX2020
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0610_all_XFbRj8Z7OYqt.ozip
-  md5: DF9EA46D8595715626C4271D9B60CFA8
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0630_all_gHv1jngWsREz.ozip
+  md5: FB1AD16871A9C166B5E04FF1449873C0
   region: India
-  size: 3.05GB
+  size: 3.06GB
   system: realme UI 1.0
-  version: RMX2020_11.A.61
+  version: RMX2020_11.A.63
 - changelog: |
     **Security**:
     ● Updated Android security patch: April & May, 2021

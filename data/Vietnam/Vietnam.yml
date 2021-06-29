@@ -168,32 +168,32 @@
   version: RMX2001_11.B.63
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2021#3 & 2021#4)
+    ● Cập nhật bản vá bảo mật Android: (2021#6)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2020
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme C3i
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0610_all_XFbRj8Z7OYqt.ozip
-  md5: DF9EA46D8595715626C4271D9B60CFA8
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0630_all_gHv1jngWsREz.ozip
+  md5: FB1AD16871A9C166B5E04FF1449873C0
   region: Vietnam
-  size: 3.05GB
+  size: 3.06GB
   system: realme UI 1.0
-  version: RMX2020_11.A.61
+  version: RMX2020_11.A.63
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2021#3 & 2021#4)
+    ● Cập nhật bản vá bảo mật Android: (2021#6)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2020
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme C3
-  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0610_all_XFbRj8Z7OYqt.ozip
-  md5: DF9EA46D8595715626C4271D9B60CFA8
+  download: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0630_all_gHv1jngWsREz.ozip
+  md5: FB1AD16871A9C166B5E04FF1449873C0
   region: Vietnam
-  size: 3.05GB
+  size: 3.06GB
   system: realme UI 1.0
-  version: RMX2020_11.A.61
+  version: RMX2020_11.A.63
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#4 & 2021#5)

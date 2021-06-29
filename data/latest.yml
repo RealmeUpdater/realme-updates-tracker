@@ -435,18 +435,18 @@
   version: RMX2081EU_11.A.50
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android:abril de 2021
+    ● Parche de seguridad de Android:junio de 2021
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2001EU
-  date: 28/04/2021
+  date: 28/06/2021
   device: realme 6s
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0540_all_iBglPa94Nfnx.ozip
-  md5: 1B24FCEEB9E25EB41476D4B86A606C7E
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0560_all_QRxpCVoRNFOD.ozip
+  md5: BBB284D85FAAF26CA2E2FBA716A47606
   region: Spain
   size: 2.85GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.54
+  version: RMX2001EU_11.A.56
 - changelog: |
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
@@ -1776,18 +1776,18 @@
   version: RMX2061_11.A.51
 - changelog: |
     **Keamanan**:
-    ● Android security patch: April 2021
+    ● Tingkat Android Security Patch: Juni 2021
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2001
-  date: 28/04/2021
+  date: 28/06/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0610_all_3wVabGimdPKY.ozip
-  md5: 2172BFC0F6364AB509F6DCF7A9A41523
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0630_all_XVGEZRK3yEPt.ozip
+  md5: 2DE8DB10A1E780239C900B0498DFE45F
   region: Indonesia
   size: 3.18GB
   system: realme UI 1.0
-  version: RMX2001_11.B.61
+  version: RMX2001_11.B.63
 - changelog: |
     **Keamanan**:
     ● Android security patch: Maret & April 2021
@@ -2213,19 +2213,19 @@
   version: RMX2061_11.A.51
 - changelog: |
     **Security**:
-    ● Android security patch: April, 2021
+    ● Android security patch: June, 2021
     **System**:
     ● Optimized the system performance
     ● Optimized the system stability
   codename: RMX2001
-  date: 28/04/2021
+  date: 28/06/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0610_all_3wVabGimdPKY.ozip
-  md5: 2172BFC0F6364AB509F6DCF7A9A41523
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0630_all_XVGEZRK3yEPt.ozip
+  md5: 2DE8DB10A1E780239C900B0498DFE45F
   region: Pakistan
   size: 3.18GB
   system: realme UI 1.0
-  version: RMX2001_11.B.61
+  version: RMX2001_11.B.63
 - changelog: |
     **Security**:
     ● Updated Android security patch (2021#3 & 2021#4)
@@ -2495,18 +2495,18 @@
   version: RMX2001_11.B.61
 - changelog: |
     **Безопасность**:
-    ● Исправление для системы безопасности ОС Android: апрель, 2021 г.
+    ● Исправление для системы безопасности ОС Android: июня, 2021 г.
     **Система:**:
     ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2001
-  date: 28/04/2021
+  date: 28/06/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0610_all_3wVabGimdPKY.ozip
-  md5: 2172BFC0F6364AB509F6DCF7A9A41523
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0630_all_XVGEZRK3yEPt.ozip
+  md5: 2DE8DB10A1E780239C900B0498DFE45F
   region: Russia
   size: 3.18GB
   system: realme UI 1.0
-  version: RMX2001_11.B.61
+  version: RMX2001_11.B.63
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности Android за апрель 2021 г.
@@ -2717,18 +2717,18 @@
   version: RMX2030EU_11_C.62
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2021#4)
+    ● Güncel Android güvenlik yaması (2021#6)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2001EU
-  date: 28/04/2021
+  date: 28/06/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0540_all_iBglPa94Nfnx.ozip
-  md5: 1B24FCEEB9E25EB41476D4B86A606C7E
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0560_all_QRxpCVoRNFOD.ozip
+  md5: BBB284D85FAAF26CA2E2FBA716A47606
   region: Turkey
   size: 2.85GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.54
+  version: RMX2001EU_11.A.56
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#4 & 2021#5)
@@ -2941,18 +2941,18 @@
   version: RMX2040_11.A.43
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 4, 2021
+    ● Cập nhật bản vá bảo mật Android: Tháng 6, 2021
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2001
-  date: 28/04/2021
+  date: 28/06/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0610_all_3wVabGimdPKY.ozip
-  md5: 2172BFC0F6364AB509F6DCF7A9A41523
+  download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0630_all_XVGEZRK3yEPt.ozip
+  md5: 2DE8DB10A1E780239C900B0498DFE45F
   region: Vietnam
   size: 3.18GB
   system: realme UI 1.0
-  version: RMX2001_11.B.61
+  version: RMX2001_11.B.63
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#3 & 2021#4)

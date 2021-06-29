@@ -1,14 +1,14 @@
 changelog: |
   **Безопасность**:
-  ● Исправление для системы безопасности ОС Android: апрель, 2021 г.
+  ● Исправление для системы безопасности ОС Android: июня, 2021 г.
   **Система:**:
   ● Исправлено известных ошибок, улучшена стабильность системы.
 codename: RMX2001
-date: 28/04/2021
+date: 28/06/2021
 device: realme 6
-download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0610_all_3wVabGimdPKY.ozip
-md5: 2172BFC0F6364AB509F6DCF7A9A41523
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0630_all_XVGEZRK3yEPt.ozip
+md5: 2DE8DB10A1E780239C900B0498DFE45F
 region: Russia
 size: 3.18GB
 system: realme UI 1.0
-version: RMX2001_11.B.61
+version: RMX2001_11.B.63

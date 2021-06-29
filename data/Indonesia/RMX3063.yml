@@ -1,14 +1,15 @@
 changelog: |
+  **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
   **Keamanan**:
-  ● Patch keamanan Android yang diperbarui: Mei 2021
+  ● Patch keamanan Android yang diperbarui: Juni 2021
   **Sistem**:
   ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
 codename: RMX3063
-date: 29/5/2021
+date: 28/6/2021
 device: realme C21
-download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
-md5: 7809E39870B9DE1CB87D104DD27CE678
+download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0390_all_TUBy5Hds0Vcx.ozip
+md5: A7F20BF42ABECE43D35879A7B79F4D68
 region: Indonesia
 size: 3.5GB
 system: realme UI 1.0
-version: RMX3063_11_A.37
+version: RMX3063_11_A.39

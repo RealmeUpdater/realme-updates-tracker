@@ -29,34 +29,34 @@
   version: RMX3171_11.A.15
 - changelog: |
     **Security**:
-    ● Updated Android security patch: May, 2021
+    ● Updated Android security patch: June, 2021
     **System**:
     ● Fix some known issues
     ● Optimized system stability
   codename: RMX3201
-  date: 29/5/2021
+  date: 28/6/2021
   device: realme C21
-  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
-  md5: 7809E39870B9DE1CB87D104DD27CE678
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0390_all_TUBy5Hds0Vcx.ozip
+  md5: A7F20BF42ABECE43D35879A7B79F4D68
   region: India
   size: 3.5GB
   system: realme UI 1.0
-  version: RMX3201_11_A.37
+  version: RMX3201_11_A.39
 - changelog: |
     **Security**:
-    ● Updated Android security patch: May, 2021
+    ● Updated Android security patch: June, 2021
     **System**:
     ● Fix some known issues
     ● Optimized system stability
   codename: RMX3061
-  date: 29/5/2021
+  date: 28/6/2021
   device: realme C20
-  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
-  md5: 7809E39870B9DE1CB87D104DD27CE678
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0390_all_TUBy5Hds0Vcx.ozip
+  md5: A7F20BF42ABECE43D35879A7B79F4D68
   region: India
   size: 3.5GB
   system: realme UI 1.0
-  version: RMX3061_11_A.37
+  version: RMX3061_11_A.39
 - changelog: |
     **System**:
     ● Fixed the probabilistic issue of crashing and restarting

@@ -130,17 +130,19 @@
   system: realme UI 1.0
   version: RMX2081PU_11.A.51
 - changelog: |
-    **Fingerprints**:
-    ● Fixed the probabilistic issue of unable to identify fingerprints
+    **Security**:
+    ● Android security patch: June ,2021
+    **System**:
+    ● Optimized the system performance and improved the system stability
   codename: RMX2061
-  date: 5/3/2021
+  date: 28/6/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
-  md5: FAF21961BE7E2BDB7866DBA650028A54
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0510_all_sIlsTYh8m5d7.ozip
+  md5: 628EE34C3533A4106B9EE1AAE45FCA4B
   region: Pakistan
   size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.45
+  version: RMX2061_11.A.51
 - changelog: |
     **Security**:
     ● Android security patch: April, 2021

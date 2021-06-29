@@ -461,32 +461,32 @@
   version: RMX2076EU_11.A.42
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android(2021#4)
+    ● Parche de seguridad de Android(2021#6)
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2061EU
-  date: 30/4/2021
+  date: 28/6/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0420_all_xs7DxtZO44ga.ozip
-  md5: ED9CB000629F1AABE68DE42B71151875
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0440_all_H4twVQJ52h6g.ozip
+  md5: 004517A24B5D24E27AD9DC56EBAA5150
   region: Spain
   size: 3.30GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.42
+  version: RMX2061EU_11.A.44
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android:abril de 2021
+    ● Parche de seguridad de Android:junio de 2021
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2001EU
-  date: 28/04/2021
+  date: 28/06/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0540_all_iBglPa94Nfnx.ozip
-  md5: 1B24FCEEB9E25EB41476D4B86A606C7E
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0560_all_QRxpCVoRNFOD.ozip
+  md5: BBB284D85FAAF26CA2E2FBA716A47606
   region: Spain
   size: 2.85GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.54
+  version: RMX2001EU_11.A.56
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: Marzo & Abril 2021
@@ -1761,17 +1761,19 @@
   system: realme UI 1.0
   version: RMX2076PU_11.A.43
 - changelog: |
+    **Keamanan**:
+    ● Tingkat Android Security Patch:Juni 2021
     **Sistem**:
-    ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
+    ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2061
-  date: 5/3/2021
+  date: 28/6/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
-  md5: FAF21961BE7E2BDB7866DBA650028A54
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0510_all_sIlsTYh8m5d7.ozip
+  md5: 628EE34C3533A4106B9EE1AAE45FCA4B
   region: Indonesia
   size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.45
+  version: RMX2061_11.A.51
 - changelog: |
     **Keamanan**:
     ● Android security patch: April 2021
@@ -2196,17 +2198,19 @@
   system: realme UI 1.0
   version: RMX2081PU_11.A.51
 - changelog: |
-    **Fingerprints**:
-    ● Fixed the probabilistic issue of unable to identify fingerprints
+    **Security**:
+    ● Android security patch: June ,2021
+    **System**:
+    ● Optimized the system performance and improved the system stability
   codename: RMX2061
-  date: 5/3/2021
+  date: 28/6/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0450_all_lw6LJOpb2D4r.ozip
-  md5: FAF21961BE7E2BDB7866DBA650028A54
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0510_all_sIlsTYh8m5d7.ozip
+  md5: 628EE34C3533A4106B9EE1AAE45FCA4B
   region: Pakistan
   size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.45
+  version: RMX2061_11.A.51
 - changelog: |
     **Security**:
     ● Android security patch: April, 2021
@@ -2421,18 +2425,18 @@
   version: RMX2151PU_11.A.75
 - changelog: |
     **Безопасность**:
-    ● Обновлены патчи безопасности Android за апреля 2021 года.
+    ● Обновлены патчи безопасности Android за июнь 2021 года.
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
   codename: RMX2061
-  date: 30/4/2021
+  date: 28/6/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0490_all_9H9xNE9qL4rJ.ozip
-  md5: DED678BF6B5F93EFA79AC5C50617E768
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0510_all_sIlsTYh8m5d7.ozip
+  md5: 628EE34C3533A4106B9EE1AAE45FCA4B
   region: Russia
   size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.49
+  version: RMX2061_11.A.51
 - changelog: |
     **Безопасность**:
     ● Исправление безопасности Android: Люты & Марш 2021
@@ -2669,18 +2673,20 @@
   size: 2.74GB
   system: realme UI 1.0
   version: RMX2020EU_11.A.54
-- changelog: '**Bu sürüme Android yaması eklendi ve bazı bilinen sorunlar giderildi.**:
-
-    '
+- changelog: |
+    **Güvenlik**:
+    ● Android güvenlik yaması(2021#6)
+    **Sistem**:
+    ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2061EU
-  date: 30/4/2021
+  date: 28/6/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0420_all_xs7DxtZO44ga.ozip
-  md5: ED9CB000629F1AABE68DE42B71151875
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0440_all_H4twVQJ52h6g.ozip
+  md5: 004517A24B5D24E27AD9DC56EBAA5150
   region: Turkey
   size: 3.30GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.42
+  version: RMX2061EU_11.A.44
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#3 & 2021#4)
@@ -2907,18 +2913,18 @@
   version: RMX2185_11_A.95
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: tháng 4 năm 2021
+    ● Cập nhật bản vá bảo mật Android: tháng 6 năm 2021
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2061
-  date: 30/4/2021
+  date: 28/6/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0490_all_9H9xNE9qL4rJ.ozip
-  md5: DED678BF6B5F93EFA79AC5C50617E768
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0510_all_sIlsTYh8m5d7.ozip
+  md5: 628EE34C3533A4106B9EE1AAE45FCA4B
   region: Vietnam
   size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.49
+  version: RMX2061_11.A.51
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#3 & 2021#4)

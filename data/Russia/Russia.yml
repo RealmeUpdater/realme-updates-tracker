@@ -56,18 +56,18 @@
   version: RMX2151PU_11.A.75
 - changelog: |
     **Безопасность**:
-    ● Обновлены патчи безопасности Android за апреля 2021 года.
+    ● Обновлены патчи безопасности Android за июнь 2021 года.
     **Система**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
   codename: RMX2061
-  date: 30/4/2021
+  date: 28/6/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0490_all_9H9xNE9qL4rJ.ozip
-  md5: DED678BF6B5F93EFA79AC5C50617E768
+  download: https://download.c.realme.com/osupdate/RMX2061_11_OTA_0510_all_sIlsTYh8m5d7.ozip
+  md5: 628EE34C3533A4106B9EE1AAE45FCA4B
   region: Russia
   size: 3.63GB
   system: realme UI 1.0
-  version: RMX2061_11.A.49
+  version: RMX2061_11.A.51
 - changelog: |
     **Безопасность**:
     ● Исправление безопасности Android: Люты & Марш 2021

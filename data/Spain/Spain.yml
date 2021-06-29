@@ -96,32 +96,32 @@
   version: RMX2076EU_11.A.42
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android(2021#4)
+    ● Parche de seguridad de Android(2021#6)
     **Sistema**:
     ● Se han solucionado algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2061EU
-  date: 30/4/2021
+  date: 28/6/2021
   device: realme 6 Pro
-  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0420_all_xs7DxtZO44ga.ozip
-  md5: ED9CB000629F1AABE68DE42B71151875
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0440_all_H4twVQJ52h6g.ozip
+  md5: 004517A24B5D24E27AD9DC56EBAA5150
   region: Spain
   size: 3.30GB
   system: realme UI 1.0
-  version: RMX2061EU_11.A.42
+  version: RMX2061EU_11.A.44
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android:abril de 2021
+    ● Parche de seguridad de Android:junio de 2021
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2001EU
-  date: 28/04/2021
+  date: 28/06/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0540_all_iBglPa94Nfnx.ozip
-  md5: 1B24FCEEB9E25EB41476D4B86A606C7E
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0560_all_QRxpCVoRNFOD.ozip
+  md5: BBB284D85FAAF26CA2E2FBA716A47606
   region: Spain
   size: 2.85GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.54
+  version: RMX2001EU_11.A.56
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: Marzo & Abril 2021

@@ -4,11 +4,11 @@ changelog: |
   **Система:**:
   ● Исправлено несколько известных ошибок, улучшена стабильность системы.
 codename: RMX3201
-date: 29/5/2021
+date: 28/6/2021
 device: realme C20
-download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0370_all_kulEbKthz6wB.ozip
-md5: 7809E39870B9DE1CB87D104DD27CE678
+download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0390_all_TUBy5Hds0Vcx.ozip
+md5: A7F20BF42ABECE43D35879A7B79F4D68
 region: Russia
 size: 3.5GB
 system: realme UI 1.0
-version: RMX3201_11_A.37
+version: RMX3201_11_A.39

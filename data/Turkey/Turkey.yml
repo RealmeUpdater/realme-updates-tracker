@@ -42,18 +42,18 @@
   version: RMX2185EU_11_A.64
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2021#3 & 2021#4)
+    ● Güncel Android güvenlik yaması (2021#6)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2020EU
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme C3
-  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0540_all_4hcQToytKwak.ozip'
-  md5: 950BBEFB062224BD5E0DDEC0EB32318A
+  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0560_all_vcH2E7b16MZA.ozip'
+  md5: 5DCC21E7EA059DD5446DEE8D3E3011D9
   region: Turkey
   size: 2.74GB
   system: realme UI 1.0
-  version: RMX2020EU_11.A.54
+  version: RMX2020EU_11.A.56
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması(2021#6)
@@ -70,18 +70,18 @@
   version: RMX2061EU_11.A.44
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2021#3 & 2021#4)
+    ● Güncel Android güvenlik yaması (2021#6)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2040EU
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0420_all_Pwm6DzvbPlqp.ozip
-  md5: 33E8A7F588016FC2CF2CC276D3509756
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0460_all_vo23L55B8z0B.ozip
+  md5: C13097C7A16DAD7BF06244A16187B477
   region: Turkey
   size: 2.73GB
   system: realme UI 1.0
-  version: RMX2040EU_11.A.42
+  version: RMX2040EU_11.A.46
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#4 & 2021#5)

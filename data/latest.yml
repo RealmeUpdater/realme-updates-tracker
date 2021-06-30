@@ -489,18 +489,18 @@
   version: RMX2001EU_11.A.56
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: Marzo & Abril 2021
+    ● Parche de seguridad de Android:junio de 2021
     **Sistema**:
     ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
   codename: RMX2040EU
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0420_all_Pwm6DzvbPlqp.ozip
-  md5: 33E8A7F588016FC2CF2CC276D3509756
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0460_all_vo23L55B8z0B.ozip
+  md5: C13097C7A16DAD7BF06244A16187B477
   region: Spain
   size: 2.73GB
   system: realme UI 1.0
-  version: RMX2040EU_11.A.42
+  version: RMX2040EU_11.A.46
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: abril 2021 & Mayo 2021
@@ -2232,18 +2232,19 @@
   version: RMX2001_11.B.63
 - changelog: |
     **Security**:
-    ● Updated Android security patch (2021#3 & 2021#4)
+    ● Android security patch: June, 2021
     **System**:
-    ● Fixed some known issues and improved stability
+    ● Optimized the system performance
+    ● Optimized the system stability
   codename: RMX2040
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0430_all_oVeBdzqNnC7V.ozip
-  md5: E3349E4DF2A087C56AF14DF27D605B2D
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0470_all_gROvoIXPabkc.ozip
+  md5: 649757EA475CD9A08834452F2DFCC1F3
   region: Pakistan
-  size: 3.04GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2040_11.A.43
+  version: RMX2040_11.A.47
 - changelog: |
     **Security**:
     ● Android security patch: June, 2021
@@ -2472,18 +2473,18 @@
   version: RMX2185_11_A.95
 - changelog: |
     **Безопасность**:
-    ● Исправление для системы безопасности Android за апрель 2021 г.
+    ● Исправление для системы безопасности ОС Android: июня, 2021 г.
     **Система:**:
     ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2040
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0430_all_oVeBdzqNnC7V.ozip
-  md5: E3349E4DF2A087C56AF14DF27D605B2D
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0470_all_gROvoIXPabkc.ozip
+  md5: 649757EA475CD9A08834452F2DFCC1F3
   region: Russia
-  size: 3.04GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2040_11.A.43
+  version: RMX2040_11.A.47
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности ОС Android: июня, 2021 г.
@@ -2666,18 +2667,18 @@
   version: RMX2185EU_11_A.64
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2021#3 & 2021#4)
+    ● Güncel Android güvenlik yaması (2021#6)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2020EU
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme C3
-  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0540_all_4hcQToytKwak.ozip'
-  md5: 950BBEFB062224BD5E0DDEC0EB32318A
+  download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0560_all_vcH2E7b16MZA.ozip'
+  md5: 5DCC21E7EA059DD5446DEE8D3E3011D9
   region: Turkey
   size: 2.74GB
   system: realme UI 1.0
-  version: RMX2020EU_11.A.54
+  version: RMX2020EU_11.A.56
 - changelog: |
     **Güvenlik**:
     ● Android güvenlik yaması(2021#6)
@@ -2694,18 +2695,18 @@
   version: RMX2061EU_11.A.44
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2021#3 & 2021#4)
+    ● Güncel Android güvenlik yaması (2021#6)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2040EU
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0420_all_Pwm6DzvbPlqp.ozip
-  md5: 33E8A7F588016FC2CF2CC276D3509756
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0460_all_vo23L55B8z0B.ozip
+  md5: C13097C7A16DAD7BF06244A16187B477
   region: Turkey
   size: 2.73GB
   system: realme UI 1.0
-  version: RMX2040EU_11.A.42
+  version: RMX2040EU_11.A.46
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#4 & 2021#5)
@@ -2932,18 +2933,18 @@
   version: RMX2061_11.A.51
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2021#3 & 2021#4)
+    ● Cập nhật bản vá bảo mật Android: (2021#6)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2040
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0430_all_oVeBdzqNnC7V.ozip
-  md5: E3349E4DF2A087C56AF14DF27D605B2D
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0470_all_gROvoIXPabkc.ozip
+  md5: 649757EA475CD9A08834452F2DFCC1F3
   region: Vietnam
-  size: 3.04GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2040_11.A.43
+  version: RMX2040_11.A.47
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: Tháng 6, 2021

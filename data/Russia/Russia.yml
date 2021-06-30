@@ -98,18 +98,18 @@
   version: RMX2185_11_A.95
 - changelog: |
     **Безопасность**:
-    ● Исправление для системы безопасности Android за апрель 2021 г.
+    ● Исправление для системы безопасности ОС Android: июня, 2021 г.
     **Система:**:
     ● Исправлено известных ошибок, улучшена стабильность системы.
   codename: RMX2040
-  date: 26/04/2021
+  date: 26/06/2021
   device: realme 6i
-  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0430_all_oVeBdzqNnC7V.ozip
-  md5: E3349E4DF2A087C56AF14DF27D605B2D
+  download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0470_all_gROvoIXPabkc.ozip
+  md5: 649757EA475CD9A08834452F2DFCC1F3
   region: Russia
-  size: 3.04GB
+  size: 3.05GB
   system: realme UI 1.0
-  version: RMX2040_11.A.43
+  version: RMX2040_11.A.47
 - changelog: |
     **Безопасность**:
     ● Исправление для системы безопасности ОС Android: июня, 2021 г.

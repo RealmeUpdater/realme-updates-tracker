@@ -1,17 +1,17 @@
 changelog: |
-  **系统**:
-  ● 优化 系统性能，提升系统稳定性
-  ● 优化 部分场景短信号码识别正确率
-  **应用**:
-  ● 修复 使用云服务系统返回功能时网络声明弹框消失的问题
-  **安全**:
-  ● 更新 Android安全补丁（2021#3&2021#4）
+  **【系统】**:
+  ● 优化 系统稳定性
+  ● 优化 软件更新界面配色逻辑
+  **【蓝牙】**:
+  ● 修复 连接蓝牙耳机播放音乐时，接听微信语音后音乐低概率不会继续播放的问题
+  **【安全】**:
+  ● 更新 Android安全补丁（2021#5 & 2021#6 ）
 codename: RMX1971
-date: 25/04/2021
+date: 01/07/2021
 device: realme Q
-download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_1130_all_SFJWUS1cmKb4.ozip
-md5: A59F48C66F33489A63323E191C8B001E
+download: https://download.c.realme.com/osupdate/RMX1971_11_OTA_1140_all_RPAoiPzVQtlc.ozip
+md5: 21CDDBEE6A7A9C6F383FD45850685E30
 region: China
 size: 3.10GB
 system: realme UI 1.0
-version: RMX1971_11.C.13
+version: RMX1971_11.C.14

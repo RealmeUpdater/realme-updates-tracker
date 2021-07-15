@@ -1,0 +1,56 @@
+- changelog: |
+    **សន្តិសុខ**:
+    ● បានធ្វើបច្ចុប្បន្នភាពបំណៈសន្តិសុខ Android (2020#12)
+    **ប្រព័ន្ធ**:
+    ● បានដោះស្រាយកំហុសដែលស្គាល់មួយចំនួន និងបានកែលម្អស្ថិរភាពរបស់ប្រព័ន្
+  codename: RMX2151PU
+  date: 25/12/2020
+  device: realme 7
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0750_all_P8oZH4WLmegj.ozip
+  md5: 195884974C1B276E0DCD6C48C26D2D72
+  region: Cambodia
+  size: 3.57GB
+  system: realme UI 1.0
+  version: RMX2151PU_11.A.75
+- changelog: |
+    **សន្តិសុខ**:
+    ● បានធ្វើបច្ចុប្បន្នភាពបំណៈសន្តិសុខ Android (2021#01)
+    **ប្រព័ន្ធ**:
+    ● បានដោះស្រាយកំហុសដែលស្គាល់មួយចំនួន និងបានកែលម្អស្ថិរភាពរបស់ប្រព័ន្
+  codename: RMX2170PU
+  date: 31/1/2021
+  device: realme 7 Pro
+  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0330_all_gtjL6QJe25sL.ozip
+  md5: A8A6F6033B057851D6603156C57395E4
+  region: Cambodia
+  size: 3.83GB
+  system: realme UI 1.0
+  version: RMX2170PU_11_A33
+- changelog: |
+    **សន្តិសុខ**:
+    ● បានធ្វើបច្ចុប្បន្នភាពបំណៈសន្តិសុខ Android (2020#12)
+    **ប្រព័ន្ធ**:
+    ● បានដោះស្រាយកំហុសដែលស្គាល់មួយចំនួន និងបានកែលម្អស្ថិរភាពរបស់ប្រព័ន្
+  codename: RMX2103PU
+  date: 10/12/2020
+  device: realme 7i
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
+  md5: 5C7E043C603C9BB32A5B74D6D5150676
+  region: Cambodia
+  size: 3.26GB
+  system: realme UI 1.0
+  version: RMX2103PU_11.A.35
+- changelog: |
+    **សន្តិសុខ**:
+    ● បានធ្វើបច្ចុប្បន្នភាពបំណៈសន្តិសុខ Android (2021#6)
+    **ប្រព័ន្ធ**:
+    ● បានដោះស្រាយកំហុសដែលស្គាល់មួយចំនួន និងបានកែលម្អស្ថិរភាពរបស់ប្រព័ន្
+  codename: RMX2185
+  date: 25/06/2021
+  device: realme C12
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0950_all_ok8HDIbdVBGM.ozip
+  md5: 407639B115C614D6263F83EFFD29766D
+  region: Cambodia
+  size: 3.21GB
+  system: realme UI 1.0
+  version: RMX2185_11_A.95

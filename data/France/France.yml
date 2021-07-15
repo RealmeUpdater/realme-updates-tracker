@@ -1,0 +1,122 @@
+- changelog: |
+    **Sécurité**:
+    ● Correctif de sécurité Android(2021#4)
+    **Système**:
+    ● Résolution de certains problèmes connus et amélioration de la stabilité du système
+  codename: RMX2170EU
+  date: 6/2/2021
+  device: realme 7 Pro
+  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0300_all_r65B0b2xK8YC.ozip
+  md5: 84DEE5BA73C34DCA0A02B31AE60D7B6F
+  region: France
+  size: 3.5GB
+  system: realme UI 1.0
+  version: RMX2170EU_11_A.30
+- changelog: |
+    **Système**:
+    ● Réparation de certains bogues et amélioration de la stabilité système
+  codename: RMX2191EU
+  date: 28/05/2021
+  device: realme 7i
+  download: https://download.c.realme.com/osupdate/RMX2191EU_11_OTA_0180_all_eZq32aq5HX9l.ozip
+  md5: 26a5db7df0b8a6f336b2a5e78c4d1a34
+  region: France
+  size: 3.08GB
+  system: realme UI 1.0
+  version: RMX2191EU_11.A.18
+- changelog: |
+    **Sécurité**:
+    ● Correctifs de sécurité Android: avril 2021
+    **Système**:
+    ● Réparation de certains bogues et amélioration de la stabilité système
+  codename: RMX2185EU
+  date: 25/04/2021
+  device: realme C11
+  download: https://download.c.realme.com/osupdate/RMX2185EU_11_OTA_0620_all_d7zN8Ou1DPpO.ozip
+  md5: 7C269BB7D017FD9EB931A525C6A364E9
+  region: France
+  size: 2.88GB
+  system: realme UI 1.0
+  version: RMX2185EU_11_A.62
+- changelog: |
+    **Sécurité**:
+    ● Correctif de sécurité Android:Mars. 2021
+    **Système**:
+    ● Problèmes connus partiellement résolus et stabilité améliorée du système
+  codename: RMX2081EU
+  date: 16/03/2021
+  device: realme X3 SuperZoom
+  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0500_all_13dgA7HU6szr.ozip
+  md5: 12ea8c0afa99669bf4c72f39346a2d90
+  region: France
+  size: 3.27GB
+  system: realme UI 1.0
+  version: RMX2081EU_11.A.50
+- changelog: |
+    **Système**:
+    ● Résolution de certains problèmes connus et amélioration de la stabilité du système
+  codename: RMX2076EU
+  date: 23/01/2021
+  device: realme X50 Pro
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0420_all_CzQ779yq9fLp.ozip
+  md5: 0477bd3605d9f0ca3c0f8839cf0dc3b9
+  region: France
+  size: 3.60GB
+  system: realmeUI 1.0
+  version: RMX2076EU_11.A.42
+- changelog: |
+    **Sécurité**:
+    ● Correctifs de sécurité Android: juin 2021
+    **Système**:
+    ● Réparation de certains bogues et amélioration de la stabilité système
+  codename: RMX1931EX
+  date: 30/6/2021
+  device: realme X2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1380_all_fXURbL0BfKor.ozip
+  md5: D3A586A2204FBD05A0808FB60C8550CF
+  region: France
+  size: 3.07GB
+  system: realme UI 1.0
+  version: RMX1931EX_11_C.38
+- changelog: |
+    **Sécurité**:
+    ● Correctif de sécurité Android:juin 2021
+    **Système**:
+    ● Réparation de certains bogues et amélioration de la stabilité système
+  codename: RMX2040EU
+  date: 26/06/2021
+  device: realme 6i
+  download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0460_all_vo23L55B8z0B.ozip
+  md5: C13097C7A16DAD7BF06244A16187B477
+  region: France
+  size: 2.73GB
+  system: realme UI 1.0
+  version: RMX2040EU_11.A.46
+- changelog: |
+    **Sécurité**:
+    ● Correctif de sécurité Android(2021#6)
+    **Système**:
+    ● Résolution de certains problèmes connus et amélioration de la stabilité du système
+  codename: RMX2061EU
+  date: 28/6/2021
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0440_all_H4twVQJ52h6g.ozip
+  md5: 004517A24B5D24E27AD9DC56EBAA5150
+  region: France
+  size: 3.30GB
+  system: realme UI 1.0
+  version: RMX2061EU_11.A.44
+- changelog: |
+    **Sécurité**:
+    ● Correctif de sécurité Android:juin 2021
+    **Système**:
+    ● Réparation de certains bogues et amélioration de la stabilité système
+  codename: RMX2001EU
+  date: 28/06/2021
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0560_all_QRxpCVoRNFOD.ozip
+  md5: BBB284D85FAAF26CA2E2FBA716A47606
+  region: France
+  size: 2.85GB
+  system: realme UI 1.0
+  version: RMX2001EU_11.A.56

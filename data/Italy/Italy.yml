@@ -1,0 +1,180 @@
+- changelog: |
+    **Sicurezza**:
+    ● Patch di sicurezza Android aggiornata (2021#01)
+    **Sistema**:
+    ● Sono stati corretti alcuni bug noti ed è stata migliorata la stabilità del sistema
+  codename: RMX2170EU
+  date: 6/2/2021
+  device: realme 7 Pro
+  download: https://download.c.realme.com/osupdate/RMX2170EU_11_OTA_0300_all_r65B0b2xK8YC.ozip
+  md5: 84DEE5BA73C34DCA0A02B31AE60D7B6F
+  region: Italy
+  size: 3.5GB
+  system: realme UI 1.0
+  version: RMX2170EU_11_A.30
+- changelog: |
+    **Sicurezza**:
+    ● Patch di sicurezza Android aggiornata (2021#2)
+    **Sistema**:
+    ● Sono stati corretti alcuni bug noti ed è stata migliorata la stabilità del sistema
+  codename: RMX2151EU
+  date: 11/3/2021
+  device: realme 7
+  download: https://download.c.realme.com/osupdate/RMX2151EU_11_OTA_0840_all_2X7eEdsxeXkB.ozip
+  md5: EE5147CEA6DCFE36D061F098F83061A2
+  region: Italy
+  size: 3.24GB
+  system: realme UI 1.0
+  version: RMX2151EU_11.A.84
+- changelog: |
+    **Sistema**:
+    ● Patch di sicurezza Android（2021#4）
+    **Sistema**:
+    ● Sono stati corretti alcuni bug noti ed è stata migliorata la stabilità del sistema
+  codename: RMX2144EU
+  date: 15/05/2021
+  device: realme X50
+  download: https://download.c.realme.com/osupdate/RMX2144EU_11_OTA_0250_all_9t6CcvqMHEmk.ozip
+  md5: 8466038FA7B55279735DFFD5C09304EB
+  region: Italy
+  size: 3.50GB
+  system: realme UI 1.0
+  version: RMX2144EU_11.A.25
+- changelog: |
+    **Sicurezza**:
+    ● Patch di sicurezza Android aggiornata (2021 Mar)
+    **Sistema**:
+    ● Risoluzione di alcuni problemi noti e stabilità di sistema migliorata
+  codename: RMX2081EU
+  date: 16/03/2021
+  device: realme X3 SuperZoom
+  download: https://download.c.realme.com/osupdate/RMX2081EU_11_OTA_0500_all_13dgA7HU6szr.ozip
+  md5: 12ea8c0afa99669bf4c72f39346a2d90
+  region: Italy
+  size: 3.27GB
+  system: realme UI 1.0
+  version: RMX2081EU_11.A.50
+- changelog: |
+    **Sicurezza**:
+    ● Patch di sicurezza Android aggiornata (2021 n.6)
+    **Sistema**:
+    ● Sono stati corretti alcuni bug noti ed è stata migliorata la stabilità del sistema
+  codename: RMX2001EU
+  date: 28/06/2021
+  device: realme 6s
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0560_all_QRxpCVoRNFOD.ozip
+  md5: BBB284D85FAAF26CA2E2FBA716A47606
+  region: Italy
+  size: 2.85GB
+  system: realme UI 1.0
+  version: RMX2001EU_11.A.56
+- changelog: |
+    **Sistema**:
+    ● Risoluzione di alcuni problemi noti e stabilità di sistema migliorata
+  codename: RMX2076EU
+  date: 23/01/2021
+  device: realme X50 Pro
+  download: https://download.c.realme.com/osupdate/RMX2076EU_11_OTA_0420_all_CzQ779yq9fLp.ozip
+  md5: 0477bd3605d9f0ca3c0f8839cf0dc3b9
+  region: Italy
+  size: 3.60GB
+  system: realme UI 1.0
+  version: RMX2076EU_11.A.42
+- changelog: |
+    **Sicurezza**:
+    ● Patch di sicurezza Android(2021#6)
+    **Sistema**:
+    ● Risoluzione di alcuni problemi noti e stabilità di sistema migliorata
+  codename: RMX2061EU
+  date: 28/6/2021
+  device: realme 6 Pro
+  download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0440_all_H4twVQJ52h6g.ozip
+  md5: 004517A24B5D24E27AD9DC56EBAA5150
+  region: Italy
+  size: 3.30GB
+  system: realme UI 1.0
+  version: RMX2061EU_11.A.44
+- changelog: |
+    **Sicurezza**:
+    ● Patch di sicurezza Android aggiornata (2021 n.6)
+    **Sistema**:
+    ● Sono stati corretti alcuni bug noti ed è stata migliorata la stabilità del sistema
+  codename: RMX2001EU
+  date: 28/06/2021
+  device: realme 6
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0560_all_QRxpCVoRNFOD.ozip
+  md5: BBB284D85FAAF26CA2E2FBA716A47606
+  region: Italy
+  size: 2.85GB
+  system: realme UI 1.0
+  version: RMX2001EU_11.A.56
+- changelog: |
+    **Sicurezza**:
+    ● Patch di sicurezza Android aggiornata (2020 n.7)
+    **Sistema**:
+    ● Risoluzione di alcuni problemi noti e stabilità di sistema migliorata
+  codename: RMX2040EU
+  date: 15/8/2020
+  device: realme 6i
+  download: ' https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0240_all_oIFexgF8hvl1.ozip'
+  md5: 0C1545C0A5A6C01D3193354A61336E4D
+  region: Italy
+  size: 2.6GB
+  system: realme UI 1.0
+  version: RMX2040EU_11.A.24
+- changelog: |
+    **Sicurezza**:
+    ● Patch di sicurezza Android aggiornata (2021#6)
+    **Sistema**:
+    ● Sono stati corretti alcuni bug noti ed è stata migliorata la stabilità del sistema
+  codename: RMX1931EX
+  date: 30/6/2021
+  device: realme X2 Pro
+  download: https://download.c.realme.com/osupdate/RMX1931EX_11_OTA_1380_all_fXURbL0BfKor.ozip
+  md5: D3A586A2204FBD05A0808FB60C8550CF
+  region: Italy
+  size: 3.07GB
+  system: realme UI 1.0
+  version: RMX1931EX_11_C.38
+- changelog: |
+    **Sicurezza**:
+    ● Patch di sicurezza Android aggiornata (2021 n.4 & 2021 n.5)
+    **Sistema**:
+    ● Risoluzione di alcuni problemi noti e stabilità di sistema migliorata
+  codename: RMX1971EX
+  date: 28/5/2021
+  device: realme 5 Pro
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1140_all_D5PMgyC9kHe5.ozip
+  md5: B24A0E484289F66D218F0AFE7ABC100C
+  region: Italy
+  size: 3.26GB
+  system: realme UI 1.0
+  version: RMX1971EX_11.C.14
+- changelog: |
+    **Sicurezza**:
+    ● Patch di sicurezza Android aggiornata (2021 n.4 & 2021 n.5)
+    **Sistema**:
+    ● Risoluzione di alcuni problemi noti e stabilità di sistema migliorata
+  codename: RMX1911EU
+  date: 25/05/2021
+  device: realme 5
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1620_all_LxJWCcZJkRjF.ozip
+  md5: 1ACF905B25F3123AB7AA979CD4D0026A
+  region: Italy
+  size: 2.65GB
+  system: realme UI 1.0
+  version: RMX1911EU_11_C.62
+- changelog: |
+    **Sicurezza**:
+    ● Patch di sicurezza Android aggiornata (2021#4 & 2021#5)
+    **Sistema**:
+    ● Risoluzione di alcuni problemi noti e stabilità di sistema migliorata
+  codename: RMX1993EX
+  date: 29/05/2021
+  device: realme X2
+  download: https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1140_all_opS4dEFLTIaw.ozip
+  md5: BBC4E7C5924DA6316428DBAFE2E4DD3D
+  region: Italy
+  size: 3.14GB
+  system: realme UI 1.0
+  version: RMX1993EX_11.C.14

@@ -1,0 +1,67 @@
+changelog: |
+  **[Vizuální]**:
+  **• Aktualizováno uživatelské prostředí na realme UI**:
+  **• Zcela nový Real Design zvyšuje atraktivitu a efektivitu provozu.**:
+  **[Inteligentní postranní panel]**:
+  **• Optimalizované uživatelské rozhraní a vylepšené ovládání jednou rukou.**:
+  **• Optimalizovaný inteligentní postranní panel: Souborová konzole nahrazena Správcem souborů; odstraněny vizuální efekty OSIE a beznotifikační upozornění.**:
+  **• Přetáhněte aplikaci z inteligentního postranního panelu a otevřete ji v režimu rozdělení obrazovky.**:
+  **• Přidány dvě nové funkce: „Neprůhlednost Pomocné kuličky“ a „Zkrytí Pomocné Kuličky V Aplikacích“.**:
+  **• Optimalizována funkce plovoucího okna pro více aplikací.**:
+  **• Přidané bubliny: Při otevření aplikace v plovoucím okně z inteligentního postranního panelu se zobrazí bublina. Klepnutím na bublinu zavřete nebo otevřete aplikaci.**:
+  **[Snímek obrazovky]**:
+  **• Optimalizován snímek obrazovky třemi prsty: Pomocí 3 prstů se dotkněte, podržte obrazovku a přejeďte prstem pro pořízení snímku vybrané části obrazovky (částečné snímání obrazovky). Pomocí 3 prstů se dotkněte, podržte obrazovku a přejeďte prsty směrem ven, abyste zachytili dlouhý snímek obrazovky.**:
+  **• Přidané nastavení obrazovky: Můžete upravit polohu plovoucího okna náhledu snímku a nastavit zvuk snímání**:
+  **• Optimalizované plovoucí okno náhledu obrazovky: Po pořízení snímku jej přetáhněte nahoru a uvolněte pro sdílení, nebo jej přetáhněte dolů a uvolněte pro vytvoření dlouhého snímku.**:
+  **[Navigační gesta 3.0]**:
+  **• Optimalizovaná gesta: Všechna gesta jsou podporována v režimu na šířku.**:
+  **[Systém]**:
+  **• Přidán režim soustředění: Minimalizuje vnější rozptylování, když se učíte nebo pracujete.**:
+  **• Přidána nová animace nabíjení.**:
+  **• Optimalizované uživatelské rozhraní Rychlého nastavení pro snadnější obsluhu jednou rukou.**:
+  **• Přidána funkce pauzy pro nahrávání obrazovky.**:
+  **• Přidáno plovoucí okno a nastavení pro nahrávání obrazovky.**:
+  **• Přidány nové zvuky pro mazání souborů, stisknutí kláves kalkulačky a ukazatel kompasu.**:
+  **• Optimalizovaný systém vestavěných vyzváněcích tónů.**:
+  **• Přidány plovoucí výzvy TalkBacku pro usnadnění přístupu.**:
+  **• Nová funkce správy posledních úkolů: Můžete si prohlédnout paměť posledních úkolů a uzamčených aplikací.**:
+  **[Hry]**:
+  **• Optimalizovaná vizuální interakce pro aplikaci Game Space.**:
+  **• Optimalizovano načítání animace pro aplikaci Game Space.**:
+  **[Domovská obrazovka]**:
+  **• Přidány nové živé tapety.**:
+  **• Přidány umělecké tapety.**:
+  **• Přidána možnost otevřít Globální vyhledávání nebo panel oznámení při přejetí prstem po úvodní obrazovce.**:
+  **• Přidána možnost přizpůsobit velikost, tvar a styl ikon aplikací na úvodní obrazovce.**:
+  **• Optimalizovaný grafický design odemykání heslem pro usnadnění obsluhy jednou rukou.**:
+  **• Podpora animovaných tapet na zamčené obrazovce**:
+  **• Přidán jednoduchý režim pro úvodní obrazovku s většími písmy, ikonami a jasnějším rozvržením.**:
+  **[Zabezpečení]**:
+  **• Generátor náhodných MAC adres: Když je váš telefon připojen k síti Wi-Fi, vygeneruje náhodnou MAC adresu, aby se zabránilo cíleným reklamám a bylo tak chráněno vaše soukromí.**:
+  **[Nástroje]**:
+  **• V Rychlém nastavení nebo Inteligentním postranním panelu můžete otevřít kalkulačku v plovoucím okně.**:
+  **• Přidána funkce oříznutí v Nahrávkách.**:
+  **• Added the Weather (dynamic) ringtone, which automatically adapts to the current weather.**:
+  **• Přidán vyzváněcí tón Počasí (dynamický), který se automaticky přizpůsobí aktuálnímu počasí.**:
+  **[Kamera]**:
+  **• Optimalizováno uživatelské rozhraní Kamery pro lepší uživatelský dojem z ovládání.**:
+  **• Optimalizováno uživatelské rozhraní Časovače a zvuk.**:
+  **[Foto]**:
+  **• Optimalizováno uživatelské rozhraní alba pro jasnější strukturu a miniatury fotografií.**:
+  **• Přidána doporučení alba, která rozpoznávají více než 80 různých scén.**:
+  **[komunikace]**:
+  **• realme Share nyní podporuje sdílení souborů se zařízeními OPPO, Vivo a Xiaomi.**:
+  **• Optimalizováno uživatelské rozhraní Kontakty pro efektivnější používání**:
+  **[Nastavení]**:
+  **• Vyhledávání v Nastavení nyní podporuje shodu a obsahuje historii vyhledávání.**:
+  **[Hudba]**:
+  **• Přidáno sdílení hudby v duálním režimu v realme Lab**:
+codename: RMX1993EX
+date: 18/4/2020
+device: realme X2
+download: ' https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1020_all_EZb4s7SEJ7lk.ozip'
+md5: e18206062ecb09929f94fc96c72d129e
+region: Czech
+size: 2.98GB
+system: realme UI 1.0
+version: RMX1993EX_11.C.02

@@ -1,0 +1,14 @@
+changelog: |
+  **Bezpečnost**:
+  ● Aktualizovaná bezpečnostní záplata pro Android (2021#6)
+  **Systém**:
+  ● Bylo opraveno několik známých problémů a došlo ke zlepšení stability systému
+codename: RMX2040EU
+date: 26/06/2021
+device: realme 6i
+download: https://download.c.realme.com/osupdate/RMX2040EU_11_OTA_0460_all_vo23L55B8z0B.ozip
+md5: C13097C7A16DAD7BF06244A16187B477
+region: Czech
+size: 2.73GB
+system: realme UI 1.0
+version: RMX2040EU_11.A.46

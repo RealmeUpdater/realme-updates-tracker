@@ -1,0 +1,14 @@
+changelog: |
+  **Seguridad**:
+  ● Parche de seguridad de Android:junio de 2021
+  **Sistema**:
+  ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
+codename: RMX2040
+date: 26/06/2021
+device: realme 6i
+download: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0470_all_gROvoIXPabkc.ozip
+md5: 649757EA475CD9A08834452F2DFCC1F3
+region: Colombia
+size: 3.05GB
+system: realme UI 1.0
+version: RMX2040_11.A.47

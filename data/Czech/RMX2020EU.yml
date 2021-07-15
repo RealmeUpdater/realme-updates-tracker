@@ -1,0 +1,14 @@
+changelog: |
+  **Bezpečnost**:
+  ● Aktualizovaná bezpečnostní záplata pro Android (2021#6)
+  **Systém**:
+  ● Bylo opraveno několik známých problémů a došlo ke zlepšení stability systému
+codename: RMX2020EU
+date: 26/06/2021
+device: realme C3
+download: ' https://download.c.realme.com/osupdate/RMX2020EU_11_OTA_0560_all_vcH2E7b16MZA.ozip'
+md5: 5DCC21E7EA059DD5446DEE8D3E3011D9
+region: Czech
+size: 2.74GB
+system: realme UI 1.0
+version: RMX2020EU_11.A.56

@@ -1,0 +1,14 @@
+changelog: |
+  **Zabezpieczenia**:
+  ● Poprawka zabezpieczeń systemu Android(2021#6)
+  **System**:
+  ● Rozwiązano pewne znane problemy i zwiększono stabilność systemu
+codename: RMX2061EU
+date: 28/6/2021
+device: realme 6 Pro
+download: https://download.c.realme.com/osupdate/RMX2061EU_11_OTA_0440_all_H4twVQJ52h6g.ozip
+md5: 004517A24B5D24E27AD9DC56EBAA5150
+region: Poland
+size: 3.30GB
+system: realme UI 1.0
+version: RMX2061EU_11.A.44

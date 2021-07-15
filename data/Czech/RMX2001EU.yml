@@ -1,0 +1,14 @@
+changelog: |
+  **Bezpečnost**:
+  ● Aktualizovaná bezpečnostní záplata pro Android (2021#6)
+  **Systém**:
+  ● Opraveny některé známé problémy a vylepšena stabilita systému.
+codename: RMX2001EU
+date: 28/06/2021
+device: realme 6
+download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0560_all_QRxpCVoRNFOD.ozip
+md5: BBB284D85FAAF26CA2E2FBA716A47606
+region: Czech
+size: 2.85GB
+system: realme UI 1.0
+version: RMX2001EU_11.A.56

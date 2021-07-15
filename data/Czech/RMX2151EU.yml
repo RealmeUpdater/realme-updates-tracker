@@ -1,0 +1,14 @@
+changelog: |
+  **Bezpečnost**:
+  ● Aktualizovaná bezpečnostní záplata pro Android (2020#12)
+  **Systém**:
+  ● Bylo opraveno několik známých problémů a došlo ke zlepšení stability systému
+codename: RMX2151EU
+date: 7/2/2021
+device: realme 7
+download: https://download.c.realme.com/osupdate/RMX2151EU_11_OTA_0800_all_V9HfnntEpXl1.ozip
+md5: 6802D80E984177539328CDFFC9F0AAA1
+region: Czech
+size: 3.22GB
+system: realme UI 1.0
+version: RMX2151EU_11.A.80

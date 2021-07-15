@@ -1,0 +1,14 @@
+changelog: |
+  **Seguridad**:
+  ● Parche de seguridad de Android:junio de 2021
+  **Sistema**:
+  ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
+codename: RMX2001
+date: 28/06/2021
+device: realme 6
+download: https://download.c.realme.com/osupdate/RMX2001_11_OTA_0630_all_XVGEZRK3yEPt.ozip
+md5: 2DE8DB10A1E780239C900B0498DFE45F
+region: Colombia
+size: 3.18GB
+system: realme UI 1.0
+version: RMX2001_11.B.63

@@ -251,19 +251,17 @@
   system: realme UI 1.0
   version: RMX1911EX_11_C.69
 - changelog: |
-    **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2021#4 & 2021#5)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1911EX
-  date: 25/05/2021
+  date: 06/07/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1690_all_4cslVAT4nnIJ.ozip
-  md5: 436BA3CA6E00D262E28A416BA98BF9AB
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1710_all_vvejgIZIZOeb.ozip
+  md5: 8C8CCCB85ADABB4B87DE455135655CCD
   region: Vietnam
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.69
+  version: RMX1911EX_11_C.71
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#4 & 2021#5)

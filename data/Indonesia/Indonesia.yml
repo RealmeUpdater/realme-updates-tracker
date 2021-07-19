@@ -54,32 +54,32 @@
   version: RMX2103PU_11.A.35
 - changelog: |
     **Keamanan**:
-    ● Android security patch: Desember 2020
+    ● Tingkat Android Security Patch: Juni 2021
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2151PU
-  date: 25/12/2020
+  date: 07/07/2021
   device: realme narzo 20 Pro
-  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0750_all_P8oZH4WLmegj.ozip
-  md5: 195884974C1B276E0DCD6C48C26D2D72
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0910_all_Qjd93fk2xNLI.ozip
+  md5: 6895513CA8D451A04EF6B3899A2697E8
   region: Indonesia
-  size: 3.57GB
+  size: 3.44GB
   system: realme UI 1.0
-  version: RMX2151PU_11.A.75
+  version: RMX2151PU_11.A.91
 - changelog: |
     **Keamanan**:
-    ● Android security patch: Desember 2020
+    ● Tingkat Android Security Patch: Juni 2021
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2151PU
-  date: 25/12/2020
+  date: 07/07/2021
   device: realme 7
-  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0750_all_P8oZH4WLmegj.ozip
-  md5: 195884974C1B276E0DCD6C48C26D2D72
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0910_all_Qjd93fk2xNLI.ozip
+  md5: 6895513CA8D451A04EF6B3899A2697E8
   region: Indonesia
-  size: 3.57GB
+  size: 3.44GB
   system: realme UI V1.0
-  version: RMX2151PU_11.A.75
+  version: RMX2151PU_11.A.91
 - changelog: |
     **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Keamanan**:

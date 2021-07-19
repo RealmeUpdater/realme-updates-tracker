@@ -1,17 +1,17 @@
 - changelog: |
     **សន្តិសុខ**:
-    ● បានធ្វើបច្ចុប្បន្នភាពបំណៈសន្តិសុខ Android (2020#12)
+    ● បំណះសុវត្ថិភាពប្រព័ន្ធប្រតិបត្តិការ Android៖ ខែមិថុនាឆ្នាំ 2021
     **ប្រព័ន្ធ**:
-    ● បានដោះស្រាយកំហុសដែលស្គាល់មួយចំនួន និងបានកែលម្អស្ថិរភាពរបស់ប្រព័ន្
+    ● បានដោះស្រាយកំហុសដែលស្គាល់មួយចំនួន និងបានកែលម្អស្ថិរភាពរបស់ប្រព័ន្្
   codename: RMX2151PU
-  date: 25/12/2020
+  date: 07/07/2021
   device: realme 7
-  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0750_all_P8oZH4WLmegj.ozip
-  md5: 195884974C1B276E0DCD6C48C26D2D72
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0910_all_Qjd93fk2xNLI.ozip
+  md5: 6895513CA8D451A04EF6B3899A2697E8
   region: Cambodia
-  size: 3.57GB
+  size: 3.44GB
   system: realme UI 1.0
-  version: RMX2151PU_11.A.75
+  version: RMX2151PU_11.A.91
 - changelog: |
     **សន្តិសុខ**:
     ● បានធ្វើបច្ចុប្បន្នភាពបំណៈសន្តិសុខ Android (2021#01)

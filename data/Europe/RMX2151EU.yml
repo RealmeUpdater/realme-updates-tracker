@@ -1,14 +1,15 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: Feb, 2021
+  ● Android security patch: June, 2021
   **System**:
-  ● Optimized system performance and improve system stability
+  ● Optimized the system performance
+  ● Optimized the system stability
 codename: RMX2151EU
-date: 11/3/2021
+date: 07/07/2021
 device: realme 7
-download: https://download.c.realme.com/osupdate/RMX2151EU_11_OTA_0840_all_2X7eEdsxeXkB.ozip
-md5: EE5147CEA6DCFE36D061F098F83061A2
+download: https://download.c.realme.com/osupdate/RMX2151EU_11_OTA_0880_all_z2qJYj6eZGF0.ozip
+md5: 3F92064E7AF8B95784E6C3AB60FC5E74
 region: Europe
-size: 3.24GB
+size: 3.12GB
 system: realme UI 1.0
-version: RMX2151EU_11.A.84
+version: RMX2151EU_11.A.88

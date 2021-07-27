@@ -1,15 +1,15 @@
 changelog: |
+  **Security**:
+  ● Updated Android security patch: June & July, 2021
   **System**:
-  **• Improves system performance.**:
-  **• Improves system stability.**:
-  **Communication**:
-  **• Fixes occasional audio echoing from Facebook Messenger calls.**:
+  ● Improves system performance.
+  ● Improves system stability.
 codename: RMX1911EX
-date: 06/07/2021
+date: 27/07/2021
 device: realme 5
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1710_all_vvejgIZIZOeb.ozip
-md5: 8C8CCCB85ADABB4B87DE455135655CCD
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1730_all_aWuTSP83kZvF.ozip
+md5: 61F315FC2641420135EC30E7F770936E
 region: India
 size: 2.99GB
 system: realme UI 1.0
-version: RMX1911EX_11_C.71
+version: RMX1911EX_11_C.73

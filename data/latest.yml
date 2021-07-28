@@ -1432,18 +1432,18 @@
   version: RMX2185_11_A.95
 - changelog: |
     **Keamanan**:
-    ● Android security patch: （2021#2）
+    ● Android security patch: （2021#6）
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX3171
-  date: 22/3/2021
+  date: 26/06/2021
   device: realme narzo 30A
-  download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0130_all_GcDF16601pDe.ozip
-  md5: 617D294F0C6AC5253F84C84261006631
+  download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0190_all_6CL0F6Ae96Vg.ozip
+  md5: 855f3283d95851a4dad31853551eef1e
   region: Indonesia
-  size: 3.29GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX3171_11.A.13
+  version: RMX3171_11.A.19
 - changelog: |
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
@@ -1891,19 +1891,19 @@
   version: RMX2111PU_11.A.35
 - changelog: |
     **Security**:
-    ● Updated Android security patch: March & April 2021
+    ● Updated Android security patch: June, 2021
     **System**:
-    ● Fixed some known issues
+    ● Fix some known issues
     ● Optimized ​​system stability
   codename: RMX3171
-  date: 21/4/2021
+  date: 26/06/2021
   device: realme narzo 30A
-  download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0150_all_pcjwhBL3XWmy.ozip
-  md5: 7CEFA83E07C0DA2B77C3E8357E94501A
+  download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0190_all_6CL0F6Ae96Vg.ozip
+  md5: 855f3283d95851a4dad31853551eef1e
   region: India
-  size: 3.32GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX3171_11.A.15
+  version: RMX3171_11.A.19
 - changelog: |
     **Security**:
     ● Updated Android security patch: June, 2021
@@ -2824,19 +2824,19 @@
   version: RMX2103PU_11.A.35
 - changelog: |
     **Security**:
-    ● Updated Android security patch: February, 2021
+    ● Updated Android security patch: June, 2021
     **System**:
     ● Fix some known issues
     ● Optimized ​​system stability
   codename: RMX3171
-  date: 22/3/2021
+  date: 26/06/2021
   device: realme narzo 30A
-  download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0130_all_GcDF16601pDe.ozip
-  md5: 617D294F0C6AC5253F84C84261006631
+  download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0190_all_6CL0F6Ae96Vg.ozip
+  md5: 855f3283d95851a4dad31853551eef1e
   region: Pakistan
-  size: 3.29GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX3171_11.A.13
+  version: RMX3171_11.A.19
 - changelog: |
     **Security**:
     ● Android security patch: June 2021
@@ -3450,6 +3450,20 @@
   system: ColorOS 6.0
   version: RMX1941EX_11.A.34
 - changelog: |
+    **ความปลอดภัย**:
+    ● แพตช์ความปลอดภัยของ Android:（2021#6）
+    **ระบบ**:
+    ● แก้ไขบักบางประการที่ทราบ และปรับปรุงเสถียรภาพของระบบ
+  codename: RMX3171
+  date: 26/06/2021
+  device: realme narzo 30A
+  download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0190_all_6CL0F6Ae96Vg.ozip
+  md5: 855f3283d95851a4dad31853551eef1e
+  region: Thailand
+  size: 3.22GB
+  system: realme UI 1.0
+  version: RMX3171_11.A.19
+- changelog: |
     **กล้อง**:
     ● แพตช์ความปลอดภัยของ Android ที่อัปเดต: มิถุนายน 2021
     **ระบบ**:
@@ -3477,6 +3491,16 @@
   size: 3.83GB
   system: realme UI 1.0
   version: RMX2170PU_11.A.41
+- changelog: ''
+  codename: RMX2185
+  date: 25/6/2021
+  device: realme C12
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0950_all_ok8HDIbdVBGM.ozip
+  md5: 407639B115C614D6263F83EFFD29766D
+  region: Thailand
+  size: 3.21GB
+  system: realme UI 1.0
+  version: RMX2185_11_A.95
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#01)
@@ -3605,18 +3629,18 @@
   version: RMX1971EX_11.C.15
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2021#4 & 2021#5)
+    ● Güncel Android güvenlik yaması 2021#6 & 2021#7
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX1921EX
-  date: 24/5/2021
+  date: 28/7/2021
   device: realme XT
-  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1130_all_Ch4YEpgIhreb.ozip
-  md5: CCE84CC7CDC83F74520D075689360197
+  download: https://download.c.realme.com/osupdate/RMX1921EX_11_OTA_1140_all_NRGYuIpAiwl6.ozip
+  md5: 684C3943A0EB0B0613B709C65EA16E4F
   region: Turkey
   size: 3.27GB
   system: realme UI 1.0
-  version: RMX1921EX_11.C.13
+  version: RMX1921EX_11.C.14
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#4 & 2021#5)
@@ -3647,18 +3671,18 @@
   version: RMX2020_11.A.55
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 2 năm 2021
+    ● Cập nhật bản vá bảo mật Android: （2021#06）
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX3171
-  date: 22/3/2021
+  date: 26/06/2021
   device: realme narzo 30A
-  download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0130_all_GcDF16601pDe.ozip
-  md5: 617D294F0C6AC5253F84C84261006631
+  download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0190_all_6CL0F6Ae96Vg.ozip
+  md5: 855f3283d95851a4dad31853551eef1e
   region: Vietnam
-  size: 3.29GB
+  size: 3.22GB
   system: realme UI 1.0
-  version: RMX3171_11.A.13
+  version: RMX3171_11.A.19
 - changelog: |
     **Bảo vệ**:
     ● Cập nhật bản vá bảo mật Android: tháng 6 năm 2021

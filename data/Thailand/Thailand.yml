@@ -1,4 +1,18 @@
 - changelog: |
+    **ความปลอดภัย**:
+    ● แพตช์ความปลอดภัยของ Android:（2021#6）
+    **ระบบ**:
+    ● แก้ไขบักบางประการที่ทราบ และปรับปรุงเสถียรภาพของระบบ
+  codename: RMX3171
+  date: 26/06/2021
+  device: realme narzo 30A
+  download: https://download.c.realme.com/osupdate/RMX3171_11_OTA_0190_all_6CL0F6Ae96Vg.ozip
+  md5: 855f3283d95851a4dad31853551eef1e
+  region: Thailand
+  size: 3.22GB
+  system: realme UI 1.0
+  version: RMX3171_11.A.19
+- changelog: |
     **กล้อง**:
     ● แพตช์ความปลอดภัยของ Android ที่อัปเดต: มิถุนายน 2021
     **ระบบ**:
@@ -26,3 +40,13 @@
   size: 3.83GB
   system: realme UI 1.0
   version: RMX2170PU_11.A.41
+- changelog: ''
+  codename: RMX2185
+  date: 25/6/2021
+  device: realme C12
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0950_all_ok8HDIbdVBGM.ozip
+  md5: 407639B115C614D6263F83EFFD29766D
+  region: Thailand
+  size: 3.21GB
+  system: realme UI 1.0
+  version: RMX2185_11_A.95

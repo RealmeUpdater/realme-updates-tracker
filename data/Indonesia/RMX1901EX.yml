@@ -1,14 +1,14 @@
 changelog: |
   **Keamanan**:
-  ● Android Security Patch Tingkat: Februari & Maret 2021
+  ● Android Security Patch Tingkat:Juni 2021 dan Juli 2021
   **Sistem**:
   ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
 codename: RMX1901EX
-date: 24/5/2021
+date: 28/7/2021
 device: realme X
-download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1110_all_qLpSO2Ih4rjE.ozip
-md5: 803616BCDE6E7D49D29295C9A7A80980
+download: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1120_all_HCHFYlVnzhGA.ozip
+md5: 7254E76E74A65E064A147CF4EA685093
 region: Indonesia
 size: 3.27GB
 system: realme UI 1.0
-version: RMX1901EX_11.C.11
+version: RMX1901EX_11.C.12

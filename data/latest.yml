@@ -846,18 +846,18 @@
   version: RMX2040EU_11.A.46
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: abril 2021 & Mayo 2021
+    ● Parche de seguridad de Android: julio 2021
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX2030EU
-  date: 25/05/2021
+  date: 27/07/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1620_all_LxJWCcZJkRjF.ozip
-  md5: 1ACF905B25F3123AB7AA979CD4D0026A
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1660_all_YLhz2iYgEWFg.ozip
+  md5: D1D078A548400ACC02CF1194E22F617F
   region: Spain
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX2030EU_11_C.62
+  version: RMX2030EU_11_C.66
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android:febrero de 2021
@@ -888,32 +888,32 @@
   version: RMX1931EX_11_C.38
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: abril 2021 & Mayo 2021
+    ● Parche de seguridad de Android: （2021 #6 & 2021 #7）
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1971EX
-  date: 28/5/2021
+  date: 26/7/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1140_all_D5PMgyC9kHe5.ozip
-  md5: B24A0E484289F66D218F0AFE7ABC100C
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1150_all_006aZofuEOvC.ozip
+  md5: F2685C6B9D8AA5EDDF1139B0B53A36DD
   region: Spain
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.14
+  version: RMX1971EX_11.C.15
 - changelog: |
     **Seguridad**:
-    ● Parche de seguridad de Android: abril 2021 & Mayo 2021
+    ● Parche de seguridad de Android: julio 2021
     **Sistema**:
     ● Se han corregido algunos problemas conocidos y se ha mejorado la estabilidad del sistema
   codename: RMX1911EU
-  date: 25/05/2021
+  date: 27/07/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1620_all_LxJWCcZJkRjF.ozip
-  md5: 1ACF905B25F3123AB7AA979CD4D0026A
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1660_all_YLhz2iYgEWFg.ozip
+  md5: D1D078A548400ACC02CF1194E22F617F
   region: Spain
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX1911EU_11_C.62
+  version: RMX1911EU_11_C.66
 - changelog: |
     **Seguridad**:
     ● Parche de seguridad de Android: abril 2021 & Mayo 2021
@@ -1140,19 +1140,19 @@
   version: RMX2020EU_11.A.54
 - changelog: |
     **Security**:
-    ● Updated Android security patch: February & March, 2021
+    ● Updated Android security patch: June & July, 2021
     **System**:
-    ● Optimized system performance
-    ● Improved system stability
+    ● Improves system performance.
+    ● Improves system stability.
   codename: RMX2030EU
-  date: 27/03/2021
+  date: 27/07/2021
   device: realme 5i
-  download: ' https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1600_all_GviK0yd797u1.ozip'
-  md5: F4AAA5169235251FE2F22A52F488E0F0
+  download: ' https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1660_all_YLhz2iYgEWFg.ozip'
+  md5: D1D078A548400ACC02CF1194E22F617F
   region: Europe
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX2030EU_11_C.60
+  version: RMX2030EU_11_C.66
 - changelog: |
     **Security**:
     ● Updated Android security patch: September, 2020
@@ -1200,19 +1200,19 @@
   version: RMX1971EX_11_C.12
 - changelog: |
     **Security**:
-    ● Updated Android security patch: February & March, 2021
+    ● Updated Android security patch: June & July, 2021
     **System**:
-    ● Optimized system performance
-    ● Improved system stability
+    ● Improves system performance.
+    ● Improves system stability.
   codename: RMX1911EU
-  date: 27/03/2021
+  date: 27/07/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1600_all_GviK0yd797u1.ozip
-  md5: F4AAA5169235251FE2F22A52F488E0F0
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1660_all_YLhz2iYgEWFg.ozip
+  md5: D1D078A548400ACC02CF1194E22F617F
   region: Europe
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX1911EU_11_C.60
+  version: RMX1911EU_11_C.66
 - changelog: |
     **Security**:
     ● Updated Android security patch ( 2021#2&2021#3 )
@@ -1680,17 +1680,19 @@
   system: realme UI 1.0
   version: RMX2020_11.A.63
 - changelog: |
+    **Keamanan**:
+    ● Android Security Patch Tingkat : Juli 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2030EX
-  date: 06/07/2021
+  date: 27/07/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1710_all_vvejgIZIZOeb.ozip
-  md5: 8C8CCCB85ADABB4B87DE455135655CCD
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1730_all_aWuTSP83kZvF.ozip
+  md5: 61F315FC2641420135EC30E7F770936E
   region: Indonesia
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX2030EX_11_C.71
+  version: RMX2030EX_11_C.73
 - changelog: |
     **Keamanan**:
     ● Android security patch: （2021#6）
@@ -1721,30 +1723,32 @@
   version: RMX1921EX_11.C.13
 - changelog: |
     **Keamanan**:
-    ● Android Security Patch Tingkat: April & Mungkin 2021
+    ● Android Security Patch Tingkat:Juni 2021 dan Juli 2021
     **Sistem**:
     ● Perbaikan sebagian bug yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1971EX
-  date: 28/5/2021
+  date: 26/7/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1140_all_D5PMgyC9kHe5.ozip
-  md5: B24A0E484289F66D218F0AFE7ABC100C
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1150_all_006aZofuEOvC.ozip
+  md5: F2685C6B9D8AA5EDDF1139B0B53A36DD
   region: Indonesia
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.14
+  version: RMX1971EX_11.C.15
 - changelog: |
+    **Keamanan**:
+    ● Android Security Patch Tingkat : Juli 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1911EX
-  date: 06/07/2021
+  date: 27/07/2021
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1710_all_vvejgIZIZOeb.ozip
-  md5: 8C8CCCB85ADABB4B87DE455135655CCD
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1730_all_aWuTSP83kZvF.ozip
+  md5: 61F315FC2641420135EC30E7F770936E
   region: Indonesia
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.71
+  version: RMX1911EX_11_C.73
 - changelog: |
     **Keamanan**:
     ● Android Security Patch Tingkat : Juli 2021
@@ -2300,18 +2304,18 @@
   version: RMX1931EX_11_C.38
 - changelog: |
     **Security**:
-    ● Updated Android security patch: April & May, 2021
+    ● Updated Android security patch: June & July, 2021
     **System**:
     ● Optimized the system performance and improved the system stability
   codename: RMX1971EX
-  date: 28/5/2021
+  date: 26/7/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1140_all_D5PMgyC9kHe5.ozip
-  md5: B24A0E484289F66D218F0AFE7ABC100C
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1150_all_006aZofuEOvC.ozip
+  md5: F2685C6B9D8AA5EDDF1139B0B53A36DD
   region: India
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.14
+  version: RMX1971EX_11.C.15
 - changelog: |
     **Security**:
     ● Updated Android security patch: April & May, 2021
@@ -2736,32 +2740,32 @@
   version: RMX1931EX_11_C.38
 - changelog: |
     **Sicurezza**:
-    ● Patch di sicurezza Android aggiornata (2021 n.4 & 2021 n.5)
+    ● Patch di sicurezza Android aggiornata （2021 #6 & 2021 #7）
     **Sistema**:
     ● Risoluzione di alcuni problemi noti e stabilità di sistema migliorata
   codename: RMX1971EX
-  date: 28/5/2021
+  date: 26/7/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1140_all_D5PMgyC9kHe5.ozip
-  md5: B24A0E484289F66D218F0AFE7ABC100C
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1150_all_006aZofuEOvC.ozip
+  md5: F2685C6B9D8AA5EDDF1139B0B53A36DD
   region: Italy
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.14
+  version: RMX1971EX_11.C.15
 - changelog: |
     **Sicurezza**:
-    ● Patch di sicurezza Android aggiornata (2021 n.4 & 2021 n.5)
+    ● Patch di sicurezza Android aggiornata (2021 n.7)
     **Sistema**:
     ● Risoluzione di alcuni problemi noti e stabilità di sistema migliorata
   codename: RMX1911EU
-  date: 25/05/2021
+  date: 27/07/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1620_all_LxJWCcZJkRjF.ozip
-  md5: 1ACF905B25F3123AB7AA979CD4D0026A
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1660_all_YLhz2iYgEWFg.ozip
+  md5: D1D078A548400ACC02CF1194E22F617F
   region: Italy
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX1911EU_11_C.62
+  version: RMX1911EU_11_C.66
 - changelog: |
     **Sicurezza**:
     ● Patch di sicurezza Android aggiornata (2021#4 & 2021#5)
@@ -3008,20 +3012,20 @@
   system: realme UI V1.0
   version: RMX2020_11.A.63
 - changelog: |
+    **Security**:
+    ● Updated Android security patch: June & July, 2021
     **System**:
-    **• Improves system performance.**:
-    **• Improves system stability.**:
-    **Communication**:
-    **• Fixes occasional audio echoing from Facebook Messenger calls.**:
+    ● Improves system performance.
+    ● Improves system stability.
   codename: RMX2030EX
-  date: 06/07/2021
+  date: 27/07/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1710_all_vvejgIZIZOeb.ozip
-  md5: 8C8CCCB85ADABB4B87DE455135655CCD
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1730_all_aWuTSP83kZvF.ozip
+  md5: 61F315FC2641420135EC30E7F770936E
   region: Pakistan
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX2030EX_11_C.71
+  version: RMX2030EX_11_C.73
 - changelog: |
     **سلامتی**:
     ●Android سیکورٹی پیچ سطح: (2021#4 & 2021#5)
@@ -3037,34 +3041,34 @@
   system: realme UI 1.0
   version: RMX1921EX_11.C.13
 - changelog: |
-    **سلامتی**:
-    ●Android سیکورٹی پیچ سطح: (2021#4 & 2021#5)
-    **سسٹم**:
-    ● کچھ معلوم بگز حل ہو گئے، اور سسٹم کی ابیلیٹی بہتر ہو گئی ہے
+    **Security**:
+    ● Updated Android security patch: June & July, 2021
+    **System**:
+    ● Optimized the system performance and improved the system stability
   codename: RMX1971EX
-  date: 28/5/2021
+  date: 26/7/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1140_all_D5PMgyC9kHe5.ozip
-  md5: B24A0E484289F66D218F0AFE7ABC100C
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1150_all_006aZofuEOvC.ozip
+  md5: F2685C6B9D8AA5EDDF1139B0B53A36DD
   region: Pakistan
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.14
+  version: RMX1971EX_11.C.15
 - changelog: |
+    **Security**:
+    ● Updated Android security patch: June & July, 2021
     **System**:
-    **• Improves system performance.**:
-    **• Improves system stability.**:
-    **Communication**:
-    **• Fixes occasional audio echoing from Facebook Messenger calls.**:
+    ● Improves system performance.
+    ● Improves system stability.
   codename: RMX1911EX
-  date: 06/07/2021
+  date: 27/07/2021
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1710_all_vvejgIZIZOeb.ozip
-  md5: 8C8CCCB85ADABB4B87DE455135655CCD
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1730_all_aWuTSP83kZvF.ozip
+  md5: 61F315FC2641420135EC30E7F770936E
   region: Pakistan
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.71
+  version: RMX1911EX_11_C.73
 - changelog: |
     **Security**:
     ● Updated Android security patch: June & July, 2021
@@ -3153,18 +3157,18 @@
   version: RMX2081EU_11.A.50
 - changelog: |
     **Zabezpieczenia**:
-    ● Poprawka zabezpieczeń systemu Android: (2021#4 & 2021#5)
+    ● Poprawka zabezpieczeń systemu Android: (2021#7)
     **System**:
     ● Rozwiązano pewne znane problemy i zwiększono stabilność systemu
   codename: RMX2030EU
-  date: 25/05/2021
+  date: 27/07/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1620_all_LxJWCcZJkRjF.ozip
-  md5: 1ACF905B25F3123AB7AA979CD4D0026A
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1660_all_YLhz2iYgEWFg.ozip
+  md5: D1D078A548400ACC02CF1194E22F617F
   region: Poland
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX2030EU_11_C.62
+  version: RMX2030EU_11_C.66
 - changelog: |
     **Zabezpieczenia**:
     ● Poprawka zabezpieczeń systemu Android(2021#6)
@@ -3390,17 +3394,19 @@
   system: realme UI 1.0
   version: RMX1971EX_11.C.14
 - changelog: |
+    **Безопасность**:
+    ● Исправление безопасности Android: июль 2021 г
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1911EX
-  date: 06/07/2021
+  date: 27/07/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1710_all_vvejgIZIZOeb.ozip
-  md5: 8C8CCCB85ADABB4B87DE455135655CCD
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1730_all_aWuTSP83kZvF.ozip
+  md5: 61F315FC2641420135EC30E7F770936E
   region: Russia
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.71
+  version: RMX1911EX_11_C.73
 - changelog: |
     **Безопасность**:
     ● Исправление безопасности Android: Красавік & Май 2021
@@ -3557,18 +3563,18 @@
   version: RMX2040EU_11.A.46
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2021#4 & 2021#5)
+    ● Güncel Android güvenlik yaması (2021#7)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2030EU
-  date: 25/05/2021
+  date: 27/07/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1620_all_LxJWCcZJkRjF.ozip
-  md5: 1ACF905B25F3123AB7AA979CD4D0026A
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1660_all_YLhz2iYgEWFg.ozip
+  md5: D1D078A548400ACC02CF1194E22F617F
   region: Turkey
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX2030EU_11_C.62
+  version: RMX2030EU_11_C.66
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#6)
@@ -3836,17 +3842,19 @@
   system: realme UI 1.0
   version: RMX2020_11.A.63
 - changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2021#7)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2030EX
-  date: 06/07/2021
+  date: 27/07/2021
   device: realme 5i
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1710_all_vvejgIZIZOeb.ozip
-  md5: 8C8CCCB85ADABB4B87DE455135655CCD
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1730_all_aWuTSP83kZvF.ozip
+  md5: 61F315FC2641420135EC30E7F770936E
   region: Vietnam
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX2030EX_11_C.71
+  version: RMX2030EX_11_C.73
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#2 & 2021#3)
@@ -3863,30 +3871,32 @@
   version: RMX1921EX_11.C.11
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2021#4 & 2021#5)
+    ● Cập nhật bản vá bảo mật Android: (2021#6 & 2021#7)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1971EX
-  date: 28/5/2021
+  date: 26/7/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1140_all_D5PMgyC9kHe5.ozip
-  md5: B24A0E484289F66D218F0AFE7ABC100C
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1150_all_006aZofuEOvC.ozip
+  md5: F2685C6B9D8AA5EDDF1139B0B53A36DD
   region: Vietnam
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.14
+  version: RMX1971EX_11.C.15
 - changelog: |
+    **Bảo mật**:
+    ● Cập nhật bản vá bảo mật Android: (2021#7)
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1911EX
-  date: 06/07/2021
+  date: 27/07/2021
   device: realme 5s
-  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1710_all_vvejgIZIZOeb.ozip
-  md5: 8C8CCCB85ADABB4B87DE455135655CCD
+  download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1730_all_aWuTSP83kZvF.ozip
+  md5: 61F315FC2641420135EC30E7F770936E
   region: Vietnam
   size: 2.99GB
   system: realme UI 1.0
-  version: RMX1911EX_11_C.71
+  version: RMX1911EX_11_C.73
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#7)

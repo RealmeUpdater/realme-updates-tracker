@@ -138,32 +138,32 @@
   version: RMX1931EX_11_C.38
 - changelog: |
     **Sicurezza**:
-    ● Patch di sicurezza Android aggiornata (2021 n.4 & 2021 n.5)
+    ● Patch di sicurezza Android aggiornata （2021 #6 & 2021 #7）
     **Sistema**:
     ● Risoluzione di alcuni problemi noti e stabilità di sistema migliorata
   codename: RMX1971EX
-  date: 28/5/2021
+  date: 26/7/2021
   device: realme 5 Pro
-  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1140_all_D5PMgyC9kHe5.ozip
-  md5: B24A0E484289F66D218F0AFE7ABC100C
+  download: https://download.c.realme.com/osupdate/RMX1971EX_11_OTA_1150_all_006aZofuEOvC.ozip
+  md5: F2685C6B9D8AA5EDDF1139B0B53A36DD
   region: Italy
   size: 3.26GB
   system: realme UI 1.0
-  version: RMX1971EX_11.C.14
+  version: RMX1971EX_11.C.15
 - changelog: |
     **Sicurezza**:
-    ● Patch di sicurezza Android aggiornata (2021 n.4 & 2021 n.5)
+    ● Patch di sicurezza Android aggiornata (2021 n.7)
     **Sistema**:
     ● Risoluzione di alcuni problemi noti e stabilità di sistema migliorata
   codename: RMX1911EU
-  date: 25/05/2021
+  date: 27/07/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1620_all_LxJWCcZJkRjF.ozip
-  md5: 1ACF905B25F3123AB7AA979CD4D0026A
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1660_all_YLhz2iYgEWFg.ozip
+  md5: D1D078A548400ACC02CF1194E22F617F
   region: Italy
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX1911EU_11_C.62
+  version: RMX1911EU_11_C.66
 - changelog: |
     **Sicurezza**:
     ● Patch di sicurezza Android aggiornata (2021#4 & 2021#5)

@@ -196,19 +196,19 @@
   version: RMX2020EU_11.A.54
 - changelog: |
     **Security**:
-    ● Updated Android security patch: February & March, 2021
+    ● Updated Android security patch: June & July, 2021
     **System**:
-    ● Optimized system performance
-    ● Improved system stability
+    ● Improves system performance.
+    ● Improves system stability.
   codename: RMX2030EU
-  date: 27/03/2021
+  date: 27/07/2021
   device: realme 5i
-  download: ' https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1600_all_GviK0yd797u1.ozip'
-  md5: F4AAA5169235251FE2F22A52F488E0F0
+  download: ' https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1660_all_YLhz2iYgEWFg.ozip'
+  md5: D1D078A548400ACC02CF1194E22F617F
   region: Europe
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX2030EU_11_C.60
+  version: RMX2030EU_11_C.66
 - changelog: |
     **Security**:
     ● Updated Android security patch: September, 2020
@@ -256,19 +256,19 @@
   version: RMX1971EX_11_C.12
 - changelog: |
     **Security**:
-    ● Updated Android security patch: February & March, 2021
+    ● Updated Android security patch: June & July, 2021
     **System**:
-    ● Optimized system performance
-    ● Improved system stability
+    ● Improves system performance.
+    ● Improves system stability.
   codename: RMX1911EU
-  date: 27/03/2021
+  date: 27/07/2021
   device: realme 5
-  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1600_all_GviK0yd797u1.ozip
-  md5: F4AAA5169235251FE2F22A52F488E0F0
+  download: https://download.c.realme.com/osupdate/RMX1911EU_11_OTA_1660_all_YLhz2iYgEWFg.ozip
+  md5: D1D078A548400ACC02CF1194E22F617F
   region: Europe
   size: 2.65GB
   system: realme UI 1.0
-  version: RMX1911EU_11_C.60
+  version: RMX1911EU_11_C.66
 - changelog: |
     **Security**:
     ● Updated Android security patch ( 2021#2&2021#3 )

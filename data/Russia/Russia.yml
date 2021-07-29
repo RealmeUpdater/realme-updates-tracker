@@ -224,18 +224,18 @@
   version: RMX1851EX_11.C.18
 - changelog: |
     **Безопасность**:
-    ● Исправление безопасности Android: май 2021 г
+    ● Исправление безопасности Android: （2021 #6 & 2021 #7）
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1821EX
-  date: 24/05/2021
+  date: 29/07/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1210_all_lLWYdBtnVQoC.ozip
-  md5: 252C5E54380148D1AF3E783392503F91
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1220_all_R92uZOE24laN.ozip
+  md5: AD009225B5107E0823CF25FD512537A6
   region: Russia
   size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.21
+  version: RMX1821EX_11.C.22
 - changelog: |
     **Безопасность**:
     ● Исправление безопасности Android: май 2021 г

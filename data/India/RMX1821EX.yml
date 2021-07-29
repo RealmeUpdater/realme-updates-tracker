@@ -1,15 +1,14 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: April & May, 2021
+  ● Updated Android security patch: June & July, 2021
   **System**:
-  ● Optimized system performance
-  ● Improved system stability
+  ● Optimized the system performance and improved the system stability
 codename: RMX1821EX
-date: 24/05/2021
+date: 29/07/2021
 device: realme 3
-download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1210_all_lLWYdBtnVQoC.ozip
-md5: 252C5E54380148D1AF3E783392503F91
+download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1220_all_R92uZOE24laN.ozip
+md5: AD009225B5107E0823CF25FD512537A6
 region: India
 size: 2.62GB
 system: realme UI 1.0
-version: RMX1821EX_11.C.21
+version: RMX1821EX_11.C.22

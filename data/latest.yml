@@ -1792,18 +1792,18 @@
   version: RMX1851EX_11.C.18
 - changelog: |
     **Keamanan**:
-    ● Android Security Patch Tingkat:April 2021 dan Mei 2021
+    ● Android Security Patch Tingkat:Juni 2021 dan Juli 2021
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX1821EX
-  date: 24/05/2021
+  date: 29/07/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1210_all_lLWYdBtnVQoC.ozip
-  md5: 252C5E54380148D1AF3E783392503F91
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1220_all_R92uZOE24laN.ozip
+  md5: AD009225B5107E0823CF25FD512537A6
   region: Indonesia
   size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.21
+  version: RMX1821EX_11.C.22
 - changelog: |
     **Keamanan**:
     ● Android Security Patch Tingkat:April 2021 dan Mei 2021
@@ -2379,19 +2379,18 @@
   version: RMX1901EX_11.C.12
 - changelog: |
     **Security**:
-    ● Updated Android security patch: April & May, 2021
+    ● Updated Android security patch: June & July, 2021
     **System**:
-    ● Optimized system performance
-    ● Improved system stability
+    ● Optimized the system performance and improved the system stability
   codename: RMX1821EX
-  date: 24/05/2021
+  date: 29/07/2021
   device: realme 3i
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1210_all_lLWYdBtnVQoC.ozip
-  md5: 252C5E54380148D1AF3E783392503F91
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1220_all_R92uZOE24laN.ozip
+  md5: AD009225B5107E0823CF25FD512537A6
   region: India
   size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.21
+  version: RMX1821EX_11.C.22
 - changelog: |
     **Security**:
     ● Updated Android security patch: June & July, 2021
@@ -2423,19 +2422,18 @@
   version: RMX1941EX_11.A.34
 - changelog: |
     **Security**:
-    ● Updated Android security patch: April & May, 2021
+    ● Updated Android security patch: June & July, 2021
     **System**:
-    ● Optimized system performance
-    ● Improved system stability
+    ● Optimized the system performance and improved the system stability
   codename: RMX1821EX
-  date: 24/05/2021
+  date: 29/07/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1210_all_lLWYdBtnVQoC.ozip
-  md5: 252C5E54380148D1AF3E783392503F91
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1220_all_R92uZOE24laN.ozip
+  md5: AD009225B5107E0823CF25FD512537A6
   region: India
   size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.21
+  version: RMX1821EX_11.C.22
 - changelog: |
     **Security**:
     ● Updated Android security patch: Dec,2020 & Jan,2021
@@ -3102,19 +3100,19 @@
   system: realme UI 1.0
   version: RMX1851EX_11.C.18
 - changelog: |
-    **سلامتی**:
-    ●Android سیکورٹی پیچ سطح: (2021#4 & 2021#5)
-    **سسٹم**:
-    ● کچھ معلوم بگز حل ہو گئے، اور سسٹم کی ابیلیٹی بہتر ہو گئی ہے
+    **Security**:
+    ● Updated Android security patch: June & July, 2021
+    **System**:
+    ● Optimized the system performance and improved the system stability
   codename: RMX1821EX
-  date: 24/05/2021
+  date: 29/07/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1210_all_lLWYdBtnVQoC.ozip
-  md5: 252C5E54380148D1AF3E783392503F91
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1220_all_R92uZOE24laN.ozip
+  md5: AD009225B5107E0823CF25FD512537A6
   region: Pakistan
   size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.21
+  version: RMX1821EX_11.C.22
 - changelog: |
     **Security**:
     ● Updated Android Security Patch: April & May, 2021
@@ -3426,18 +3424,18 @@
   version: RMX1851EX_11.C.18
 - changelog: |
     **Безопасность**:
-    ● Исправление безопасности Android: май 2021 г
+    ● Исправление безопасности Android: （2021 #6 & 2021 #7）
     **Система:**:
     ● исправлено несколько известных проблем, улучшена стабильность системы.
   codename: RMX1821EX
-  date: 24/05/2021
+  date: 29/07/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1210_all_lLWYdBtnVQoC.ozip
-  md5: 252C5E54380148D1AF3E783392503F91
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1220_all_R92uZOE24laN.ozip
+  md5: AD009225B5107E0823CF25FD512537A6
   region: Russia
   size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.21
+  version: RMX1821EX_11.C.22
 - changelog: |
     **Безопасность**:
     ● Исправление безопасности Android: май 2021 г
@@ -3954,18 +3952,18 @@
   version: RMX1851EX_11.C.18
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: (2021#4 & 2021#5)
+    ● Cập nhật bản vá bảo mật Android: （2021 #6 & 2021 #7）
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX1821EX
-  date: 24/05/2021
+  date: 29/07/2021
   device: realme 3
-  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1210_all_lLWYdBtnVQoC.ozip
-  md5: 252C5E54380148D1AF3E783392503F91
+  download: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1220_all_R92uZOE24laN.ozip
+  md5: AD009225B5107E0823CF25FD512537A6
   region: Vietnam
   size: 2.62GB
   system: realme UI 1.0
-  version: RMX1821EX_11.C.21
+  version: RMX1821EX_11.C.22
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#4 & 2021#5)

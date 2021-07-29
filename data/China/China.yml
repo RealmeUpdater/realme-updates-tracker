@@ -1,23 +1,22 @@
 - changelog: |
-    **安全**:
-    ● 更新 Android安全补丁（2021#5）
     **系统**:
     ● 优化 系统性能，提升系统稳定性
     **相机**:
-    ● 修复 后置相机AI识别文本时低概率显示不全问题
-    **应用**:
-    ● 修复 抖音直播时切换前置相机低概率出现定屏问题
-    **游戏**:
-    ● 修复 王者荣耀游戏低概率河道变黑问题
+    ● 修复 前置拍照低概率闪绿问题
+    **设置**:
+    ● 修复 设置界面极低概率闪退问题
+    ● 修复 搜索界面切换暗色模式低概率显示异常问题
+    **安全**:
+    ● 更新 Android安全补丁（2021#06/2021#07）
   codename: RMX2175
-  date: 26/05/2021
+  date: 28/07/2021
   device: realme V15 5G
-  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0330_all_gQfcGJUZ1E3v.ozip
-  md5: 1386AD3AE7EE23C1EB44EB2252E0789B
+  download: https://download.c.realme.com/osupdate/RMX2175_11_OTA_0370_all_4DrQ6IuvBvfH.ozip
+  md5: 1E6E03320F244F07C0921D938CF0F6C9
   region: China
   size: 3.11GB
   system: realme UI 1.0
-  version: RMX2175_11_A.33
+  version: RMX2175_11.A.37
 - changelog: |
     **系统**:
     ● 优化系统性能，提升系统稳定性

@@ -111,18 +111,18 @@
   version: RMX3061_11_A.39
 - changelog: |
     **Keamanan**:
-    ● Android security patch: Desember 2020
+    ● Android security patch: （2021#05）
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2101PU
-  date: 21/12/2020
+  date: 25/5/2021
   device: realme C17
-  download: https://download.c.realme.com/osupdate/RMX2101PU_11_OTA_0270_all_jo2SBgcSlyBT.ozip
-  md5: 69BF836D9574C885677FD63F50C284A3
+  download: https://download.c.realme.com/osupdate/RMX2101PU_11_OTA_0390_all_okcKMFnQFqyj.ozip
+  md5: 501F05B6F1BFFE84433D386CA5A106E6
   region: Indonesia
-  size: 3.25GB
+  size: 3.29GB
   system: realme UI 1.0
-  version: RMX2101PU_11.A.27
+  version: RMX2101PU_11.A.39
 - changelog: |
     **Keamanan**:
     ● Android security patch: （2021#6）

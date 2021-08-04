@@ -28,18 +28,18 @@
   version: RMX2151PU_11.A.91
 - changelog: |
     **الأمان**:
-    ● عامل تصحيح أمان Android: نوفمبر 2020
+    ● عامل تصحيح أمان Android: (2021#05)
     **النظام**:
     ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
   codename: RMX2101PU
-  date: 30/11/2020
+  date: 25/5/2021
   device: realme C17
-  download: https://download.c.realme.com/osupdate/RMX2101PU_11_OTA_0250_all_2mSMA5shl0LA.ozip
-  md5: 2C8A34953C32CB00A4FC10C2DA1510F5
+  download: https://download.c.realme.com/osupdate/RMX2101PU_11_OTA_0390_all_okcKMFnQFqyj.ozip
+  md5: 501F05B6F1BFFE84433D386CA5A106E6
   region: Egypt
-  size: 3.24GB
+  size: 3.29GB
   system: realme UI 1.0
-  version: RMX2101PU_11.A.25
+  version: RMX2101PU_11.A.39
 - changelog: |
     **النظام**:
     ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام

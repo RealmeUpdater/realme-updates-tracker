@@ -1,0 +1,28 @@
+- changelog: |
+    **Seguridad**:
+    ● Parche de seguridad de Android:(2020#12)
+    **Sistema**:
+    ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
+  codename: RMX2170PU
+  date: 30/12/2020
+  device: realme 7 Pro
+  download: https://download.c.realme.com/osupdate/RMX2170PU_11_OTA_0250_all_MsShTDdtOGAi.ozip
+  md5: F41C0F883C5114BF386A56016EA16146
+  region: Mexico
+  size: 3.83GB
+  system: realme UI 1.0
+  version: RMX2170PU_11_A.25
+- changelog: |
+    **Seguridad**:
+    ● Parche de seguridad de Android:junio de 2021
+    **Sistema**:
+    ● Corrección de algunos errores conocidos y mejora de la estabilidad del sistema
+  codename: RMX2151PU
+  date: 07/07/2021
+  device: realme 7
+  download: https://download.c.realme.com/osupdate/RMX2151PU_11_OTA_0910_all_Qjd93fk2xNLI.ozip
+  md5: 6895513CA8D451A04EF6B3899A2697E8
+  region: Mexico
+  size: 3.44GB
+  system: realme UI 1.0
+  version: RMX2151PU_11.A.91

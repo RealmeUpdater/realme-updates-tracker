@@ -1,0 +1,27 @@
+- changelog: |
+    **[Personalizaciones]**:
+    **Personaliza la interfaz de usuario para adaptarla a tu gusto.**
+    **• Hay tres estilos disponibles de modo oscuro: Mejorado, medio y suave; los fondos de pantalla y los iconos se pueden ajustar al Modo oscuro y el contraste de la pantalla se puede ajustar automáticamente a la luz ambiente.**
+    **[Mejora del rendimiento]**:
+    **• SE ha añadido la "Carga nocturna optimizada": Se usa un algoritmo de IA para controlar la velocidad de la carga por la noche para prolongar la duración de la batería.**
+    **[Iniciador]**:
+    **• Ahora puedes eliminar una carpeta o combinarla con otra.**
+    **[Seguridad y privacidad]**:
+    **• Ahora puedes activar o desactivar el "Bloqueo de aplicaciones" en Ajustes rápidos.**
+		**• Información de emergencia: Puedes mostrar rápidamente tu información personal de emergencia a los servicios de primeros auxilios. La información se puede mostrar aunque tu pantalla esté bloqueada.**
+		**[Comunicaciones]**:
+		**• Puedes compartir tu punto de acceso personal con los demás mediante un código QR.**
+		**[Cámara]**:
+		**• Se ha añadido la función de zoom de inercia que suaviza la transición del zoom durante la grabación de video.**
+		**• Se ha añadido la fución de nivel y cuadrícula para ayudarte a componer los vídeos.**
+		**[realme Lab]**:
+		**• Se ha añadido la Cápsula del sueño para limitar tu uso del teléfono con el fin de que puedas descansar y dormir mejor.**
+  codename: RMX1993EX
+  date: 18/4/2020
+  device: Realme X2
+  download: ' https://download.c.realme.com/osupdate/RMX1993EX_11_OTA_1020_all_EZb4s7SEJ7lk.ozip'
+  md5: e18206062ecb09929f94fc96c72d129e
+  region: Mexico
+  size: 3.20GB
+  system: realme UI 2.0
+  version: RMX1993EX_11.F.20

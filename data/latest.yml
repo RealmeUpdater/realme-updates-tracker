@@ -1997,18 +1997,19 @@
   version: RMX2191_11.A.33
 - changelog: |
     **Security**:
-    ● Updated Android security patch: April 2021
+    ● Updated Android Security Patch: July, 2020
     **System**:
-    ● Fixed some known issues and improved stability
+    ● Optimized the system performance
+    ● Optimized the system stability
   codename: RMX2050EX
-  date: 28/4/2021
+  date: 27/7/2021
   device: realme narzo 20A
-  download: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0290_all_jIGUE42BlLUL.ozip
-  md5: 08ACDD81266C8FE7264506FF10ACB675
+  download: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0330_all_DmrSTPOL6C5q.ozip
+  md5: A406632E0BF885B5A523365EA85B2AE2
   region: India
-  size: 3.24GB
+  size: 3.25GB
   system: realme UI 1.0
-  version: RMX2050EX_11.A.29
+  version: RMX2050EX_11.A.33
 - changelog: |
     **Security**:
     ● Android security patch: June, 2021

@@ -108,15 +108,15 @@
   version: RMX2061EU_11.A.44
 - changelog: |
     **Sécurité**:
-    ● Correctif de sécurité Android:juin 2021
+    ● Correctif de sécurité Android:août 2021
     **Système**:
     ● Réparation de certains bogues et amélioration de la stabilité système
   codename: RMX2001EU
-  date: 28/06/2021
+  date: 26/08/2021
   device: realme 6
-  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0560_all_QRxpCVoRNFOD.ozip
-  md5: BBB284D85FAAF26CA2E2FBA716A47606
+  download: https://download.c.realme.com/osupdate/RMX2001EU_11_OTA_0580_all_gOL8JUaK3iJO.ozip
+  md5: 124D1BB1EB11B68EE4F5556A639604D6
   region: France
   size: 2.85GB
   system: realme UI 1.0
-  version: RMX2001EU_11.A.56
+  version: RMX2001EU_11.A.58

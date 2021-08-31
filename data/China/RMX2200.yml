@@ -2,13 +2,13 @@ changelog: |
   **系统**:
   ● 优化 系统性能，提升系统稳定性
   **安全**:
-  ● 更新 Android安全补丁（2021#5/2021#6)
+  ● 更新 Android安全补丁（2021#7/2021#8)
 codename: RMX2200
-date: 29/06/2021
+date: 30/08/2021
 device: realme V3 5G
-download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0190_all_tbbQOBNwnxRX.ozip
-md5: DA716C53542C26A064A0D420AC9833DF
+download: https://download.c.realme.com/osupdate/RMX2200_11_OTA_0200_all_QEz3GvBGTvu3.ozip
+md5: 1DB025A3311CEC9BF1601B60A3FF4B4A
 region: China
 size: 3.06GB
 system: realme UI 1.0
-version: RMX2200_11.A.19
+version: RMX2200_11.A.20

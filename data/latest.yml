@@ -652,17 +652,19 @@
   system: realme UI 1.0
   version: RMX2101PU_11.A.39
 - changelog: |
+    **الأمان**:
+    ● عامل تصحيح أمان Android: (2021#07)
     **النظام**:
     ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
   codename: RMX2103PU
-  date: 30/11/2020
+  date: 18/8/2021
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0330_all_A0hpWUTDfu8T.ozip
-  md5: 4F2C40BBC08360253687EE3F1CABAB86
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0530_all_jwmp3CGflKg6.ozip
+  md5: 8AF08C2F77042FEC1D1095F7141F3377
   region: Egypt
-  size: 3.24GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.33
+  version: RMX2103PU_11.A.53
 - changelog: |
     **الأمان**:
     ● تصحيح أمان Android:يونيو2021
@@ -1403,18 +1405,18 @@
   version: RMX2170PU_11_A33
 - changelog: |
     **សន្តិសុខ**:
-    ● បានធ្វើបច្ចុប្បន្នភាពបំណៈសន្តិសុខ Android (2020#12)
+    ● បានធ្វើបច្ចុប្បន្នភាពបំណៈសន្តិសុខ Android (2021#07)
     **ប្រព័ន្ធ**:
     ● បានដោះស្រាយកំហុសដែលស្គាល់មួយចំនួន និងបានកែលម្អស្ថិរភាពរបស់ប្រព័ន្
   codename: RMX2103PU
-  date: 10/12/2020
+  date: 18/8/2021
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
-  md5: 5C7E043C603C9BB32A5B74D6D5150676
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0530_all_jwmp3CGflKg6.ozip
+  md5: 8AF08C2F77042FEC1D1095F7141F3377
   region: Cambodia
-  size: 3.26GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.35
+  version: RMX2103PU_11.A.53
 - changelog: |
     **សន្តិសុខ**:
     ● បានធ្វើបច្ចុប្បន្នភាពបំណៈសន្តិសុខ Android (2021#6)
@@ -1471,18 +1473,18 @@
   version: RMX2170EU_11_A.41
 - changelog: |
     **Keamanan**:
-    ● Android security patch: Desember 2020
+    ● Android security patch: （2021#07）
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2103PU
-  date: 10/12/2020
+  date: 18/8/2021
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
-  md5: 5C7E043C603C9BB32A5B74D6D5150676
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0530_all_jwmp3CGflKg6.ozip
+  md5: 8AF08C2F77042FEC1D1095F7141F3377
   region: Indonesia
-  size: 3.26GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.35
+  version: RMX2103PU_11.A.53
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: Juni 2021
@@ -1968,20 +1970,19 @@
 - changelog: |
     **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
-    ● Updated Android security patch: Nov&Dec, 2020
+    ● Updated Android security patch: July , 2021
     **System**:
-    ● Optimized the issue that the power button no response during phone calls
-    **Camera**:
-    ● Fix the issue that the rear lens lags when switching in 64M mode
+    ● Fix some known issues
+    ● Optimized ​​system stability
   codename: RMX2103PU
-  date: 10/12/2020
+  date: 18/8/2021
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
-  md5: 5C7E043C603C9BB32A5B74D6D5150676
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0530_all_jwmp3CGflKg6.ozip
+  md5: 8AF08C2F77042FEC1D1095F7141F3377
   region: India
-  size: 3.26GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.35
+  version: RMX2103PU_11.A.53
 - changelog: |
     **System**:
     ● Fix some known issues
@@ -2057,19 +2058,19 @@
   version: RMX2170PU_11.A.41
 - changelog: |
     **Security**:
-    ● Updated Android security patch: June 2021
+    ● Updated Android security patch: July , 2021
     **System**:
     ● Fix some known issues
-    ● Optimized system stability
+    ● Optimized ​​system stability
   codename: RMX2195PU
-  date: 5/7/2021
+  date: 29/7/2021
   device: realme C15 Qualcomm Edition
-  download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0370_all_i5tyXvDlRf7f.ozip
-  md5: 634663731D3FA13110132B8F228FA8B0
+  download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0390_all_Zl1ba2JYVzc9.ozip
+  md5: A06D33560937032CE6210EC01E7170CF
   region: India
   size: 3.39GB
   system: realme UI 1.0
-  version: RMX2195PU_11.A.37
+  version: RMX2195PU_11.A.39
 - changelog: |
     **Security**:
     ● Updated Android security patch: June 2021
@@ -2912,19 +2913,19 @@
   version: RMX2101PU_11.A.39
 - changelog: |
     **Security**:
-    ● Updated Android security patch: June 2021
+    ● Updated Android security patch: July , 2021
     **System**:
     ● Fix some known issues
-    ● Optimized system stability
+    ● Optimized ​​system stability
   codename: RMX2195PU
-  date: 5/7/2021
+  date: 29/7/2021
   device: realme C15 Qualcomm Edition
-  download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0370_all_i5tyXvDlRf7f.ozip
-  md5: 634663731D3FA13110132B8F228FA8B0
+  download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0390_all_Zl1ba2JYVzc9.ozip
+  md5: A06D33560937032CE6210EC01E7170CF
   region: Pakistan
   size: 3.39GB
   system: realme UI 1.0
-  version: RMX2195PU_11.A.37
+  version: RMX2195PU_11.A.39
 - changelog: |
     **Security**:
     ● Updated Android security patch: June 2021
@@ -3738,18 +3739,18 @@
   version: RMX2170PU_11.A.41
 - changelog: |
     **Bảo mật**:
-    ● Cập nhật bản vá bảo mật Android: Tháng 12 năm 2020
+    ● Cập nhật bản vá bảo mật Android: （2021#07）
     **Hệ thống**:
     ● Sửa một số lỗi đã xác định và nâng cao độ ổn định của hệ thống
   codename: RMX2103PU
-  date: 10/12/2020
+  date: 18/8/2021
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
-  md5: 5C7E043C603C9BB32A5B74D6D5150676
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0530_all_jwmp3CGflKg6.ozip
+  md5: 8AF08C2F77042FEC1D1095F7141F3377
   region: Vietnam
-  size: 3.26GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.35
+  version: RMX2103PU_11.A.53
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: Tháng 6, 2021

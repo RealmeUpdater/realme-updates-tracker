@@ -92,20 +92,19 @@
 - changelog: |
     **Please note that this release is not applicable for realme UI 2.0 version degrade to realme UI1.0 to avoid any upgrade problems. Please do not download it to the device based on Android 11, thank you**:
     **Security**:
-    ● Updated Android security patch: Nov&Dec, 2020
+    ● Updated Android security patch: July , 2021
     **System**:
-    ● Optimized the issue that the power button no response during phone calls
-    **Camera**:
-    ● Fix the issue that the rear lens lags when switching in 64M mode
+    ● Fix some known issues
+    ● Optimized ​​system stability
   codename: RMX2103PU
-  date: 10/12/2020
+  date: 18/8/2021
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
-  md5: 5C7E043C603C9BB32A5B74D6D5150676
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0530_all_jwmp3CGflKg6.ozip
+  md5: 8AF08C2F77042FEC1D1095F7141F3377
   region: India
-  size: 3.26GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.35
+  version: RMX2103PU_11.A.53
 - changelog: |
     **System**:
     ● Fix some known issues
@@ -181,19 +180,19 @@
   version: RMX2170PU_11.A.41
 - changelog: |
     **Security**:
-    ● Updated Android security patch: June 2021
+    ● Updated Android security patch: July , 2021
     **System**:
     ● Fix some known issues
-    ● Optimized system stability
+    ● Optimized ​​system stability
   codename: RMX2195PU
-  date: 5/7/2021
+  date: 29/7/2021
   device: realme C15 Qualcomm Edition
-  download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0370_all_i5tyXvDlRf7f.ozip
-  md5: 634663731D3FA13110132B8F228FA8B0
+  download: https://download.c.realme.com/osupdate/RMX2195PU_11_OTA_0390_all_Zl1ba2JYVzc9.ozip
+  md5: A06D33560937032CE6210EC01E7170CF
   region: India
   size: 3.39GB
   system: realme UI 1.0
-  version: RMX2195PU_11.A.37
+  version: RMX2195PU_11.A.39
 - changelog: |
     **Security**:
     ● Updated Android security patch: June 2021

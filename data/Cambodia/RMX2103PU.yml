@@ -1,14 +1,14 @@
 changelog: |
   **សន្តិសុខ**:
-  ● បានធ្វើបច្ចុប្បន្នភាពបំណៈសន្តិសុខ Android (2020#12)
+  ● បានធ្វើបច្ចុប្បន្នភាពបំណៈសន្តិសុខ Android (2021#07)
   **ប្រព័ន្ធ**:
   ● បានដោះស្រាយកំហុសដែលស្គាល់មួយចំនួន និងបានកែលម្អស្ថិរភាពរបស់ប្រព័ន្
 codename: RMX2103PU
-date: 10/12/2020
+date: 18/8/2021
 device: realme 7i
-download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
-md5: 5C7E043C603C9BB32A5B74D6D5150676
+download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0530_all_jwmp3CGflKg6.ozip
+md5: 8AF08C2F77042FEC1D1095F7141F3377
 region: Cambodia
-size: 3.26GB
+size: 3.38GB
 system: realme UI 1.0
-version: RMX2103PU_11.A.35
+version: RMX2103PU_11.A.53

@@ -40,18 +40,18 @@
   version: RMX2170EU_11_A.41
 - changelog: |
     **Keamanan**:
-    ● Android security patch: Desember 2020
+    ● Android security patch: （2021#07）
     **Sistem**:
     ● Perbaikan sebagian pada masalah yang diketahui dan peningkatan kestabilan sistem
   codename: RMX2103PU
-  date: 10/12/2020
+  date: 18/8/2021
   device: realme 7i
-  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0350_all_LHgTFkPZBfME.ozip
-  md5: 5C7E043C603C9BB32A5B74D6D5150676
+  download: https://download.c.realme.com/osupdate/RMX2103PU_11_OTA_0530_all_jwmp3CGflKg6.ozip
+  md5: 8AF08C2F77042FEC1D1095F7141F3377
   region: Indonesia
-  size: 3.26GB
+  size: 3.38GB
   system: realme UI 1.0
-  version: RMX2103PU_11.A.35
+  version: RMX2103PU_11.A.53
 - changelog: |
     **Keamanan**:
     ● Tingkat Android Security Patch: Juni 2021

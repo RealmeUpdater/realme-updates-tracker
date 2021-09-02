@@ -84,15 +84,15 @@
   version: RMX2185_11_A.95
 - changelog: |
     **الأمان**:
-    ● تصحيح أمان Android:يونيو2021
+    ● تصحيح أمان Android: أغسطس 2021
     **النظام**:
     ● تم إصلاح بعض الأخطاء المعروفة، وتحسين استقرار النظام
   codename: RMX2185
-  date: 25/06/2021
+  date: 24/08/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0950_all_ok8HDIbdVBGM.ozip
-  md5: 407639B115C614D6263F83EFFD29766D
+  download: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0970_all_coCt7PPQe3Da.ozip
+  md5: 2DAD1131D8DFE6B341B2E3742351B4CE
   region: Egypt
   size: 3.21GB
   system: realme UI 1.0
-  version: RMX2185_11_A.95
+  version: RMX2185_11_A.97

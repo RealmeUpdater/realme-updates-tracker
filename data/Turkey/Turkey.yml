@@ -28,18 +28,18 @@
   version: RMX2151EU_11.A.88
 - changelog: |
     **Güvenlik**:
-    ● Güncel Android güvenlik yaması (2021#6)
+    ● Güncel Android güvenlik yaması (2021#8)
     **Sistem**:
     ● Bazı bilinen sorunlar giderildi ve sistem kararlılığı artırıldı
   codename: RMX2185EU
-  date: 25/06/2021
+  date: 24/08/2021
   device: realme C11
-  download: https://download.c.realme.com/osupdate/RMX2185EU_11_OTA_0640_all_KrNddiDgHo3X.ozip
-  md5: 2D427FAA9003EBE8AA93716CA9BB9FE9
+  download: https://download.c.realme.com/osupdate/RMX2185EU_11_OTA_0660_all_UNB4WW6fApj8.ozip
+  md5: A771EDCE6E7371FC2DB807E65AC1739F
   region: Turkey
   size: 2.86GB
   system: realme UI 1.0
-  version: RMX2185EU_11_A.64
+  version: RMX2185EU_11_A.66
 - changelog: |
     **Güvenlik**:
     ● Güncel Android güvenlik yaması (2021#6)

@@ -1,15 +1,15 @@
 changelog: |
   **Security**:
-  ● Updated Android security patch: June & July, 2021
+  ● Integrates the August and September 2021 Android security patches.
   **System**:
   ● Improves system performance.
   ● Improves system stability.
 codename: RMX1911EX
-date: 27/07/2021
+date: 23/09/2021
 device: realme 5
-download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1730_all_aWuTSP83kZvF.ozip
-md5: 61F315FC2641420135EC30E7F770936E
+download: https://download.c.realme.com/osupdate/RMX1911EX_11_OTA_1750_all_jV3dh7ZywV3k.ozip
+md5: 4C82D143275DF300DE366939102EB587
 region: Pakistan
 size: 2.99GB
 system: realme UI 1.0
-version: RMX1911EX_11_C.73
+version: RMX1911EX_11_C.75

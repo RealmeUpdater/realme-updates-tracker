@@ -1847,32 +1847,32 @@
   version: RMX2001EU_11.A.58
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: май 2021 г
+    ● Патчи безопасности Android: сентябрь 2021 г
     **Система:**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
-  codename: RMX3201
-  date: 28/6/2021
+  codename: RMX3063
+  date: 5/10/2021
   device: realme C21
-  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0390_all_TUBy5Hds0Vcx.ozip
-  md5: A7F20BF42ABECE43D35879A7B79F4D68
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0510_all_fU4DyBGcclbH.ozip
+  md5: A316A44CD1D25367EEEB5AFD88B9CCB2
   region: Russia
-  size: 3.5GB
+  size: 3.52GB
   system: realme UI 1.0
-  version: RMX3201_11_A.39
+  version: RMX3063_11_A.51
 - changelog: |
     **Безопасность**:
-    ● Патчи безопасности Android: май 2021 г
+    ● Патчи безопасности Android: сентябрь 2021 г
     **Система:**:
     ● Исправлено несколько известных ошибок, улучшена стабильность системы.
-  codename: RMX3201
-  date: 28/6/2021
+  codename: RMX3063
+  date: 5/10/2021
   device: realme C20
-  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0390_all_TUBy5Hds0Vcx.ozip
-  md5: A7F20BF42ABECE43D35879A7B79F4D68
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0510_all_fU4DyBGcclbH.ozip
+  md5: A316A44CD1D25367EEEB5AFD88B9CCB2
   region: Russia
   size: 3.5GB
   system: realme UI 1.0
-  version: RMX3201_11_A.39
+  version: RMX3063_11_A.51
 - changelog: |
     **Безопасность**:
     ● Патчи безопасности Android:(2021#01)
@@ -2333,18 +2333,18 @@
   version: RMX3171_11.A.21
 - changelog: |
     **Bảo vệ**:
-    ● Cập nhật bản vá bảo mật Android: tháng 6 năm 2021
+    ● Cập nhật bản vá bảo mật Android: Tháng 9 năm 2021
     **Hệ thống**:
     ● Sửa một số sự cố đã biết và cải thiện độ ổn định của hệ thống
   codename: RMX3061
-  date: 28/6/2021
+  date: 5/10/2021
   device: realme C20
-  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0390_all_TUBy5Hds0Vcx.ozip
-  md5: A7F20BF42ABECE43D35879A7B79F4D68
+  download: https://download.c.realme.com/osupdate/RMX3061PU_11_OTA_0510_all_fU4DyBGcclbH.ozip
+  md5: A316A44CD1D25367EEEB5AFD88B9CCB2
   region: Vietnam
-  size: 3.5GB
+  size: 3.52GB
   system: realme UI 1.0
-  version: RMX3061_11_A.39
+  version: RMX3061_11_A.51
 - changelog: |
     **Bảo mật**:
     ● Cập nhật bản vá bảo mật Android: (2021#06)

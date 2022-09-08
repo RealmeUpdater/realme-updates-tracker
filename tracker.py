@@ -3,6 +3,7 @@
 import re
 from datetime import datetime
 from glob import glob
+from time import sleep
 from os import environ, system, rename, path
 
 import yaml
@@ -267,6 +268,9 @@ def tg_post(session: HTMLSession, message: str) -> int:
         print("Bad recipient / Wrong text format")
     elif telegram_status == 401:
         print("Wrong / Unauthorized token")
+    elif telegram_status == 429:
+        print("Too many requests.")
+        sleep(10)
     else:
         print("Unknown error")
         print("Response: " + telegram_req.reason)
